@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PIC32CK1025GC01100-I-4SB")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/PIC32CK1025GC01100-I-4SB/KiCADv6/footprints.pretty")(options "")(descr ""))
+)

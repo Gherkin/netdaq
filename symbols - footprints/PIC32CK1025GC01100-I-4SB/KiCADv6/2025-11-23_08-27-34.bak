@@ -1568,7 +1568,7 @@
 			(pin power_in line
 				(at 0 -2.54 0)
 				(length 7.62)
-				(name "VUSB3V3"
+				(name "VCCAP3"
 					(effects
 						(font
 							(size 1.27 1.27)
