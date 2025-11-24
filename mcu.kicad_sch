@@ -3997,26 +3997,6 @@
 		)
 		(uuid "0c0d2715-ea54-4a10-b1f6-e9ab2f2226c2")
 	)
-	(label "SWD.SWCLK"
-		(at 196.85 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0ed80927-10ca-4345-9f91-e126dd59fdda")
-	)
-	(label "SWD.SWCLK"
-		(at 196.85 78.74 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "114cdb54-b618-45c2-83b0-82080e48a6ec")
-	)
 	(label "SWD.SWDIO"
 		(at 196.85 81.28 0)
 		(effects
@@ -5621,6 +5601,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "TestPoint"
@@ -7253,6 +7234,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Value" "TestPoint"
