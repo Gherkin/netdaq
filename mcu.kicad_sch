@@ -2338,6 +2338,12 @@
 		)
 	)
 	(junction
+		(at 135.89 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0263a520-bdcf-400d-bd44-cea094bb68f2")
+	)
+	(junction
 		(at 184.15 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2356,16 +2362,58 @@
 		(uuid "09f74ab3-75c2-48be-8aeb-19ded97378d8")
 	)
 	(junction
+		(at 135.89 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c46de4c-4f1a-4eee-8ea4-d332c65347d2")
+	)
+	(junction
 		(at 184.15 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "10ef5088-1acc-4321-a7ed-03f8a0cb58ef")
 	)
 	(junction
+		(at 135.89 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "11b90c47-b1c0-4403-b56e-131d47e3606e")
+	)
+	(junction
+		(at 135.89 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15c52af7-f484-454d-b043-00c39f21dc6c")
+	)
+	(junction
+		(at 135.89 180.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18305337-5745-49f0-a159-71aaf3133d9d")
+	)
+	(junction
+		(at 135.89 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "19f13fcf-7fcf-4148-a7a4-0601b4fc329c")
+	)
+	(junction
+		(at 135.89 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1a5bd025-173b-4047-9a22-c57e86d7a3aa")
+	)
+	(junction
 		(at 330.2 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1f18f688-c0a7-4fa0-b99e-26f4f13ac3b6")
+	)
+	(junction
+		(at 135.89 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f3a0b8d-2cf1-4ec6-883c-5f97bb73b90a")
 	)
 	(junction
 		(at 184.15 160.02)
@@ -2392,6 +2440,12 @@
 		(uuid "2b6cab81-9f2e-4a04-89de-2deb055da144")
 	)
 	(junction
+		(at 135.89 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d4c7873-b600-4837-b7ff-8dcbfff096c8")
+	)
+	(junction
 		(at 330.2 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2402,6 +2456,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "32160908-5ec8-4841-9e01-2c365afccc8f")
+	)
+	(junction
+		(at 135.89 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "333a7308-0718-4b76-8f25-05d130c0eb5f")
 	)
 	(junction
 		(at 184.15 101.6)
@@ -2476,10 +2536,22 @@
 		(uuid "5627d065-66a9-474e-92c8-ba6c1eae0c87")
 	)
 	(junction
+		(at 135.89 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "579cd7d2-afee-4858-ba70-7a2e16d6e729")
+	)
+	(junction
 		(at 184.15 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "592c52dd-80ad-422b-b0bf-5e0ef7883303")
+	)
+	(junction
+		(at 135.89 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5c8a9d88-5d75-4131-824d-9b9b982d1e76")
 	)
 	(junction
 		(at 184.15 78.74)
@@ -2494,6 +2566,12 @@
 		(uuid "5f1b8a94-84ae-4a77-98c9-8d79b1fc109e")
 	)
 	(junction
+		(at 135.89 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5fc340ca-0bca-4a06-9ac9-4739e9e23e1f")
+	)
+	(junction
 		(at 184.15 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2504,6 +2582,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "610a210e-3678-4cf0-8129-c4389fa09249")
+	)
+	(junction
+		(at 135.89 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "66032a23-146e-4b2a-b8ba-442dc60379c9")
 	)
 	(junction
 		(at 184.15 119.38)
@@ -2524,6 +2608,36 @@
 		(uuid "6ee2bfbe-c4c2-4b31-9b83-9c5f2d08271f")
 	)
 	(junction
+		(at 135.89 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6ef77261-42d5-4690-b7fb-05a4264292f4")
+	)
+	(junction
+		(at 135.89 170.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "701e8027-f6b2-4fa8-8cec-78a2d87cb635")
+	)
+	(junction
+		(at 135.89 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "709eb034-fea8-448e-a0cb-f951fad47003")
+	)
+	(junction
+		(at 135.89 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71098468-ef35-4c75-96e2-2fbca4895351")
+	)
+	(junction
+		(at 135.89 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "719cd766-bb87-4379-9890-f7bff1a56e58")
+	)
+	(junction
 		(at 184.15 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2536,6 +2650,12 @@
 		(uuid "75f13a69-812f-4071-84de-ff64d29d31bf")
 	)
 	(junction
+		(at 135.89 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "77bc112f-928b-4d11-8972-91b134ed864f")
+	)
+	(junction
 		(at 330.2 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2546,6 +2666,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "813fdc12-6d4d-4190-b193-fd3ab438b7f5")
+	)
+	(junction
+		(at 135.89 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "83e8eb53-bc6d-4db4-b13a-656ac6fbd3d5")
 	)
 	(junction
 		(at 184.15 88.9)
@@ -2566,16 +2692,46 @@
 		(uuid "91d6629e-e670-4f14-9476-1e5c6061ad93")
 	)
 	(junction
+		(at 135.89 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9361252f-9fbe-4f66-98c7-e962e7ba2929")
+	)
+	(junction
+		(at 135.89 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "982b775b-bedc-450b-b0ae-c1f637673734")
+	)
+	(junction
+		(at 135.89 165.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "997c38fa-2a5d-4490-a2fc-7c7f33f27f3f")
+	)
+	(junction
 		(at 330.2 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a1491f88-a4d0-4fc8-ab5d-d1b2d55702f4")
 	)
 	(junction
+		(at 135.89 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a3a46628-99cd-4aab-ad59-af2d5809a555")
+	)
+	(junction
 		(at 330.2 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a46f6aa1-555d-4306-8085-55e26634e028")
+	)
+	(junction
+		(at 135.89 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af61675a-757d-4a79-bbaa-afe12abd49e3")
 	)
 	(junction
 		(at 330.2 116.84)
@@ -2632,6 +2788,18 @@
 		(uuid "bb905a27-b74b-466e-8061-3599c668b7d5")
 	)
 	(junction
+		(at 135.89 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bed426e4-8965-4572-ab03-a4a062b3038e")
+	)
+	(junction
+		(at 135.89 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf2052f1-4e28-436c-9b72-eb08c20b891b")
+	)
+	(junction
 		(at 184.15 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2650,10 +2818,22 @@
 		(uuid "c6f09596-721b-493c-8e2c-7e487f0ede36")
 	)
 	(junction
+		(at 135.89 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c7893324-4828-4904-98b5-f5fe54b3b42a")
+	)
+	(junction
 		(at 184.15 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cfc19918-5bbb-42d0-8788-f3b3ad98858d")
+	)
+	(junction
+		(at 135.89 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3eb61a4-26d3-4a86-8f6b-f8ed257c239e")
 	)
 	(junction
 		(at 184.15 129.54)
@@ -2666,6 +2846,24 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d8f3f654-197d-41ca-beb2-e2ee072427a8")
+	)
+	(junction
+		(at 135.89 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dc6d3dba-8edc-49f0-a5aa-4a68251ebb74")
+	)
+	(junction
+		(at 135.89 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e89e0351-879b-4c8f-9e46-578d77878c0b")
+	)
+	(junction
+		(at 135.89 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e8ac2cf3-d7c5-42fa-8b69-49063673403f")
 	)
 	(junction
 		(at 330.2 142.24)
@@ -2686,6 +2884,30 @@
 		(uuid "ee27f136-d9af-4edf-b738-bfb8dad145e0")
 	)
 	(junction
+		(at 135.89 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ef5e7317-0926-47e8-988e-574e627465bb")
+	)
+	(junction
+		(at 184.15 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f3b814c2-7393-49dc-aa84-0d94285ee194")
+	)
+	(junction
+		(at 135.89 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f55333e9-40b7-4527-87c1-2cff33c4b573")
+	)
+	(junction
+		(at 135.89 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9a201b1-f6cb-4c7a-9439-931123bd4b7c")
+	)
+	(junction
 		(at 330.2 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2697,6 +2919,18 @@
 		(color 0 0 0 0)
 		(uuid "fd37e7c4-f196-4d46-98b4-e0e2d2ff78b8")
 	)
+	(junction
+		(at 135.89 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fe1827ce-da5c-4926-9042-d93d1b9ca800")
+	)
+	(junction
+		(at 135.89 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff82d6af-bc19-4a75-a8be-c203b7f7da74")
+	)
 	(wire
 		(pts
 			(xy 330.2 139.7) (xy 332.74 139.7)
@@ -2706,6 +2940,16 @@
 			(type default)
 		)
 		(uuid "02f18cb0-98cd-481a-b862-6906b14bb798")
+	)
+	(wire
+		(pts
+			(xy 135.89 170.18) (xy 106.68 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03468eb2-88cd-428d-b3b8-8ec5df667f35")
 	)
 	(wire
 		(pts
@@ -2749,6 +2993,36 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 152.4) (xy 106.68 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ab468c6-a6e9-4e94-be42-80dd16626325")
+	)
+	(wire
+		(pts
+			(xy 137.16 180.34) (xy 135.89 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d0a969c-f3a5-4361-8e91-96df60e13f51")
+	)
+	(wire
+		(pts
+			(xy 137.16 93.98) (xy 135.89 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e86fe25-7ffd-4ab1-a8c0-9f02b38eedd2")
+	)
+	(wire
+		(pts
 			(xy 330.2 165.1) (xy 332.74 165.1)
 		)
 		(stroke
@@ -2786,6 +3060,16 @@
 			(type default)
 		)
 		(uuid "129e31ff-9570-490a-b257-3077390062c6")
+	)
+	(wire
+		(pts
+			(xy 137.16 114.3) (xy 135.89 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14d94ef7-346d-4d87-bef4-b105202c855a")
 	)
 	(wire
 		(pts
@@ -2839,6 +3123,46 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 142.24) (xy 135.89 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ac5e2e6-67a1-47f4-a41e-46ad7e8b0f81")
+	)
+	(wire
+		(pts
+			(xy 137.16 162.56) (xy 135.89 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1af8b574-13bb-480d-bc9a-fd0fa6f5fccf")
+	)
+	(wire
+		(pts
+			(xy 137.16 127) (xy 135.89 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c960b6c-9b0d-4839-9e28-0cb44d53d8ae")
+	)
+	(wire
+		(pts
+			(xy 135.89 160.02) (xy 106.68 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d298e5a-25c3-4aa2-bc32-2b689e49b6e5")
+	)
+	(wire
+		(pts
 			(xy 184.15 167.64) (xy 213.36 167.64)
 		)
 		(stroke
@@ -2889,6 +3213,36 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 121.92) (xy 106.68 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2267f739-75bc-438a-821b-577bccfcdb41")
+	)
+	(wire
+		(pts
+			(xy 184.15 175.26) (xy 213.36 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "237290fa-aae1-405a-b7fd-97f08511ac16")
+	)
+	(wire
+		(pts
+			(xy 182.88 175.26) (xy 184.15 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23e52039-95b4-4c09-8574-dd179f1c8594")
+	)
+	(wire
+		(pts
 			(xy 184.15 91.44) (xy 213.36 91.44)
 		)
 		(stroke
@@ -2896,6 +3250,26 @@
 			(type default)
 		)
 		(uuid "248154d1-2db8-4ef9-957a-550c050ae3f3")
+	)
+	(wire
+		(pts
+			(xy 137.16 134.62) (xy 135.89 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2515312d-47a1-4352-8946-e8b9acf4bde1")
+	)
+	(wire
+		(pts
+			(xy 135.89 114.3) (xy 106.68 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2535a92d-f6b1-447b-b1f9-57e05b55a937")
 	)
 	(wire
 		(pts
@@ -2939,6 +3313,46 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 172.72) (xy 135.89 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2efab2e0-33d3-451f-a87d-edc940232971")
+	)
+	(wire
+		(pts
+			(xy 137.16 137.16) (xy 135.89 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f626be3-cdc4-4d13-8c1a-548b98c03943")
+	)
+	(wire
+		(pts
+			(xy 135.89 109.22) (xy 106.68 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f6e6258-02f6-472f-9a36-f690c7bbb92b")
+	)
+	(wire
+		(pts
+			(xy 135.89 177.8) (xy 106.68 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30ff1a04-a7bd-485d-8104-8e8250786267")
+	)
+	(wire
+		(pts
 			(xy 182.88 160.02) (xy 184.15 160.02)
 		)
 		(stroke
@@ -2949,6 +3363,26 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 116.84) (xy 135.89 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34a24d5a-6216-4f1e-afbd-e807a97d72cc")
+	)
+	(wire
+		(pts
+			(xy 135.89 180.34) (xy 106.68 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34c8f94e-f095-496b-a589-bf04a6290d4c")
+	)
+	(wire
+		(pts
 			(xy 330.2 124.46) (xy 330.2 127)
 		)
 		(stroke
@@ -2956,6 +3390,16 @@
 			(type default)
 		)
 		(uuid "35b544af-49e6-4e9e-a8a2-32713b385e51")
+	)
+	(wire
+		(pts
+			(xy 135.89 104.14) (xy 106.68 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37d4ce29-511b-454e-a592-f3704194684f")
 	)
 	(wire
 		(pts
@@ -2976,6 +3420,26 @@
 			(type default)
 		)
 		(uuid "3acd0238-877a-42cb-a2b8-1b0df41d094f")
+	)
+	(wire
+		(pts
+			(xy 135.89 154.94) (xy 106.68 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3af97b50-4247-4e83-b769-51bd06cf02ff")
+	)
+	(wire
+		(pts
+			(xy 135.89 132.08) (xy 106.68 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d323263-0d91-42c1-816e-2b5514f449a6")
 	)
 	(wire
 		(pts
@@ -3026,6 +3490,36 @@
 			(type default)
 		)
 		(uuid "465aa2b0-4af4-483b-ba93-7c874e7455d6")
+	)
+	(wire
+		(pts
+			(xy 135.89 83.82) (xy 106.68 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "468e1716-5f28-49e7-9f80-8ad6b5c19db8")
+	)
+	(wire
+		(pts
+			(xy 137.16 96.52) (xy 135.89 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47b8a759-3f64-4771-b5f5-95b40a4d942e")
+	)
+	(wire
+		(pts
+			(xy 135.89 165.1) (xy 106.68 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48c13eb5-953a-4687-a2ff-306d00a9bfb9")
 	)
 	(wire
 		(pts
@@ -3109,6 +3603,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 137.16) (xy 106.68 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ea4a1de-5976-4f0e-bf60-70763ec2aa01")
+	)
+	(wire
+		(pts
 			(xy 182.88 86.36) (xy 184.15 86.36)
 		)
 		(stroke
@@ -3116,6 +3620,26 @@
 			(type default)
 		)
 		(uuid "50f5a5ac-4b23-41a4-b476-fdb7fd282950")
+	)
+	(wire
+		(pts
+			(xy 135.89 99.06) (xy 106.68 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "545de36d-31af-4556-b589-37716f887146")
+	)
+	(wire
+		(pts
+			(xy 135.89 147.32) (xy 106.68 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "548843f2-20a9-4808-93b1-1ae2ee707250")
 	)
 	(wire
 		(pts
@@ -3129,6 +3653,36 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 93.98) (xy 106.68 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57fc1aa2-7eeb-4eef-a3ef-fe7168d777b8")
+	)
+	(wire
+		(pts
+			(xy 135.89 101.6) (xy 106.68 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58be3195-559d-47e6-b6d8-af8d9a65180c")
+	)
+	(wire
+		(pts
+			(xy 135.89 119.38) (xy 106.68 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5988aab2-cd4a-444d-9fa2-e77a37ae6fe6")
+	)
+	(wire
+		(pts
 			(xy 182.88 111.76) (xy 184.15 111.76)
 		)
 		(stroke
@@ -3136,6 +3690,16 @@
 			(type default)
 		)
 		(uuid "59d39f03-34d8-4389-8acc-6c07fed26ff5")
+	)
+	(wire
+		(pts
+			(xy 137.16 154.94) (xy 135.89 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d44bd11-54b7-4b34-a531-667ba3b14e8f")
 	)
 	(wire
 		(pts
@@ -3179,6 +3743,26 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 152.4) (xy 135.89 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f08dbdf-c95c-453c-b681-7bde1efb9449")
+	)
+	(wire
+		(pts
+			(xy 135.89 116.84) (xy 106.68 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62bf32ca-41c8-4c23-8e76-3ebf73a7450e")
+	)
+	(wire
+		(pts
 			(xy 330.2 160.02) (xy 330.2 165.1)
 		)
 		(stroke
@@ -3199,6 +3783,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 157.48) (xy 135.89 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6449e6b4-bf5d-469a-a546-a3f6be68a1d4")
+	)
+	(wire
+		(pts
 			(xy 184.15 127) (xy 213.36 127)
 		)
 		(stroke
@@ -3206,6 +3800,16 @@
 			(type default)
 		)
 		(uuid "65983830-a88e-499e-8ce8-46fcbb9dc416")
+	)
+	(wire
+		(pts
+			(xy 135.89 142.24) (xy 106.68 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "663eabc8-b932-49d8-98de-cc9957878cdf")
 	)
 	(wire
 		(pts
@@ -3379,6 +3983,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 132.08) (xy 135.89 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c595d3a-608c-4d78-bd12-670245280b63")
+	)
+	(wire
+		(pts
 			(xy 332.74 132.08) (xy 330.2 132.08)
 		)
 		(stroke
@@ -3409,6 +4023,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 81.28) (xy 106.68 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8141279b-2591-416e-9625-6f5827e7d0cc")
+	)
+	(wire
+		(pts
 			(xy 184.15 134.62) (xy 213.36 134.62)
 		)
 		(stroke
@@ -3429,6 +4053,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 177.8) (xy 135.89 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "880814bf-4274-4128-af1e-d99febdc72ce")
+	)
+	(wire
+		(pts
 			(xy 182.88 81.28) (xy 184.15 81.28)
 		)
 		(stroke
@@ -3436,6 +4070,26 @@
 			(type default)
 		)
 		(uuid "8bd86125-41cf-4e20-9939-9537520d23be")
+	)
+	(wire
+		(pts
+			(xy 135.89 139.7) (xy 106.68 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bd9a4bd-4f2d-408a-9c7a-9b36381ef239")
+	)
+	(wire
+		(pts
+			(xy 135.89 124.46) (xy 106.68 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c643de9-1cdb-4444-9512-298f4e7e60e7")
 	)
 	(wire
 		(pts
@@ -3479,6 +4133,26 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 170.18) (xy 135.89 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9074dec5-1673-4362-a13d-2fdead2a5b98")
+	)
+	(wire
+		(pts
+			(xy 135.89 149.86) (xy 106.68 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "915c3f71-48c8-4067-a6fc-1d2447fb1d55")
+	)
+	(wire
+		(pts
 			(xy 330.2 109.22) (xy 330.2 111.76)
 		)
 		(stroke
@@ -3486,6 +4160,26 @@
 			(type default)
 		)
 		(uuid "928236fb-6c7c-42ef-837d-3bbd695afef9")
+	)
+	(wire
+		(pts
+			(xy 137.16 83.82) (xy 135.89 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9345a2fa-dd20-4dcf-85f5-ec13444601b4")
+	)
+	(wire
+		(pts
+			(xy 137.16 165.1) (xy 135.89 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93ef9849-0c29-4f30-a967-dd34daa62971")
 	)
 	(wire
 		(pts
@@ -3539,6 +4233,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 86.36) (xy 106.68 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c79b897-8e76-4c4b-b667-458c505d73f7")
+	)
+	(wire
+		(pts
 			(xy 330.2 144.78) (xy 332.74 144.78)
 		)
 		(stroke
@@ -3556,6 +4260,16 @@
 			(type default)
 		)
 		(uuid "a0a1b106-e806-4c26-bf2d-380c5caa998e")
+	)
+	(wire
+		(pts
+			(xy 137.16 124.46) (xy 135.89 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4e28025-ed37-4a6e-9d33-9455ad43a0ef")
 	)
 	(wire
 		(pts
@@ -3589,6 +4303,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 104.14) (xy 135.89 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa78a6b7-980c-4ab6-a374-665efea9f683")
+	)
+	(wire
+		(pts
 			(xy 182.88 149.86) (xy 184.15 149.86)
 		)
 		(stroke
@@ -3596,6 +4320,16 @@
 			(type default)
 		)
 		(uuid "aae81d88-5777-4d58-a675-1b2ea3e3d867")
+	)
+	(wire
+		(pts
+			(xy 137.16 106.68) (xy 135.89 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aba9e601-1e9d-4d65-83f3-8b67b01629be")
 	)
 	(wire
 		(pts
@@ -3669,6 +4403,26 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 175.26) (xy 135.89 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b237d45c-63c5-4044-b4bc-41b8a4a05419")
+	)
+	(wire
+		(pts
+			(xy 137.16 86.36) (xy 135.89 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2eee394-19b8-4a24-84b8-4349f82d3120")
+	)
+	(wire
+		(pts
 			(xy 330.2 137.16) (xy 332.74 137.16)
 		)
 		(stroke
@@ -3679,6 +4433,26 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 144.78) (xy 106.68 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5f952eb-c63b-4b9d-9268-56291e6318ee")
+	)
+	(wire
+		(pts
+			(xy 137.16 149.86) (xy 135.89 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b669f8d1-8d71-4d81-9e10-841f00e12c42")
+	)
+	(wire
+		(pts
 			(xy 184.15 139.7) (xy 213.36 139.7)
 		)
 		(stroke
@@ -3686,6 +4460,26 @@
 			(type default)
 		)
 		(uuid "b6ea0a1a-86cb-4f5d-b29b-2e035bc70685")
+	)
+	(wire
+		(pts
+			(xy 135.89 88.9) (xy 106.68 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6edf95b-96ef-45a9-89e4-114d9c641f1c")
+	)
+	(wire
+		(pts
+			(xy 137.16 139.7) (xy 135.89 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7ef292a-6feb-441a-9b1a-cd88b67997ad")
 	)
 	(wire
 		(pts
@@ -3719,6 +4513,26 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 91.44) (xy 135.89 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bea92633-5aa0-4845-8db0-6e0997ec738f")
+	)
+	(wire
+		(pts
+			(xy 137.16 101.6) (xy 135.89 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "beed49d7-6068-4335-9fc0-cb6c31beb4f9")
+	)
+	(wire
+		(pts
 			(xy 184.15 147.32) (xy 213.36 147.32)
 		)
 		(stroke
@@ -3739,6 +4553,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 162.56) (xy 106.68 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2ede49f-21d8-4120-b732-a5f5eb620ab4")
+	)
+	(wire
+		(pts
 			(xy 182.88 137.16) (xy 184.15 137.16)
 		)
 		(stroke
@@ -3746,6 +4570,16 @@
 			(type default)
 		)
 		(uuid "c32065d2-779f-4b7c-a563-ed5bc6a62992")
+	)
+	(wire
+		(pts
+			(xy 137.16 111.76) (xy 135.89 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c41058a2-bb14-46d6-8b56-2565196e8f35")
 	)
 	(wire
 		(pts
@@ -3799,6 +4633,26 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 91.44) (xy 106.68 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbec12c1-18b3-45bc-aa43-423e4fa668b4")
+	)
+	(wire
+		(pts
+			(xy 137.16 144.78) (xy 135.89 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ced4f62c-dbfe-4c23-b67d-981cf82e3bc4")
+	)
+	(wire
+		(pts
 			(xy 330.2 114.3) (xy 330.2 116.84)
 		)
 		(stroke
@@ -3829,6 +4683,56 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 157.48) (xy 106.68 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dac49362-f51b-4383-99c2-8e4ff8deb3d1")
+	)
+	(wire
+		(pts
+			(xy 135.89 127) (xy 106.68 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db428854-217b-43f9-943d-065bb0defbd2")
+	)
+	(wire
+		(pts
+			(xy 137.16 99.06) (xy 135.89 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc5bcb06-74e5-42c3-bc28-536c548aafdb")
+	)
+	(wire
+		(pts
+			(xy 137.16 81.28) (xy 135.89 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd7562b6-f3a8-4cfe-bb46-d92951f2b425")
+	)
+	(wire
+		(pts
+			(xy 135.89 172.72) (xy 106.68 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de4b7dca-dbfb-4726-a06d-4baf44b9505b")
+	)
+	(wire
+		(pts
 			(xy 330.2 93.98) (xy 332.74 93.98)
 		)
 		(stroke
@@ -3836,6 +4740,36 @@
 			(type default)
 		)
 		(uuid "de4bbbac-1245-4f77-a908-99843896e4bb")
+	)
+	(wire
+		(pts
+			(xy 137.16 119.38) (xy 135.89 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df727c5f-a21d-4f9e-8feb-34337caff324")
+	)
+	(wire
+		(pts
+			(xy 135.89 175.26) (xy 106.68 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfa8c3fa-2bdd-4f4b-85db-a6b4c50af305")
+	)
+	(wire
+		(pts
+			(xy 135.89 106.68) (xy 106.68 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e04e6a13-7341-4c71-b3b2-48dd96219296")
 	)
 	(wire
 		(pts
@@ -3849,6 +4783,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 111.76) (xy 106.68 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2f6a89d-a3ad-4798-9032-94f8ca2e3430")
+	)
+	(wire
+		(pts
 			(xy 330.2 139.7) (xy 330.2 142.24)
 		)
 		(stroke
@@ -3859,6 +4803,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 121.92) (xy 135.89 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8d93d9e-50a6-457b-8d56-96ce6506bee7")
+	)
+	(wire
+		(pts
 			(xy 184.15 99.06) (xy 213.36 99.06)
 		)
 		(stroke
@@ -3866,6 +4820,16 @@
 			(type default)
 		)
 		(uuid "e9be9900-4c0b-4a50-8620-0d5112d27851")
+	)
+	(wire
+		(pts
+			(xy 137.16 109.22) (xy 135.89 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb996f94-e0c0-4292-bcc4-e683d9473a0f")
 	)
 	(wire
 		(pts
@@ -3886,6 +4850,16 @@
 			(type default)
 		)
 		(uuid "ee508adf-f06e-4696-b718-478753e4bf24")
+	)
+	(wire
+		(pts
+			(xy 135.89 134.62) (xy 106.68 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eedd0ed9-7230-4186-9b68-836602dfcff3")
 	)
 	(wire
 		(pts
@@ -3929,6 +4903,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 88.9) (xy 135.89 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa459884-b8d2-448e-aec5-a7f2fda46c23")
+	)
+	(wire
+		(pts
 			(xy 182.88 142.24) (xy 184.15 142.24)
 		)
 		(stroke
@@ -3947,7 +4931,47 @@
 		)
 		(uuid "fb37aacf-e5fc-4be4-8cb1-000c3db98344")
 	)
-	(label "SWD.SWDIO"
+	(wire
+		(pts
+			(xy 135.89 96.52) (xy 106.68 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe11bfaf-6ccb-41e8-aaf9-7e8613223ebc")
+	)
+	(wire
+		(pts
+			(xy 137.16 147.32) (xy 135.89 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fea9980f-6217-44b8-8940-ba520b5f8b0b")
+	)
+	(wire
+		(pts
+			(xy 137.16 160.02) (xy 135.89 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff2df004-78d0-45d1-9da9-72169080fc5c")
+	)
+	(label "SPI7.MISO"
+		(at 123.19 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "003919fd-2f9e-4de5-b7a4-f8fb98fe590c")
+	)
+	(label "ETH.RXD1"
 		(at 196.85 142.24 0)
 		(effects
 			(font
@@ -3957,7 +4981,7 @@
 		)
 		(uuid "0215ff48-66aa-48bb-9874-99e9d099c986")
 	)
-	(label "SWD.SWCLK"
+	(label "ETH.MDIO"
 		(at 196.85 106.68 0)
 		(effects
 			(font
@@ -3967,7 +4991,7 @@
 		)
 		(uuid "022e8ba1-6c9f-445b-9ca0-8876aa57fd50")
 	)
-	(label "SWD.SWCLK"
+	(label "SPI2.MISO"
 		(at 196.85 165.1 0)
 		(effects
 			(font
@@ -3977,7 +5001,7 @@
 		)
 		(uuid "026e339c-83c1-4ea1-9370-5dedc495a1be")
 	)
-	(label "SWD.SWCLK"
+	(label "SPI2.CS#"
 		(at 196.85 170.18 0)
 		(effects
 			(font
@@ -3987,7 +5011,17 @@
 		)
 		(uuid "079e41a0-392a-4a21-bfd4-b5df9616e111")
 	)
-	(label "SWD.SWCLK"
+	(label "SPI6.CS#"
+		(at 123.19 106.68 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0c02b4f3-e740-49c6-acc9-fdeb67e297d9")
+	)
+	(label "ETH.TXD0"
 		(at 196.85 154.94 0)
 		(effects
 			(font
@@ -4007,7 +5041,7 @@
 		)
 		(uuid "13d28e77-2c08-4ed4-a003-9e5d672e4155")
 	)
-	(label "SWD.SWCLK"
+	(label "SPARE6"
 		(at 196.85 134.62 0)
 		(effects
 			(font
@@ -4017,7 +5051,7 @@
 		)
 		(uuid "184e4edf-aa27-4f29-a2d5-9b71dfd69cbe")
 	)
-	(label "SWD.SWCLK"
+	(label "ETH.TXD1"
 		(at 196.85 157.48 0)
 		(effects
 			(font
@@ -4027,7 +5061,17 @@
 		)
 		(uuid "189bed67-9cc9-4944-8bdf-df12bf7f8b6c")
 	)
-	(label "SWD.SWDIO"
+	(label "SPI5.CS#"
+		(at 123.19 121.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "18b90708-7c2d-4173-9fe6-c573d13bd6df")
+	)
+	(label "SPI7.SCK"
 		(at 196.85 91.44 0)
 		(effects
 			(font
@@ -4038,6 +5082,26 @@
 		(uuid "1ec9bde8-3463-492c-a52e-f670a54c240e")
 	)
 	(label "SWD.SWCLK"
+		(at 123.19 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2191bafd-282a-454e-8bab-0981720198a0")
+	)
+	(label "SWD.SWDIO"
+		(at 123.19 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "21c39566-80d7-4f6f-8d8f-23403df012f1")
+	)
+	(label "SPI6.MOSI"
 		(at 196.85 93.98 0)
 		(effects
 			(font
@@ -4047,7 +5111,27 @@
 		)
 		(uuid "276f37f5-78f1-4934-ab89-ab10939c9e4e")
 	)
-	(label "SWD.SWCLK"
+	(label "ETH.RXD0"
+		(at 123.19 149.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2a986e8a-6e64-49f5-a06f-3a80ffbe5a25")
+	)
+	(label "SPI2.MOSI"
+		(at 123.19 167.64 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2add8ef4-8d56-4ecd-90cb-ac1b6b7274e7")
+	)
+	(label "SPI5.MISO"
 		(at 196.85 111.76 0)
 		(effects
 			(font
@@ -4057,7 +5141,17 @@
 		)
 		(uuid "35ce7d60-a4d0-4cec-ae2e-4de0c3e05417")
 	)
-	(label "SWD.SWCLK"
+	(label "SPARE8"
+		(at 123.19 144.78 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3a3ed2ca-a643-4fbb-a453-6dea3544c429")
+	)
+	(label "SPARE4"
 		(at 196.85 129.54 0)
 		(effects
 			(font
@@ -4067,7 +5161,57 @@
 		)
 		(uuid "3f26f7e0-8651-4265-b748-a16de40b8e28")
 	)
-	(label "SWD.SWCLK"
+	(label "SPARE10"
+		(at 123.19 177.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "43358639-9e39-49fc-aa6e-2fd2040cbf63")
+	)
+	(label "SPI2.SCK"
+		(at 123.19 172.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "47920bf3-c5d4-44f8-b1a3-ce1c01c4e752")
+	)
+	(label "ETH.RXDV"
+		(at 123.19 154.94 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "47f83383-3935-424f-be75-d843ca5c555d")
+	)
+	(label "ETH.TXEN"
+		(at 123.19 157.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "485f9511-2862-4a12-9b78-b282f966a3b0")
+	)
+	(label "SPARE3"
+		(at 123.19 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4ec0f277-4d91-47b7-aecc-52774d669422")
+	)
+	(label "SPI2.MOSI"
 		(at 196.85 162.56 0)
 		(effects
 			(font
@@ -4077,7 +5221,17 @@
 		)
 		(uuid "50fe5282-a356-41d3-b6e9-7abedaf74166")
 	)
-	(label "SWD.SWDIO"
+	(label "ETH.MDC"
+		(at 123.19 109.22 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "510e78c2-8689-48d0-93ff-c8caaa309f6a")
+	)
+	(label "SPI7.MOSI"
 		(at 196.85 86.36 0)
 		(effects
 			(font
@@ -4087,7 +5241,7 @@
 		)
 		(uuid "55c8271d-4cf1-4ad6-8eeb-dfb3ff8194da")
 	)
-	(label "SWD.SWCLK"
+	(label "ETH.RXD0"
 		(at 196.85 144.78 0)
 		(effects
 			(font
@@ -4097,7 +5251,47 @@
 		)
 		(uuid "5bdde01a-72fb-4c77-a20a-407b880bb63a")
 	)
-	(label "SWD.SWCLK"
+	(label "SPI2.CS#"
+		(at 123.19 175.26 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5c84c85c-b781-4799-a620-47c726d733ce")
+	)
+	(label "SPI2.MISO"
+		(at 123.19 170.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5ce6b4d9-5a8c-4a55-850f-e7bfe76a6c56")
+	)
+	(label "ETH.RXER"
+		(at 123.19 152.4 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5dcc063f-dc54-4237-87e3-638a6d245b3a")
+	)
+	(label "ETH.MDIO"
+		(at 123.19 111.76 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5e046a16-1e92-467f-a13f-6a3e230833d0")
+	)
+	(label "SPARE9"
 		(at 196.85 160.02 0)
 		(effects
 			(font
@@ -4107,7 +5301,7 @@
 		)
 		(uuid "5ebc5e45-64ad-4347-a4fc-bab23ad8816c")
 	)
-	(label "SWD.SWCLK"
+	(label "ETH.RXER"
 		(at 196.85 147.32 0)
 		(effects
 			(font
@@ -4117,7 +5311,7 @@
 		)
 		(uuid "61375466-c290-4fa6-9fe7-03aeeb57147c")
 	)
-	(label "SWD.SWCLK"
+	(label "SPI6.MISO"
 		(at 196.85 96.52 0)
 		(effects
 			(font
@@ -4127,7 +5321,27 @@
 		)
 		(uuid "64c051f6-69ad-4c6a-8cfc-685fe5a6b241")
 	)
-	(label "SWD.SWDIO"
+	(label "SPI6.SCK"
+		(at 123.19 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "66236623-c1cb-4e9e-b520-1224f1b36c59")
+	)
+	(label "SPI7.SCK"
+		(at 123.19 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "679b9574-806b-487e-9524-4f6ad0cdab67")
+	)
+	(label "SPARE7"
 		(at 196.85 137.16 0)
 		(effects
 			(font
@@ -4137,7 +5351,7 @@
 		)
 		(uuid "69471345-6d14-4fc4-af4c-403423913506")
 	)
-	(label "SWD.SWCLK"
+	(label "ETH.TXEN"
 		(at 196.85 152.4 0)
 		(effects
 			(font
@@ -4147,7 +5361,7 @@
 		)
 		(uuid "6983e09c-80b3-4b20-a2d9-fa56d5008d1a")
 	)
-	(label "SWD.SWCLK"
+	(label "SPARE10"
 		(at 196.85 172.72 0)
 		(effects
 			(font
@@ -4157,7 +5371,7 @@
 		)
 		(uuid "6d2e4323-93df-4b1b-8395-8ccf3dfa0d60")
 	)
-	(label "SWD.SWCLK"
+	(label "SPI2.SCK"
 		(at 196.85 167.64 0)
 		(effects
 			(font
@@ -4167,7 +5381,47 @@
 		)
 		(uuid "6df48573-b156-4bde-aa93-8561dd8c03a8")
 	)
-	(label "SWD.SWDIO"
+	(label "SPI5.MOSI"
+		(at 123.19 114.3 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "707098e8-60bf-4302-a678-795909443931")
+	)
+	(label "SPARE2"
+		(at 123.19 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "71432d9a-cd0d-4bb1-92af-43f7cbd11ef0")
+	)
+	(label "SPARE11"
+		(at 123.19 180.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "714dd3db-8d28-4d78-8988-440da0cbae3d")
+	)
+	(label "SPARE4"
+		(at 123.19 134.62 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "71a5a3d3-5f5e-4b0e-8d5d-46941bbaf5cd")
+	)
+	(label "SPARE5"
 		(at 196.85 132.08 0)
 		(effects
 			(font
@@ -4187,7 +5441,47 @@
 		)
 		(uuid "8062802d-9349-44be-883d-2bc20774b43c")
 	)
-	(label "SWD.SWCLK"
+	(label "SPARE1"
+		(at 123.19 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8349b899-ac2a-49cd-b2e2-910054f0110b")
+	)
+	(label "SPI7.MOSI"
+		(at 123.19 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "834bc513-cd97-4671-bca6-14fca3fabb42")
+	)
+	(label "SPI5.MISO"
+		(at 123.19 116.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8a690734-40bc-4a4f-b6c5-75ff98b2a575")
+	)
+	(label "SPI6.MOSI"
+		(at 123.19 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "92ba04fd-1884-459f-b564-d95d81fda735")
+	)
+	(label "SPI5.CS#"
 		(at 196.85 116.84 0)
 		(effects
 			(font
@@ -4197,7 +5491,27 @@
 		)
 		(uuid "963be659-390c-467d-9fb2-c281e6402b0c")
 	)
-	(label "SWD.SWCLK"
+	(label "SPI6.MISO"
+		(at 123.19 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "96fd3d1d-27c3-49d5-9521-c2b7e008403f")
+	)
+	(label "SPARE5"
+		(at 123.19 137.16 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9ff13db2-3783-4692-81d7-7b0b079a9165")
+	)
+	(label "SPI6.CS#"
 		(at 196.85 101.6 0)
 		(effects
 			(font
@@ -4207,7 +5521,27 @@
 		)
 		(uuid "a0b741a5-3498-47f7-b9ba-9b3b285a2eec")
 	)
-	(label "SWD.SWCLK"
+	(label "SPARE6"
+		(at 123.19 139.7 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a5545b3d-6725-4fd6-aacd-caa580eea861")
+	)
+	(label "SPI5.SCK"
+		(at 123.19 119.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a8588f40-2c73-45ce-939f-3d743032455b")
+	)
+	(label "SPI5.SCK"
 		(at 196.85 114.3 0)
 		(effects
 			(font
@@ -4217,7 +5551,17 @@
 		)
 		(uuid "afe2a7bb-9260-4b8e-b8fa-0dfd37d72262")
 	)
-	(label "SWD.SWCLK"
+	(label "SPARE11"
+		(at 196.85 175.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b9994785-66b2-43bf-abb7-ed6994abbe0b")
+	)
+	(label "SPARE2"
 		(at 196.85 121.92 0)
 		(effects
 			(font
@@ -4227,7 +5571,7 @@
 		)
 		(uuid "bca5d0dc-1d56-4686-8b37-621c8d04d4e7")
 	)
-	(label "SWD.SWCLK"
+	(label "SPARE1"
 		(at 196.85 119.38 0)
 		(effects
 			(font
@@ -4237,7 +5581,17 @@
 		)
 		(uuid "ca48fe00-c950-4e1a-9bc0-c4e7e0c5c2a2")
 	)
-	(label "SWD.SWCLK"
+	(label "SPARE9"
+		(at 123.19 165.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d25f2682-ed8b-444a-8e62-dc3c84a9c640")
+	)
+	(label "SPI7.MISO"
 		(at 196.85 88.9 0)
 		(effects
 			(font
@@ -4247,7 +5601,27 @@
 		)
 		(uuid "d2a8f4ec-8c47-4484-8f5f-704d65eef1de")
 	)
-	(label "SWD.SWCLK"
+	(label "ETH.TXD0"
+		(at 123.19 160.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d965faf5-7c6f-4991-a6fb-6a38529a2eed")
+	)
+	(label "ETH.TXD1"
+		(at 123.19 162.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "dae5a0ad-0f80-482b-b7d4-271b813947c3")
+	)
+	(label "SPI6.SCK"
 		(at 196.85 99.06 0)
 		(effects
 			(font
@@ -4257,7 +5631,7 @@
 		)
 		(uuid "ddc5bcad-34af-4571-a476-c254ad91cded")
 	)
-	(label "SWD.SWCLK"
+	(label "ETH.RXDV"
 		(at 196.85 149.86 0)
 		(effects
 			(font
@@ -4267,7 +5641,7 @@
 		)
 		(uuid "dfa7fc84-a022-4e5d-ac24-e98c1942438b")
 	)
-	(label "SWD.SWCLK"
+	(label "SPARE3"
 		(at 196.85 127 0)
 		(effects
 			(font
@@ -4277,7 +5651,7 @@
 		)
 		(uuid "e237ca01-ae09-4e8a-9ea8-6173b27a352b")
 	)
-	(label "SWD.SWCLK"
+	(label "SPARE8"
 		(at 196.85 139.7 0)
 		(effects
 			(font
@@ -4287,7 +5661,17 @@
 		)
 		(uuid "eb4c82a7-cbbb-4ae2-ad62-16e22e05ef6e")
 	)
-	(label "SWD.SWCLK"
+	(label "ETH.RXD1"
+		(at 123.19 147.32 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "eeac038e-3fd4-42d7-bf51-7d8adbb1c9e0")
+	)
+	(label "ETH.MDC"
 		(at 196.85 104.14 0)
 		(effects
 			(font
@@ -4297,7 +5681,17 @@
 		)
 		(uuid "f235b19a-305c-4868-bb1d-e79488276b82")
 	)
-	(label "SWD.SWCLK"
+	(label "SPARE7"
+		(at 123.19 142.24 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f75c59b0-95a2-48aa-803d-e55dc51d01f3")
+	)
+	(label "SPI5.MOSI"
 		(at 196.85 109.22 0)
 		(effects
 			(font
@@ -4310,13 +5704,13 @@
 	(symbol
 		(lib_id "PIC32CK1025GC01100-I-4SB:PIC32CK1025GC01100-I_4SB")
 		(at 332.74 88.9 0)
-		(unit 2)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "00f02f5d-207e-4a35-a0e7-6bcd35893fb4")
-		(property "Reference" "U1"
+		(property "Reference" "U?"
 			(at 335.28 77.978 0)
 			(effects
 				(font
@@ -4673,6 +6067,12 @@
 					(unit 2)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4685,7 +6085,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c47b5ae-dd93-4f34-ae45-57c6818d8c8b")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR?"
 			(at 330.2 179.07 0)
 			(effects
 				(font
@@ -4739,6 +6139,81 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 83.82 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0fb6afc1-4bc3-4d1c-8e5a-2c0d8503f63e")
+		(property "Reference" "TP4"
+			(at 130.81 82.5499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 85.0899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ceb695b1-0b20-406a-8ea7-56b08d28e140")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP4")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4751,7 +6226,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "109774cd-f94e-4bca-a286-2cb767a7c570")
-		(property "Reference" "TP12"
+		(property "Reference" "TP?"
 			(at 189.23 102.8699 90)
 			(effects
 				(font
@@ -4807,6 +6282,81 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 144.78 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "10d51681-525c-43c2-beb4-c8efbc70887e")
+		(property "Reference" "TP30"
+			(at 130.81 143.5099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 146.0499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "689c64dd-8791-4771-8e3a-6c1157800ef7")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP30")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4819,7 +6369,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a4ad772-a6c5-446d-92c8-c9762866c172")
-		(property "Reference" "TP2"
+		(property "Reference" "TP?"
 			(at 189.23 77.4699 90)
 			(effects
 				(font
@@ -4875,6 +6425,219 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 167.64 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "288701d3-49e1-4dd1-8ac8-400058bc07fb")
+		(property "Reference" "TP39"
+			(at 130.81 166.3699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 168.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e924c891-9daa-4e95-b522-ddf556fd812a")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 132.08 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28dc2eae-1c98-448e-a418-9484e93c6fdd")
+		(property "Reference" "TP23"
+			(at 130.81 130.8099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 133.3499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d4f7cc7f-bd70-4b78-a827-4c0e86ab72eb")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 180.34 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2ecacdd9-7a05-4e5b-a8e2-af03e5ff8611")
+		(property "Reference" "TP44"
+			(at 130.81 179.0699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 181.6099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dca8cb8c-aaf5-46dc-a6d3-0dfb819ef63c")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP44")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4887,7 +6650,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2fc45b71-a79d-4ee2-9967-e618a95e6557")
-		(property "Reference" "U1"
+		(property "Reference" "U?"
 			(at 160.02 63.5 0)
 			(effects
 				(font
@@ -5242,6 +7005,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5254,7 +7023,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "363c28ce-f6e2-47cc-882e-f572fca7a62d")
-		(property "Reference" "TP34"
+		(property "Reference" "TP?"
 			(at 189.23 151.1299 90)
 			(effects
 				(font
@@ -5310,6 +7079,150 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 175.26 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "369b0b96-76a9-4b96-b945-77fc29b56a03")
+		(property "Reference" "TP42"
+			(at 130.81 173.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 176.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f364418d-19aa-47f9-9644-67dd94ddd892")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 124.46 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3809a430-b2b8-4cba-8072-0440581a401c")
+		(property "Reference" "TP21"
+			(at 130.81 123.1899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 125.7299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "115d152f-99a3-4619-b74f-f61acdd5f360")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP21")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5322,7 +7235,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "389ee20d-3b31-45fd-931f-69008a37da12")
-		(property "Reference" "TP1"
+		(property "Reference" "TP?"
 			(at 189.23 74.9299 90)
 			(effects
 				(font
@@ -5378,6 +7291,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5390,7 +7309,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a07f5f1-3e3c-4390-a191-38f444f557f7")
-		(property "Reference" "TP22"
+		(property "Reference" "TP?"
 			(at 189.23 125.7299 90)
 			(effects
 				(font
@@ -5446,6 +7365,81 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 157.48 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3c371cfa-60bb-406e-9135-e0acafc37ee3")
+		(property "Reference" "TP35"
+			(at 130.81 156.2099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 158.7499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1426f4d9-8e86-48ca-bcd0-1b7541c6d675")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP35")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5458,7 +7452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e3192a4-8d82-4a1e-acc4-4dbfa6857fc8")
-		(property "Reference" "TP7"
+		(property "Reference" "TP?"
 			(at 189.23 90.1699 90)
 			(effects
 				(font
@@ -5514,6 +7508,81 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 93.98 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "40081bca-0ae2-456c-ad31-0b5142bb0bd5")
+		(property "Reference" "TP9"
+			(at 130.81 92.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ff9c3760-cff9-489b-b75a-cba617c97f38")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP9")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5526,7 +7595,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4090f39b-969e-4829-91cc-6750b5cf3a23")
-		(property "Reference" "TP35"
+		(property "Reference" "TP?"
 			(at 189.23 153.6699 90)
 			(effects
 				(font
@@ -5582,6 +7651,81 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 177.8 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "420f99ff-cd04-4fa3-9231-35f5dcaa75ff")
+		(property "Reference" "TP43"
+			(at 130.81 176.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 179.0699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "624245f8-e787-4d1a-a6a2-c4f3171114b4")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP43")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5594,7 +7738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42a28e98-bb79-4edd-b272-f5dc7e9c485d")
-		(property "Reference" "TP20"
+		(property "Reference" "TP?"
 			(at 189.23 74.9299 90)
 			(effects
 				(font
@@ -5651,6 +7795,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5663,7 +7813,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45daa151-de4d-4829-b196-3c8040bbaec6")
-		(property "Reference" "TP36"
+		(property "Reference" "TP?"
 			(at 189.23 156.2099 90)
 			(effects
 				(font
@@ -5719,6 +7869,220 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 81.28 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "487cff0b-e0e6-4e03-aea3-29dbc514d517")
+		(property "Reference" "TP2"
+			(at 130.81 80.0099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 82.5499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fe391fc0-a450-4afa-97e7-77ea4bc573da")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 170.18 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "49466106-3509-440c-99e9-a6db7a316504")
+		(property "Reference" "TP40"
+			(at 130.81 168.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 171.4499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "89b16e5d-172b-4a4a-84d9-0aa3d4574914")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 81.28 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ad84970-1f50-4bd8-96ab-b68b797b1153")
+		(property "Reference" "TP3"
+			(at 130.81 80.0099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 82.5499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ec76ad41-d10d-47f5-80c1-aee118c6e733")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5731,7 +8095,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4aec29bd-e34b-4366-9f35-17215ab25181")
-		(property "Reference" "TP26"
+		(property "Reference" "TP?"
 			(at 189.23 130.8099 90)
 			(effects
 				(font
@@ -5787,6 +8151,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5799,7 +8169,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f2adecb-5139-4db5-a41a-84078b35ede1")
-		(property "Reference" "TP6"
+		(property "Reference" "TP?"
 			(at 189.23 87.6299 90)
 			(effects
 				(font
@@ -5855,6 +8225,150 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 116.84 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "50353279-a3af-4fa5-9a81-ae6a8ecc2074")
+		(property "Reference" "TP18"
+			(at 130.81 115.5699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 118.1099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "23b1a8fa-86fa-4681-950b-f945d06da598")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 160.02 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5bdc658c-83cc-4ebc-b75d-1a2f7def2381")
+		(property "Reference" "TP36"
+			(at 130.81 158.7499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 161.2899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "51ba68a4-1261-4b4b-8fde-2b384ab38ff8")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP36")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5867,7 +8381,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ca9f2d7-a618-4edb-98bd-7777a1e2cf6c")
-		(property "Reference" "TP41"
+		(property "Reference" "TP?"
 			(at 189.23 168.9099 90)
 			(effects
 				(font
@@ -5923,6 +8437,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5935,7 +8455,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "61591eb2-4d36-4c03-8019-cc9a67e7fb9a")
-		(property "Reference" "TP38"
+		(property "Reference" "TP?"
 			(at 189.23 161.2899 90)
 			(effects
 				(font
@@ -5991,6 +8511,81 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 119.38 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "639daf04-bbf3-4663-b711-25fa4c37ba4a")
+		(property "Reference" "TP19"
+			(at 130.81 118.1099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 120.6499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a87b9c95-c7b9-4322-b8cb-7f357da855ab")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP19")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6003,7 +8598,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65870f46-a7f1-4803-a96b-523f04c2e52a")
-		(property "Reference" "TP4"
+		(property "Reference" "TP?"
 			(at 189.23 82.5499 90)
 			(effects
 				(font
@@ -6059,6 +8654,82 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 83.82 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "66cf49ad-2745-4109-93c1-c80effef6d57")
+		(property "Reference" "TP5"
+			(at 130.81 82.5499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 85.0899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e9dc449-c156-499f-8119-d86097b5b6c8")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6071,7 +8742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67b34101-4d40-4e70-810c-c4aae0ec8903")
-		(property "Reference" "TP14"
+		(property "Reference" "TP?"
 			(at 189.23 107.9499 90)
 			(effects
 				(font
@@ -6127,6 +8798,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6139,7 +8816,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a37a2ac-8e49-4a9a-aa32-046abb093071")
-		(property "Reference" "TP10"
+		(property "Reference" "TP?"
 			(at 189.23 97.7899 90)
 			(effects
 				(font
@@ -6195,6 +8872,219 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 137.16 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6a4155ab-bac8-4f0b-878d-30cd6553d1dd")
+		(property "Reference" "TP27"
+			(at 130.81 135.8899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 138.4299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c176571c-110e-486c-978b-1728186f9749")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 149.86 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7137a2b3-a9c4-49be-bb02-9d2c7a6dea8a")
+		(property "Reference" "TP32"
+			(at 130.81 148.5899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 151.1299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "36e8de1e-af4f-4df9-a3a6-53e2582ae34e")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 132.08 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7478b84e-fff4-489a-9d5f-561dcb823c65")
+		(property "Reference" "TP24"
+			(at 130.81 130.8099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 133.3499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "db746366-aaa1-4fc7-be82-811b37903ddf")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP24")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6207,7 +9097,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "749cc0a2-0f30-4cab-9198-252444433649")
-		(property "Reference" "TP31"
+		(property "Reference" "TP?"
 			(at 189.23 143.5099 90)
 			(effects
 				(font
@@ -6263,6 +9153,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6275,7 +9171,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bbb16dc-737d-4ae7-a1c9-18d382b6cc91")
-		(property "Reference" "TP17"
+		(property "Reference" "TP?"
 			(at 189.23 115.5699 90)
 			(effects
 				(font
@@ -6331,6 +9227,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6343,7 +9245,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f6b1171-5417-4047-b17a-9e8ff1735df8")
-		(property "Reference" "TP28"
+		(property "Reference" "TP?"
 			(at 189.23 135.8899 90)
 			(effects
 				(font
@@ -6399,6 +9301,81 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 154.94 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8204228c-6478-4b39-94bf-27938ab9aeaf")
+		(property "Reference" "TP34"
+			(at 130.81 153.6699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 156.2099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9ccb9ec-b1f9-443a-ba4f-09db892eac4f")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP34")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6411,7 +9388,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85ba4142-cba9-4958-bf8f-b8a51a848b96")
-		(property "Reference" "TP24"
+		(property "Reference" "TP?"
 			(at 189.23 128.2699 90)
 			(effects
 				(font
@@ -6467,6 +9444,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6479,7 +9462,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8804b9ed-fea4-4563-b834-1b9fd4d2a5c2")
-		(property "Reference" "TP29"
+		(property "Reference" "TP?"
 			(at 189.23 138.4299 90)
 			(effects
 				(font
@@ -6535,6 +9518,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6547,7 +9536,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a08151b-2eaf-4ffb-bfd7-f37cbd074f94")
-		(property "Reference" "TP18"
+		(property "Reference" "TP?"
 			(at 189.23 118.1099 90)
 			(effects
 				(font
@@ -6603,6 +9592,150 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 86.36 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8bf0bb26-a52d-4de2-b28f-41a0939e2087")
+		(property "Reference" "TP6"
+			(at 130.81 85.0899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 87.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "90f4fd18-49c6-48ad-b375-e7e16defd0b1")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 106.68 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8c316d1b-6a8e-477a-bee6-ac6441c29afa")
+		(property "Reference" "TP14"
+			(at 130.81 105.4099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 107.9499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7f12f667-31cc-4963-aad9-c73c9983eb73")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP14")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6615,7 +9748,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c385139-7047-4d1c-b27e-ec977dd25b0e")
-		(property "Reference" "TP37"
+		(property "Reference" "TP?"
 			(at 189.23 158.7499 90)
 			(effects
 				(font
@@ -6671,6 +9804,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6683,7 +9822,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8edec002-7644-4c28-ac48-ae538f33f6b7")
-		(property "Reference" "TP3"
+		(property "Reference" "TP?"
 			(at 189.23 80.0099 90)
 			(effects
 				(font
@@ -6739,6 +9878,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6751,7 +9896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "940d0bc0-df1b-4eba-8b13-adb82662bae4")
-		(property "Reference" "TP40"
+		(property "Reference" "TP?"
 			(at 189.23 166.3699 90)
 			(effects
 				(font
@@ -6807,6 +9952,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6819,7 +9970,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94fccac4-a334-4a26-9d52-41c13094881f")
-		(property "Reference" "TP25"
+		(property "Reference" "TP?"
 			(at 189.23 128.2699 90)
 			(effects
 				(font
@@ -6875,6 +10026,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6887,7 +10044,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a72fde6-0bfa-4f3d-a09a-9b8bffd09b44")
-		(property "Reference" "TP42"
+		(property "Reference" "TP?"
 			(at 189.23 171.4499 90)
 			(effects
 				(font
@@ -6943,6 +10100,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -6955,7 +10118,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e334285-877f-4d6a-af99-4f4896b7de1c")
-		(property "Reference" "TP30"
+		(property "Reference" "TP?"
 			(at 189.23 140.9699 90)
 			(effects
 				(font
@@ -7011,6 +10174,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7023,7 +10192,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a267d2bf-17d6-406d-a5ea-cb690cc54d45")
-		(property "Reference" "TP16"
+		(property "Reference" "TP?"
 			(at 189.23 113.0299 90)
 			(effects
 				(font
@@ -7079,6 +10248,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7091,7 +10266,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a31fb666-7878-4c54-9c8f-19243f3eaedf")
-		(property "Reference" "TP23"
+		(property "Reference" "TP?"
 			(at 189.23 125.7299 90)
 			(effects
 				(font
@@ -7147,6 +10322,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7159,7 +10340,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3957840-e4c7-4986-8645-94610d63f148")
-		(property "Reference" "TP39"
+		(property "Reference" "TP?"
 			(at 189.23 163.8299 90)
 			(effects
 				(font
@@ -7215,6 +10396,81 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 121.92 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a9118c1a-5f8f-44ea-8cc1-dca96446eaa6")
+		(property "Reference" "TP20"
+			(at 130.81 120.6499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 123.1899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2723367e-0dc7-4d64-9ea3-7717bd67f9bf")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP20")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7227,7 +10483,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ada8e62a-929f-458f-b2ab-858163d26394")
-		(property "Reference" "TP21"
+		(property "Reference" "TP?"
 			(at 189.23 77.4699 90)
 			(effects
 				(font
@@ -7284,6 +10540,150 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 104.14 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af1a5b86-4e69-440f-959b-38e131c55867")
+		(property "Reference" "TP13"
+			(at 130.81 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 105.4099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d2b57b2d-4963-4c95-b8bc-49d0456cd5a9")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 114.3 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b2711703-9b78-47fb-92b0-e1cfe2c4e1e4")
+		(property "Reference" "TP17"
+			(at 130.81 113.0299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 115.5699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8ba7b7e4-066d-4f5f-b413-bc27fc88414b")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP17")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7296,7 +10696,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2c7818c-81c9-449a-b75d-c8b1597d0efd")
-		(property "Reference" "TP5"
+		(property "Reference" "TP?"
 			(at 189.23 85.0899 90)
 			(effects
 				(font
@@ -7352,6 +10752,150 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 96.52 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b2f52fd5-6467-49b1-a0e2-a4a48187e876")
+		(property "Reference" "TP10"
+			(at 130.81 95.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 97.7899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "af4fc090-f1e1-4053-a204-6810c010ae97")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 91.44 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b7e421ca-326d-4a6c-b9dc-ff0b96336caf")
+		(property "Reference" "TP8"
+			(at 130.81 90.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 92.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "638120bb-c7d4-427e-9269-8a0634ac09ba")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7364,7 +10908,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8e8bab8-8b11-42c2-8945-ce0ae499cddb")
-		(property "Reference" "TP27"
+		(property "Reference" "TP?"
 			(at 189.23 133.3499 90)
 			(effects
 				(font
@@ -7420,6 +10964,81 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 162.56 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ba994983-27e2-4350-a6d4-93b6e7ee912d")
+		(property "Reference" "TP37"
+			(at 130.81 161.2899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 163.8299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c1a1b165-ee98-4d04-b5d5-8553eecac6f3")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP37")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7432,7 +11051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd089f90-5db5-49ce-9019-07eafa85377b")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR?"
 			(at 322.58 93.98 0)
 			(effects
 				(font
@@ -7486,6 +11105,633 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "#PWR?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 101.6 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bdb9e19a-f9dd-4a8f-b551-6da2c9b6fc66")
+		(property "Reference" "TP12"
+			(at 130.81 100.3299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 102.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "44979b2b-43c4-4a36-a2df-db9a3f178ccb")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 134.62 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be4046fd-6c27-4a9e-a140-c88087f7e9c6")
+		(property "Reference" "TP25"
+			(at 130.81 133.3499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 135.8899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "33f5e49f-c401-4a15-8b99-9ff6e3f824f8")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 88.9 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be6ff404-699a-4d30-b735-5ca525101f2c")
+		(property "Reference" "TP7"
+			(at 130.81 87.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 90.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "09eff420-4510-4a1c-b7d7-f1651f17e56d")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 172.72 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "be9a6074-9484-4b60-a797-d705abf1d6ca")
+		(property "Reference" "TP41"
+			(at 130.81 171.4499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 173.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a2a7f01d-7602-4760-8afb-8c6bc6864c92")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 139.7 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bf89cbde-fa85-44cb-b014-c53f9f46e14c")
+		(property "Reference" "TP28"
+			(at 130.81 138.4299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 140.9699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "abffdb8e-abc2-4fd8-b4f4-0e7a0b10af85")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 147.32 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bfb89131-b99d-4e97-87d7-2bc955a23988")
+		(property "Reference" "TP31"
+			(at 130.81 146.0499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 148.5899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f140808a-2432-48b8-9903-c66370250c60")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 142.24 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c744db71-3391-4900-a926-e76acb545e73")
+		(property "Reference" "TP29"
+			(at 130.81 140.9699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 143.5099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "24d925b8-943b-4edb-9372-bb9854b0de57")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 134.62 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c96d2d6f-b78f-4c87-b395-48dba579fe60")
+		(property "Reference" "TP26"
+			(at 130.81 133.3499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 135.8899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2d8b40c5-77d2-4962-b686-090b48b59741")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 165.1 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c9cb55ee-bdce-4043-a178-2cedf504d9fa")
+		(property "Reference" "TP38"
+			(at 130.81 163.8299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 166.3699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3b8fa3b2-0ee4-407f-8a6b-578c811bf8f5")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP38")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7498,7 +11744,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf376476-e83a-420f-a089-b61a3a437d4e")
-		(property "Reference" "TP8"
+		(property "Reference" "TP?"
 			(at 189.23 92.7099 90)
 			(effects
 				(font
@@ -7554,6 +11800,80 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 184.15 175.26 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cfcc109a-32ad-43f2-9f7e-8d1c88bd796b")
+		(property "Reference" "TP1"
+			(at 189.23 173.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 189.23 176.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 184.15 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 184.15 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 184.15 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "903165a0-3fdb-494b-8f57-bc2b93bc65a3")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7566,7 +11886,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3a62981-07aa-4a42-b0a6-26b39ecea128")
-		(property "Reference" "TP19"
+		(property "Reference" "TP?"
 			(at 189.23 120.6499 90)
 			(effects
 				(font
@@ -7622,6 +11942,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7634,7 +11960,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7aebc9a-363d-4143-9ce4-c0f828a6bc88")
-		(property "Reference" "TP15"
+		(property "Reference" "TP?"
 			(at 189.23 110.4899 90)
 			(effects
 				(font
@@ -7690,6 +12016,288 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 111.76 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "daea1b53-54bf-4b24-978d-144a8af5abc3")
+		(property "Reference" "TP16"
+			(at 130.81 110.4899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 113.0299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "680ff6fe-4e5d-4b60-9370-ab3376170180")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 152.4 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db355096-b7b2-42a4-b661-7b1cdd25de65")
+		(property "Reference" "TP33"
+			(at 130.81 151.1299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 153.6699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1436ef44-1dc3-4ee8-aa85-1d790b5ce85e")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 127 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e052a6ea-daad-4ab1-890e-f154e9c01dd0")
+		(property "Reference" "TP22"
+			(at 130.81 125.7299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 128.2699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f32d166-d02f-4d87-864a-8bf5a027e93f")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 99.06 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1c5f68a-02c1-4073-8ce8-3b4615628073")
+		(property "Reference" "TP11"
+			(at 130.81 97.7899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 100.3299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0bc36880-f6f9-4334-a6b8-6a0a1acd26e4")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP11")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7702,7 +12310,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef39a9a7-569c-4cc2-9bd4-2428e37c36c4")
-		(property "Reference" "TP11"
+		(property "Reference" "TP?"
 			(at 189.23 100.3299 90)
 			(effects
 				(font
@@ -7758,6 +12366,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7770,7 +12384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f06416bc-45db-4cd6-a331-e1bac3f88a55")
-		(property "Reference" "TP9"
+		(property "Reference" "TP?"
 			(at 189.23 95.2499 90)
 			(effects
 				(font
@@ -7826,6 +12440,81 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 135.89 109.22 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f145d7a9-5b07-4e7c-9e03-f9c0db1b19e5")
+		(property "Reference" "TP15"
+			(at 130.81 107.9499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 110.4899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 135.89 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "66009e92-aa54-405a-b7c9-0ac5f7d9ecfa")
+		)
+		(instances
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP15")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7838,7 +12527,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5105c5a-35f4-485b-b97a-1b2acf8e70c8")
-		(property "Reference" "TP32"
+		(property "Reference" "TP?"
 			(at 189.23 146.0499 90)
 			(effects
 				(font
@@ -7894,6 +12583,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7906,7 +12601,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa185b1a-c7b1-4271-9ddc-9d24f037bed5")
-		(property "Reference" "TP13"
+		(property "Reference" "TP?"
 			(at 189.23 105.4099 90)
 			(effects
 				(font
@@ -7962,6 +12657,12 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -7974,7 +12675,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa847521-ecb4-4b86-b35c-60701071ff73")
-		(property "Reference" "TP33"
+		(property "Reference" "TP?"
 			(at 189.23 148.5899 90)
 			(effects
 				(font
@@ -8030,6 +12731,18 @@
 					(unit 1)
 				)
 			)
+			(project "mcu"
+				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
+					(reference "TP?")
+					(unit 1)
+				)
+			)
 		)
 	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
