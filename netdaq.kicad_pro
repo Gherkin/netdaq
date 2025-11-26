@@ -617,6 +617,14 @@
     [
       "e0b2477a-74c1-4066-8a9f-fdb22c0a3710",
       "MCU"
+    ],
+    [
+      "137b64ac-bb8a-47f8-a978-820d95645cab",
+      "Ethernet PHY"
+    ],
+    [
+      "ea65a3d0-a0be-4201-b06b-091231bedc11",
+      "Ethernet Connector"
     ]
   ],
   "text_variables": {}

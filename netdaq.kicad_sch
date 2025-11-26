@@ -3,11 +3,175 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "2970f661-65ab-4e2b-aeda-d76d1044f2b8")
-	(paper "A4")
+	(paper "A3")
 	(lib_symbols)
+	(bus_alias "I2C"
+		(members "SDA" "SCL")
+	)
+	(wire
+		(pts
+			(xy 207.01 93.98) (xy 207.01 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fe5b5d5-71eb-4fdf-af8d-ba939211c38e")
+	)
+	(bus
+		(pts
+			(xy 177.8 80.01) (xy 199.39 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2c676db-21dd-4ef0-9f16-5e51c0557b4d")
+	)
+	(bus
+		(pts
+			(xy 212.09 93.98) (xy 212.09 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd480f5c-700b-40da-ab23-a83a6046c1b1")
+	)
+	(bus
+		(pts
+			(xy 209.55 93.98) (xy 209.55 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfc6c4df-748f-46b3-9b82-bddfeb15011f")
+	)
+	(label "SMI{SMI}"
+		(at 212.09 121.92 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1e9caabe-e396-4ee9-8fac-c9fb52dcfc01")
+	)
+	(label "RMII{RMII}"
+		(at 209.55 121.92 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4bb4b082-5ba4-4f8f-8fe3-0ce1902884fb")
+	)
+	(label "MCU_ETH_RST#"
+		(at 207.01 121.92 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "54a846c5-0d97-48c0-a0f4-78046fe34614")
+	)
+	(label "MDI{MDI}"
+		(at 185.42 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9aabc7a9-4e51-44c4-993f-7a0ab63a64ea")
+	)
 	(sheet
-		(at 127 53.34)
-		(size 26.67 24.13)
+		(at 199.39 74.93)
+		(size 21.59 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "137b64ac-bb8a-47f8-a978-820d95645cab")
+		(property "Sheetname" "Ethernet PHY"
+			(at 199.644 72.136 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eth_phy.kicad_sch"
+			(at 199.644 72.898 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MDI{MDI}" bidirectional
+			(at 199.39 80.01 180)
+			(uuid "5582a025-dc5e-4f81-91bb-0898ee04255d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RMII{RMII}" bidirectional
+			(at 209.55 93.98 270)
+			(uuid "4dc00142-fcdc-43b1-8d1d-b1945ff7d211")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RST#" input
+			(at 207.01 93.98 270)
+			(uuid "f5175b0f-065e-40af-b70f-78e4374e74b3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SMI{SMI}" bidirectional
+			(at 212.09 93.98 270)
+			(uuid "ad744d73-0ac4-4811-b613-8019b2c36d8f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 189.23 146.05)
+		(size 39.37 33.02)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -22,7 +186,7 @@
 		)
 		(uuid "e0b2477a-74c1-4066-8a9f-fdb22c0a3710")
 		(property "Sheetname" "MCU"
-			(at 127 52.6284 0)
+			(at 189.23 145.3384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +195,7 @@
 			)
 		)
 		(property "Sheetfile" "mcu.kicad_sch"
-			(at 127 78.0546 0)
+			(at 189.23 179.6546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39,10 +203,212 @@
 				(justify left top)
 			)
 		)
+		(pin "SDMMC0{MMC}" bidirectional
+			(at 228.6 151.13 0)
+			(uuid "d2fa0e17-fcfb-4d38-abbb-f6ad647f8782")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI2{SPI}" bidirectional
+			(at 189.23 151.13 180)
+			(uuid "9c56915a-d470-4861-a584-c93c0a54a6d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI3{SPI}" bidirectional
+			(at 189.23 153.67 180)
+			(uuid "44f3be96-c781-4271-b45e-95ff3cafef32")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI4{SPI}" bidirectional
+			(at 189.23 156.21 180)
+			(uuid "96e6ef57-d716-45b8-926a-8d59495b5a3c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI5{SPI}" bidirectional
+			(at 189.23 158.75 180)
+			(uuid "b333557c-aadc-4909-8333-04eff2069754")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI6{SPI}" bidirectional
+			(at 189.23 161.29 180)
+			(uuid "768c860e-5f98-48af-9070-917852f651b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI7{SPI}" bidirectional
+			(at 189.23 163.83 180)
+			(uuid "1287f961-d788-4ce8-8090-a442847e5ebe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{JTAG}" bidirectional
+			(at 228.6 154.94 0)
+			(uuid "fc593c86-4c52-4bf9-9332-872bc0e751ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RESET#" input
+			(at 228.6 175.26 0)
+			(uuid "47eaac84-d39a-4010-9fdb-26716cdcb34b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TSUCOMP" output
+			(at 189.23 173.99 180)
+			(uuid "467fc712-ac90-4e43-9470-b7dae52b7149")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_FS{USB}" bidirectional
+			(at 228.6 171.45 0)
+			(uuid "ca3d6a4d-ef2b-4974-8649-693cab13aa21")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_HS{USB}" bidirectional
+			(at 228.6 168.91 0)
+			(uuid "b666e42c-5bf5-4670-8f8e-15d57273b76e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ETH_RST#" output
+			(at 207.01 146.05 90)
+			(uuid "99146a6f-8c68-412b-bb42-1d74faa4d546")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RMII{RMII}" bidirectional
+			(at 209.55 146.05 90)
+			(uuid "242641fc-080b-4a99-94b6-e07743e32e31")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SMI{SMI}" bidirectional
+			(at 212.09 146.05 90)
+			(uuid "5b9647e6-38d0-47ad-98f0-7f30ab6d0de2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 156.21 74.93)
+		(size 21.59 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ea65a3d0-a0be-4201-b06b-091231bedc11")
+		(property "Sheetname" "Ethernet Connector"
+			(at 156.21 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eth_conn.kicad_sch"
+			(at 156.21 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MDI{MDI}" bidirectional
+			(at 177.8 80.01 0)
+			(uuid "caa37bd2-25bb-423b-8599-7a5e2703aa8c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
+					(page "4")
 				)
 			)
 		)
