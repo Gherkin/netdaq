@@ -633,6 +633,10 @@
     [
       "475d46f3-a9d1-4d0e-882c-449f9a11ef3e",
       "PoE Regulator"
+    ],
+    [
+      "dfd7c564-50b6-4b87-afcf-cfbf80807611",
+      "PD Controller"
     ]
   ],
   "text_variables": {}

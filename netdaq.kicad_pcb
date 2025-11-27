@@ -64,6 +64,7 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
+			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -241,20 +242,41 @@
 	(net 161 "/Ethernet Connector/MX3+")
 	(net 162 "unconnected-(TR2-Pad2)")
 	(net 163 "/PoE Regulator/VIN")
-	(net 164 "Net-(R38-Pad1)")
+	(net 164 "/PoE Regulator/FLY_CT")
 	(net 165 "unconnected-(TR2-Pad10)")
 	(net 166 "unconnected-(TR2-Pad8)")
-	(net 167 "Net-(D5-A)")
+	(net 167 "/PoE Regulator/FLY_SW")
 	(net 168 "Net-(D6-A)")
 	(net 169 "ETH_SHIELD")
 	(net 170 "unconnected-(TR2-Pad9)")
 	(net 171 "unconnected-(U3-EN-Pad3)")
-	(net 172 "Net-(U3-VCC)")
+	(net 172 "/PoE Regulator/FLY_VCC")
 	(net 173 "unconnected-(U3-ILIM-Pad9)")
-	(net 174 "Net-(U3-FB1)")
+	(net 174 "/PoE Regulator/FLY_FB")
 	(net 175 "unconnected-(U3-NC-Pad4)")
 	(net 176 "unconnected-(U3-NC-Pad12)")
 	(net 177 "unconnected-(U3-MODE-Pad7)")
+	(net 178 "unconnected-(U4-VPNIN-Pad5)")
+	(net 179 "unconnected-(U4-VPNIN-Pad13)")
+	(net 180 "unconnected-(U4-NC-Pad6)")
+	(net 181 "unconnected-(U4-VPP-Pad12)")
+	(net 182 "unconnected-(U4-RDET-Pad1)")
+	(net 183 "unconnected-(U4-VPNOUT-Pad8)")
+	(net 184 "unconnected-(U4-VPNOUT-Pad7)")
+	(net 185 "unconnected-(U4-NC-Pad9)")
+	(net 186 "unconnected-(U4-VAUX-Pad11)")
+	(net 187 "unconnected-(U4-PGOOD-Pad10)")
+	(net 188 "unconnected-(U4-RCLASS-Pad3)")
+	(net 189 "unconnected-(U4-VPNIN-Pad4)")
+	(net 190 "unconnected-(U4-RREF-Pad2)")
+	(net 191 "unconnected-(U5-Pad4)")
+	(net 192 "unconnected-(U5-Pad3)")
+	(net 193 "unconnected-(U5-+-Pad1)")
+	(net 194 "unconnected-(U5---Pad2)")
+	(net 195 "unconnected-(U6---Pad2)")
+	(net 196 "unconnected-(U6-Pad4)")
+	(net 197 "unconnected-(U6-+-Pad1)")
+	(net 198 "unconnected-(U6-Pad3)")
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "005d2708-ec3d-44c5-8853-dcf667375627")
@@ -283,7 +305,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -482,7 +504,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -681,7 +703,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -880,7 +902,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1079,7 +1101,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1313,7 +1335,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1650,7 +1672,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1849,7 +1871,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2048,7 +2070,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2247,7 +2269,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2446,7 +2468,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2645,7 +2667,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2844,7 +2866,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3043,7 +3065,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5033,7 +5055,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5232,7 +5254,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5431,7 +5453,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5602,6 +5624,131 @@
 			)
 		)
 	)
+	(footprint "CDHD01:CDHD01"
+		(layer "F.Cu")
+		(uuid "44b1cb2a-d71d-4177-96e6-d8783f0524a0")
+		(at 137.75 79.55)
+		(property "Reference" "U6"
+			(at 0 -8 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "828d781d-3d90-4352-8b57-3efeadefea75")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 0 -6.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "c1eb91af-d861-4f96-9a15-1deab2e6fb5e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 -7.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f8682e9f-1168-476e-ae61-a72815023b3b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 -7.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92e2366a-8557-4c9b-b3f4-5b294b8fa9d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/ea65a3d0-a0be-4201-b06b-091231bedc11/5698bbf3-8ddf-4099-8765-8a77ff8177d8")
+		(sheetname "/Ethernet Connector/")
+		(sheetfile "eth_conn.kicad_sch")
+		(attr smd)
+		(fp_rect
+			(start -2.425 -3.125)
+			(end 2.425 3.125)
+			(stroke
+				(width 0.12)
+				(type default)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "81914986-fb3a-439a-94fb-a508f080bf38")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "5cbe8ffc-db6d-4faa-a3bd-160172a28b4a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at 1.25 -2.95)
+			(size 1.2 1.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net 197 "unconnected-(U6-+-Pad1)")
+			(pinfunction "+")
+			(pintype "passive")
+			(thermal_bridge_angle 45)
+			(uuid "5774184b-dddd-4c08-8792-87c8aafd7cbe")
+		)
+		(pad "2" smd roundrect
+			(at -1.25 -2.95)
+			(size 1.2 1.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net 195 "unconnected-(U6---Pad2)")
+			(pinfunction "-")
+			(pintype "passive")
+			(thermal_bridge_angle 45)
+			(uuid "3c058aee-7d5d-4d99-a89c-79d978a1797b")
+		)
+		(pad "3" smd roundrect
+			(at -1.25 2.95)
+			(size 1.2 1.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net 198 "unconnected-(U6-Pad3)")
+			(pintype "passive")
+			(thermal_bridge_angle 45)
+			(uuid "efec73e7-7ad3-483c-9fc9-3d1528912218")
+		)
+		(pad "4" smd roundrect
+			(at 1.25 2.95)
+			(size 1.2 1.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net 196 "unconnected-(U6-Pad4)")
+			(pintype "passive")
+			(thermal_bridge_angle 45)
+			(uuid "5530f050-6fc1-4af9-9a61-c68790f6c87e")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "453839a7-07e4-4b29-9111-10fea3cd9a70")
@@ -5630,7 +5777,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5829,7 +5976,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6028,7 +6175,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6227,7 +6374,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6426,7 +6573,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6660,7 +6807,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6859,7 +7006,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7058,7 +7205,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7257,7 +7404,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7456,7 +7603,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7655,7 +7802,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7854,7 +8001,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8053,7 +8200,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8252,7 +8399,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8451,7 +8598,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8650,7 +8797,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8849,7 +8996,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9048,7 +9195,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9247,7 +9394,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9446,7 +9593,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9645,7 +9792,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9844,7 +9991,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10043,7 +10190,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10242,7 +10389,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10441,7 +10588,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10640,7 +10787,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10839,7 +10986,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11038,7 +11185,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11237,7 +11384,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11436,7 +11583,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11635,7 +11782,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11834,7 +11981,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12033,7 +12180,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12232,7 +12379,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12466,7 +12613,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12637,6 +12784,483 @@
 			)
 		)
 	)
+	(footprint "PD70100ILD-TR:DFN12_4X3_MCH"
+		(layer "F.Cu")
+		(uuid "d1393cf6-3df3-442d-97f0-d28f436ce5cc")
+		(at 143.1054 102.25)
+		(tags "PD70100ILD-TR ")
+		(property "Reference" "U4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "cd378c58-2473-4f74-aaa7-2c8c5b4c97ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "PD70100ILD-TR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "0b2f255a-a406-4ada-81f7-b600c62979ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "PD70100ILD-TR"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e587c37-c5fe-4e17-8433-f51db8c6b273")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "787628ee-7d14-4250-8918-775427e2a897")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "DFN12_4X3_MCH DFN12_4X3_MCH-M DFN12_4X3_MCH-L")
+		(path "/dfd7c564-50b6-4b87-afcf-cfbf80807611/f04f0d72-f9b7-4f67-8165-51e49002a4f2")
+		(sheetname "/PD Controller/")
+		(sheetfile "pd_ctrl.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -1.6256 -2.1209)
+			(end -1.6256 -1.71014)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "9282ff7a-45c5-4a7e-b302-c2c16c69aeee")
+		)
+		(fp_line
+			(start -1.6256 1.71014)
+			(end -1.6256 2.1209)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "505f74d5-c0ed-4915-8ea3-e4e209c4bc85")
+		)
+		(fp_line
+			(start -1.6256 2.1209)
+			(end 1.6256 2.1209)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "97ba54f7-3e3a-4395-a5b6-0e18cc6cc9dd")
+		)
+		(fp_line
+			(start 1.6256 -2.1209)
+			(end -1.6256 -2.1209)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "0189cfb9-cf39-4cdc-b9d1-e386db230201")
+		)
+		(fp_line
+			(start 1.6256 -1.71014)
+			(end 1.6256 -2.1209)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "3fe7f361-28b7-4320-89a8-ea5e994ceb3f")
+		)
+		(fp_line
+			(start 1.6256 2.1209)
+			(end 1.6256 1.71014)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "78b81ae0-f0c6-45cc-a554-80fa3f105196")
+		)
+		(fp_circle
+			(center -2.349399 -1.25)
+			(end -2.247799 -1.25)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "e821afbd-a94c-4009-aef5-84dc6da2da34")
+		)
+		(fp_poly
+			(pts
+				(xy -0.7001 -1.5764) (xy -0.7001 -0.1) (xy 0.7001 -0.1) (xy 0.7001 -1.5764)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "8d471893-f8ce-404d-ae9f-6bd310a556aa")
+		)
+		(fp_poly
+			(pts
+				(xy -0.7001 0.1) (xy -0.7001 1.5764) (xy 0.7001 1.5764) (xy 0.7001 0.1)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "998c5dac-0caa-4d7b-991f-9aa3f2b742a7")
+		)
+		(fp_line
+			(start -2.052599 -1.6314)
+			(end -1.7526 -1.6314)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "a126188a-8975-4d9e-b7d5-2b8ea7838a00")
+		)
+		(fp_line
+			(start -2.052599 1.6314)
+			(end -2.052599 -1.6314)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "920ac6fb-3f34-411a-81fd-fad47dcb07f4")
+		)
+		(fp_line
+			(start -2.052599 1.6314)
+			(end -1.7526 1.6314)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "aa117178-729f-43c6-a168-ea3120feac91")
+		)
+		(fp_line
+			(start -1.7526 -2.2479)
+			(end 1.7526 -2.2479)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "2dad520e-a468-41ca-a7fd-43cbc756a303")
+		)
+		(fp_line
+			(start -1.7526 -1.6314)
+			(end -1.7526 -2.2479)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "7fef545d-7563-4439-b312-254f6bc65845")
+		)
+		(fp_line
+			(start -1.7526 2.2479)
+			(end -1.7526 1.6314)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "cbd50b8c-5a46-4b5c-864b-d113ef17d5c2")
+		)
+		(fp_line
+			(start 1.7526 -2.2479)
+			(end 1.7526 -1.6314)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "49438cb4-2ec4-434c-96c6-89962a303d75")
+		)
+		(fp_line
+			(start 1.7526 1.6314)
+			(end 1.7526 2.2479)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "28291ee4-3358-4614-84ee-b905dedbfbdf")
+		)
+		(fp_line
+			(start 1.7526 2.2479)
+			(end -1.7526 2.2479)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "0c7748ad-1b68-428b-9c93-4f6800399ea3")
+		)
+		(fp_line
+			(start 2.052599 -1.6314)
+			(end 1.7526 -1.6314)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "1f93dd0a-13bd-4a45-b79d-fb912b9ee3ca")
+		)
+		(fp_line
+			(start 2.052599 -1.6314)
+			(end 2.052599 1.6314)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "7fb41570-f7f0-43af-8af3-9920c61205cf")
+		)
+		(fp_line
+			(start 2.052599 1.6314)
+			(end 1.7526 1.6314)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "53e0bfe4-44ca-47f6-99d2-db116d0c518c")
+		)
+		(fp_line
+			(start -1.4986 -1.9939)
+			(end -1.4986 1.9939)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e237e856-4b85-4f70-9437-39564705a2f4")
+		)
+		(fp_line
+			(start -1.4986 1.9939)
+			(end 1.4986 1.9939)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "ad4e6e60-9915-4d67-94c9-762570f407ba")
+		)
+		(fp_line
+			(start 1.4986 -1.9939)
+			(end -1.4986 -1.9939)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "aa66fa3f-b27c-4db0-a4ba-d4e08aa361f6")
+		)
+		(fp_line
+			(start 1.4986 1.9939)
+			(end 1.4986 -1.9939)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "59b3d49b-b35f-4e85-96c9-42ca7856324f")
+		)
+		(fp_arc
+			(start 0.3048 -1.9939)
+			(mid 0 -1.6891)
+			(end -0.3048 -1.9939)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4913f38e-3b06-4d79-be83-cef2bdc900ee")
+		)
+		(fp_circle
+			(center -0.9906 -1.25)
+			(end -0.9144 -1.25)
+			(stroke
+				(width 0.0254)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "e41ceec6-46cb-4e12-95ed-9fa361d003b3")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "1f55745f-211a-452d-8d17-304d9844f3b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" smd rect
+			(at -1.3946 -1.25)
+			(size 0.807999 0.2548)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 182 "unconnected-(U4-RDET-Pad1)")
+			(pinfunction "RDET")
+			(pintype "unspecified")
+			(uuid "664977ec-b929-4f45-a4cd-6581cf062bf6")
+		)
+		(pad "2" smd rect
+			(at -1.3946 -0.750001)
+			(size 0.807999 0.2548)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 190 "unconnected-(U4-RREF-Pad2)")
+			(pinfunction "RREF")
+			(pintype "unspecified")
+			(uuid "c7ae764f-6901-45c6-be0f-f3e149701724")
+		)
+		(pad "3" smd rect
+			(at -1.3946 -0.25)
+			(size 0.807999 0.2548)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 188 "unconnected-(U4-RCLASS-Pad3)")
+			(pinfunction "RCLASS")
+			(pintype "unspecified")
+			(uuid "b7380ec1-96c3-4f06-9bc1-10fc4f4d4207")
+		)
+		(pad "4" smd rect
+			(at -1.3946 0.25)
+			(size 0.807999 0.2548)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 189 "unconnected-(U4-VPNIN-Pad4)")
+			(pinfunction "VPNIN")
+			(pintype "power_in")
+			(uuid "c2435d44-85f1-4379-ab96-b2d1d2200a3c")
+		)
+		(pad "5" smd rect
+			(at -1.3946 0.750001)
+			(size 0.807999 0.2548)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 178 "unconnected-(U4-VPNIN-Pad5)")
+			(pinfunction "VPNIN")
+			(pintype "power_in")
+			(uuid "16576c26-1f0b-4708-9551-32515f141dda")
+		)
+		(pad "6" smd rect
+			(at -1.3946 1.25)
+			(size 0.807999 0.2548)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 180 "unconnected-(U4-NC-Pad6)")
+			(pinfunction "NC")
+			(pintype "no_connect")
+			(uuid "58deb3ff-840e-438e-a483-250084948c17")
+		)
+		(pad "7" smd rect
+			(at 1.3946 1.25)
+			(size 0.807999 0.2548)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 184 "unconnected-(U4-VPNOUT-Pad7)")
+			(pinfunction "VPNOUT")
+			(pintype "power_in")
+			(uuid "713882d1-9bc7-4d5b-8a3e-46afaa170def")
+		)
+		(pad "8" smd rect
+			(at 1.3946 0.750001)
+			(size 0.807999 0.2548)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 183 "unconnected-(U4-VPNOUT-Pad8)")
+			(pinfunction "VPNOUT")
+			(pintype "power_in")
+			(uuid "6f1fd187-f4e2-4a1b-8e98-c864d6f6ca3a")
+		)
+		(pad "9" smd rect
+			(at 1.3946 0.25)
+			(size 0.807999 0.2548)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 185 "unconnected-(U4-NC-Pad9)")
+			(pinfunction "NC")
+			(pintype "no_connect")
+			(uuid "734010e1-e309-48a6-8d40-3d7c7d2a60a2")
+		)
+		(pad "10" smd rect
+			(at 1.3946 -0.25)
+			(size 0.807999 0.2548)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 187 "unconnected-(U4-PGOOD-Pad10)")
+			(pinfunction "PGOOD")
+			(pintype "output")
+			(uuid "a06d3eec-a835-4d30-a5c2-876bb1cfa32c")
+		)
+		(pad "11" smd rect
+			(at 1.3946 -0.750001)
+			(size 0.807999 0.2548)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 186 "unconnected-(U4-VAUX-Pad11)")
+			(pinfunction "VAUX")
+			(pintype "power_in")
+			(uuid "8576327c-ed2a-4e40-9081-f1fce7c52e14")
+		)
+		(pad "12" smd rect
+			(at 1.3946 -1.25)
+			(size 0.807999 0.2548)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 181 "unconnected-(U4-VPP-Pad12)")
+			(pinfunction "VPP")
+			(pintype "power_in")
+			(uuid "5bb6039f-cd33-4307-a930-d73e9cdcf06b")
+		)
+		(pad "13" smd rect
+			(at 0 0)
+			(size 1.6002 3.3528)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net 179 "unconnected-(U4-VPNIN-Pad13)")
+			(pinfunction "VPNIN")
+			(pintype "power_in")
+			(uuid "5594d758-6205-4c8e-a5d4-4e4eb6c65896")
+		)
+		(embedded_fonts no)
+		(model "${KIPRJMOD}/symbols - footprints/PD70100ILD-TR/DFN12_4X3_MCH.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "d516c796-7663-4ee7-93d9-ff5a27eb2cf6")
@@ -12665,7 +13289,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13297,7 +13921,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19284,7 +19908,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19483,7 +20107,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19682,7 +20306,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20393,7 +21017,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20592,7 +21216,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20791,7 +21415,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20990,7 +21614,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21438,7 +22062,7 @@
 			(drill 1.17)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 167 "Net-(D5-A)")
+			(net 167 "/PoE Regulator/FLY_SW")
 			(pintype "passive")
 			(uuid "7185a6f3-76b8-4093-a447-da53996a8c4e")
 		)
@@ -21458,7 +22082,7 @@
 			(drill 1.17)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 164 "Net-(R38-Pad1)")
+			(net 164 "/PoE Regulator/FLY_CT")
 			(pintype "passive")
 			(uuid "44a658a3-4798-4df9-9def-4cf8b61c67de")
 		)
@@ -21855,7 +22479,7 @@
 			(at 1.4708 1.2)
 			(size 0.757199 0.204)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 174 "Net-(U3-FB1)")
+			(net 174 "/PoE Regulator/FLY_FB")
 			(pinfunction "FB1")
 			(pintype "unspecified")
 			(uuid "819f45d1-d6d0-4fb3-9fcc-74013874877f")
@@ -21882,7 +22506,7 @@
 			(at 1.4708 0)
 			(size 0.757199 0.204)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 172 "Net-(U3-VCC)")
+			(net 172 "/PoE Regulator/FLY_VCC")
 			(pinfunction "VCC")
 			(pintype "power_in")
 			(uuid "46e5b8e1-b961-4b0b-9040-fda7f5529ed2")
@@ -21900,7 +22524,7 @@
 			(at 1.4708 -0.800001)
 			(size 0.757199 0.204)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 167 "Net-(D5-A)")
+			(net 167 "/PoE Regulator/FLY_SW")
 			(pinfunction "SW")
 			(pintype "output")
 			(uuid "966102f8-bae9-4f75-a0bc-57cc97cf7afc")
@@ -21909,7 +22533,7 @@
 			(at 1.4708 -1.2)
 			(size 0.757199 0.204)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net 167 "Net-(D5-A)")
+			(net 167 "/PoE Regulator/FLY_SW")
 			(pinfunction "SW")
 			(pintype "output")
 			(uuid "252e7cb8-0c41-4c74-98b7-745597c5b02f")
@@ -21964,7 +22588,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22163,7 +22787,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22362,7 +22986,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22561,7 +23185,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22731,6 +23355,131 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(footprint "CDHD01:CDHD01"
+		(layer "F.Cu")
+		(uuid "ff02b5f5-c9ab-4b3f-b2e6-4cbcc3edd493")
+		(at 138.75 94.05)
+		(property "Reference" "U5"
+			(at 0 -8 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "1fe55dd8-d261-437a-95cd-60484bafa3d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 0 -6.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "9be65bee-2833-412a-b03a-956c25874177")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 -7.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cebb64b8-5987-45af-a279-5dfd2d748f9a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 -7.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "abd81589-1f70-4d9d-9c14-7bfc4473e79f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/ea65a3d0-a0be-4201-b06b-091231bedc11/5eec719b-6fbe-487d-9b15-41d14abebee8")
+		(sheetname "/Ethernet Connector/")
+		(sheetfile "eth_conn.kicad_sch")
+		(attr smd)
+		(fp_rect
+			(start -2.425 -3.125)
+			(end 2.425 3.125)
+			(stroke
+				(width 0.12)
+				(type default)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "18b33aa2-2005-48f4-af7c-b16f8885c596")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "1ec0a0c0-d24c-48ce-9db9-f68db806187a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at 1.25 -2.95)
+			(size 1.2 1.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net 193 "unconnected-(U5-+-Pad1)")
+			(pinfunction "+")
+			(pintype "passive")
+			(thermal_bridge_angle 45)
+			(uuid "b45ed612-eef9-4fbb-8632-de30767849d4")
+		)
+		(pad "2" smd roundrect
+			(at -1.25 -2.95)
+			(size 1.2 1.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net 194 "unconnected-(U5---Pad2)")
+			(pinfunction "-")
+			(pintype "passive")
+			(thermal_bridge_angle 45)
+			(uuid "d0ea0b51-a9a7-4ab9-b331-104f8f1a522a")
+		)
+		(pad "3" smd roundrect
+			(at -1.25 2.95)
+			(size 1.2 1.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net 192 "unconnected-(U5-Pad3)")
+			(pintype "passive")
+			(thermal_bridge_angle 45)
+			(uuid "afa8aae3-b20b-4a0f-b764-6580d40e0ef7")
+		)
+		(pad "4" smd roundrect
+			(at 1.25 2.95)
+			(size 1.2 1.2)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.15)
+			(net 191 "unconnected-(U5-Pad4)")
+			(pintype "passive")
+			(thermal_bridge_angle 45)
+			(uuid "78f09b6b-e525-4a81-83e4-21418891510d")
+		)
+		(embedded_fonts no)
 	)
 	(gr_rect
 		(start 134 62)

@@ -4,4 +4,6 @@
   (lib (name "LAN8720A-CP")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/LAN8720A-CP/KiCADv6/2025-11-26_18-44-11.kicad_sym")(options "")(descr ""))
   (lib (name "pxc_1713856_02_01_DMC-1-5-19-G1F-3-5-LR-P26THR")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/pxc_1713856_02_01_DMC-1-5-19-G1F-3-5-LR-P26THR/pxc_1713856_02_01_DMC-1-5-19-G1F-3-5-LR-P26THR.kicad_sym")(options "")(descr ""))
   (lib (name "MP6004GQ-P")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/MP6004GQ-P/KiCADv6/2025-11-27_06-37-45.kicad_sym")(options "")(descr ""))
+  (lib (name "PD70100ILD-TR")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/PD70100ILD-TR/KiCADv6/2025-11-27_20-33-57.kicad_sym")(options "")(descr ""))
+  (lib (name "CDHD01")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/CDHD01/CDHD01.kicad_sym")(options "")(descr ""))
 )
