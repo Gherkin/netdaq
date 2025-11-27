@@ -18310,7 +18310,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4621442c-e8d8-455c-bdc7-f5b813ce08eb")
+			(uuid "4621442c-e8d8-455c-bdc7-f5b813ce08ec")
 		)
 		(instances
 			(project "netdaq"
@@ -19597,7 +19597,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4621442c-e8d8-455c-bdc7-f5b813ce08eb")
+			(uuid "4621442c-e8d8-455c-bdc7-f5b813ce08ed")
 		)
 		(instances
 			(project "netdaq"
@@ -20578,7 +20578,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4621442c-e8d8-455c-bdc7-f5b813ce08eb")
+			(uuid "4621442c-e8d8-455c-bdc7-f5b813ce08ee")
 		)
 		(instances
 			(project "netdaq"

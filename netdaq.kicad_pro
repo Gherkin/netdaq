@@ -625,6 +625,14 @@
     [
       "ea65a3d0-a0be-4201-b06b-091231bedc11",
       "Ethernet Connector"
+    ],
+    [
+      "944febd4-cf2d-4cdf-a15e-06eb4d902218",
+      "DAQ Connector"
+    ],
+    [
+      "475d46f3-a9d1-4d0e-882c-449f9a11ef3e",
+      "PoE Regulator"
     ]
   ],
   "text_variables": {}

@@ -170,6 +170,90 @@
 		)
 	)
 	(sheet
+		(at 156.21 104.14)
+		(size 21.59 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "475d46f3-a9d1-4d0e-882c-449f9a11ef3e")
+		(property "Sheetname" "PoE Regulator"
+			(at 156.21 103.4284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "poe_reg.kicad_sch"
+			(at 156.21 123.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 241.3 146.05)
+		(size 29.21 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "944febd4-cf2d-4cdf-a15e-06eb4d902218")
+		(property "Sheetname" "DAQ Connector"
+			(at 241.3 145.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "daq_conn.kicad_sch"
+			(at 241.3 172.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 189.23 146.05)
 		(size 39.37 33.02)
 		(exclude_from_sim no)
