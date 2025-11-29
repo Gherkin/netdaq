@@ -1,0 +1,97 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "b951df32-7ca8-4567-b86b-4fb061762f5c")
+	(paper "A4")
+	(lib_symbols)
+	(bus_entry
+		(at 118.11 100.33)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "150b33f6-e89a-4d1e-8618-6ee4d5221db3")
+	)
+	(bus_entry
+		(at 118.11 102.87)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0611052-f2df-4577-9605-1408717581e2")
+	)
+	(wire
+		(pts
+			(xy 120.65 105.41) (xy 163.83 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3098264c-8c0c-4eb6-a264-d8d3f2c329f9")
+	)
+	(wire
+		(pts
+			(xy 120.65 102.87) (xy 163.83 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38a906e3-bbe1-4adb-b550-a6ecc6949719")
+	)
+	(bus
+		(pts
+			(xy 101.6 100.33) (xy 118.11 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81502e5b-6d20-44dc-9447-d360e67bf0c6")
+	)
+	(bus
+		(pts
+			(xy 118.11 102.87) (xy 118.11 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6091184-76e5-44cd-8961-4cd6617f5bc5")
+	)
+	(label "USB.D+"
+		(at 151.13 105.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2c53a51c-b846-48c4-9ff7-0cf8b6c3721a")
+	)
+	(label "USB.D-"
+		(at 151.13 102.87 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d0a85d24-e55a-40f0-9f96-610c131cc2fd")
+	)
+	(hierarchical_label "USB{USB}"
+		(shape bidirectional)
+		(at 101.6 100.33 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ea2e2850-eb7f-49fb-b904-3d6287697f42")
+	)
+)

@@ -2271,7 +2271,7 @@
 		)
 		(uuid "aabe590d-1346-457c-b630-dd6768070fe8")
 	)
-	(text "Ethernet PHY"
+	(text "Ethernet Connector"
 		(exclude_from_sim no)
 		(at 200.406 43.688 0)
 		(effects

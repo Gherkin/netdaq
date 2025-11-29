@@ -6,4 +6,5 @@
   (lib (name "MP6004GQ-P")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/MP6004GQ-P/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "PD70100ILD-TR")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/PD70100ILD-TR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "CDHD01")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/CDHD01/CDHD01.pretty")(options "")(descr ""))
+  (lib (name "TPS62A01PDDCR")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/TPS62A01PDDCR/KiCADv6/footprints.pretty")(options "")(descr ""))
 )

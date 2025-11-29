@@ -637,6 +637,18 @@
     [
       "dfd7c564-50b6-4b87-afcf-cfbf80807611",
       "PD Controller"
+    ],
+    [
+      "c9141396-b417-45d3-9560-a5d378bd1b7a",
+      "USB Connector"
+    ],
+    [
+      "3126208c-7808-4087-8557-46cefae30ae4",
+      "Debug Connector"
+    ],
+    [
+      "4a874178-a54c-4eb4-8350-ff261e3dfdab",
+      "3V3 Regulator"
     ]
   ],
   "text_variables": {}
