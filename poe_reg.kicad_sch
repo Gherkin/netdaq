@@ -2236,6 +2236,12 @@
 		(uuid "c71eb540-7268-45e7-a353-fc38cf7687b3")
 	)
 	(junction
+		(at 250.19 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cdd02463-37c9-4f5c-944f-f5f35947ac80")
+	)
+	(junction
 		(at 149.86 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2258,12 +2264,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d67bd591-f61f-493d-8987-ad5ff2bfdd09")
-	)
-	(junction
-		(at 250.19 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d72bdd30-ac01-4db1-93fc-55e9af11de6d")
 	)
 	(junction
 		(at 139.7 67.31)
@@ -2553,6 +2553,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 88.9) (xy 269.24 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "507f577b-8cbb-4464-91a4-e4f9aa6c5560")
+	)
+	(wire
+		(pts
 			(xy 149.86 77.47) (xy 139.7 77.47)
 		)
 		(stroke
@@ -2570,16 +2580,6 @@
 			(type default)
 		)
 		(uuid "59c32442-40e7-455e-a014-5269561c2cb1")
-	)
-	(wire
-		(pts
-			(xy 250.19 83.82) (xy 250.19 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c445145-6610-42f0-80f6-30ef0f812bc2")
 	)
 	(wire
 		(pts
@@ -2720,6 +2720,16 @@
 			(type default)
 		)
 		(uuid "961d3aba-6938-45da-bf29-ce5a42294e0b")
+	)
+	(wire
+		(pts
+			(xy 250.19 88.9) (xy 256.54 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96ab003e-4974-4988-a9a8-de5cae448169")
 	)
 	(wire
 		(pts
@@ -2923,6 +2933,16 @@
 	)
 	(wire
 		(pts
+			(xy 269.24 83.82) (xy 269.24 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecb1dfd0-f681-4082-ac86-7b9798384e70")
+	)
+	(wire
+		(pts
 			(xy 132.08 95.25) (xy 133.35 95.25)
 		)
 		(stroke
@@ -3000,6 +3020,16 @@
 			(justify left bottom)
 		)
 		(uuid "0b70309d-02c0-4555-be46-302bcdf19174")
+	)
+	(label "FLY_VOUT"
+		(at 226.06 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2a772749-49dc-4502-ba52-0bafbd8818e7")
 	)
 	(label "FLY_VCC"
 		(at 86.36 92.71 0)
@@ -3691,6 +3721,92 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e"
 					(reference "TP90")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 260.35 88.9 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6210b0ad-5ff4-44c7-8f64-106612341ba1")
+		(property "Reference" "D7"
+			(at 260.35 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D"
+			(at 260.35 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 260.35 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 260.35 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 260.35 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 260.35 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 260.35 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d1dc1543-bcc6-4c33-98ea-01906dfb5b0c")
+		)
+		(pin "1"
+			(uuid "32f94fd7-0b77-4b7f-b736-874144da046a")
+		)
+		(instances
+			(project ""
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e"
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -5255,7 +5371,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 250.19 83.82 0)
+		(at 269.24 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5264,7 +5380,7 @@
 		(fields_autoplaced yes)
 		(uuid "fd710908-43a6-4674-a504-5077fbfe6adc")
 		(property "Reference" "#PWR074"
-			(at 250.19 87.63 0)
+			(at 269.24 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5273,7 +5389,7 @@
 			)
 		)
 		(property "Value" "+5.0V"
-			(at 250.19 78.74 0)
+			(at 269.24 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5281,7 +5397,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 250.19 83.82 0)
+			(at 269.24 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5290,7 +5406,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 83.82 0)
+			(at 269.24 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5299,7 +5415,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 250.19 83.82 0)
+			(at 269.24 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5311,7 +5427,7 @@
 			(uuid "ebd6515c-b9a8-4d20-b000-b11e3f9bc6cf")
 		)
 		(instances
-			(project ""
+			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e"
 					(reference "#PWR074")
 					(unit 1)
