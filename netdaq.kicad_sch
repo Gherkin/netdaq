@@ -20,6 +20,26 @@
 	)
 	(bus
 		(pts
+			(xy 118.11 93.98) (xy 118.11 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "884bdde0-c221-4c41-a8a4-f273e0f809bf")
+	)
+	(bus
+		(pts
+			(xy 228.6 163.83) (xy 299.72 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa17aac3-4531-48ef-8896-46215f5c34f9")
+	)
+	(bus
+		(pts
 			(xy 177.8 80.01) (xy 199.39 80.01)
 		)
 		(stroke
@@ -27,6 +47,26 @@
 			(type default)
 		)
 		(uuid "b2c676db-21dd-4ef0-9f16-5e51c0557b4d")
+	)
+	(bus
+		(pts
+			(xy 228.6 151.13) (xy 265.43 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc24dd01-907f-4a4e-bb67-dd1355fc99ce")
+	)
+	(bus
+		(pts
+			(xy 118.11 161.29) (xy 189.23 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8ffa511-2622-457a-8f61-6c3f0d9c974f")
 	)
 	(bus
 		(pts
@@ -47,6 +87,16 @@
 			(type default)
 		)
 		(uuid "dfc6c4df-748f-46b3-9b82-bddfeb15011f")
+	)
+	(label "USB{USB}"
+		(at 176.53 161.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "12cf03a0-eabc-4b6d-8ade-faab7ea210ab")
 	)
 	(label "SMI{SMI}"
 		(at 212.09 121.92 90)
@@ -78,6 +128,16 @@
 		)
 		(uuid "54a846c5-0d97-48c0-a0f4-78046fe34614")
 	)
+	(label "SDMMC{MMC}"
+		(at 236.22 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9860ffc2-31f7-4de8-9bd1-f06cdb5bf6a3")
+	)
 	(label "MDI{MDI}"
 		(at 185.42 80.01 0)
 		(effects
@@ -87,6 +147,16 @@
 			(justify left bottom)
 		)
 		(uuid "9aabc7a9-4e51-44c4-993f-7a0ab63a64ea")
+	)
+	(label "DBG_UART{UART}"
+		(at 236.22 163.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f60fc5f4-ebb9-4a05-8bbc-2fc99925147c")
 	)
 	(sheet
 		(at 199.39 74.93)
@@ -170,7 +240,67 @@
 		)
 	)
 	(sheet
-		(at 307.34 154.94)
+		(at 265.43 147.32)
+		(size 19.05 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1813fba9-8b3b-4d19-ab19-e743aa636a8b")
+		(property "Sheetname" "SDMMC"
+			(at 265.43 146.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sdmmc.kicad_sch"
+			(at 265.43 155.5246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 265.43 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "MMC{MMC}" bidirectional
+			(at 265.43 151.13 180)
+			(uuid "e72fd6e7-36f5-4dc8-84c1-aa6b804cd0ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 299.72 156.21)
 		(size 22.86 20.32)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -186,7 +316,7 @@
 		)
 		(uuid "3126208c-7808-4087-8557-46cefae30ae4")
 		(property "Sheetname" "Debug Connector"
-			(at 307.34 154.2284 0)
+			(at 299.72 155.4984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -195,12 +325,22 @@
 			)
 		)
 		(property "Sheetfile" "debug_conn.kicad_sch"
-			(at 307.34 175.8446 0)
+			(at 299.72 177.1146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "UART{UART}" bidirectional
+			(at 299.72 163.83 180)
+			(uuid "19070924-9953-422d-9bd5-adfe4acb6a9f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -338,7 +478,7 @@
 		)
 	)
 	(sheet
-		(at 128.27 74.93)
+		(at 107.95 74.93)
 		(size 20.32 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -353,7 +493,7 @@
 		)
 		(uuid "c9141396-b417-45d3-9560-a5d378bd1b7a")
 		(property "Sheetname" "USB Connector"
-			(at 127.762 72.39 0)
+			(at 107.442 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -362,7 +502,7 @@
 			)
 		)
 		(property "Sheetfile" "usb_conn.kicad_sch"
-			(at 127.762 73.152 0)
+			(at 107.442 73.152 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -371,7 +511,7 @@
 			)
 		)
 		(pin "USB{USB}" bidirectional
-			(at 138.43 93.98 270)
+			(at 118.11 93.98 270)
 			(uuid "dae8792d-f554-4c55-a443-9672b1a4774e")
 			(effects
 				(font
@@ -474,7 +614,7 @@
 			)
 		)
 		(pin "SPI2{SPI}" bidirectional
-			(at 189.23 151.13 180)
+			(at 204.47 179.07 270)
 			(uuid "9c56915a-d470-4861-a584-c93c0a54a6d9")
 			(effects
 				(font
@@ -484,7 +624,7 @@
 			)
 		)
 		(pin "SPI3{SPI}" bidirectional
-			(at 189.23 153.67 180)
+			(at 207.01 179.07 270)
 			(uuid "44f3be96-c781-4271-b45e-95ff3cafef32")
 			(effects
 				(font
@@ -493,18 +633,8 @@
 				(justify left)
 			)
 		)
-		(pin "SPI4{SPI}" bidirectional
-			(at 189.23 156.21 180)
-			(uuid "96e6ef57-d716-45b8-926a-8d59495b5a3c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "SPI5{SPI}" bidirectional
-			(at 189.23 158.75 180)
+			(at 209.55 179.07 270)
 			(uuid "b333557c-aadc-4909-8333-04eff2069754")
 			(effects
 				(font
@@ -514,7 +644,7 @@
 			)
 		)
 		(pin "SPI6{SPI}" bidirectional
-			(at 189.23 161.29 180)
+			(at 212.09 179.07 270)
 			(uuid "768c860e-5f98-48af-9070-917852f651b1")
 			(effects
 				(font
@@ -523,18 +653,8 @@
 				(justify left)
 			)
 		)
-		(pin "SPI7{SPI}" bidirectional
-			(at 189.23 163.83 180)
-			(uuid "1287f961-d788-4ce8-8090-a442847e5ebe")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "{JTAG}" bidirectional
-			(at 228.6 154.94 0)
+			(at 228.6 166.37 0)
 			(uuid "fc593c86-4c52-4bf9-9332-872bc0e751ae")
 			(effects
 				(font
@@ -564,23 +684,23 @@
 			)
 		)
 		(pin "USB_FS{USB}" bidirectional
-			(at 228.6 171.45 0)
+			(at 189.23 163.83 180)
 			(uuid "ca3d6a4d-ef2b-4974-8649-693cab13aa21")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(pin "USB_HS{USB}" bidirectional
-			(at 228.6 168.91 0)
+			(at 189.23 161.29 180)
 			(uuid "b666e42c-5bf5-4670-8f8e-15d57273b76e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(pin "ETH_RST#" output
@@ -606,6 +726,26 @@
 		(pin "SMI{SMI}" bidirectional
 			(at 212.09 146.05 90)
 			(uuid "5b9647e6-38d0-47ad-98f0-7f30ab6d0de2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "I2C7{I2C}" bidirectional
+			(at 228.6 157.48 0)
+			(uuid "e6b60101-0bb5-4872-a1c8-d6f1ace6d8d3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART4{UART}" bidirectional
+			(at 228.6 163.83 0)
+			(uuid "e33a70bd-a2f4-4af1-a7c5-b70a1dfeafe5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -663,6 +803,26 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "POE_V+" output
+			(at 163.83 93.98 270)
+			(uuid "c1c5909d-e6b4-439a-ae92-886cea7fb887")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "POE_V-" output
+			(at 166.37 93.98 270)
+			(uuid "b16ba324-41b4-4145-9e94-fd3ec168601c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
