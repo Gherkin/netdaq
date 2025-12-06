@@ -10613,7 +10613,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 347.98 140.97 0)
+		(at 332.74 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10621,7 +10621,7 @@
 		(dnp no)
 		(uuid "1e9fe583-7cb7-4b98-9b9f-1247a888e647")
 		(property "Reference" "C12"
-			(at 348.996 138.176 0)
+			(at 333.756 138.176 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10630,7 +10630,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 348.996 143.51 0)
+			(at 333.756 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10639,7 +10639,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 348.9452 144.78 0)
+			(at 333.7052 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10648,7 +10648,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 347.98 140.97 0)
+			(at 332.74 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10657,7 +10657,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 347.98 140.97 0)
+			(at 332.74 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13745,7 +13745,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 332.74 140.97 0)
+		(at 347.98 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13753,7 +13753,7 @@
 		(dnp no)
 		(uuid "61b2ca31-df7f-44db-b03c-e74d9770dbf7")
 		(property "Reference" "C10"
-			(at 333.756 138.176 0)
+			(at 348.996 138.176 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13762,7 +13762,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 333.756 143.51 0)
+			(at 348.996 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13771,7 +13771,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 333.7052 144.78 0)
+			(at 348.9452 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13780,7 +13780,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 332.74 140.97 0)
+			(at 347.98 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13789,7 +13789,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 332.74 140.97 0)
+			(at 347.98 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18743,7 +18743,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 309.88 121.92 0)
+		(at 325.12 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18751,7 +18751,7 @@
 		(dnp no)
 		(uuid "c65882d0-8491-4d9d-98c5-4fdb6dd7390f")
 		(property "Reference" "C4"
-			(at 310.896 119.126 0)
+			(at 326.136 119.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18760,7 +18760,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 310.896 124.46 0)
+			(at 326.136 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18769,7 +18769,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 310.8452 125.73 0)
+			(at 326.0852 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18778,7 +18778,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 309.88 121.92 0)
+			(at 325.12 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18787,7 +18787,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 309.88 121.92 0)
+			(at 325.12 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19390,7 +19390,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 325.12 121.92 0)
+		(at 309.88 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19398,7 +19398,7 @@
 		(dnp no)
 		(uuid "d01cc280-41fc-4d25-a197-43015b455a74")
 		(property "Reference" "C6"
-			(at 326.136 119.126 0)
+			(at 310.896 119.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19407,7 +19407,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 326.136 124.46 0)
+			(at 310.896 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19416,7 +19416,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 326.0852 125.73 0)
+			(at 310.8452 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19425,7 +19425,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 325.12 121.92 0)
+			(at 309.88 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19434,7 +19434,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 325.12 121.92 0)
+			(at 309.88 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21156,7 +21156,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 294.64 121.92 0)
+		(at 302.26 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21164,7 +21164,7 @@
 		(dnp no)
 		(uuid "f2d5f569-6ec3-496f-9dc1-1e0f16249a0c")
 		(property "Reference" "C7"
-			(at 295.656 119.126 0)
+			(at 303.276 119.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21173,7 +21173,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 295.656 124.46 0)
+			(at 303.276 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21182,7 +21182,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 295.6052 125.73 0)
+			(at 303.2252 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21191,7 +21191,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 294.64 121.92 0)
+			(at 302.26 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21200,7 +21200,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 294.64 121.92 0)
+			(at 302.26 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21823,7 +21823,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 302.26 121.92 0)
+		(at 294.64 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21831,7 +21831,7 @@
 		(dnp no)
 		(uuid "fdd9fc2b-8174-40fa-8827-640156e8ce7e")
 		(property "Reference" "C8"
-			(at 303.276 119.126 0)
+			(at 295.656 119.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21840,7 +21840,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 303.276 124.46 0)
+			(at 295.656 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21849,7 +21849,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 303.2252 125.73 0)
+			(at 295.6052 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21858,7 +21858,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 302.26 121.92 0)
+			(at 294.64 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21867,7 +21867,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 302.26 121.92 0)
+			(at 294.64 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)

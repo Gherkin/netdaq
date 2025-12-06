@@ -7,4 +7,5 @@
   (lib (name "PD70100ILD-TR")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/PD70100ILD-TR/KiCADv6/2025-11-27_20-33-57.kicad_sym")(options "")(descr ""))
   (lib (name "CDHD01")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/CDHD01/CDHD01.kicad_sym")(options "")(descr ""))
   (lib (name "TPS62A01PDDCR")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/TPS62A01PDDCR/KiCADv6/2025-11-29_11-42-58.kicad_sym")(options "")(descr ""))
+  (lib (name "TLA2518IRTER")(type "KiCad")(uri "${KIPRJMOD}/symbols - footprints/TLA2518IRTER/KiCADv6/2025-12-06_14-18-00.kicad_sym")(options "")(descr ""))
 )
