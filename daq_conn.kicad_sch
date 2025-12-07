@@ -8275,7 +8275,7 @@
 		)
 		(uuid "96c012f9-9404-4d02-87fc-99426c34ca93")
 	)
-	(label "ADC[24..32]"
+	(label "ADC[25..32]"
 		(at 77.47 186.69 180)
 		(effects
 			(font
@@ -8627,7 +8627,7 @@
 		)
 		(uuid "990d026f-e171-4e51-8166-f379d4b88a41")
 	)
-	(hierarchical_label "ADC[24..32]"
+	(hierarchical_label "ADC[25..32]"
 		(shape bidirectional)
 		(at 52.07 186.69 180)
 		(effects

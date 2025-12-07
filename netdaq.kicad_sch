@@ -10,6 +10,16 @@
 	)
 	(bus
 		(pts
+			(xy 208.28 130.81) (xy 208.28 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11c9a6e4-3bb9-44b9-9de5-be01a31fc433")
+	)
+	(bus
+		(pts
 			(xy 215.9 236.22) (xy 254 236.22)
 		)
 		(stroke
@@ -17,16 +27,6 @@
 			(type default)
 		)
 		(uuid "1225f12d-f3d6-4eb1-9643-d518a89032fb")
-	)
-	(bus
-		(pts
-			(xy 213.36 130.81) (xy 213.36 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "151239a4-481a-4c58-8b62-82a75a6f8b39")
 	)
 	(bus
 		(pts
@@ -67,16 +67,6 @@
 			(type default)
 		)
 		(uuid "360394e0-8c18-4278-8ea4-ce10b498a7b0")
-	)
-	(bus
-		(pts
-			(xy 208.28 130.81) (xy 208.28 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d628485-43b7-4297-9de1-4c58d7bd4706")
 	)
 	(bus
 		(pts
@@ -328,6 +318,16 @@
 		)
 		(uuid "fa4c3f36-b693-469a-97e9-0f12a64d2db4")
 	)
+	(bus
+		(pts
+			(xy 213.36 130.81) (xy 213.36 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff1f1f94-347c-4ee9-87aa-2e3aacbf371e")
+	)
 	(label "GPIO[25..32]"
 		(at 254 228.6 90)
 		(effects
@@ -368,8 +368,8 @@
 		)
 		(uuid "2cd815c7-9b18-463c-a23b-1ddee8ce99f6")
 	)
-	(label "MCU_SPI2_ADC1"
-		(at 208.28 147.32 90)
+	(label "MCU_SPI2_ADC1{SPI}"
+		(at 208.28 151.13 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -398,8 +398,8 @@
 		)
 		(uuid "54a846c5-0d97-48c0-a0f4-78046fe34614")
 	)
-	(label "MCU_SPI6_ADC4"
-		(at 215.9 147.2053 90)
+	(label "MCU_SPI6_ADC4{SPI}"
+		(at 215.9 151.13 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -448,8 +448,8 @@
 		)
 		(uuid "a30f16cc-ef73-4adf-8aba-d85c23744d8f")
 	)
-	(label "MCU_SPI5_ADC3"
-		(at 213.36 147.32 90)
+	(label "MCU_SPI5_ADC3{SPI}"
+		(at 213.36 151.13 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -458,8 +458,8 @@
 		)
 		(uuid "b9ad7af4-e8f1-4737-8ee6-bf23567f4335")
 	)
-	(label "MCU_SPI3_ADC2"
-		(at 210.82 147.32 90)
+	(label "MCU_SPI3_ADC2{SPI}"
+		(at 210.82 151.13 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1043,9 +1043,9 @@
 				(justify right)
 			)
 		)
-		(pin "ADC[24..32]" bidirectional
+		(pin "ADC[25..32]" bidirectional
 			(at 215.9 242.57 90)
-			(uuid "f4916747-3e24-48e0-8858-2d4d35d422b9")
+			(uuid "7f90b077-813c-49a5-a205-5c5773bfd204")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1328,26 +1328,6 @@
 				(justify left)
 			)
 		)
-		(pin "USB_FS{USB}" bidirectional
-			(at 193.04 115.57 180)
-			(uuid "ca3d6a4d-ef2b-4974-8649-693cab13aa21")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "USB_HS{USB}" bidirectional
-			(at 193.04 113.03 180)
-			(uuid "b666e42c-5bf5-4670-8f8e-15d57273b76e")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "ETH_RST#" output
 			(at 210.82 97.79 90)
 			(uuid "99146a6f-8c68-412b-bb42-1d74faa4d546")
@@ -1396,6 +1376,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "USB{USB}" bidirectional
+			(at 193.04 113.03 180)
+			(uuid "2ace3722-90f5-42da-bbf0-192a46dd4e19")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
