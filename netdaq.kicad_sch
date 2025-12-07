@@ -10,6 +10,16 @@
 	)
 	(bus
 		(pts
+			(xy 215.9 236.22) (xy 254 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1225f12d-f3d6-4eb1-9643-d518a89032fb")
+	)
+	(bus
+		(pts
 			(xy 213.36 130.81) (xy 213.36 161.29)
 		)
 		(stroke
@@ -27,6 +37,26 @@
 			(type default)
 		)
 		(uuid "17ff4846-6988-49f6-a9f4-92c1e0b1e3c4")
+	)
+	(bus
+		(pts
+			(xy 208.28 233.68) (xy 198.12 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1eef1cca-4c8a-42df-bd04-6e6d3074a1ca")
+	)
+	(bus
+		(pts
+			(xy 208.28 242.57) (xy 208.28 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d7d21e6-2577-4318-9641-3fb3d98d03fc")
 	)
 	(bus
 		(pts
@@ -48,6 +78,16 @@
 		)
 		(uuid "6d628485-43b7-4297-9de1-4c58d7bd4706")
 	)
+	(bus
+		(pts
+			(xy 198.12 215.9) (xy 198.12 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7dd14072-cfb4-480a-97c1-5183b3e62cef")
+	)
 	(wire
 		(pts
 			(xy 210.82 45.72) (xy 210.82 97.79)
@@ -57,6 +97,16 @@
 			(type default)
 		)
 		(uuid "7fe5b5d5-71eb-4fdf-af8d-ba939211c38e")
+	)
+	(bus
+		(pts
+			(xy 212.09 233.68) (xy 226.06 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81754a24-40e8-4394-a229-a622ab19efdd")
 	)
 	(bus
 		(pts
@@ -97,6 +147,26 @@
 			(type default)
 		)
 		(uuid "997e791d-ea88-4430-94f7-88d65a01aeec")
+	)
+	(bus
+		(pts
+			(xy 254 215.9) (xy 254 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99ea626e-b952-4284-a72c-12db07e99349")
+	)
+	(bus
+		(pts
+			(xy 204.47 242.57) (xy 204.47 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1e35693-7fab-4808-8e81-6db89a3a7533")
 	)
 	(bus
 		(pts
@@ -150,6 +220,16 @@
 	)
 	(bus
 		(pts
+			(xy 212.09 242.57) (xy 212.09 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd812a5e-5d77-4ee4-84c0-695f55f3ee8a")
+	)
+	(bus
+		(pts
 			(xy 170.18 152.4) (xy 170.18 194.31)
 		)
 		(stroke
@@ -180,6 +260,16 @@
 	)
 	(bus
 		(pts
+			(xy 170.18 215.9) (xy 170.18 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da9b6e27-c087-4f32-a525-321513df9beb")
+	)
+	(bus
+		(pts
 			(xy 215.9 45.72) (xy 215.9 97.79)
 		)
 		(stroke
@@ -200,6 +290,36 @@
 	)
 	(bus
 		(pts
+			(xy 204.47 236.22) (xy 170.18 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4757e21-4c96-4a15-b50c-53e99e5f4e80")
+	)
+	(bus
+		(pts
+			(xy 226.06 215.9) (xy 226.06 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e530d9dd-efc1-4100-ab09-5d75032c56a0")
+	)
+	(bus
+		(pts
+			(xy 215.9 242.57) (xy 215.9 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f59baca8-64fc-40cb-bc4d-126c6dc9009e")
+	)
+	(bus
+		(pts
 			(xy 213.36 161.29) (xy 226.06 161.29)
 		)
 		(stroke
@@ -207,6 +327,16 @@
 			(type default)
 		)
 		(uuid "fa4c3f36-b693-469a-97e9-0f12a64d2db4")
+	)
+	(label "GPIO[25..32]"
+		(at 254 228.6 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "074b7510-53b8-4bb3-9843-84cec68853d2")
 	)
 	(label "USB{USB}"
 		(at 180.34 113.03 0)
@@ -228,6 +358,26 @@
 		)
 		(uuid "1e9caabe-e396-4ee9-8fac-c9fb52dcfc01")
 	)
+	(label "GPIO[17..24]"
+		(at 226.06 228.6 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2cd815c7-9b18-463c-a23b-1ddee8ce99f6")
+	)
+	(label "MCU_SPI2_ADC1"
+		(at 208.28 147.32 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "44611af2-5bcd-4098-8d13-0a59a999b087")
+	)
 	(label "RMII{RMII}"
 		(at 213.36 73.66 90)
 		(effects
@@ -248,6 +398,26 @@
 		)
 		(uuid "54a846c5-0d97-48c0-a0f4-78046fe34614")
 	)
+	(label "MCU_SPI6_ADC4"
+		(at 215.9 147.2053 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7c734ff9-c4f1-4839-9334-0b6ad3049276")
+	)
+	(label "GPIO[9..16]"
+		(at 198.12 228.6 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7e328474-9438-4af3-803f-3c25368efca0")
+	)
 	(label "SDMMC{MMC}"
 		(at 240.03 102.87 0)
 		(effects
@@ -267,6 +437,36 @@
 			(justify left bottom)
 		)
 		(uuid "9aabc7a9-4e51-44c4-993f-7a0ab63a64ea")
+	)
+	(label "GPIO[1..8]"
+		(at 170.18 228.6 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a30f16cc-ef73-4adf-8aba-d85c23744d8f")
+	)
+	(label "MCU_SPI5_ADC3"
+		(at 213.36 147.32 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b9ad7af4-e8f1-4737-8ee6-bf23567f4335")
+	)
+	(label "MCU_SPI3_ADC2"
+		(at 210.82 147.32 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f4b2512c-4371-4106-8065-1af51ae90203")
 	)
 	(label "DBG_UART{UART}"
 		(at 240.03 115.57 0)
@@ -678,7 +878,7 @@
 		)
 	)
 	(sheet
-		(at 162.56 223.52)
+		(at 104.14 212.09)
 		(size 15.24 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -694,7 +894,7 @@
 		)
 		(uuid "7a83739f-85b4-43e8-9dfb-6f7324317528")
 		(property "Sheetname" "ADC Filter"
-			(at 162.56 222.8084 0)
+			(at 104.14 211.3784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -703,7 +903,7 @@
 			)
 		)
 		(property "Sheetfile" "adc_filt.kicad_sch"
-			(at 162.56 250.7746 0)
+			(at 104.14 239.3446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -787,7 +987,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -797,7 +996,7 @@
 		)
 		(uuid "944febd4-cf2d-4cdf-a15e-06eb4d902218")
 		(property "Sheetname" "DAQ Connector"
-			(at 195.58 241.8584 0)
+			(at 195.58 270.256 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -806,12 +1005,52 @@
 			)
 		)
 		(property "Sheetfile" "daq_conn.kicad_sch"
-			(at 195.58 268.5546 0)
+			(at 195.58 271.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "ADC[1..8]" bidirectional
+			(at 204.47 242.57 90)
+			(uuid "5bbb4b85-20e5-4b61-8876-d96a267948d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ADC[9..16]" bidirectional
+			(at 208.28 242.57 90)
+			(uuid "173736aa-391e-45b3-a91b-2158cf8a23a3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ADC[17..24]" bidirectional
+			(at 212.09 242.57 90)
+			(uuid "7552c564-390c-442e-9241-1b08b3f9e689")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ADC[24..32]" bidirectional
+			(at 215.9 242.57 90)
+			(uuid "f4916747-3e24-48e0-8858-2d4d35d422b9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
