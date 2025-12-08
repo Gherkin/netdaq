@@ -496,11 +496,35 @@
         "clearance": 0.2,
         "name": "PWR",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.3,
         "via_diameter": 0.25,
         "via_drill": 0.15
+      },
+      {
+        "name": "SPI1",
+        "pcb_color": "rgb(0, 35, 255)",
+        "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
+      },
+      {
+        "name": "SPI2",
+        "pcb_color": "rgb(255, 239, 0)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
+      },
+      {
+        "name": "SPI3",
+        "pcb_color": "rgb(81, 255, 0)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
+      },
+      {
+        "name": "SPI4",
+        "pcb_color": "rgb(0, 202, 255)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
       }
     ],
     "meta": {
@@ -512,6 +536,22 @@
       {
         "netclass": "PWR",
         "pattern": "+*"
+      },
+      {
+        "netclass": "SPI1",
+        "pattern": "/MCU_SPI2*"
+      },
+      {
+        "netclass": "SPI2",
+        "pattern": "/MCU_SPI3*"
+      },
+      {
+        "netclass": "SPI3",
+        "pattern": "/MCU_SPI5*"
+      },
+      {
+        "netclass": "SPI4",
+        "pattern": "/MCU_SPI6*"
       }
     ]
   },

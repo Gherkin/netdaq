@@ -459,7 +459,7 @@
 		(uuid "b9ad7af4-e8f1-4737-8ee6-bf23567f4335")
 	)
 	(label "MCU_SPI3_ADC2{SPI}"
-		(at 210.82 151.13 90)
+		(at 210.3974 151.1476 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1268,36 +1268,6 @@
 				(justify left)
 			)
 		)
-		(pin "SPI3{SPI}" bidirectional
-			(at 210.82 130.81 270)
-			(uuid "44f3be96-c781-4271-b45e-95ff3cafef32")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "SPI5{SPI}" bidirectional
-			(at 213.36 130.81 270)
-			(uuid "b333557c-aadc-4909-8333-04eff2069754")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "SPI6{SPI}" bidirectional
-			(at 215.9 130.81 270)
-			(uuid "768c860e-5f98-48af-9070-917852f651b1")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "{JTAG}" bidirectional
 			(at 232.41 118.11 0)
 			(uuid "fc593c86-4c52-4bf9-9332-872bc0e751ae")
@@ -1381,6 +1351,36 @@
 		(pin "USB{USB}" bidirectional
 			(at 193.04 113.03 180)
 			(uuid "2ace3722-90f5-42da-bbf0-192a46dd4e19")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI3{SPI}" bidirectional
+			(at 215.9 130.81 270)
+			(uuid "73dcca08-800b-4064-8f88-f88033e3015c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI5{SPI}" bidirectional
+			(at 210.82 130.81 270)
+			(uuid "e43e20b2-0c28-47a8-94dc-679681890c48")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI6{SPI}" bidirectional
+			(at 213.36 130.81 270)
+			(uuid "5bbb0773-9444-45b9-aab0-e19d7aed5ce1")
 			(effects
 				(font
 					(size 1.27 1.27)
