@@ -3580,7 +3580,7 @@
 		(members "SDDAT0" "SDDAT1" "SDDAT2" "SDDAT3" "SDCMD" "SDCD" "SDWP" "SDCK")
 	)
 	(bus_alias "RMII"
-		(members)
+		(members "REFCK" "RXD1" "RXD0" "RXER" "CRSDV" "TXEN" "TXD0" "TXD1")
 	)
 	(bus_alias "SMI"
 		(members "MDC" "MDIO")

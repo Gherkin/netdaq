@@ -70,6 +70,16 @@
 	)
 	(bus
 		(pts
+			(xy 213.36 45.72) (xy 213.36 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3740752f-92d4-49ff-b363-78a402dec141")
+	)
+	(bus
+		(pts
 			(xy 198.12 215.9) (xy 198.12 233.68)
 		)
 		(stroke
@@ -270,16 +280,6 @@
 	)
 	(bus
 		(pts
-			(xy 213.36 45.72) (xy 213.36 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dfc6c4df-748f-46b3-9b82-bddfeb15011f")
-	)
-	(bus
-		(pts
 			(xy 204.47 236.22) (xy 170.18 236.22)
 		)
 		(stroke
@@ -378,16 +378,6 @@
 		)
 		(uuid "44611af2-5bcd-4098-8d13-0a59a999b087")
 	)
-	(label "RMII{RMII}"
-		(at 213.36 73.66 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4bb4b082-5ba4-4f8f-8fe3-0ce1902884fb")
-	)
 	(label "MCU_ETH_RST#"
 		(at 210.82 73.66 90)
 		(effects
@@ -458,8 +448,18 @@
 		)
 		(uuid "b9ad7af4-e8f1-4737-8ee6-bf23567f4335")
 	)
+	(label "RMII{RMII}"
+		(at 213.36 97.79 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d30048df-99c1-49cf-92db-622911de48ae")
+	)
 	(label "MCU_SPI3_ADC2{SPI}"
-		(at 210.3974 151.1476 90)
+		(at 210.82 151.13 90)
 		(effects
 			(font
 				(size 1.27 1.27)
