@@ -4,7 +4,107 @@
 	(generator_version "10.0")
 	(uuid "2970f661-65ab-4e2b-aeda-d76d1044f2b8")
 	(paper "A3")
-	(lib_symbols)
+	(lib_symbols
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
 	(bus
 		(pts
 			(xy 208.28 130.81) (xy 208.28 152.4)
@@ -45,6 +145,16 @@
 		)
 		(uuid "1eef1cca-4c8a-42df-bd04-6e6d3074a1ca")
 	)
+	(wire
+		(pts
+			(xy 167.64 45.72) (xy 167.64 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "210ef27a-db4a-4f6a-9253-d967edd241f6")
+	)
 	(bus
 		(pts
 			(xy 208.28 242.57) (xy 208.28 233.68)
@@ -74,6 +184,16 @@
 			(type default)
 		)
 		(uuid "3740752f-92d4-49ff-b363-78a402dec141")
+	)
+	(wire
+		(pts
+			(xy 170.18 45.72) (xy 170.18 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "771c2e9c-f24b-4f95-872a-743552de9008")
 	)
 	(bus
 		(pts
@@ -114,6 +234,16 @@
 			(type default)
 		)
 		(uuid "884bdde0-c221-4c41-a8a4-f273e0f809bf")
+	)
+	(wire
+		(pts
+			(xy 167.64 73.66) (xy 167.64 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b2b8b83-cc05-426b-9c9b-9dce51ae1ce7")
 	)
 	(bus
 		(pts
@@ -475,6 +605,310 @@
 		)
 		(uuid "f60fc5f4-ebb9-4a05-8bbc-2fc99925147c")
 	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 41.91 105.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0650c596-314a-4fb6-b566-b6faa971073c")
+		(property "Reference" "H3"
+			(at 44.45 104.1399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 44.45 106.6799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO14580"
+			(at 41.91 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 41.91 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 59.69 111.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "69aaecef-296c-45ea-b5cd-329549703f66")
+		(property "Reference" "H2"
+			(at 62.23 110.4899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 62.23 113.0299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO14580"
+			(at 59.69 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 59.69 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 59.69 105.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a0224166-0430-47ca-ab0a-78a8c973355d")
+		(property "Reference" "H1"
+			(at 62.23 104.1399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 62.23 106.6799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO14580"
+			(at 59.69 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 59.69 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 41.91 111.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d1a7b06b-aadd-467d-b726-4d167b8aa032")
+		(property "Reference" "H4"
+			(at 44.45 110.4899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 44.45 113.0299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO14580"
+			(at 41.91 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 41.91 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(sheet
 		(at 203.2 26.67)
 		(size 21.59 19.05)
@@ -813,7 +1247,7 @@
 		)
 	)
 	(sheet
-		(at 160.02 55.88)
+		(at 160.02 80.01)
 		(size 21.59 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -829,7 +1263,7 @@
 		)
 		(uuid "475d46f3-a9d1-4d0e-882c-449f9a11ef3e")
 		(property "Sheetname" "PoE Regulator"
-			(at 160.02 55.1684 0)
+			(at 160.02 79.2984 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -840,7 +1274,7 @@
 			)
 		)
 		(property "Sheetfile" "poe_reg.kicad_sch"
-			(at 160.02 75.5146 0)
+			(at 160.02 99.6446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -848,6 +1282,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "VIN" input
+			(at 167.64 80.01 90)
+			(uuid "ecea1fd2-a204-45c9-bf53-6abbc018e4f1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -1221,7 +1665,7 @@
 		)
 	)
 	(sheet
-		(at 160.02 85.09)
+		(at 160.02 55.88)
 		(size 21.59 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1237,7 +1681,7 @@
 		)
 		(uuid "dfd7c564-50b6-4b87-afcf-cfbf80807611")
 		(property "Sheetname" "PD Controller"
-			(at 160.02 84.3784 0)
+			(at 160.02 55.1684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1248,7 +1692,7 @@
 			)
 		)
 		(property "Sheetfile" "pd_ctrl.kicad_sch"
-			(at 160.02 103.4546 0)
+			(at 160.02 74.2446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1256,6 +1700,36 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "POE_V+" output
+			(at 167.64 73.66 270)
+			(uuid "9bc9fd9a-43df-4115-8391-e221f3a3cce9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VIN+" input
+			(at 167.64 55.88 90)
+			(uuid "effe459e-223f-4908-be7a-1dbac96274b7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VIN-" input
+			(at 170.18 55.88 90)
+			(uuid "050d7da7-9a15-4e85-bcd6-32868d37920f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances

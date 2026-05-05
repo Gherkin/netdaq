@@ -284,7 +284,7 @@
 				)
 			)
 			(pin output line
-				(at 40.64 0 180)
+				(at 39.37 -5.08 180)
 				(length 7.62)
 				(name "SW"
 					(effects
@@ -302,7 +302,7 @@
 				)
 			)
 			(pin output line
-				(at 40.64 -2.54 180)
+				(at 39.37 -7.62 180)
 				(length 7.62)
 				(name "SW"
 					(effects
@@ -312,6 +312,24 @@
 					)
 				)
 				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin unspecified line
+				(at 40.64 0 180)
+				(length 7.62)
+				(name "FB2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -330,24 +348,6 @@
 					)
 				)
 				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 40.64 -22.86 180)
-				(length 7.62)
-				(name "FB2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)

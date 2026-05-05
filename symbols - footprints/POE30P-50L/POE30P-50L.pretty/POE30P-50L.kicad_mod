@@ -1,0 +1,149 @@
+(footprint "POE30P-50L"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -6.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "47620886-65f0-40b1-81bf-8bfa18524c40")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "POE30P-50L"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5745a1eb-f427-467e-b8d2-a430af96049e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a7b5160f-5496-490f-9e2b-f4df1d63823e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa83bedd-e4c5-439d-8a68-5e0f540880d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -4.3 -5.46)
+		(end 4.3 5.46)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6c8b820a-b5bd-4c52-a6e8-193089de86f3")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b8f0f3a1-e474-42d7-a60f-788bfeb01ad0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -5.715 3.75)
+		(size 2.03 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "f5d9b908-04f1-4c09-a738-9fe3ae806da5")
+	)
+	(pad "2" smd roundrect
+		(at -5.715 1.25)
+		(size 2.03 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "f0bece38-2e37-400c-87cc-6ed51729fd37")
+	)
+	(pad "3" smd roundrect
+		(at -5.715 -1.25)
+		(size 2.03 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "7d3e4754-f1e6-495e-8f45-602d084a3be0")
+	)
+	(pad "4" smd roundrect
+		(at -5.715 -3.75)
+		(size 2.03 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "4f475d01-ce83-49b0-bd45-d12e0ca843d3")
+	)
+	(pad "5" smd roundrect
+		(at 5.715 -3.75)
+		(size 2.03 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "7639035d-63c2-4b8f-b8c7-217b6120d4f5")
+	)
+	(pad "6" smd roundrect
+		(at 5.715 -1.25)
+		(size 2.03 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "390aa718-41fc-442d-84d3-cfc02d300e3a")
+	)
+	(pad "7" smd roundrect
+		(at 5.715 1.25)
+		(size 2.03 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "d66500c7-8392-4531-aca7-a059638b6aea")
+	)
+	(pad "8" smd roundrect
+		(at 5.715 3.75)
+		(size 2.03 1.27)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "9aa20597-95b3-4b03-a72f-4560016f68c9")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/symbols - footprints/POE30P-50L/POE30P-50L.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)
