@@ -13,4 +13,6 @@
 	(lib (name "SMB") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/SMB(DO-214AA)/SMB.pretty") (options "") (descr ""))
 	(lib (name "MMBZ5256ELT1G") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/MMBZ5256ELT1G/MMBZ5256ELT1G.pretty") (options "") (descr ""))
 	(lib (name "C42400252") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C42400252/easyeda2kicad.pretty") (options "") (descr ""))
+	(lib (name "C236272") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C236272/easyeda2kicad.pretty") (options "") (descr ""))
+	(lib (name "C913480") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C913480/C913480.pretty") (options "") (descr ""))
 )

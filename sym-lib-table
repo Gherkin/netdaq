@@ -10,4 +10,6 @@
 	(lib (name "TLA2518IRTER") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/TLA2518IRTER/KiCADv6/2025-12-06_14-18-00.kicad_sym") (options "") (descr ""))
 	(lib (name "MP8030GQJ-P") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/MP8030GQJ-P/2026-04-28_20-07-43.kicad_sym") (options "") (descr ""))
 	(lib (name "C42400252") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C42400252/easyeda2kicad.kicad_sym") (options "") (descr ""))
+	(lib (name "C236272") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C236272/easyeda2kicad.kicad_sym") (options "") (descr ""))
+	(lib (name "C913480") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C913480/C913480.kicad_sym") (options "") (descr ""))
 )
