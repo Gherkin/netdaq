@@ -205,6 +205,16 @@
 		)
 		(uuid "7dd14072-cfb4-480a-97c1-5183b3e62cef")
 	)
+	(bus
+		(pts
+			(xy 232.41 118.11) (xy 303.53 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fad7bf6-4448-4702-9987-6adbed8b4ddd")
+	)
 	(wire
 		(pts
 			(xy 210.82 45.72) (xy 210.82 97.79)
@@ -395,6 +405,16 @@
 		)
 		(uuid "da9b6e27-c087-4f32-a525-321513df9beb")
 	)
+	(wire
+		(pts
+			(xy 232.41 120.65) (xy 303.53 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "daeda0b5-057d-45d5-a50b-4c58d5f4ddd0")
+	)
 	(bus
 		(pts
 			(xy 215.9 45.72) (xy 215.9 97.79)
@@ -465,6 +485,16 @@
 		)
 		(uuid "074b7510-53b8-4bb3-9843-84cec68853d2")
 	)
+	(label "MCU_RST#"
+		(at 240.03 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0b741cd5-7007-45d1-af08-f971ecafe51c")
+	)
 	(label "USB{USB}"
 		(at 180.34 113.03 0)
 		(effects
@@ -484,6 +514,16 @@
 			(justify left bottom)
 		)
 		(uuid "1e9caabe-e396-4ee9-8fac-c9fb52dcfc01")
+	)
+	(label "JTAG{JTAG}"
+		(at 240.03 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "23d7e47e-d104-454f-9e94-ef3d4601a5b4")
 	)
 	(label "GPIO[17..24]"
 		(at 226.06 228.6 90)
@@ -1173,6 +1213,26 @@
 				(justify left)
 			)
 		)
+		(pin "DBG_RST#" output
+			(at 303.53 120.65 180)
+			(uuid "a225ea96-db27-4d6d-92cd-2de9b47c0305")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "JTAG{JTAG}" bidirectional
+			(at 303.53 118.11 180)
+			(uuid "7231ade3-2c82-4918-b024-596f9b8ce923")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
@@ -1797,18 +1857,8 @@
 				(justify left)
 			)
 		)
-		(pin "{JTAG}" bidirectional
-			(at 232.41 118.11 0)
-			(uuid "fc593c86-4c52-4bf9-9332-872bc0e751ae")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "RESET#" input
-			(at 232.41 127 0)
+			(at 232.41 120.65 0)
 			(uuid "47eaac84-d39a-4010-9fdb-26716cdcb34b")
 			(effects
 				(font
@@ -1915,6 +1965,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "JTAG{JTAG}" bidirectional
+			(at 232.41 118.11 0)
+			(uuid "ff12efda-6eef-4d98-a2ae-bc9f9fa8d501")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances

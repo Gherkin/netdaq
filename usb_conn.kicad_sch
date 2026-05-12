@@ -3255,6 +3255,59 @@
 			(uuid "263e6db5-f4dc-4baa-9d5c-20fc18d49dc0")
 		)
 	)
+	(rule_area
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(polyline
+			(pts
+				(xy 113.03 110.49) (xy 113.03 118.11) (xy 116.84 118.11) (xy 116.84 110.49)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid "c7357426-05be-4f65-ba70-b3c6ccecf7d3")
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 114.3 110.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d54013bf-6a61-4029-bdbc-0271ac8511ef")
+		(property "Net Class" "diff90"
+			(at 108.204 106.426 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -73.66 7.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
@@ -3267,7 +3320,7 @@
 			(justify left bottom)
 		)
 		(uuid "f2682de4-1a1b-40c8-8119-d4d266640d3b")
-		(property "Net Class" "USB2_DP"
+		(property "Net Class" "diff90"
 			(at 148.0185 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -5,6 +5,483 @@
 	(uuid "97416748-7e5c-4bf4-ab93-2f2a0b3843f6")
 	(paper "A3")
 	(lib_symbols
+		(symbol "C22375349:TS110926043"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TS110926043"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "C22375349:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.5"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C22375349"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TS110926043_0_1"
+				(polyline
+					(pts
+						(xy -2.54 2.54) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 1.52)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 1.52)
+					(radius 0.13)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.52) (xy -1.02 -1.52)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.52) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy -2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -7.62 2.54 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 2.54 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -7.62 -2.54 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 -2.54 180)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "C82045:BSS138LT1G"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "Q"
+				(at 0 10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "BSS138LT1G"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "C82045:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html"
+				(at 0 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C82045"
+				(at 0 -17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "BSS138LT1G_0_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 2.29) (xy -0.51 -2.29)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.29) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.78) (xy 2.54 1.78) (xy 2.54 2.54) (xy 5.08 2.54) (xy 5.08 0.51)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 1.52 -0.51) (xy 1.52 0.51) (xy 0 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 2.54 0) (xy 2.54 -2.54) (xy 5.08 -2.54) (xy 5.08 -0.76)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -0.51) (xy 0 0.51)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.29) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -1.78) (xy 0 -1.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0.51) (xy 4.32 -0.76) (xy 5.84 -0.76) (xy 5.08 0.51)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.1 0.51) (xy 5.59 0.51) (xy 4.57 0.51) (xy 4.06 0.51)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:TestPoint"
 			(pin_numbers
 				(hide yes)
@@ -2996,506 +3473,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Simulation_SPICE:NMOS"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "Q"
-				(at 5.08 1.27 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "NMOS"
-				(at 5.08 -1.27 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 5.08 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
-				(at 0 -12.7 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "N-MOSFET transistor, drain/source/gate"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Sim.Device" "NMOS"
-				(at 0 -17.145 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Sim.Type" "VDMOS"
-				(at 0 -19.05 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Sim.Pins" "1=D 2=G 3=S"
-				(at 0 -15.24 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "transistor NMOS N-MOS N-MOSFET simulation"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "NMOS_0_1"
-				(polyline
-					(pts
-						(xy 0.254 1.905) (xy 0.254 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.254 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 2.286) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0.508) (xy 0.762 -0.508)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.27) (xy 0.762 -2.286)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.651 0)
-					(radius 2.794)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy 2.54 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 1.778)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 2.54 -1.778)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "NMOS_1_1"
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "G"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Switch:SW_Push"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "SW"
-				(at 1.27 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "SW_Push"
-				(at 0 -1.524 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Push button switch, generic, two pins"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "switch normally-open pushbutton push-button"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "SW_Push_0_1"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 3.048)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 1.27) (xy -2.54 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:+3.3V"
 			(power global)
 			(pin_numbers
@@ -3860,6 +3837,12 @@
 		(uuid "fa88cc31-18af-431a-8a92-8b79a1e86543")
 	)
 	(junction
+		(at 189.23 255.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "015a8ad2-6900-4458-abf9-5e25876a0128")
+	)
+	(junction
 		(at 113.03 191.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3912,6 +3895,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0ed8a3b9-a788-41d6-8b62-b55aec792ded")
+	)
+	(junction
+		(at 220.98 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0ff8217d-c807-461b-a890-71fc30f141a4")
 	)
 	(junction
 		(at 161.29 115.57)
@@ -4038,6 +4027,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3bd0026b-6afd-493d-8691-58fe7161cac2")
+	)
+	(junction
+		(at 200.66 255.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3c2926e1-1c6d-4c68-97c4-898d7e070b77")
 	)
 	(junction
 		(at 161.29 110.49)
@@ -4304,6 +4299,12 @@
 		(uuid "832eebe4-0111-4146-9bd2-35ef47cfe74a")
 	)
 	(junction
+		(at 200.66 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8396afc2-144c-41fc-b746-a037ab6766c3")
+	)
+	(junction
 		(at 161.29 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4374,6 +4375,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a3a46628-99cd-4aab-ad59-af2d5809a555")
+	)
+	(junction
+		(at 189.23 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa47f39f-aeb7-46d1-b013-e1d6822949b2")
 	)
 	(junction
 		(at 113.03 143.51)
@@ -5079,6 +5086,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 220.98) (xy 189.23 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08447da4-5889-4401-9913-1a1778510601")
+	)
+	(wire
+		(pts
 			(xy 347.98 116.84) (xy 340.36 116.84)
 		)
 		(stroke
@@ -5119,7 +5136,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 207.01) (xy 326.39 208.28)
+			(xy 341.63 198.12) (xy 341.63 199.39)
 		)
 		(stroke
 			(width 0)
@@ -5156,6 +5173,16 @@
 			(type default)
 		)
 		(uuid "0be0a09f-6606-4055-886a-0368f095e5d3")
+	)
+	(wire
+		(pts
+			(xy 198.12 220.98) (xy 200.66 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0be9fa95-f2aa-4b7d-8a20-8cebbfb26773")
 	)
 	(wire
 		(pts
@@ -5259,7 +5286,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 255.27) (xy 198.12 255.27)
+			(xy 182.88 255.27) (xy 189.23 255.27)
 		)
 		(stroke
 			(width 0)
@@ -5326,6 +5353,16 @@
 			(type default)
 		)
 		(uuid "17cfa1a1-84c2-4a98-9072-7726a98f312e")
+	)
+	(wire
+		(pts
+			(xy 220.98 237.49) (xy 220.98 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18726eb9-c662-40f3-99d9-518a909afc7a")
 	)
 	(wire
 		(pts
@@ -5396,16 +5433,6 @@
 			(type default)
 		)
 		(uuid "1d57bd4e-211b-4125-b1c4-38c7f684e93f")
-	)
-	(wire
-		(pts
-			(xy 109.22 251.46) (xy 124.46 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1db53605-5779-4343-8c61-439fd21da436")
 	)
 	(wire
 		(pts
@@ -5559,6 +5586,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 220.98) (xy 189.23 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2400c533-abf4-4d42-bd2a-c125d3e28930")
+	)
+	(wire
+		(pts
 			(xy 332.74 125.73) (xy 332.74 127)
 		)
 		(stroke
@@ -5646,6 +5683,16 @@
 			(type default)
 		)
 		(uuid "283d3542-c05f-41ee-9b5f-1ce39f1ef6dc")
+	)
+	(wire
+		(pts
+			(xy 193.04 247.65) (xy 189.23 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "284265ca-4723-4087-9583-d324e27f9d18")
 	)
 	(wire
 		(pts
@@ -5859,6 +5906,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 236.22) (xy 189.23 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3938b01e-2c3d-48f9-83b8-be63bc5c5219")
+	)
+	(wire
+		(pts
 			(xy 359.41 158.75) (xy 359.41 163.83)
 		)
 		(stroke
@@ -5979,7 +6036,7 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 226.06) (xy 308.61 228.6)
+			(xy 306.07 217.17) (xy 306.07 219.71)
 		)
 		(stroke
 			(width 0)
@@ -5996,6 +6053,16 @@
 			(type default)
 		)
 		(uuid "465aa2b0-4af4-483b-ba93-7c874e7455d6")
+	)
+	(wire
+		(pts
+			(xy 49.53 251.46) (xy 64.77 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "465aabb3-b5da-4749-81a4-f35f89649ef2")
 	)
 	(wire
 		(pts
@@ -6057,16 +6124,6 @@
 		)
 		(uuid "4a1b490f-6648-43e0-8202-8921bcfb3c54")
 	)
-	(wire
-		(pts
-			(xy 49.53 251.46) (xy 64.77 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ae0e554-dc7e-426f-81cd-61556f174042")
-	)
 	(bus
 		(pts
 			(xy 30.48 181.61) (xy 46.99 181.61)
@@ -6096,6 +6153,16 @@
 			(type default)
 		)
 		(uuid "4c059cb1-83f0-42b8-b457-34889fd614b3")
+	)
+	(wire
+		(pts
+			(xy 182.88 228.6) (xy 189.23 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cc245a9-70ea-4440-b413-0d654578a202")
 	)
 	(wire
 		(pts
@@ -6277,6 +6344,16 @@
 		)
 		(uuid "54f491ba-ba62-43d1-8de4-9590e0ed428e")
 	)
+	(wire
+		(pts
+			(xy 198.12 236.22) (xy 200.66 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "550dbf78-c5f7-429f-b2a6-40634a017f3d")
+	)
 	(bus
 		(pts
 			(xy 67.31 118.11) (xy 67.31 115.57)
@@ -6337,6 +6414,16 @@
 		)
 		(uuid "59d8ada1-9e7d-4b92-b64f-b8538b256278")
 	)
+	(wire
+		(pts
+			(xy 200.66 236.22) (xy 200.66 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a183c35-58cd-4215-9db9-7abb3a00531e")
+	)
 	(bus
 		(pts
 			(xy 67.31 110.49) (xy 67.31 107.95)
@@ -6369,6 +6456,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 255.27) (xy 220.98 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b6fc31c-e46d-446e-bd0b-3005cbcd1dca")
+	)
+	(wire
+		(pts
 			(xy 233.68 250.19) (xy 233.68 247.65)
 		)
 		(stroke
@@ -6376,6 +6473,16 @@
 			(type default)
 		)
 		(uuid "5c170156-466c-45d5-8d80-6a90042031b4")
+	)
+	(wire
+		(pts
+			(xy 109.22 251.46) (xy 124.46 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c51cd10-8206-47bf-9182-4e5424b9e278")
 	)
 	(wire
 		(pts
@@ -6467,6 +6574,16 @@
 		)
 		(uuid "5f08dbdf-c95c-453c-b681-7bde1efb9449")
 	)
+	(wire
+		(pts
+			(xy 220.98 228.6) (xy 226.06 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f5cb1d0-8aee-4586-87b3-9a80c04b00fb")
+	)
 	(bus
 		(pts
 			(xy 226.06 130.81) (xy 226.06 128.27)
@@ -6476,6 +6593,16 @@
 			(type default)
 		)
 		(uuid "610dc8fc-6939-4ff3-a04a-72598874031d")
+	)
+	(wire
+		(pts
+			(xy 200.66 220.98) (xy 200.66 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61c1195e-4c18-42df-8727-c2cbac790248")
 	)
 	(wire
 		(pts
@@ -6619,6 +6746,16 @@
 	)
 	(wire
 		(pts
+			(xy 341.63 229.87) (xy 341.63 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "692ab977-41f6-466a-9b80-5c7c5070653f")
+	)
+	(wire
+		(pts
 			(xy 160.02 120.65) (xy 161.29 120.65)
 		)
 		(stroke
@@ -6679,13 +6816,13 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 255.27) (xy 220.98 255.27)
+			(xy 233.68 220.98) (xy 246.38 220.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6bc8e946-112e-463e-a026-d2eb90ce415f")
+		(uuid "6bff7842-fe39-43bd-98b7-455500a7c9a6")
 	)
 	(wire
 		(pts
@@ -6799,6 +6936,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 262.89) (xy 200.66 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75882a36-92f0-416b-a295-a26f28993ac2")
+	)
+	(wire
+		(pts
 			(xy 161.29 130.81) (xy 223.52 130.81)
 		)
 		(stroke
@@ -6886,6 +7033,16 @@
 			(type default)
 		)
 		(uuid "7c595d3a-608c-4d78-bd12-670245280b63")
+	)
+	(wire
+		(pts
+			(xy 200.66 228.6) (xy 220.98 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cd85b0d-835d-4474-9ff1-ae6fbd9dd3c9")
 	)
 	(bus
 		(pts
@@ -7037,6 +7194,26 @@
 		)
 		(uuid "89ad3929-4dd7-41d2-864b-a44f21cc8f77")
 	)
+	(wire
+		(pts
+			(xy 189.23 255.27) (xy 189.23 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89bdd1aa-c2cf-41eb-aa39-44a9c8344d76")
+	)
+	(wire
+		(pts
+			(xy 233.68 223.52) (xy 233.68 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89f4b73f-24ca-4b6f-a9d5-961c72159ec7")
+	)
 	(bus
 		(pts
 			(xy 226.06 90.17) (xy 226.06 87.63)
@@ -7136,6 +7313,16 @@
 			(type default)
 		)
 		(uuid "8e6f210c-65d6-4462-b00a-80fbb4becf02")
+	)
+	(wire
+		(pts
+			(xy 220.98 228.6) (xy 220.98 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f6a5a32-d7ed-4b53-ba78-9f1578d94022")
 	)
 	(wire
 		(pts
@@ -7269,6 +7456,16 @@
 	)
 	(wire
 		(pts
+			(xy 233.68 233.68) (xy 233.68 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96118061-4a64-4c7c-b334-5b3cf62b20f9")
+	)
+	(wire
+		(pts
 			(xy 49.53 186.69) (xy 67.31 186.69)
 		)
 		(stroke
@@ -7319,7 +7516,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 215.9) (xy 326.39 218.44)
+			(xy 341.63 207.01) (xy 341.63 209.55)
 		)
 		(stroke
 			(width 0)
@@ -7456,6 +7653,16 @@
 			(type default)
 		)
 		(uuid "a5a0de0e-3909-439b-83c1-d85c6395b7d2")
+	)
+	(wire
+		(pts
+			(xy 182.88 223.52) (xy 182.88 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a60fcf37-83fa-4683-abff-41aed3ee8512")
 	)
 	(wire
 		(pts
@@ -7719,6 +7926,16 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 247.65) (xy 200.66 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5cb9ad2-92c8-44c1-9c0d-7f5da26c5808")
+	)
+	(wire
+		(pts
 			(xy 233.68 247.65) (xy 246.38 247.65)
 		)
 		(stroke
@@ -7769,7 +7986,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 250.19) (xy 195.58 255.27)
+			(xy 182.88 250.19) (xy 182.88 255.27)
 		)
 		(stroke
 			(width 0)
@@ -7819,7 +8036,7 @@
 	)
 	(wire
 		(pts
-			(xy 283.21 233.68) (xy 300.99 233.68)
+			(xy 280.67 224.79) (xy 298.45 224.79)
 		)
 		(stroke
 			(width 0)
@@ -7949,7 +8166,7 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 207.01) (xy 308.61 208.28)
+			(xy 306.07 198.12) (xy 306.07 199.39)
 		)
 		(stroke
 			(width 0)
@@ -7989,7 +8206,7 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 226.06) (xy 326.39 240.03)
+			(xy 341.63 217.17) (xy 341.63 219.71)
 		)
 		(stroke
 			(width 0)
@@ -8016,6 +8233,16 @@
 			(type default)
 		)
 		(uuid "ca69b108-80cf-41ea-850f-ff712411977c")
+	)
+	(wire
+		(pts
+			(xy 193.04 262.89) (xy 189.23 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cab74f38-a8a0-4652-adc5-5523eb0c3879")
 	)
 	(wire
 		(pts
@@ -8339,7 +8566,7 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 238.76) (xy 308.61 240.03)
+			(xy 306.07 229.87) (xy 306.07 231.14)
 		)
 		(stroke
 			(width 0)
@@ -8489,6 +8716,16 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 262.89) (xy 200.66 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec127675-4069-4d73-8c3a-264dac317fa9")
+	)
+	(wire
+		(pts
 			(xy 64.77 238.76) (xy 80.01 238.76)
 		)
 		(stroke
@@ -8529,6 +8766,26 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 228.6) (xy 189.23 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eeef0406-2f52-4146-ada2-f628b4dfab9d")
+	)
+	(wire
+		(pts
+			(xy 189.23 247.65) (xy 189.23 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f10b6185-0520-4210-b200-19e67f0ffc2c")
+	)
+	(wire
+		(pts
 			(xy 64.77 241.3) (xy 64.77 238.76)
 		)
 		(stroke
@@ -8539,7 +8796,7 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 215.9) (xy 308.61 218.44)
+			(xy 306.07 207.01) (xy 306.07 209.55)
 		)
 		(stroke
 			(width 0)
@@ -8576,6 +8833,16 @@
 			(type default)
 		)
 		(uuid "f33513e3-0474-446e-a707-2c8147a1ff0c")
+	)
+	(wire
+		(pts
+			(xy 200.66 247.65) (xy 200.66 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3393707-5bc6-4015-9134-4da817b9359d")
 	)
 	(wire
 		(pts
@@ -9308,6 +9575,16 @@
 		)
 		(uuid "8062802d-9349-44be-883d-2bc20774b43c")
 	)
+	(label "TRIGGER#"
+		(at 246.38 220.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "812c6d5c-f74c-449b-96f9-686e7cc5ef1a")
+	)
 	(label "SPI3.MOSI"
 		(at 100.33 140.97 180)
 		(effects
@@ -9381,7 +9658,7 @@
 		(uuid "963be659-390c-467d-9fb2-c281e6402b0c")
 	)
 	(label "STATUS_LED"
-		(at 283.21 233.68 0)
+		(at 280.67 224.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9401,7 +9678,7 @@
 		(uuid "96fd3d1d-27c3-49d5-9521-c2b7e008403f")
 	)
 	(label "XOUT"
-		(at 49.5785 251.46 0)
+		(at 49.53 251.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9500,6 +9777,16 @@
 		)
 		(uuid "bca5d0dc-1d56-4686-8b37-621c8d04d4e7")
 	)
+	(label "TRIG_BTN"
+		(at 210.82 228.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c9e7a399-02c1-4b56-bc06-0e7302094039")
+	)
 	(label "SPARE1"
 		(at 173.99 135.89 0)
 		(effects
@@ -9510,7 +9797,7 @@
 		)
 		(uuid "ca48fe00-c950-4e1a-9bc0-c4e7e0c5c2a2")
 	)
-	(label "{JTAG}"
+	(label "JTAG{JTAG}"
 		(at 226.06 76.2 0)
 		(effects
 			(font
@@ -9551,7 +9838,7 @@
 		(uuid "d5a44cc5-816b-4f51-9da5-c47779618336")
 	)
 	(label "XOUT32"
-		(at 109.2685 251.46 0)
+		(at 109.22 251.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9722,7 +10009,7 @@
 		)
 		(uuid "0affafd8-d3d2-4458-8170-c9dbdf580999")
 	)
-	(hierarchical_label "{JTAG}"
+	(hierarchical_label "JTAG{JTAG}"
 		(shape bidirectional)
 		(at 237.49 76.2 0)
 		(effects
@@ -9853,6 +10140,112 @@
 			(justify right)
 		)
 		(uuid "fba63f80-fa80-4914-8ca6-33eb46507f01")
+	)
+	(rule_area
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(polyline
+			(pts
+				(xy 86.36 187.96) (xy 86.36 193.04) (xy 88.9 193.04) (xy 88.9 187.96)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid "8bb7abf6-08b2-491b-8da4-b91476565645")
+		)
+	)
+	(rule_area
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(polyline
+			(pts
+				(xy 85.09 177.8) (xy 85.09 182.88) (xy 88.9 182.88) (xy 88.9 177.8)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid "a5de32d5-6bec-4f77-a913-e2d3aeedf5a0")
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 86.36 177.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a7970b96-b80a-4ce6-90f4-a5c706a47ecd")
+		(property "Net Class" "diff90"
+			(at 79.756 175.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -101.6 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 86.36 193.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e9f7df6f-5614-4308-8bf7-977756257792")
+		(property "Net Class" "diff90"
+			(at 91.186 197.612 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Component Class" ""
+			(at 274.32 295.91 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -10292,7 +10685,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -10378,7 +10771,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -10465,7 +10858,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -10552,7 +10945,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10716,7 +11109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -11168,7 +11561,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 195.58 250.19 0)
+		(at 182.88 250.19 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11178,7 +11571,7 @@
 		(dnp no)
 		(uuid "22e51599-f003-48c8-91be-4e76017d996a")
 		(property "Reference" "#PWR032"
-			(at 195.58 254 0)
+			(at 182.88 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11189,7 +11582,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 195.58 246.126 0)
+			(at 182.88 246.126 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11199,7 +11592,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 195.58 250.19 0)
+			(at 182.88 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11210,7 +11603,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 250.19 0)
+			(at 182.88 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11221,7 +11614,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 195.58 250.19 0)
+			(at 182.88 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11238,6 +11631,181 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
 					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 182.88 223.52 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "25fb88db-27bf-4b04-836f-7a5539af0a36")
+		(property "Reference" "#PWR0302"
+			(at 182.88 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 182.88 219.456 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 182.88 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 182.88 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3884ffea-9c18-4fa2-ba02-9d10e6113dfe")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "#PWR0302")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "C22375349:TS110926043")
+		(at 195.58 255.27 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2817e754-362f-4138-adb7-2ef45bf96c38")
+		(property "Reference" "SW1"
+			(at 192.024 245.364 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TS110926043"
+			(at 188.976 265.684 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "C22375349:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.5"
+			(at 205.74 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 195.58 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C22375349"
+			(at 208.28 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "30027ddf-f49a-412c-9d48-35458b166b82")
+		)
+		(pin "1"
+			(uuid "0d66dd36-a406-443f-96e9-6ffa5ac8b365")
+		)
+		(pin "3"
+			(uuid "b2fb427f-73e5-474f-a284-e40d9df9fe68")
+		)
+		(pin "4"
+			(uuid "287a0205-05b5-4112-802b-3bea7b528c92")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -11279,7 +11847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -11412,8 +11980,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 203.2 255.27 0)
+		(lib_id "Device:R")
+		(at 220.98 233.68 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11422,29 +11990,31 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "2ec5702d-bbb4-4629-85d9-5445d693b0cc")
-		(property "Reference" "SW1"
-			(at 203.2 247.65 0)
+		(uuid "2fa99c97-141c-41e7-be03-f52e1603bcea")
+		(property "Reference" "R99"
+			(at 223.52 232.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "SW_Push"
-			(at 203.2 250.19 0)
+		(property "Value" "10k"
+			(at 223.52 234.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 203.2 250.19 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 219.202 233.68 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11455,7 +12025,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 250.19 0)
+			(at 220.98 233.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11465,8 +12035,8 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 203.2 255.27 0)
+		(property "Description" "Resistor"
+			(at 220.98 233.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11477,15 +12047,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "cdbb1595-88bf-49d8-bfa7-00cf56c7b7f4")
+			(uuid "2dd054c5-eabc-472c-98ec-5095662f4a78")
 		)
 		(pin "1"
-			(uuid "e6eee01f-fcb3-4340-86fc-d1ff787bf9df")
+			(uuid "44e5d8a7-489e-43d7-8514-d6a8f60169f4")
 		)
 		(instances
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
-					(reference "SW1")
+					(reference "R99")
 					(unit 1)
 				)
 			)
@@ -11958,6 +12528,104 @@
 		)
 	)
 	(symbol
+		(lib_id "C22375349:TS110926043")
+		(at 195.58 228.6 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "33d2eecd-96d8-4cae-8d69-7c09284a3e30")
+		(property "Reference" "SW2"
+			(at 192.024 218.694 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TS110926043"
+			(at 188.976 239.014 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "C22375349:SW-SMD_4P-L4.5-W4.5-P3.00-LS7.5"
+			(at 205.74 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 195.58 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C22375349"
+			(at 208.28 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "857d0366-6aa5-465c-9ba5-97f5f0a4a461")
+		)
+		(pin "1"
+			(uuid "18c0e52a-e373-4d18-85fd-65c922aa1891")
+		)
+		(pin "3"
+			(uuid "f8498c71-3ab5-44b3-a597-3c9e0a16179c")
+		)
+		(pin "4"
+			(uuid "33a07108-197d-4a6d-b5b9-bb05c754adc8")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 161.29 168.91 270)
 		(unit 1)
@@ -11992,7 +12660,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -12079,7 +12747,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -12166,7 +12834,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -12252,7 +12920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -12338,7 +13006,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -12425,7 +13093,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -12511,7 +13179,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -12676,7 +13344,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -12762,7 +13430,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -12930,7 +13598,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -13095,7 +13763,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -13259,7 +13927,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -13424,7 +14092,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -13510,7 +14178,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -13641,6 +14309,102 @@
 		)
 	)
 	(symbol
+		(lib_id "C82045:BSS138LT1G")
+		(at 231.14 255.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f02695a-479d-4098-b127-0b2ef546d54e")
+		(property "Reference" "Q3"
+			(at 238.76 253.9999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BSS138LT1G"
+			(at 238.76 256.5399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "C82045:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+			(at 231.14 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html"
+			(at 231.14 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 231.14 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C82045"
+			(at 231.14 273.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "35ff458c-607b-44ad-a87c-005a3a5db7f1")
+		)
+		(pin "2"
+			(uuid "fca3da2c-366d-44c3-81b1-6c187c238fe2")
+		)
+		(pin "3"
+			(uuid "79e4cc96-c4a8-48de-9d67-15ea9bf4b679")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 281.94 121.92 0)
 		(unit 1)
@@ -13756,7 +14520,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -14003,7 +14767,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -14133,7 +14897,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 308.61 207.01 0)
+		(at 306.07 198.12 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14143,7 +14907,7 @@
 		(dnp no)
 		(uuid "5a304642-9d7b-454a-aa40-61fc90fe556d")
 		(property "Reference" "#PWR027"
-			(at 308.61 210.82 0)
+			(at 306.07 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14154,7 +14918,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 308.61 202.946 0)
+			(at 306.07 194.056 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14164,7 +14928,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 308.61 207.01 0)
+			(at 306.07 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14175,7 +14939,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 308.61 207.01 0)
+			(at 306.07 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14186,7 +14950,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 308.61 207.01 0)
+			(at 306.07 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14324,7 +15088,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -14488,7 +15252,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -14656,7 +15420,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -14742,7 +15506,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -14830,7 +15594,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -14883,7 +15647,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 326.39 207.01 0)
+		(at 341.63 198.12 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14893,7 +15657,7 @@
 		(dnp no)
 		(uuid "67a5b0a6-e586-4999-9456-12fe7ba8e9e5")
 		(property "Reference" "#PWR028"
-			(at 326.39 210.82 0)
+			(at 341.63 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14904,7 +15668,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 326.39 202.946 0)
+			(at 341.63 194.056 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14914,7 +15678,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 326.39 207.01 0)
+			(at 341.63 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14925,7 +15689,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 326.39 207.01 0)
+			(at 341.63 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14936,7 +15700,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 326.39 207.01 0)
+			(at 341.63 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14993,7 +15757,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -15079,7 +15843,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -15166,7 +15930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -15490,7 +16254,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -15658,7 +16422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -15789,7 +16553,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 308.61 212.09 0)
+		(at 306.07 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15800,7 +16564,7 @@
 		(fields_autoplaced yes)
 		(uuid "776e7c3c-790a-4c96-b06a-0cd6a24af109")
 		(property "Reference" "R10"
-			(at 311.15 210.8199 0)
+			(at 308.61 201.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15811,7 +16575,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 311.15 213.3599 0)
+			(at 308.61 204.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15822,7 +16586,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 306.832 212.09 90)
+			(at 304.292 203.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15833,7 +16597,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 308.61 212.09 0)
+			(at 306.07 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15844,7 +16608,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 308.61 212.09 0)
+			(at 306.07 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16030,7 +16794,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 308.61 222.25 90)
+		(at 306.07 213.36 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16041,7 +16805,7 @@
 		(fields_autoplaced yes)
 		(uuid "79987f8c-e04c-4453-813b-7d444910ba5d")
 		(property "Reference" "D1"
-			(at 312.42 222.5674 90)
+			(at 309.88 213.6774 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16052,7 +16816,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 312.42 225.1074 90)
+			(at 309.88 216.2174 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16063,7 +16827,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 308.61 222.25 0)
+			(at 306.07 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16074,7 +16838,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 308.61 222.25 0)
+			(at 306.07 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16085,7 +16849,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 308.61 222.25 0)
+			(at 306.07 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16096,7 +16860,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 308.61 222.25 0)
+			(at 306.07 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16237,7 +17001,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -16289,6 +17053,102 @@
 		)
 	)
 	(symbol
+		(lib_id "C82045:BSS138LT1G")
+		(at 339.09 224.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7c693a49-1f2f-4016-8fd6-f57d10f9ba45")
+		(property "Reference" "Q6"
+			(at 346.71 223.5199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BSS138LT1G"
+			(at 346.71 226.0599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "C82045:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+			(at 339.09 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html"
+			(at 339.09 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 339.09 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C82045"
+			(at 339.09 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "03e70311-c893-4826-b824-3ac7eebdf8da")
+		)
+		(pin "2"
+			(uuid "39e7abfc-192f-4420-bd80-8c8da57ca7ca")
+		)
+		(pin "3"
+			(uuid "3836ae73-588a-4411-a8d2-a4f1b668c4e0")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "Q6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 113.03 95.25 90)
 		(mirror x)
@@ -16325,7 +17185,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -16411,7 +17271,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -16463,124 +17323,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Simulation_SPICE:NMOS")
-		(at 306.07 233.68 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "811e6c69-a764-4764-88d0-d9a7f2a3961d")
-		(property "Reference" "Q1"
-			(at 312.42 232.4099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "NMOS"
-			(at 312.42 234.9499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 311.15 231.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
-			(at 306.07 246.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "N-MOSFET transistor, drain/source/gate"
-			(at 306.07 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "NMOS"
-			(at 306.07 250.825 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" "VDMOS"
-			(at 306.07 252.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=D 2=G 3=S"
-			(at 306.07 248.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "3d10937b-33ae-4ce8-8b95-582e0e090f24")
-		)
-		(pin "1"
-			(uuid "31a73581-02e2-4476-aa26-4455fc2f664c")
-		)
-		(pin "3"
-			(uuid "f0df5270-d369-4479-8c37-07c6c7776d86")
-		)
-		(instances
-			(project "netdaq"
-				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
-					(reference "Q1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 113.03 171.45 90)
 		(mirror x)
@@ -16616,7 +17358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -16702,7 +17444,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -16788,7 +17530,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -16874,7 +17616,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -16961,7 +17703,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -17048,7 +17790,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -17216,7 +17958,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -17383,7 +18125,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -17624,7 +18366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -18169,7 +18911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -18255,7 +18997,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -18496,7 +19238,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -18582,7 +19324,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -18747,7 +19489,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -18834,7 +19576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -18921,7 +19663,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -19008,7 +19750,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -19094,7 +19836,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -19181,7 +19923,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -19233,6 +19975,102 @@
 		)
 	)
 	(symbol
+		(lib_id "C82045:BSS138LT1G")
+		(at 231.14 228.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b45feb2f-2c78-490d-9c0c-2b3f2e5dbccf")
+		(property "Reference" "Q5"
+			(at 238.76 227.3299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BSS138LT1G"
+			(at 238.76 229.8699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "C82045:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+			(at 231.14 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html"
+			(at 231.14 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 231.14 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C82045"
+			(at 231.14 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "90f9f813-d7b5-4d6d-816d-00874701bc25")
+		)
+		(pin "2"
+			(uuid "19ade1d0-8705-491c-9f77-ae7d4e10c8e4")
+		)
+		(pin "3"
+			(uuid "803386b3-7173-4ef4-987a-213618913e01")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "Q5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 113.03 107.95 90)
 		(mirror x)
@@ -19268,7 +20106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -19354,7 +20192,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -19441,7 +20279,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -19487,6 +20325,84 @@
 			(project "mcu"
 				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
 					(reference "TP37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 233.68 238.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bafee2a5-32ea-4730-99ca-0e64680e5213")
+		(property "Reference" "#PWR0304"
+			(at 233.68 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 233.68 243.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 233.68 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 233.68 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "97c7d983-af3b-4ade-a327-dee21779a379")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "#PWR0304")
 					(unit 1)
 				)
 			)
@@ -19770,7 +20686,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -19935,7 +20851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -20022,7 +20938,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -20109,7 +21025,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -20196,7 +21112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -20242,6 +21158,84 @@
 			(project "mcu"
 				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
 					(reference "TP31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 220.98 238.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bfe34872-e6f4-482a-bf19-c0b1d6fe9c17")
+		(property "Reference" "#PWR0303"
+			(at 220.98 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 220.98 243.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 220.98 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 220.98 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c83827ce-d863-4a03-93af-f7218550b61f")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "#PWR0303")
 					(unit 1)
 				)
 			)
@@ -20442,7 +21436,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -20495,7 +21489,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 326.39 212.09 0)
+		(at 341.63 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20506,7 +21500,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9229003-305f-4235-9333-714d837392c4")
 		(property "Reference" "R11"
-			(at 328.93 210.8199 0)
+			(at 344.17 201.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20517,7 +21511,7 @@
 			)
 		)
 		(property "Value" "R"
-			(at 328.93 213.3599 0)
+			(at 344.17 204.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20528,7 +21522,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 324.612 212.09 90)
+			(at 339.852 203.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20539,7 +21533,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 326.39 212.09 0)
+			(at 341.63 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20550,7 +21544,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 326.39 212.09 0)
+			(at 341.63 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20611,7 +21605,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -20698,7 +21692,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -20751,7 +21745,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 326.39 240.03 0)
+		(at 341.63 231.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20762,7 +21756,7 @@
 		(fields_autoplaced yes)
 		(uuid "ca0276ff-ef50-48da-9d67-5db40bddab69")
 		(property "Reference" "#PWR031"
-			(at 326.39 246.38 0)
+			(at 341.63 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20773,7 +21767,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 326.39 245.11 0)
+			(at 341.63 236.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20783,7 +21777,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 326.39 240.03 0)
+			(at 341.63 231.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20794,7 +21788,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 326.39 240.03 0)
+			(at 341.63 231.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20805,7 +21799,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 326.39 240.03 0)
+			(at 341.63 231.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20943,7 +21937,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -21029,7 +22023,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -21326,7 +22320,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 308.61 240.03 0)
+		(at 306.07 231.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21337,7 +22331,7 @@
 		(fields_autoplaced yes)
 		(uuid "d0e14132-6b2b-4080-9235-21442b829b42")
 		(property "Reference" "#PWR030"
-			(at 308.61 246.38 0)
+			(at 306.07 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21348,7 +22342,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 308.61 245.11 0)
+			(at 306.07 236.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21358,7 +22352,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 308.61 240.03 0)
+			(at 306.07 231.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21369,7 +22363,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 308.61 240.03 0)
+			(at 306.07 231.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21380,7 +22374,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 308.61 240.03 0)
+			(at 306.07 231.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21437,7 +22431,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -21523,7 +22517,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -21688,7 +22682,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -21775,7 +22769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -21940,7 +22934,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -22108,7 +23102,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -22231,6 +23225,102 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
 					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "C82045:BSS138LT1G")
+		(at 303.53 224.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e50ee903-0553-4022-8bb3-3cedd581cc67")
+		(property "Reference" "Q4"
+			(at 311.15 223.5199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BSS138LT1G"
+			(at 311.15 226.0599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "C82045:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+			(at 303.53 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html"
+			(at 303.53 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 303.53 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C82045"
+			(at 303.53 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "160fc99a-87aa-4dc9-b50d-e9dca7a052c0")
+		)
+		(pin "2"
+			(uuid "a04f0e32-ff32-4745-8ae1-1117997520f7")
+		)
+		(pin "3"
+			(uuid "f3f9888c-165d-4fa0-8677-350820b24d94")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -22632,7 +23722,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 326.39 222.25 90)
+		(at 341.63 213.36 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22643,7 +23733,7 @@
 		(fields_autoplaced yes)
 		(uuid "ee4f621a-88c1-4c5f-813f-64e8c4aeeef5")
 		(property "Reference" "D2"
-			(at 330.2 222.5674 90)
+			(at 345.44 213.6774 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22654,7 +23744,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 330.2 225.1074 90)
+			(at 345.44 216.2174 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22665,7 +23755,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 326.39 222.25 0)
+			(at 341.63 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22676,7 +23766,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 326.39 222.25 0)
+			(at 341.63 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22687,7 +23777,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 326.39 222.25 0)
+			(at 341.63 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22698,7 +23788,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 326.39 222.25 0)
+			(at 341.63 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22758,7 +23848,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -22846,7 +23936,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -23010,7 +24100,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -23097,7 +24187,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -23230,124 +24320,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Simulation_SPICE:NMOS")
-		(at 231.14 255.27 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f38e32b2-de6b-4f74-8f54-503a8f47247d")
-		(property "Reference" "Q2"
-			(at 237.49 253.9999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "NMOS"
-			(at 237.49 256.5399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 252.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
-			(at 231.14 267.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "N-MOSFET transistor, drain/source/gate"
-			(at 231.14 255.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "NMOS"
-			(at 231.14 272.415 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" "VDMOS"
-			(at 231.14 274.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=D 2=G 3=S"
-			(at 231.14 270.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "dcaef39c-30ad-4297-adf7-676af10151a8")
-		)
-		(pin "1"
-			(uuid "c862db77-7b59-492c-94d9-d898c79c2065")
-		)
-		(pin "3"
-			(uuid "616bda8f-b5fb-4278-9b3f-5f64aa972d21")
-		)
-		(instances
-			(project "netdaq"
-				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
-					(reference "Q2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 161.29 163.83 270)
 		(unit 1)
@@ -23382,7 +24354,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -23469,7 +24441,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 113.03 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -23714,7 +24686,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -23800,7 +24772,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
 			(at 161.29 171.45 0)
 			(hide yes)
 			(show_name no)
