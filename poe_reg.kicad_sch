@@ -3035,6 +3035,12 @@
 		(uuid "dbb376c3-079b-419d-9c66-c79311aa40f4")
 	)
 	(junction
+		(at 105.41 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "df145b98-6124-4bb3-bb28-5939e0556ef1")
+	)
+	(junction
 		(at 102.87 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3089,6 +3095,16 @@
 			(type default)
 		)
 		(uuid "18c9ec09-f2e4-429f-b49f-ce492b3130f4")
+	)
+	(wire
+		(pts
+			(xy 105.41 148.59) (xy 105.41 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a17fd2c-da2c-4ce3-8c2d-070dbc0d1ffb")
 	)
 	(wire
 		(pts
@@ -3212,7 +3228,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 149.86) (xy 133.35 149.86)
+			(xy 96.52 149.86) (xy 105.41 149.86)
 		)
 		(stroke
 			(width 0)
@@ -3689,6 +3705,16 @@
 			(type default)
 		)
 		(uuid "b744f2c1-a2ee-40c3-9044-2034b2e09118")
+	)
+	(wire
+		(pts
+			(xy 105.41 149.86) (xy 133.35 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7955a0b-ac8e-4e5b-9a83-6f9d38bc88d8")
 	)
 	(wire
 		(pts
@@ -5489,6 +5515,87 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e"
 					(reference "C134")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 105.41 148.59 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "57a3f8a9-8076-44f1-b8e8-08e66521713d")
+		(property "Reference" "TP180"
+			(at 107.95 145.2879 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 104.1401 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+			(at 100.33 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 105.41 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3885827c-0886-4709-9e9b-c327a9169b2d")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e"
+					(reference "TP180")
 					(unit 1)
 				)
 			)

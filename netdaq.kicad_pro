@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.25
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -520,7 +520,7 @@
         "clearance": 0.2,
         "name": "PWR",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 5,
+        "priority": 6,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.3,
         "tuning_profile": "",
@@ -530,35 +530,46 @@
       {
         "name": "SPI1",
         "pcb_color": "rgb(0, 35, 255)",
-        "priority": 4,
+        "priority": 5,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "SPI2",
-        "pcb_color": "rgb(255, 239, 0)",
-        "priority": 3,
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "SPI3",
         "pcb_color": "rgb(81, 255, 0)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "SPI4",
         "pcb_color": "rgb(0, 202, 255)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
-        "name": "diff90",
+        "clearance": 0.15,
+        "name": "diff100",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": "diff100",
+        "via_diameter": 0.25,
+        "via_drill": 0.15
+      },
+      {
+        "clearance": 0.1999,
+        "name": "diff90",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1547,
         "tuning_profile": "diff90",
@@ -571,6 +582,30 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "/Ethernet Connector/MX1+": [
+        "diff100"
+      ],
+      "/Ethernet Connector/MX1-": [
+        "diff100"
+      ],
+      "/Ethernet Connector/MX2+": [
+        "diff100"
+      ],
+      "/Ethernet Connector/MX2-": [
+        "diff100"
+      ],
+      "/Ethernet Connector/MX3+": [
+        "diff100"
+      ],
+      "/Ethernet Connector/MX3-": [
+        "diff100"
+      ],
+      "/Ethernet Connector/MX4+": [
+        "diff100"
+      ],
+      "/Ethernet Connector/MX4-": [
+        "diff100"
+      ],
       "/MCU/USB_FS.D+": [
         "diff90"
       ],
@@ -840,7 +875,7 @@
         "uuid": "2970f661-65ab-4e2b-aeda-d76d1044f2b8"
       }
     ],
-    "used_designators": "SW2,U14,Q3-6,R94-99,#PWR174,#PWR296-304,CN1",
+    "used_designators": "C34-35,T1,#PWR66-67,#PWR323,RJ1,U15",
     "variants": []
   },
   "sheets": [
@@ -953,6 +988,56 @@
         ],
         "profile_name": "diff90",
         "target_impedance": 90.0,
+        "type": 1,
+        "via_overrides": [
+          {
+            "delay": 0,
+            "signal_layer_from": "F.Cu",
+            "signal_layer_to": "B.Cu",
+            "via_layer_from": "F.Cu",
+            "via_layer_to": "B.Cu"
+          }
+        ],
+        "via_prop_delay": 0
+      },
+      {
+        "enable_time_domain_tuning": true,
+        "layer_entries": [
+          {
+            "bottom_reference_layer": "In1.Cu",
+            "delay": 5701000,
+            "diff_pair_gap": 199900,
+            "signal_layer": "F.Cu",
+            "top_reference_layer": "UNDEFINED",
+            "width": 117600
+          },
+          {
+            "bottom_reference_layer": "In2.Cu",
+            "delay": 7144700,
+            "diff_pair_gap": 199900,
+            "signal_layer": "In1.Cu",
+            "top_reference_layer": "F.Cu",
+            "width": 101900
+          },
+          {
+            "bottom_reference_layer": "B.Cu",
+            "delay": 7144700,
+            "diff_pair_gap": 199900,
+            "signal_layer": "In2.Cu",
+            "top_reference_layer": "In1.Cu",
+            "width": 104100
+          },
+          {
+            "bottom_reference_layer": "UNDEFINED",
+            "delay": 5701000,
+            "diff_pair_gap": 199900,
+            "signal_layer": "B.Cu",
+            "top_reference_layer": "In2.Cu",
+            "width": 117600
+          }
+        ],
+        "profile_name": "diff100",
+        "target_impedance": 100.0,
         "type": 1,
         "via_overrides": [],
         "via_prop_delay": 0
