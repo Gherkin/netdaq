@@ -1583,7 +1583,7 @@
 		)
 	)
 	(sheet
-		(at 133.35 85.09)
+		(at 132.08 82.55)
 		(size 19.05 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1599,7 +1599,7 @@
 		)
 		(uuid "4a874178-a54c-4eb4-8350-ff261e3dfdab")
 		(property "Sheetname" "3V3 Regulator"
-			(at 133.35 84.3784 0)
+			(at 132.08 81.8384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1610,7 +1610,7 @@
 			)
 		)
 		(property "Sheetfile" "3v3_reg.kicad_sch"
-			(at 133.35 103.4546 0)
+			(at 132.08 100.9146 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

@@ -795,13 +795,13 @@
           "group_by": false,
           "label": "LCSC Basic/Pref",
           "name": "LCSC Basic/Pref",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "LCSC missing",
           "name": "LCSC missing",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",
@@ -809,7 +809,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Value"
+      "sort_field": "Reference"
     },
     "bus_aliases": {
       "I2C": [
@@ -911,7 +911,7 @@
         "uuid": "2970f661-65ab-4e2b-aeda-d76d1044f2b8"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R107,#PWR169,#PWR178,#PWR324,D79,D81",
     "variants": []
   },
   "sheets": [
