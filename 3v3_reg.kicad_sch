@@ -1392,19 +1392,9 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "todo: there are preferred diodes, can we change"
+	(text "todo: change to C22466347"
 		(exclude_from_sim no)
-		(at 44.196 106.172 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "434b4214-2802-4384-b2b1-0a5fab428631")
-	)
-	(text "todo: change to C146335"
-		(exclude_from_sim no)
-		(at 44.45 101.854 0)
+		(at 24.384 87.376 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1452,6 +1442,26 @@
 			(justify left top)
 		)
 		(uuid "2e9425ce-661e-4438-b7e7-87f22d0129fe")
+	)
+	(text_box "Design Note:\n300 mV Vf @ 0.2 A\n350 mV Vf @ 0.1 A"
+		(exclude_from_sim no)
+		(at 44.45 96.52 0)
+		(size 22.86 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "e35a6e73-71b5-48b9-b30c-e37141aa0532")
 	)
 	(junction
 		(at 63.5 92.71)
@@ -1989,6 +1999,16 @@
 		)
 		(uuid "47a995c5-cb1e-4bd0-8195-54db5e170242")
 	)
+	(label "V3P3_VIN"
+		(at 71.12 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "65cb0129-9b80-4fa5-a247-7e4e014eadf1")
+	)
 	(label "3V3_EN"
 		(at 95.25 107.95 0)
 		(effects
@@ -2359,7 +2379,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323"
+		(property "Footprint" "Diode_SMD:D_SOD-123F"
 			(at 54.61 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -3412,7 +3432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323"
+		(property "Footprint" "Diode_SMD:D_SOD-123F"
 			(at 54.61 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -4296,7 +4316,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a80ffcb8-b931-4714-ae5b-a2ad4a97ac35")
 		(property "Reference" "#PWR0178"
 			(at 43.18 93.98 0)
@@ -4309,14 +4328,15 @@
 				)
 			)
 		)
-		(property "Value" "+5.0V"
-			(at 43.18 85.09 0)
+		(property "Value" "+5V_USB"
+			(at 39.37 86.106 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
