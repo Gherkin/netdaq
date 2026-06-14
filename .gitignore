@@ -1,3 +1,6 @@
 .DS_Store
 netdaq-backups/
 .history/
+analysis/
+datasheets/
+.rag.toml

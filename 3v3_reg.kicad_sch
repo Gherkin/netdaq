@@ -3502,7 +3502,7 @@
 				)
 			)
 		)
-		(property "Value" "453k"
+		(property "Value" "300k"
 			(at 163.83 93.98 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3512,7 +3512,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 163.83 99.568 90)
 			(hide yes)
 			(show_name no)
@@ -3578,7 +3578,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "n"
+		(property "LCSC Basic/Pref" "x"
 			(at 163.83 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -3590,6 +3590,28 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 163.83 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23024"
+			(at 163.83 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C23024"
 			(at 163.83 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -4170,7 +4192,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "68k"
 			(at 158.75 114.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4181,7 +4203,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 157.988 113.03 90)
 			(hide yes)
 			(show_name no)
@@ -4258,7 +4280,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25741"
+		(property "LCSC" "C23231"
 			(at 156.21 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -4269,7 +4291,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C25741"
+		(property "LCSC Part" "C23231"
 			(at 156.21 113.03 0)
 			(hide yes)
 			(show_name no)

@@ -222,6 +222,175 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "C32346:Q13FC1350000400"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "X"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Q13FC1350000400"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "C32346:FC-135R_L3.2-W1.5"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_EPSON_Q13FC1350000400_32-768KHz-20ppm-12-5pF_C32346.html"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C32346"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Q13FC1350000400_0_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -1.02 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.02 1.78) (xy -1.02 -1.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -0.51 1.78)
+					(end 0.51 -1.78)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.02 1.78) (xy 1.02 -1.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.02 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "C82045:BSS138LT1G"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -472,6 +641,271 @@
 						)
 					)
 					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "C9002:X322512MSB4SI"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "X"
+				(at 0 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "X322512MSB4SI"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "C9002:CRYSTAL-SMD_4P-L3.2-W2.5-BL"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_YSX321SL-12MHZ-20PF-10PPM-40-85_C9002.html"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C9002"
+				(at 0 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "X322512MSB4SI_0_1"
+				(rectangle
+					(start -5.08 5.08)
+					(end 5.08 -5.08)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -2.54) (xy -2.54 -2.54) (xy -2.54 0) (xy -1.52 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.02) (xy -1.27 1.02)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.78) (xy -1.27 1.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.76 -1.78) (xy -0.76 1.78) (xy 0.76 1.78) (xy 0.76 -1.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.76 1.78) (xy 0.76 -1.78) (xy -0.76 -1.78) (xy -0.76 1.78) (xy 0.76 1.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.76 -1.78) (xy -0.76 -1.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.02) (xy 1.27 1.02)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.78) (xy 1.27 1.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 2.54 2.54) (xy 2.54 0) (xy 1.52 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "OSC1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 -2.54 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 2.54 180)
+					(length 2.54)
+					(name "OSC2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -743,195 +1177,6 @@
 					(at 0 -3.81 90)
 					(length 2.794)
 					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Device:Crystal"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "Y"
-				(at 0 3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Crystal"
-				(at 0 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Two pin crystal"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "quartz ceramic resonator oscillator"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Crystal*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Crystal_0_1"
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -1.905 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 -1.27) (xy -1.905 1.27)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.143 2.54)
-					(end 1.143 -2.54)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 -1.27) (xy 1.905 1.27)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 1.905 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Crystal_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 1.27)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 1.27)
-					(name "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3761,9 +4006,9 @@
 		)
 		(uuid "21b2fc06-9a08-4bc7-8401-6036cea41607")
 	)
-	(text "Design Note:\n24 KHz 8pF 10ppm Crystal"
+	(text "Design Note:\n12 MHz 20pF 10ppm Crystal"
 		(exclude_from_sim no)
-		(at 125.984 229.108 0)
+		(at 69.596 226.822 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3804,9 +4049,9 @@
 		)
 		(uuid "b4797bb6-52db-4e80-b1a2-ac3e32b3bb5e")
 	)
-	(text "Design Note:\n32.768 KHz 10pF 10ppm\n Crystal"
+	(text "Design Note:\n32.768 KHz 12.5pF 20ppm\n Crystal"
 		(exclude_from_sim no)
-		(at 66.294 229.108 0)
+		(at 127.762 232.664 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3895,6 +4140,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0ed8a3b9-a788-41d6-8b62-b55aec792ded")
+	)
+	(junction
+		(at 59.69 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0f08af61-c7f3-4a6a-9584-4bc423350e0c")
 	)
 	(junction
 		(at 220.98 228.6)
@@ -4011,7 +4262,7 @@
 		(uuid "34a30fbe-eb30-47a4-86a0-ce62f1d154f2")
 	)
 	(junction
-		(at 64.77 251.46)
+		(at 64.77 260.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3782bbeb-3bd7-49d7-894d-2c706981c8e6")
@@ -4123,12 +4374,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "592c52dd-80ad-422b-b0bf-5e0ef7883303")
-	)
-	(junction
-		(at 64.77 238.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5953d0d6-e9ea-4e9b-9d0f-4644aa1888e3")
 	)
 	(junction
 		(at 67.31 186.69)
@@ -5516,16 +5761,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 248.92) (xy 124.46 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "224d2816-905e-4d56-a8a0-b178ed75c0e1")
-	)
-	(wire
-		(pts
 			(xy 113.03 138.43) (xy 83.82 138.43)
 		)
 		(stroke
@@ -5966,7 +6201,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 262.89) (xy 80.01 264.16)
+			(xy 80.01 254) (xy 80.01 255.27)
 		)
 		(stroke
 			(width 0)
@@ -6056,7 +6291,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 251.46) (xy 64.77 251.46)
+			(xy 49.53 260.35) (xy 64.77 260.35)
 		)
 		(stroke
 			(width 0)
@@ -6093,6 +6328,16 @@
 			(type default)
 		)
 		(uuid "47b8a759-3f64-4771-b5f5-95b40a4d942e")
+	)
+	(wire
+		(pts
+			(xy 124.46 250.19) (xy 124.46 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49375f8b-f39c-4149-8f98-4b265b7e55e8")
 	)
 	(wire
 		(pts
@@ -6286,7 +6531,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 262.89) (xy 64.77 264.16)
+			(xy 64.77 271.78) (xy 64.77 273.05)
 		)
 		(stroke
 			(width 0)
@@ -7186,7 +7431,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 248.92) (xy 64.77 251.46)
+			(xy 64.77 254) (xy 64.77 260.35)
 		)
 		(stroke
 			(width 0)
@@ -7243,16 +7488,6 @@
 			(type default)
 		)
 		(uuid "8bbed098-272f-4392-9176-0a5bef5bb493")
-	)
-	(wire
-		(pts
-			(xy 124.46 241.3) (xy 124.46 238.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bc62470-891a-46be-8aed-9a13485a53ea")
 	)
 	(wire
 		(pts
@@ -7546,7 +7781,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 238.76) (xy 64.77 238.76)
+			(xy 49.53 229.87) (xy 59.69 229.87)
 		)
 		(stroke
 			(width 0)
@@ -7573,6 +7808,16 @@
 			(type default)
 		)
 		(uuid "9d6c1a69-8eed-4e7d-b42c-fa019872cdfd")
+	)
+	(wire
+		(pts
+			(xy 59.69 254) (xy 59.69 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f362974-73a2-4c50-a5a4-1825417080e8")
 	)
 	(wire
 		(pts
@@ -8496,7 +8741,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 251.46) (xy 64.77 255.27)
+			(xy 64.77 260.35) (xy 64.77 264.16)
 		)
 		(stroke
 			(width 0)
@@ -8556,6 +8801,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 240.03) (xy 124.46 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e27a188f-28dc-44c5-a097-19940fca6f34")
+	)
+	(wire
+		(pts
 			(xy 113.03 128.27) (xy 83.82 128.27)
 		)
 		(stroke
@@ -8593,6 +8848,16 @@
 			(type default)
 		)
 		(uuid "e38f4a4b-6ab1-4c2d-8d11-8f5b11f8eda5")
+	)
+	(wire
+		(pts
+			(xy 64.77 237.49) (xy 64.77 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e59c5b29-c56b-4811-8745-2d1ba12e7589")
 	)
 	(polyline
 		(pts
@@ -8726,16 +8991,6 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 238.76) (xy 80.01 238.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec312595-71e5-4304-af9d-9dca969c6712")
-	)
-	(wire
-		(pts
 			(xy 60.96 205.74) (xy 60.96 207.01)
 		)
 		(stroke
@@ -8783,16 +9038,6 @@
 			(type default)
 		)
 		(uuid "f10b6185-0520-4210-b200-19e67f0ffc2c")
-	)
-	(wire
-		(pts
-			(xy 64.77 241.3) (xy 64.77 238.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1357737-6d45-4c4b-aa2d-b083c12dc596")
 	)
 	(wire
 		(pts
@@ -8906,6 +9151,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 229.87) (xy 59.69 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f927518a-c6d5-4735-9fde-9a6601428626")
+	)
+	(wire
+		(pts
 			(xy 85.09 186.69) (xy 85.09 207.01)
 		)
 		(stroke
@@ -8916,7 +9171,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 238.76) (xy 80.01 255.27)
+			(xy 80.01 229.87) (xy 80.01 246.38)
 		)
 		(stroke
 			(width 0)
@@ -8993,6 +9248,16 @@
 			(type default)
 		)
 		(uuid "fefc06d2-f24d-4fec-a259-2af25693d149")
+	)
+	(wire
+		(pts
+			(xy 59.69 229.87) (xy 80.01 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fff423b3-b96e-453d-aa10-fc549b9f18d2")
 	)
 	(label "UART4.TX"
 		(at 100.33 110.49 180)
@@ -9606,7 +9871,7 @@
 		(uuid "834bc513-cd97-4671-bca6-14fca3fabb42")
 	)
 	(label "XIN"
-		(at 49.53 238.76 0)
+		(at 49.53 229.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9678,7 +9943,7 @@
 		(uuid "96fd3d1d-27c3-49d5-9521-c2b7e008403f")
 	)
 	(label "XOUT"
-		(at 49.53 251.46 0)
+		(at 49.53 260.35 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10398,143 +10663,6 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
 					(reference "#PWR029")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Crystal")
-		(at 124.46 245.11 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0829121b-5365-48c6-b2ee-00b62e49c491")
-		(property "Reference" "Y2"
-			(at 128.27 243.8399 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Crystal"
-			(at 128.27 246.3799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 124.46 245.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 124.46 245.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Two pin crystal"
-			(at 124.46 245.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 124.46 245.11 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 124.46 245.11 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.1" ""
-			(at 124.46 245.11 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Basic/Pref" ""
-			(at 124.46 245.11 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC missing" ""
-			(at 124.46 245.11 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a2b6cde9-e50e-4974-8a72-b18762b227c6")
-		)
-		(pin "2"
-			(uuid "a8eda967-92ef-496f-bfa0-88e9e16f9d7c")
-		)
-		(instances
-			(project "netdaq"
-				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
-					(reference "Y2")
 					(unit 1)
 				)
 			)
@@ -11321,6 +11449,83 @@
 			(project "mcu"
 				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
 					(reference "TP24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 59.69 255.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "12a2ebf6-566d-43d4-8fec-1f7fccecff8d")
+		(property "Reference" "#PWR069"
+			(at 59.69 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 56.134 257.048 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 59.69 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 59.69 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "87b6f8a4-38c2-4b06-9644-8b4475858c1c")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -12702,6 +12907,98 @@
 		)
 	)
 	(symbol
+		(lib_id "C32346:Q13FC1350000400")
+		(at 124.46 245.11 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "29aba0fb-488b-4ed4-821c-b2f98dfb2589")
+		(property "Reference" "X2"
+			(at 119.38 244.602 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Q13FC1350000400"
+			(at 103.632 246.888 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "C32346:FC-135R_L3.2-W1.5"
+			(at 116.84 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_EPSON_Q13FC1350000400_32-768KHz-20ppm-12-5pF_C32346.html"
+			(at 114.3 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 124.46 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C32346"
+			(at 111.76 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2df0ac59-b6b4-4117-8a22-ff14d0f63be6")
+		)
+		(pin "2"
+			(uuid "9a74dd76-4e9b-4659-bf4c-4aa34a9f4ad7")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "X2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 139.7 259.08 0)
 		(unit 1)
@@ -12723,7 +13020,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "18p"
 			(at 140.716 261.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12800,7 +13097,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "x"
 			(at 139.7 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -12812,6 +13109,28 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 139.7 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1549"
+			(at 139.7 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1549"
 			(at 139.7 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -17436,7 +17755,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "18p"
 			(at 125.476 261.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17513,7 +17832,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "x"
 			(at 124.46 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -17525,6 +17844,28 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 124.46 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1549"
+			(at 124.46 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1549"
 			(at 124.46 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -20046,7 +20387,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 80.01 259.08 0)
+		(at 80.01 250.19 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20056,7 +20397,7 @@
 		(dnp no)
 		(uuid "798c5aad-f6fe-4cd6-8787-2bf245f55af4")
 		(property "Reference" "C20"
-			(at 81.026 256.286 0)
+			(at 81.026 247.396 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20066,8 +20407,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 81.026 261.62 0)
+		(property "Value" "33p"
+			(at 81.026 252.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20078,7 +20419,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 80.9752 262.89 0)
+			(at 80.9752 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20089,7 +20430,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 259.08 0)
+			(at 80.01 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20100,7 +20441,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 80.01 259.08 0)
+			(at 80.01 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20111,7 +20452,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 80.01 259.08 0)
+			(at 80.01 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20122,7 +20463,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 80.01 259.08 0)
+			(at 80.01 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20133,7 +20474,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 80.01 259.08 0)
+			(at 80.01 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20143,8 +20484,8 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
-			(at 80.01 259.08 0)
+		(property "LCSC Basic/Pref" "x"
+			(at 80.01 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20155,7 +20496,29 @@
 			)
 		)
 		(property "LCSC missing" ""
-			(at 80.01 259.08 0)
+			(at 80.01 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1562"
+			(at 80.01 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1562"
+			(at 80.01 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21906,143 +22269,6 @@
 			(project "mcu"
 				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
 					(reference "TP14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Crystal")
-		(at 64.77 245.11 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8c3208ed-f92c-4dcf-8129-a45e32a2f551")
-		(property "Reference" "Y1"
-			(at 68.58 243.8399 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Crystal"
-			(at 68.58 246.3799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 64.77 245.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 64.77 245.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Two pin crystal"
-			(at 64.77 245.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 64.77 245.11 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 64.77 245.11 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.1" ""
-			(at 64.77 245.11 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Basic/Pref" ""
-			(at 64.77 245.11 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC missing" ""
-			(at 64.77 245.11 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b9bbd550-7d79-4ef0-8eda-377157011661")
-		)
-		(pin "2"
-			(uuid "a2a0c6bb-c221-4381-abe3-96aebb087cd7")
-		)
-		(instances
-			(project "netdaq"
-				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
-					(reference "Y1")
 					(unit 1)
 				)
 			)
@@ -27818,7 +28044,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 64.77 259.08 0)
+		(at 64.77 267.97 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27828,7 +28054,7 @@
 		(dnp no)
 		(uuid "cf190d8f-23a5-4813-bd9e-6b969d778dfe")
 		(property "Reference" "C19"
-			(at 65.786 256.286 0)
+			(at 65.786 265.176 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27838,8 +28064,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 65.786 261.62 0)
+		(property "Value" "33p"
+			(at 65.786 270.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27850,7 +28076,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 65.7352 262.89 0)
+			(at 65.7352 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27861,7 +28087,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 259.08 0)
+			(at 64.77 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27872,7 +28098,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 64.77 259.08 0)
+			(at 64.77 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27883,7 +28109,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 64.77 259.08 0)
+			(at 64.77 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27894,7 +28120,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 64.77 259.08 0)
+			(at 64.77 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27905,7 +28131,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 64.77 259.08 0)
+			(at 64.77 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27915,8 +28141,8 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
-			(at 64.77 259.08 0)
+		(property "LCSC Basic/Pref" "x"
+			(at 64.77 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27927,7 +28153,29 @@
 			)
 		)
 		(property "LCSC missing" ""
-			(at 64.77 259.08 0)
+			(at 64.77 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1562"
+			(at 64.77 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1562"
+			(at 64.77 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29142,6 +29390,83 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
 					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 64.77 237.49 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "da0a04ee-dbbd-44bd-8d93-8698f6ef1031")
+		(property "Reference" "#PWR070"
+			(at 64.77 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 68.326 234.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 64.77 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 64.77 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f60dfc93-8784-46f6-9201-11e3251f17d3")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -30495,7 +30820,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 64.77 264.16 0)
+		(at 64.77 273.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -30506,7 +30831,7 @@
 		(fields_autoplaced yes)
 		(uuid "e95c254d-f36b-4e0e-a2d9-b89c527a7578")
 		(property "Reference" "#PWR033"
-			(at 64.77 270.51 0)
+			(at 64.77 279.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30517,7 +30842,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 64.77 269.24 0)
+			(at 64.77 278.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30527,7 +30852,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 64.77 264.16 0)
+			(at 64.77 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30538,7 +30863,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 264.16 0)
+			(at 64.77 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30549,7 +30874,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.77 264.16 0)
+			(at 64.77 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31963,7 +32288,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 80.01 264.16 0)
+		(at 80.01 255.27 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -31974,7 +32299,7 @@
 		(fields_autoplaced yes)
 		(uuid "f753e397-9033-4485-8d35-af394e297cce")
 		(property "Reference" "#PWR034"
-			(at 80.01 270.51 0)
+			(at 80.01 261.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31985,7 +32310,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 80.01 269.24 0)
+			(at 80.01 260.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31995,7 +32320,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 264.16 0)
+			(at 80.01 255.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32006,7 +32331,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 264.16 0)
+			(at 80.01 255.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32017,7 +32342,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 80.01 264.16 0)
+			(at 80.01 255.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32793,10 +33118,107 @@
 			)
 		)
 	)
+	(symbol
+		(lib_id "C9002:X322512MSB4SI")
+		(at 62.23 246.38 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ffacaa0c-a3ec-435f-89b4-649454cfaf94")
+		(property "Reference" "X3"
+			(at 68.58 245.1099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "X322512MSB4SI"
+			(at 40.894 247.142 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "C9002:CRYSTAL-SMD_4P-L3.2-W2.5-BL"
+			(at 72.39 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/SMD-Crystals_YSX321SL-12MHZ-20PF-10PPM-40-85_C9002.html"
+			(at 74.93 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 62.23 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C9002"
+			(at 77.47 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "e5173146-d2df-4a8e-99d8-3fbf3430f693")
+		)
+		(pin "4"
+			(uuid "17366866-864c-4b65-980d-1f7d6f4ce43b")
+		)
+		(pin "2"
+			(uuid "80e56de0-a624-4ab9-8820-e759c60e9fa9")
+		)
+		(pin "1"
+			(uuid "f88444d1-93b9-47d6-81e2-d39e418ea2f5")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "X3")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
 		)
 	)
-	(embedded_fonts no)
 )
