@@ -2187,8 +2187,12 @@
 		)
 		(symbol "power:GND"
 			(power global)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2249,7 +2253,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "power-flag"
+			(property "ki_keywords" "global power"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2278,8 +2282,7 @@
 				(pin power_in line
 					(at 0 0 270)
 					(length 0)
-					(hide yes)
-					(name "GND"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3467,6 +3470,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 170.18 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6b898aa9-ccb4-4f89-8fc1-872c1ec2d685")
 		)
@@ -3534,7 +3548,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 92.71 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3611,7 +3625,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 157.48 146.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3688,7 +3702,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 217.17 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3834,6 +3848,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 170.18 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "38bc815a-cf49-498f-afb5-a09748885d07")
 		)
@@ -3901,7 +3926,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 107.95 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4036,6 +4061,17 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 184.15 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 184.15 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -4182,6 +4218,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 170.18 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "543e9346-7a16-4a4a-b406-2f6ebabadffe")
 		)
@@ -4307,6 +4354,17 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 170.18 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 170.18 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -4551,6 +4609,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 107.95 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e681c295-2c24-410e-b9e2-19863bdf5e46")
 		)
@@ -4707,6 +4776,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 146.05 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a5a823b1-0809-4609-bd13-9b02cea34198")
 		)
@@ -4846,6 +4926,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 170.18 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5b430150-ba75-45ff-96a2-4a5e6b6d7c99")
 		)
@@ -4913,7 +5004,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 138.43 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5066,6 +5157,28 @@
 				)
 			)
 		)
+		(property "LCSC" "C913480"
+			(at 123.19 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 123.19 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "3b13a3f8-f485-458e-b38a-efdc5d9e4f53")
 		)
@@ -5201,6 +5314,17 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 170.18 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 170.18 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -5365,6 +5489,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 157.48 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2872a560-3a12-4e59-bbf2-a784fdd4be9b")
 		)
@@ -5414,7 +5549,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead"
+		(property "Value" "BLM15AG221SN1D"
 			(at 121.8692 80.645 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5446,7 +5581,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Ferrite bead"
 			(at 121.92 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5512,6 +5647,28 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 121.92 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C85813"
+			(at 121.92 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 121.92 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -5668,6 +5825,17 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 146.05 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 146.05 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -5837,6 +6005,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 92.71 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "09ce9440-8d6e-427e-a46d-2d31e5a0cc41")
 		)
@@ -5972,6 +6151,28 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 203.2 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C42400252"
+			(at 203.2 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 203.2 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -6230,6 +6431,17 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 170.18 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 170.18 93.98 90)
 			(hide yes)
 			(show_name no)

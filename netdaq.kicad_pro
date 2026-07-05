@@ -733,7 +733,7 @@
           "group_by": true,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
@@ -818,14 +818,20 @@
           "label": "LCSC missing",
           "name": "LCSC missing",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Tolerance",
+          "name": "Tolerance",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Footprint"
+      "sort_asc": false,
+      "sort_field": "Value"
     },
     "bus_aliases": {
       "I2C": [
@@ -927,7 +933,7 @@
         "uuid": "2970f661-65ab-4e2b-aeda-d76d1044f2b8"
       }
     ],
-    "used_designators": "U16-17,#PWR69-70,#PWR191,#PWR326-328,X2-3",
+    "used_designators": "U18-49,C37,C131-133,C137-268,D40-46,D82-107,#PWR192-197,#PWR329-542,R43,R110-236,TP183-214",
     "variants": []
   },
   "sheets": [

@@ -767,6 +767,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 41.91 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
@@ -888,6 +899,17 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 59.69 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 59.69 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -1029,6 +1051,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 59.69 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
@@ -1150,6 +1183,17 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 41.91 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 41.91 111.76 0)
 			(hide yes)
 			(show_name no)

@@ -4,3 +4,4 @@ netdaq-backups/
 analysis/
 datasheets/
 .rag.toml
+*.bak

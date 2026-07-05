@@ -1443,7 +1443,7 @@
 		)
 		(uuid "2e9425ce-661e-4438-b7e7-87f22d0129fe")
 	)
-	(text_box "Design Note:\n300 mV Vf @ 0.2 A\n350 mV Vf @ 0.1 A"
+	(text_box "Design Note:\n300 mV Vf @ 0.2 A\n280 mV Vf @ 0.1 A"
 		(exclude_from_sim no)
 		(at 44.45 96.52 0)
 		(size 22.86 12.7)
@@ -2173,6 +2173,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 195.58 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ad14eabe-ff20-4ca1-acf6-cb5aa138832d")
 		)
@@ -2332,6 +2343,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 93.98 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ae986efd-930c-4b2c-ac20-1225ca74aa62")
 		)
@@ -2369,7 +2391,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "DSL34"
 			(at 54.9275 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2390,7 +2412,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466347.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU11QR1ReXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaFA%3D%3D"
 			(at 54.61 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -2402,6 +2424,50 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 54.61 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22466347"
+			(at 54.61 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Basic/Pref" "n"
+			(at 54.61 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C22466347"
+			(at 54.61 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 54.61 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -2861,6 +2927,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 92.71 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "87285669-0be9-45f3-a39d-be26bee79908")
 		)
@@ -3173,6 +3250,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 208.28 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "10fb8816-fd06-4fa4-afc8-5f91c0f8fcbc")
 		)
@@ -3388,6 +3476,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 214.63 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9c166885-d68b-42d9-b2ed-8364c016c74d")
 		)
@@ -3422,7 +3521,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "DSL34"
 			(at 54.9275 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3443,7 +3542,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466347.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU11QR1ReXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaFA%3D%3D"
 			(at 54.61 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3455,6 +3554,50 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 54.61 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22466347"
+			(at 54.61 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Basic/Pref" "n"
+			(at 54.61 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C22466347"
+			(at 54.61 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 54.61 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3622,6 +3765,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 163.83 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f360563d-f5d8-46d6-b699-d98e9d48cc17")
 		)
@@ -3669,7 +3823,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS62A01PDDCR:DDC0006A-MFG"
+		(property "Footprint" "TPS62A01PDDCR:DDC0006A-IPC_A"
 			(at 102.87 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3760,6 +3914,28 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 102.87 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C42267816"
+			(at 102.87 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 102.87 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3941,6 +4117,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 177.8 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eb3acbbe-c9ac-4723-b4b8-014c4ca11171")
 		)
@@ -4066,6 +4253,17 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 149.86 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 149.86 92.71 90)
 			(hide yes)
 			(show_name no)
@@ -4313,6 +4511,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 156.21 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c3b1d9be-2533-4c0e-8112-e7ec7af1ce88")
 		)
@@ -4529,6 +4738,17 @@
 				)
 			)
 		)
+		(property "Tolerance" ""
+			(at 168.91 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "05b5d8f1-7437-4085-959d-ca7123c6bb5b")
 		)
@@ -4675,6 +4895,17 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 220.98 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 220.98 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4834,6 +5065,17 @@
 			)
 		)
 		(property "LCSC missing" ""
+			(at 80.01 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
 			(at 80.01 97.79 0)
 			(hide yes)
 			(show_name no)
