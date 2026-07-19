@@ -127,6 +127,16 @@
 	)
 	(bus
 		(pts
+			(xy 254 217.17) (xy 254 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "176eeed7-01d7-415f-b2b4-b1ec76c29264")
+	)
+	(bus
+		(pts
 			(xy 215.9 152.4) (xy 254 152.4)
 		)
 		(stroke
@@ -197,16 +207,6 @@
 	)
 	(bus
 		(pts
-			(xy 198.12 215.9) (xy 198.12 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7dd14072-cfb4-480a-97c1-5183b3e62cef")
-	)
-	(bus
-		(pts
 			(xy 232.41 118.11) (xy 303.53 118.11)
 		)
 		(stroke
@@ -234,6 +234,16 @@
 			(type default)
 		)
 		(uuid "81754a24-40e8-4394-a229-a622ab19efdd")
+	)
+	(bus
+		(pts
+			(xy 170.18 217.17) (xy 170.18 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84f97cce-9fe4-4576-ac38-427c0b6e58c9")
 	)
 	(bus
 		(pts
@@ -287,16 +297,6 @@
 	)
 	(bus
 		(pts
-			(xy 254 215.9) (xy 254 236.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99ea626e-b952-4284-a72c-12db07e99349")
-	)
-	(bus
-		(pts
 			(xy 204.47 242.57) (xy 204.47 236.22)
 		)
 		(stroke
@@ -327,6 +327,16 @@
 	)
 	(bus
 		(pts
+			(xy 226.06 217.17) (xy 226.06 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a966f030-6b03-41cc-bec5-0d93e283924f")
+	)
+	(bus
+		(pts
 			(xy 232.41 115.57) (xy 303.53 115.57)
 		)
 		(stroke
@@ -344,6 +354,16 @@
 			(type default)
 		)
 		(uuid "b2c676db-21dd-4ef0-9f16-5e51c0557b4d")
+	)
+	(bus
+		(pts
+			(xy 198.12 217.17) (xy 198.12 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6dd1a25-4bdc-4698-8048-0306e99ec406")
 	)
 	(bus
 		(pts
@@ -395,16 +415,6 @@
 		)
 		(uuid "d8ffa511-2622-457a-8f61-6c3f0d9c974f")
 	)
-	(bus
-		(pts
-			(xy 170.18 215.9) (xy 170.18 236.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da9b6e27-c087-4f32-a525-321513df9beb")
-	)
 	(wire
 		(pts
 			(xy 232.41 120.65) (xy 303.53 120.65)
@@ -437,16 +447,6 @@
 	)
 	(bus
 		(pts
-			(xy 226.06 215.9) (xy 226.06 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e530d9dd-efc1-4100-ab09-5d75032c56a0")
-	)
-	(bus
-		(pts
 			(xy 215.9 242.57) (xy 215.9 236.22)
 		)
 		(stroke
@@ -475,8 +475,8 @@
 		)
 		(uuid "ff1f1f94-347c-4ee9-87aa-2e3aacbf371e")
 	)
-	(label "GPIO[25..32]"
-		(at 254 228.6 90)
+	(label "ADCIN[25..32]"
+		(at 254 232.41 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -525,8 +525,8 @@
 		)
 		(uuid "23d7e47e-d104-454f-9e94-ef3d4601a5b4")
 	)
-	(label "GPIO[17..24]"
-		(at 226.06 228.6 90)
+	(label "ADCIN[17..24]"
+		(at 226.06 232.41 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -565,8 +565,8 @@
 		)
 		(uuid "7c734ff9-c4f1-4839-9334-0b6ad3049276")
 	)
-	(label "GPIO[9..16]"
-		(at 198.12 228.6 90)
+	(label "ADCIN[9..16]"
+		(at 198.12 232.41 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -595,8 +595,8 @@
 		)
 		(uuid "9aabc7a9-4e51-44c4-993f-7a0ab63a64ea")
 	)
-	(label "GPIO[1..8]"
-		(at 170.18 228.6 90)
+	(label "ADCIN[1..8]"
+		(at 170.18 232.41 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1366,7 +1366,7 @@
 	)
 	(sheet
 		(at 190.5 194.31)
-		(size 15.24 21.59)
+		(size 15.24 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1401,16 +1401,6 @@
 				(justify left top)
 			)
 		)
-		(pin "GPIO[0..7]" bidirectional
-			(at 198.12 215.9 270)
-			(uuid "7f6d0ac4-6e27-4b79-a97e-786a118b1bad")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "SPI{SPI}" bidirectional
 			(at 198.12 194.31 90)
 			(uuid "c940ecc7-1442-4a62-957b-dbbce62b064d")
@@ -1419,6 +1409,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "ADCIN[0..7]" bidirectional
+			(at 198.12 217.17 270)
+			(uuid "d42ae0d5-1d54-4b56-aa23-66fd623c4204")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -1507,7 +1507,7 @@
 	)
 	(sheet
 		(at 218.44 194.31)
-		(size 15.24 21.59)
+		(size 15.24 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1542,16 +1542,6 @@
 				(justify left top)
 			)
 		)
-		(pin "GPIO[0..7]" bidirectional
-			(at 226.06 215.9 270)
-			(uuid "51791839-6ef5-418a-9bd8-2760b12f5a99")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "SPI{SPI}" bidirectional
 			(at 226.06 194.31 90)
 			(uuid "df365a12-cba5-47f2-b5e2-aa2124f030c8")
@@ -1560,6 +1550,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "ADCIN[0..7]" bidirectional
+			(at 226.06 217.17 270)
+			(uuid "a6ad3176-e6de-48a5-b128-5ca51027abf4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -1720,7 +1720,7 @@
 	)
 	(sheet
 		(at 162.56 194.31)
-		(size 15.24 21.59)
+		(size 15.24 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1755,16 +1755,6 @@
 				(justify left top)
 			)
 		)
-		(pin "GPIO[0..7]" bidirectional
-			(at 170.18 215.9 270)
-			(uuid "96d3cdaa-011f-4e5a-a3f0-ec9ed304b75b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "SPI{SPI}" bidirectional
 			(at 170.18 194.31 90)
 			(uuid "26cee45f-8b15-4da2-a295-8f958aceb496")
@@ -1773,6 +1763,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "ADCIN[0..7]" bidirectional
+			(at 170.18 217.17 270)
+			(uuid "691bb8a2-5c37-431c-a817-bbe4e8cf1ae9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -1870,7 +1870,7 @@
 	)
 	(sheet
 		(at 246.38 194.31)
-		(size 15.24 21.59)
+		(size 15.24 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1905,16 +1905,6 @@
 				(justify left top)
 			)
 		)
-		(pin "GPIO[0..7]" bidirectional
-			(at 254 215.9 270)
-			(uuid "3b81dac5-83aa-46d4-be92-6a9fa560b81f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "SPI{SPI}" bidirectional
 			(at 254 194.31 90)
 			(uuid "1bcb13c8-95e7-4fbf-abce-0484a2490968")
@@ -1923,6 +1913,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "ADCIN[0..7]" bidirectional
+			(at 254 217.17 270)
+			(uuid "a5fb3669-7666-49da-a8a8-89315c0b2e78")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
