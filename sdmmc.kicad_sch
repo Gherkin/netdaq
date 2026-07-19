@@ -98,7 +98,9 @@
 						(type none)
 					)
 				)
-				(pin unspecified line
+			)
+			(symbol "MLD-TFPUSH-H18_1_1"
+				(pin bidirectional line
 					(at -12.7 12.7 0)
 					(length 2.54)
 					(name "DAT2"
@@ -116,7 +118,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin bidirectional line
 					(at -12.7 10.16 0)
 					(length 2.54)
 					(name "CD/DAT3"
@@ -134,7 +136,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at -12.7 7.62 0)
 					(length 2.54)
 					(name "CMD"
@@ -152,7 +154,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_in line
 					(at -12.7 5.08 0)
 					(length 2.54)
 					(name "VDD"
@@ -170,7 +172,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at -12.7 2.54 0)
 					(length 2.54)
 					(name "CLX"
@@ -188,7 +190,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_in line
 					(at -12.7 0 0)
 					(length 2.54)
 					(name "VSS"
@@ -206,7 +208,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin bidirectional line
 					(at -12.7 -2.54 0)
 					(length 2.54)
 					(name "DAT0"
@@ -224,7 +226,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin bidirectional line
 					(at -12.7 -5.08 0)
 					(length 2.54)
 					(name "DAT1"
@@ -242,7 +244,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 15.24 -7.62 180)
 					(length 2.54)
 					(name "EH"
@@ -260,7 +262,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 15.24 -5.08 180)
 					(length 2.54)
 					(name "EH"
@@ -278,7 +280,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 15.24 10.16 180)
 					(length 2.54)
 					(name "EH"
@@ -296,7 +298,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 15.24 12.7 180)
 					(length 2.54)
 					(name "EH"
@@ -314,7 +316,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin output line
 					(at -12.7 -7.62 0)
 					(length 2.54)
 					(name "CD"

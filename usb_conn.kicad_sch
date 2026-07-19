@@ -87,7 +87,7 @@
 						(type background)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 11.43 8.89 180)
 					(length 2.54)
 					(name "SHELL"
@@ -105,7 +105,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_out line
 					(at 11.43 -3.81 180)
 					(length 2.54)
 					(name "GND"
@@ -123,7 +123,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_out line
 					(at -11.43 24.13 0)
 					(length 2.54)
 					(name "VBUS"
@@ -141,7 +141,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin bidirectional line
 					(at -11.43 11.43 0)
 					(length 2.54)
 					(name "CC1"
@@ -159,7 +159,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin bidirectional line
 					(at -11.43 3.81 0)
 					(length 2.54)
 					(name "DP1"
@@ -177,7 +177,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin bidirectional line
 					(at -11.43 -3.81 0)
 					(length 2.54)
 					(name "DN1"
@@ -195,7 +195,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin bidirectional line
 					(at -11.43 19.05 0)
 					(length 2.54)
 					(name "SBU1"
@@ -213,7 +213,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_out line
 					(at 11.43 -6.35 180)
 					(length 2.54)
 					(name "GND"
@@ -231,7 +231,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin power_out line
 					(at -11.43 26.67 0)
 					(length 2.54)
 					(name "VBUS"
@@ -249,7 +249,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin bidirectional line
 					(at -11.43 8.89 0)
 					(length 2.54)
 					(name "CC2"
@@ -267,7 +267,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin bidirectional line
 					(at -11.43 1.27 0)
 					(length 2.54)
 					(name "DP2"
@@ -285,7 +285,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin bidirectional line
 					(at -11.43 -6.35 0)
 					(length 2.54)
 					(name "DN2"
@@ -303,7 +303,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin bidirectional line
 					(at -11.43 16.51 0)
 					(length 2.54)
 					(name "SBU2"
@@ -323,7 +323,7 @@
 				)
 			)
 			(symbol "HYCW498-USBC16-735B_1_1"
-				(pin unspecified line
+				(pin passive line
 					(at 11.43 6.35 180)
 					(length 2.54)
 					(name "SHELL"
@@ -341,7 +341,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 11.43 3.81 180)
 					(length 2.54)
 					(name "SHELL"
@@ -359,7 +359,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 11.43 1.27 180)
 					(length 2.54)
 					(name "SHELL"
@@ -593,7 +593,7 @@
 						(type none)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at -5.08 2.54 0)
 					(length 0.762)
 					(name "1"
@@ -611,7 +611,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 5.08 2.54 180)
 					(length 0.762)
 					(name "2"
@@ -629,7 +629,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 5.08 -2.54 180)
 					(length 0.762)
 					(name "3"
@@ -647,7 +647,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at -5.08 -2.54 0)
 					(length 0.762)
 					(name "4"
@@ -3503,7 +3503,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0cb5df08-13bc-4f4c-b914-a0909258fb98")
 		(property "Reference" "#PWR0293"
 			(at 92.71 104.14 0)
@@ -3549,7 +3548,8 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 92.71 97.79 0)
+			(at 73.152 95.25 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3627,6 +3627,7 @@
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 157.48 146.05 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3704,6 +3705,7 @@
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 217.17 123.19 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3928,6 +3930,7 @@
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 107.95 97.79 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5006,6 +5009,7 @@
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 138.43 105.41 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5583,6 +5587,7 @@
 		)
 		(property "Description" "Ferrite bead"
 			(at 121.92 86.36 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

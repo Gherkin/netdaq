@@ -1467,16 +1467,6 @@
 				(justify left top)
 			)
 		)
-		(pin "UART{UART}" bidirectional
-			(at 303.53 115.57 180)
-			(uuid "19070924-9953-422d-9bd5-adfe4acb6a9f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "DBG_RST#" output
 			(at 303.53 120.65 180)
 			(uuid "a225ea96-db27-4d6d-92cd-2de9b47c0305")
@@ -1490,6 +1480,16 @@
 		(pin "JTAG{JTAG}" bidirectional
 			(at 303.53 118.11 180)
 			(uuid "7231ade3-2c82-4918-b024-596f9b8ce923")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART{UART}" bidirectional
+			(at 303.53 115.57 180)
+			(uuid "92c14470-01a0-4f64-ac16-40d8c9bef4df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2181,16 +2181,6 @@
 				(justify right)
 			)
 		)
-		(pin "UART4{UART}" bidirectional
-			(at 232.41 115.57 0)
-			(uuid "e33a70bd-a2f4-4af1-a7c5-b70a1dfeafe5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "USB{USB}" bidirectional
 			(at 193.04 113.03 180)
 			(uuid "2ace3722-90f5-42da-bbf0-192a46dd4e19")
@@ -2234,6 +2224,16 @@
 		(pin "JTAG{JTAG}" bidirectional
 			(at 232.41 118.11 0)
 			(uuid "ff12efda-6eef-4d98-a2ae-bc9f9fa8d501")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART4{UART}" bidirectional
+			(at 232.41 115.57 0)
+			(uuid "bdd87cfb-4c73-4d56-b242-d0036c981f75")
 			(effects
 				(font
 					(size 1.27 1.27)

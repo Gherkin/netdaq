@@ -826,12 +826,12 @@
           "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "J2",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "Value"
+      "sort_asc": true,
+      "sort_field": "Reference"
     },
     "bus_aliases": {
       "I2C": [
@@ -879,6 +879,10 @@
         "MISO",
         "SCK",
         "CS#"
+      ],
+      "UART": [
+        "TX",
+        "RX"
       ],
       "USB": [
         "D-",
@@ -933,7 +937,7 @@
         "uuid": "2970f661-65ab-4e2b-aeda-d76d1044f2b8"
       }
     ],
-    "used_designators": "#PWR200-203",
+    "used_designators": "TP215,C269,#PWR192-193",
     "variants": []
   },
   "sheets": [
