@@ -26,4 +26,6 @@
 	(lib (name "C13740") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C13740/C13740.pretty") (options "") (descr ""))
 	(lib (name "C32346") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C32346/C32346.pretty") (options "") (descr ""))
 	(lib (name "C9002") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C9002/C9002.pretty") (options "") (descr ""))
+	(lib (name "C145516") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C145516/C145516.pretty") (options "") (descr ""))
+	(lib (name "C2058050") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C2058050/C2058050.pretty") (options "") (descr ""))
 )

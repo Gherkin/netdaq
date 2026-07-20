@@ -63,7 +63,7 @@
           "min_clearance": 0.0,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -211,6 +211,7 @@
       ],
       "track_widths": [
         0.0,
+        0.1,
         0.3,
         0.5
       ],
@@ -826,12 +827,12 @@
           "show": false
         }
       ],
-      "filter_string": "J2",
+      "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Value"
     },
     "bus_aliases": {
       "I2C": [
@@ -937,7 +938,7 @@
         "uuid": "2970f661-65ab-4e2b-aeda-d76d1044f2b8"
       }
     ],
-    "used_designators": "TP215,C269,#PWR192-193",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -1000,10 +1001,6 @@
     [
       "b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c",
       "ADC4"
-    ],
-    [
-      "7a83739f-85b4-43e8-9dfb-6f7324317528",
-      "ADC Filter"
     ]
   ],
   "text_variables": {},
