@@ -1,0 +1,232 @@
+(footprint "LED-SMD_FM-B2020RGBA-HG"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4.55 0)
+		(layer "F.SilkS")
+		(uuid "a8af91dc-a1c4-4988-9cee-a2abda8e01d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED-SMD_FM-B2020RGBA-HG"
+		(at 0 4.55 0)
+		(layer "F.Fab")
+		(uuid "be83dd0a-371a-4d15-8cfa-8a53719b1ae9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b46e319-5a3e-4501-ae24-ee480a1084d3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1ecaf44b-eb58-4bb8-a833-fd16ae4adc19")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.13 -1.13)
+		(end -1.13 -1.13)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c7712085-38c9-4a3c-a2a2-c27c3e5a267f")
+	)
+	(fp_line
+		(start -1.13 -1.13)
+		(end 1.13 -1.13)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "10c103a8-28e5-451c-8851-0386435acf19")
+	)
+	(fp_line
+		(start -1.13 -0.97)
+		(end -1.13 -1.13)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ed0366ab-02fc-4def-b4e6-d3195723f7e5")
+	)
+	(fp_line
+		(start -1.13 0.97)
+		(end -1.13 1.13)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d7a2cb6c-f1fd-499a-b511-5d792f756f98")
+	)
+	(fp_line
+		(start -1.13 1.13)
+		(end -1.13 1.13)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "830917be-efbb-41ba-b891-df6dce8dcfb9")
+	)
+	(fp_line
+		(start -1.13 1.13)
+		(end 1.13 1.13)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "816283ab-2f6f-4476-8e4b-2861b976a2f0")
+	)
+	(fp_line
+		(start 1.13 -1.13)
+		(end 1.13 -1.13)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "84f4aa83-2533-49e5-9e17-4e5b3b9219ed")
+	)
+	(fp_line
+		(start 1.13 -1.13)
+		(end 1.13 -0.97)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9d157dde-6b7a-4a11-826f-f83533e844de")
+	)
+	(fp_line
+		(start 1.13 1.13)
+		(end 1.13 0.97)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "23542367-0486-4b9e-a26c-52f25932bc2d")
+	)
+	(fp_line
+		(start 1.13 1.13)
+		(end 1.13 1.13)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "747ed021-c979-4106-98f1-e4328a8df282")
+	)
+	(fp_circle
+		(center -1.62 -0.73)
+		(end -1.5 -0.73)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b6dd8a08-a909-4fcb-a6d8-9fd84ff6440a")
+	)
+	(fp_circle
+		(center -1.05 -1.05)
+		(end -1.02 -1.05)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "578fbd57-8958-40ce-9cf1-e45053ec96a9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "64785a30-7fa0-4df6-afc8-c79c2e1aa282")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.85 -0.55 270)
+		(size 0.7 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b5aaebc1-b156-4468-9d7c-3f5ab517b6ef")
+	)
+	(pad "2" smd rect
+		(at 0.85 -0.55 270)
+		(size 0.7 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6c3e0f5b-496b-4ead-8b23-223d832f4bca")
+	)
+	(pad "3" smd rect
+		(at 0.85 0.55 270)
+		(size 0.7 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6b2bcc87-c95e-4691-8c83-6b005b8fd9b2")
+	)
+	(pad "4" smd rect
+		(at -0.85 0.55 270)
+		(size 0.7 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1a91272d-8ac4-4c57-ada5-09f5f7088d59")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/symbols - footprints/C42421005/C42421005.3dshapes/LED2121-4P_L2.1-W2.1-H1.0-LS2.1.wrl"
+		(offset
+			(xyz -913.8 685.8 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/symbols - footprints/C42421005/C42421005.3dshapes/LED2121-4P_L2.1-W2.1-H1.0-LS2.1.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -89,54 +89,6 @@
 			)
 		)
 		(symbol "PD70100ILD-TR_0_1"
-			(polyline
-				(pts
-					(xy 7.62 7.62) (xy 7.62 -26.67)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 7.62 -26.67) (xy 43.18 -26.67)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 43.18 7.62) (xy 7.62 7.62)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 43.18 -26.67) (xy 43.18 7.62)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(pin power_in line
 				(at 0 -20.32 0)
 				(length 7.62)
@@ -319,6 +271,17 @@
 			)
 		)
 		(symbol "PD70100ILD-TR_1_1"
+			(rectangle
+				(start 7.62 7.62)
+				(end 43.18 -26.67)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
 			(pin input line
 				(at 0 2.54 0)
 				(length 7.62)

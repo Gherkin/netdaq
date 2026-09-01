@@ -1392,16 +1392,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "todo: change to C22466347"
-		(exclude_from_sim no)
-		(at 24.384 87.376 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "a461a222-42c2-4a5f-9913-604f4d3e3c30")
-	)
 	(text "3.3 V Regulator"
 		(exclude_from_sim no)
 		(at 144.526 34.036 0)
@@ -1423,7 +1413,7 @@
 		)
 		(uuid "dc130759-9608-4269-98e8-b6b0aad3d4f0")
 	)
-	(text_box "Design Note:\nPrioritizes 5.2 V \nfrom the Ethernet PoE\nover 5.0 V from USB"
+	(text_box "Design Note:\nPrioritizes 5.3 V \nfrom the Ethernet PoE\nover 5.0 V from USB"
 		(exclude_from_sim no)
 		(at 44.45 57.15 0)
 		(size 22.86 12.7)
@@ -2299,7 +2289,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 93.98 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -4073,7 +4063,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 177.8 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4299,7 +4289,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "843a40ed-e436-4c36-8d22-b637d687fc51")
 		(property "Reference" "#PWR0324"
 			(at 43.18 83.82 0)
@@ -4312,14 +4301,15 @@
 				)
 			)
 		)
-		(property "Value" "+5.2V"
-			(at 43.18 74.93 0)
+		(property "Value" "+5.3V"
+			(at 41.148 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""

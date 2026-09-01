@@ -283,6 +283,172 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:D_Zener"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D_Zener"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Zener diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "D_Zener_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_Zener_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -510,54 +676,6 @@
 				)
 			)
 			(symbol "PD70100ILD-TR_0_1"
-				(polyline
-					(pts
-						(xy 7.62 7.62) (xy 7.62 -26.67)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -26.67) (xy 43.18 -26.67)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 43.18 7.62) (xy 7.62 7.62)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 43.18 -26.67) (xy 43.18 7.62)
-					)
-					(stroke
-						(width 0.127)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
 				(pin power_in line
 					(at 0 -20.32 0)
 					(length 7.62)
@@ -740,6 +858,17 @@
 				)
 			)
 			(symbol "PD70100ILD-TR_1_1"
+				(rectangle
+					(start 7.62 7.62)
+					(end 43.18 -26.67)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
 				(pin input line
 					(at 0 2.54 0)
 					(length 7.62)
@@ -924,6 +1053,27 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "https://www.ti.com/lit/an/slua736/slua736.pdf?ts=1786819310575"
+		(exclude_from_sim no)
+		(at 204.47 168.656 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3f3052b8-3eed-4f0c-89af-b2f7952d8035")
+	)
+	(text "PoE PD Controller"
+		(exclude_from_sim no)
+		(at 213.614 39.37 0)
+		(effects
+			(font
+				(size 12.7 12.7)
+				(thickness 1.5875)
+			)
+		)
+		(uuid "eaa60d14-072d-442b-8e9f-2636cf6b8a60")
+	)
 	(text_box "Design Note:\n33k // 100k = ~24.9k"
 		(exclude_from_sim no)
 		(at 163.83 88.9 0)
@@ -943,12 +1093,6 @@
 			(justify left top)
 		)
 		(uuid "36007478-22fe-4877-a140-5098c80af81c")
-	)
-	(junction
-		(at 242.57 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0740ee49-b9f0-4de9-aa54-0f4ec9264f5e")
 	)
 	(junction
 		(at 166.37 107.95)
@@ -979,6 +1123,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7fec4ca5-272c-4f72-9d77-c6f24192f269")
+	)
+	(junction
+		(at 181.61 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "857a4584-679e-4762-8793-f50f493d1102")
 	)
 	(junction
 		(at 176.53 120.65)
@@ -1016,6 +1166,18 @@
 		(color 0 0 0 0)
 		(uuid "ddbe5b15-831e-44a4-aa67-8223b11a6d84")
 	)
+	(junction
+		(at 242.57 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e3236abe-afe2-457c-a699-d36b9b91fcb7")
+	)
+	(junction
+		(at 242.57 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f3c58547-6647-4378-a725-b529eb2f11e7")
+	)
 	(wire
 		(pts
 			(xy 166.37 148.59) (xy 176.53 148.59)
@@ -1035,6 +1197,16 @@
 			(type default)
 		)
 		(uuid "171ec481-3cae-415d-bd3b-b429885624d1")
+	)
+	(wire
+		(pts
+			(xy 242.57 162.56) (xy 242.57 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4aa91056-eb30-4c09-9654-37826b124fa9")
 	)
 	(wire
 		(pts
@@ -1198,6 +1370,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 162.56) (xy 242.57 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a05762ae-b19c-4d6e-a19f-45da64fc44bb")
+	)
+	(wire
+		(pts
 			(xy 240.03 146.05) (xy 242.57 146.05)
 		)
 		(stroke
@@ -1208,7 +1390,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 148.59) (xy 186.69 148.59)
+			(xy 176.53 148.59) (xy 181.61 148.59)
 		)
 		(stroke
 			(width 0)
@@ -1278,6 +1460,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 148.59) (xy 186.69 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0336f20-40c9-4a20-835d-88150a601865")
+	)
+	(wire
+		(pts
 			(xy 137.16 148.59) (xy 149.86 148.59)
 		)
 		(stroke
@@ -1298,7 +1490,7 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 149.86) (xy 242.57 148.59)
+			(xy 242.57 165.1) (xy 242.57 162.56)
 		)
 		(stroke
 			(width 0)
@@ -1335,6 +1527,16 @@
 			(type default)
 		)
 		(uuid "d4eb34e6-1fdc-4fb7-860a-ae98946aed4c")
+	)
+	(wire
+		(pts
+			(xy 181.61 162.56) (xy 181.61 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5881775-70e0-4164-a30a-1bec0ec3c5ce")
 	)
 	(wire
 		(pts
@@ -1395,6 +1597,16 @@
 			(type default)
 		)
 		(uuid "f38c4fae-bba7-4f31-bf50-4fe47b8a20ec")
+	)
+	(wire
+		(pts
+			(xy 210.82 162.56) (xy 181.61 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc19119e-8935-439e-905e-89cda098e4c1")
 	)
 	(wire
 		(pts
@@ -2025,8 +2237,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GNDD")
-		(at 242.57 149.86 0)
+		(lib_id "Device:D_Zener")
+		(at 214.63 162.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2035,10 +2247,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "641a5343-4200-403b-af00-91bc62df9639")
-		(property "Reference" "#PWR0315"
-			(at 242.57 156.21 0)
-			(hide yes)
+		(uuid "6178f057-2b8c-4d8f-b310-1212b5357181")
+		(property "Reference" "D40"
+			(at 214.63 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2047,8 +2258,8 @@
 				)
 			)
 		)
-		(property "Value" "PGND"
-			(at 242.57 153.67 0)
+		(property "Value" "SMBJ58A"
+			(at 214.63 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2057,8 +2268,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 242.57 149.86 0)
+		(property "Footprint" "Diode_SMD:D_SMB"
+			(at 214.63 162.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2069,7 +2280,176 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 242.57 149.86 0)
+			(at 214.63 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Zener diode"
+			(at 214.63 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 214.63 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 214.63 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 214.63 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Basic/Pref" ""
+			(at 214.63 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C157526"
+			(at 214.63 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC missing" ""
+			(at 214.63 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C157526"
+			(at 214.63 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 214.63 162.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3479f3b8-e5c5-4ef3-81e4-84bb9c340562")
+		)
+		(pin "1"
+			(uuid "7757f4f8-9d89-4daa-a981-431e8b0cf630")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/dfd7c564-50b6-4b87-afcf-cfbf80807611"
+					(reference "D40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDD")
+		(at 242.57 165.1 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "641a5343-4200-403b-af00-91bc62df9639")
+		(property "Reference" "#PWR0315"
+			(at 242.57 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PGND"
+			(at 242.57 168.91 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 242.57 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 242.57 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2080,7 +2460,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
-			(at 242.57 149.86 0)
+			(at 242.57 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

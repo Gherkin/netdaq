@@ -10732,7 +10732,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 320.04 166.878 90)
 			(hide yes)
 			(show_name no)
@@ -10798,7 +10798,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "n"
 			(at 320.04 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -10821,6 +10821,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 320.04 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C98309"
+			(at 320.04 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C98309"
 			(at 320.04 165.1 90)
 			(hide yes)
 			(show_name no)

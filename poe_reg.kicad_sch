@@ -2723,19 +2723,9 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "TODO: recalc for 5.2 V"
-		(exclude_from_sim no)
-		(at 133.858 98.806 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "c52dda3f-31bb-4f75-9ac3-4593790d9a1d")
-	)
 	(text "PoE Flyback Regulator"
 		(exclude_from_sim no)
-		(at 150.622 25.4 0)
+		(at 205.232 35.56 0)
 		(effects
 			(font
 				(size 12.7 12.7)
@@ -2743,16 +2733,6 @@
 			)
 		)
 		(uuid "d6b24f28-f6c3-41ee-a0aa-b8c65e199329")
-	)
-	(text "TODO: Replace D80, not on LCSC"
-		(exclude_from_sim no)
-		(at 76.454 120.396 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "e3a99786-5b81-4dd0-a93a-4495aa05da35")
 	)
 	(text "CAD Note:\n2kV isolation\n"
 		(exclude_from_sim no)
@@ -2765,6 +2745,46 @@
 			(justify left)
 		)
 		(uuid "f8777023-c1c4-48cf-b3ff-fdd5e5572e67")
+	)
+	(text_box "Design Note:\nD38 Vf = 0.42 V @ 1 A"
+		(exclude_from_sim no)
+		(at 260.35 113.03 0)
+		(size 26.67 5.9929)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "2b2352c3-3080-4d58-9cc5-fd21bb4c0df3")
+	)
+	(text_box "Design Note:\n150k over 24k =>\n~5.321 V\nthere is significant inaccuracy\nworst case +/- ~0.5 V"
+		(exclude_from_sim no)
+		(at 180.34 177.8 0)
+		(size 27.94 20.3053)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "2d473630-82b2-499f-9409-28681b6a44af")
 	)
 	(text_box "Design Note:\nILIM 330k =>\n0.34 A switch current\n2.5 A on secondary at 37 V\n3.87 A on secondary at 57 V"
 		(exclude_from_sim no)
@@ -2826,6 +2846,26 @@
 		)
 		(uuid "5896f26e-68e4-4ce7-a4af-f6b3fed9217c")
 	)
+	(text_box "Design Note:\nPOE30P-50L\n310uH (279uH Ipk)\n1.02 ohm pri 2.01 ohm bias 0.118 ohm sec\npri:sec = 1:0.28\npri:bias = 1:0.7"
+		(exclude_from_sim no)
+		(at 220.98 96.52 0)
+		(size 45.72 14.1714)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width -0.0001)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "6d2a5b35-da39-407f-8c9b-37956c0d327b")
+	)
 	(text_box "Design Note:\nsnubber is placeholder.\nmeasure and size"
 		(exclude_from_sim no)
 		(at 240.03 139.7 0)
@@ -2865,26 +2905,6 @@
 			(justify left top)
 		)
 		(uuid "9f1053a9-ce8b-49af-b553-05cce3453249")
-	)
-	(text_box "TODO:\nselect capacitors to chose footprints\n\nRCD diode"
-		(exclude_from_sim no)
-		(at 109.22 77.4847 0)
-		(size 22.86 20.3053)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width -0.0001)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "d09d7e72-d5a2-4c2c-b8f9-91d7094a95a4")
 	)
 	(text_box "Design Note:\nMaximum switch frequency\nat max input voltage\n133kHz"
 		(exclude_from_sim no)
@@ -4564,7 +4584,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "n"
 			(at 124.46 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -4587,6 +4607,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 124.46 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C170101"
+			(at 124.46 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C170101"
 			(at 124.46 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -5036,7 +5078,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "MP6004GQ-P"
+		(property "Datasheet" "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP6004/document_id/1864/"
 			(at 133.35 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -6039,6 +6081,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 190.5 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2941944"
+			(at 190.5 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C2941944"
 			(at 190.5 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -7529,7 +7593,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "68k"
+		(property "Value" "150k"
 			(at 193.04 156.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7540,7 +7604,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 188.722 154.94 90)
 			(hide yes)
 			(show_name no)
@@ -7617,7 +7681,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C36871"
+		(property "LCSC" "C22807"
 			(at 190.5 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -7628,7 +7692,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C36871"
+		(property "LCSC Part" "C22807"
 			(at 190.5 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -8262,7 +8326,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MMBZ5256ELT1G"
+		(property "Value" "BZX84C30-7-F"
 			(at 77.724 129.032 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8339,7 +8403,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "n"
 			(at 96.52 127 90)
 			(hide yes)
 			(show_name no)
@@ -8350,7 +8414,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "x"
+		(property "LCSC missing" ""
 			(at 96.52 127 90)
 			(hide yes)
 			(show_name no)
@@ -8362,6 +8426,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 96.52 127 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C151632"
+			(at 96.52 127 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C151632"
 			(at 96.52 127 90)
 			(hide yes)
 			(show_name no)
@@ -9278,7 +9364,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "12k"
+		(property "Value" "24K"
 			(at 193.04 166.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9289,7 +9375,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 188.722 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -9366,7 +9452,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25752"
+		(property "LCSC" "C23352"
 			(at 190.5 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -9377,7 +9463,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C25752"
+		(property "LCSC Part" "C23352"
 			(at 190.5 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -9751,7 +9837,7 @@
 				)
 			)
 		)
-		(property "Value" "+5.2V"
+		(property "Value" "+5.3V"
 			(at 321.31 118.1099 0)
 			(show_name no)
 			(do_not_autoplace no)
