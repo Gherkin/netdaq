@@ -1496,6 +1496,12 @@
 		(uuid "a6d25589-0c52-4bef-afff-3b19874eb2f2")
 	)
 	(junction
+		(at 76.2 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "deb036c1-003f-4eca-a2da-5cba8e4a8555")
+	)
+	(junction
 		(at 220.98 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1598,6 +1604,16 @@
 			(type default)
 		)
 		(uuid "3aae591e-7289-40ac-af3b-ce4be7590957")
+	)
+	(wire
+		(pts
+			(xy 76.2 92.71) (xy 80.01 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e2b8a47-3e53-4b0d-b534-3d662466cade")
 	)
 	(wire
 		(pts
@@ -1801,6 +1817,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 87.63) (xy 76.2 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d11df04-cf0c-4682-ab8d-71ba60d26e71")
+	)
+	(wire
+		(pts
 			(xy 177.8 92.71) (xy 195.58 92.71)
 		)
 		(stroke
@@ -1931,7 +1957,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 92.71) (xy 80.01 92.71)
+			(xy 63.5 92.71) (xy 76.2 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1988,16 +2014,6 @@
 			(justify left bottom)
 		)
 		(uuid "47a995c5-cb1e-4bd0-8195-54db5e170242")
-	)
-	(label "V3P3_VIN"
-		(at 71.12 92.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "65cb0129-9b80-4fa5-a247-7e4e014eadf1")
 	)
 	(label "3V3_EN"
 		(at 95.25 107.95 0)
@@ -5086,6 +5102,84 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/4a874178-a54c-4eb4-8350-ff261e3dfdab"
 					(reference "C109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 76.2 87.63 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f481bfb2-58be-4798-ab96-74a05657cb7b")
+		(property "Reference" "#PWR0547"
+			(at 76.2 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "V3P3_VIN"
+			(at 72.136 83.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 76.2 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e4de8abf-c31b-40f1-bd58-0b0d37346200")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/4a874178-a54c-4eb4-8350-ff261e3dfdab"
+					(reference "#PWR0547")
 					(unit 1)
 				)
 			)
