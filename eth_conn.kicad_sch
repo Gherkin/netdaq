@@ -3508,7 +3508,7 @@
 		(uuid "01d99481-d40f-4f7f-91c5-c9f8c8065b9b")
 	)
 	(junction
-		(at 215.9 181.61)
+		(at 215.9 196.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "20412650-076c-4966-8f8c-a5257d59e98c")
@@ -3520,7 +3520,7 @@
 		(uuid "2882221a-29ea-4d92-99c3-e9f203c2c478")
 	)
 	(junction
-		(at 265.43 181.61)
+		(at 265.43 196.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3317ceff-4abe-4818-8780-846a5d6b6674")
@@ -3562,7 +3562,7 @@
 		(uuid "713c6b2c-b981-4dc3-94d0-108db80ee31c")
 	)
 	(junction
-		(at 243.84 181.61)
+		(at 243.84 196.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "80dd2bcc-8d99-4c22-b80c-c3a577460ebe")
@@ -3727,7 +3727,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 181.61) (xy 274.32 181.61)
+			(xy 265.43 196.85) (xy 274.32 196.85)
 		)
 		(stroke
 			(width 0)
@@ -3757,7 +3757,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 180.34) (xy 274.32 181.61)
+			(xy 274.32 180.34) (xy 274.32 196.85)
 		)
 		(stroke
 			(width 0)
@@ -3807,7 +3807,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 181.61) (xy 243.84 184.15)
+			(xy 243.84 196.85) (xy 243.84 199.39)
 		)
 		(stroke
 			(width 0)
@@ -3817,7 +3817,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 180.34) (xy 265.43 181.61)
+			(xy 265.43 180.34) (xy 265.43 196.85)
 		)
 		(stroke
 			(width 0)
@@ -3857,7 +3857,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 181.61) (xy 215.9 180.34)
+			(xy 215.9 196.85) (xy 215.9 180.34)
 		)
 		(stroke
 			(width 0)
@@ -3877,7 +3877,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 181.61) (xy 243.84 181.61)
+			(xy 215.9 196.85) (xy 243.84 196.85)
 		)
 		(stroke
 			(width 0)
@@ -3957,7 +3957,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 181.61) (xy 215.9 181.61)
+			(xy 205.74 196.85) (xy 215.9 196.85)
 		)
 		(stroke
 			(width 0)
@@ -4127,7 +4127,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 181.61) (xy 243.84 181.61)
+			(xy 265.43 196.85) (xy 243.84 196.85)
 		)
 		(stroke
 			(width 0)
@@ -4197,7 +4197,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 191.77) (xy 243.84 193.04)
+			(xy 243.84 207.01) (xy 243.84 208.28)
 		)
 		(stroke
 			(width 0)
@@ -4547,7 +4547,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 180.34) (xy 205.74 181.61)
+			(xy 205.74 180.34) (xy 205.74 196.85)
 		)
 		(stroke
 			(width 0)
@@ -4756,7 +4756,7 @@
 		(uuid "40bdb309-71b3-40e5-bdf8-d455b8dd4b82")
 	)
 	(label "MGND"
-		(at 233.68 181.61 0)
+		(at 233.68 196.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7888,7 +7888,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 243.84 187.96 0)
+		(at 243.84 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7899,7 +7899,7 @@
 		(fields_autoplaced yes)
 		(uuid "a2c6993b-cf2b-4d53-ab75-53209f71739a")
 		(property "Reference" "C36"
-			(at 247.65 186.6899 0)
+			(at 247.65 201.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7910,7 +7910,7 @@
 			)
 		)
 		(property "Value" "1n 2000V"
-			(at 247.65 189.2299 0)
+			(at 247.65 204.4699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7921,7 +7921,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 244.8052 191.77 0)
+			(at 244.8052 207.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7932,7 +7932,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 187.96 0)
+			(at 243.84 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7943,7 +7943,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 243.84 187.96 0)
+			(at 243.84 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7954,7 +7954,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 243.84 187.96 0)
+			(at 243.84 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7965,7 +7965,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 243.84 187.96 0)
+			(at 243.84 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7976,7 +7976,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 243.84 187.96 0)
+			(at 243.84 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7987,7 +7987,7 @@
 			)
 		)
 		(property "LCSC Basic/Pref" "x"
-			(at 243.84 187.96 0)
+			(at 243.84 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7998,7 +7998,7 @@
 			)
 		)
 		(property "LCSC" "C9196"
-			(at 243.84 187.96 0)
+			(at 243.84 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8009,7 +8009,7 @@
 			)
 		)
 		(property "LCSC Part" "C9196"
-			(at 243.84 187.96 0)
+			(at 243.84 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8020,7 +8020,7 @@
 			)
 		)
 		(property "LCSC missing" ""
-			(at 243.84 187.96 0)
+			(at 243.84 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8031,7 +8031,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 243.84 187.96 0)
+			(at 243.84 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10048,7 +10048,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 243.84 193.04 0)
+		(at 243.84 208.28 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10059,7 +10059,7 @@
 		(fields_autoplaced yes)
 		(uuid "f87f1a55-96a3-43fa-9e1f-5fc0ecf031db")
 		(property "Reference" "#PWR068"
-			(at 243.84 198.12 0)
+			(at 243.84 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10070,7 +10070,7 @@
 			)
 		)
 		(property "Value" "ETH_SHIELD"
-			(at 243.713 196.85 0)
+			(at 243.713 212.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10080,7 +10080,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 194.31 0)
+			(at 243.84 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10091,7 +10091,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 194.31 0)
+			(at 243.84 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10102,7 +10102,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 243.84 193.04 0)
+			(at 243.84 208.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

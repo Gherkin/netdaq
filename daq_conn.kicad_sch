@@ -2906,6 +2906,18 @@
 		(uuid "c2dd6860-29dc-4938-9df7-d7999724e833")
 	)
 	(junction
+		(at 227.33 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6b9fc2d-3c1f-49a5-9950-c4e8af81dcb1")
+	)
+	(junction
+		(at 196.85 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cb22204e-fc6a-43f3-85d7-f49a16366f7e")
+	)
+	(junction
 		(at 295.91 208.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4337,6 +4349,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 107.95) (xy 198.12 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31439cf2-ae98-4c9c-9a88-49baa4252a5b")
+	)
+	(wire
+		(pts
 			(xy 295.91 231.14) (xy 295.91 232.41)
 		)
 		(stroke
@@ -5597,6 +5619,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 102.87) (xy 196.85 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78436f88-a945-4485-b9d7-77bbe85c884e")
+	)
+	(wire
+		(pts
 			(xy 295.91 68.58) (xy 295.91 67.31)
 		)
 		(stroke
@@ -5747,6 +5779,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 107.95) (xy 196.85 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "816d4da4-b53a-4b39-b0a4-b5f2059db746")
+	)
+	(wire
+		(pts
 			(xy 96.52 109.22) (xy 96.52 110.49)
 		)
 		(stroke
@@ -5854,6 +5896,16 @@
 			(type default)
 		)
 		(uuid "859569af-de41-4afb-818c-974dc376d432")
+	)
+	(wire
+		(pts
+			(xy 196.85 110.49) (xy 198.12 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86107eaa-873e-4fff-8980-c7fce4d0edbb")
 	)
 	(wire
 		(pts
@@ -6007,6 +6059,16 @@
 	)
 	(wire
 		(pts
+			(xy 227.33 107.95) (xy 226.06 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a1ca3d3-748c-44de-9ac3-7ae08fbda890")
+	)
+	(wire
+		(pts
 			(xy 295.91 175.26) (xy 295.91 176.53)
 		)
 		(stroke
@@ -6154,6 +6216,16 @@
 			(type default)
 		)
 		(uuid "93a066e5-4079-4aa9-887f-301d508579ad")
+	)
+	(wire
+		(pts
+			(xy 227.33 102.87) (xy 227.33 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "949bbf78-4970-471f-a052-8e4f4dd523a9")
 	)
 	(wire
 		(pts
@@ -7637,6 +7709,16 @@
 	)
 	(wire
 		(pts
+			(xy 227.33 107.95) (xy 227.33 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed8e524d-e8ec-4cf7-a7fd-b717e8c0dc32")
+	)
+	(wire
+		(pts
 			(xy 226.06 135.89) (xy 264.16 135.89)
 		)
 		(stroke
@@ -7794,6 +7876,16 @@
 			(type default)
 		)
 		(uuid "f208c218-58b9-4578-b17f-acd5cc362e4b")
+	)
+	(wire
+		(pts
+			(xy 227.33 110.49) (xy 226.06 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f30e72a2-a98d-4055-ac0b-2000e36bb4f9")
 	)
 	(wire
 		(pts
@@ -15142,10 +15234,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3990a8fb-234e-405f-8908-a22fda7d5f6d")
 		(property "Reference" "J2"
-			(at 212.09 100.33 0)
+			(at 212.09 95.504 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15155,7 +15246,7 @@
 			)
 		)
 		(property "Value" "DMC 1,5/19-G1F-3,5-LR P26THR"
-			(at 212.09 102.87 0)
+			(at 212.09 98.044 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15241,7 +15332,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "y"
 			(at 212.09 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -25234,6 +25325,83 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/944febd4-cf2d-4cdf-a15e-06eb4d902218"
 					(reference "TP111")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 227.33 102.87 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "83f879c3-6c67-424d-a90a-e5ddc9a73b07")
+		(property "Reference" "#PWR0552"
+			(at 227.33 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 223.266 101.092 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 227.33 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "13d40867-f1c4-42b9-a1d6-c15b3886fdba")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/944febd4-cf2d-4cdf-a15e-06eb4d902218"
+					(reference "#PWR0552")
 					(unit 1)
 				)
 			)
@@ -42888,6 +43056,84 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/944febd4-cf2d-4cdf-a15e-06eb4d902218"
 					(reference "C44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 196.85 102.87 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ff7defc9-0742-4dc0-a7dd-76148b24803c")
+		(property "Reference" "#PWR0551"
+			(at 196.85 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 200.914 101.092 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.85 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 196.85 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0316171e-b96a-4b1c-86a3-a84f74e472b0")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/944febd4-cf2d-4cdf-a15e-06eb4d902218"
+					(reference "#PWR0551")
 					(unit 1)
 				)
 			)

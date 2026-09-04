@@ -1947,16 +1947,6 @@
 		)
 		(uuid "913deb4f-2e93-4fac-ba1c-cde4154f06bd")
 	)
-	(text "TODO: need a ferrite"
-		(exclude_from_sim no)
-		(at 322.58 150.622 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "99affce0-25d8-47be-98b3-29286722ffd0")
-	)
 	(text "Ethernet PHY"
 		(exclude_from_sim no)
 		(at 209.804 39.624 0)
@@ -10722,7 +10712,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead_Small"
+		(property "Value" "UPZ2012E102-1R5TF"
 			(at 320.0019 161.29 90)
 			(show_name no)
 			(do_not_autoplace no)

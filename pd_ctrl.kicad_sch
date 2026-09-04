@@ -2238,7 +2238,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Zener")
-		(at 214.63 162.56 0)
+		(at 214.63 162.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3013,7 +3013,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "PD70100ILD-TR"
+		(property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/POE/ProductDocuments/DataSheets/PD70100-PD70200-IEEE-802.3afat-Front-End-IC-Datasheet-DS00003639.pdf"
 			(at 189.23 123.19 0)
 			(hide yes)
 			(show_name no)

@@ -825,9 +825,15 @@
           "label": "Tolerance",
           "name": "Tolerance",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "u5",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
@@ -938,7 +944,7 @@
         "uuid": "2970f661-65ab-4e2b-aeda-d76d1044f2b8"
       }
     ],
-    "used_designators": "R242-247,#PWR207-212,#PWR547-549",
+    "used_designators": "#PWR213,#PWR550-552,C272,R237,R248-254",
     "variants": []
   },
   "sheets": [

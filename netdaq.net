@@ -2,7 +2,7 @@
 	(version "E")
 	(design
 		(source "/home/niyohn/git/netdaq/netdaq.kicad_sch")
-		(date "2026-09-01T19:50:27")
+		(date "2026-09-03T19:47:36")
 		(tool "Eeschema 10.0.3")
 		(sheet
 			(number "1")
@@ -3568,9 +3568,123 @@
 			)
 		)
 		(comp
+			(ref "C272")
+			(value "220n 16V")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "https://www.lcsc.com/datasheet/C16772.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1VbUlNUQlZeXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "LCSC") "C16772")
+				(field
+					(name "LCSC Part") "C16772")
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "MPN") "CL05B224KO5NNNC")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C16772.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1VbUlNUQlZeXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C16772")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C16772")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "MPN")
+				(value "CL05B224KO5NNNC")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "80590c28-adb5-4afe-9b18-439288ca399d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
 			(ref "D1")
-			(value "LED")
-			(footprint "LED_SMD:LED_0805_2012Metric")
+			(value "FM-B2020RGBA-HG")
+			(footprint "C42421005:LED-SMD_FM-B2020RGBA-HG")
+			(datasheet "https://www.lcsc.com/datasheet/C42421005.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=EVFXUwUAFQUPBAFeQgddAwdfQAVbX1FUT1gKBFcCRQcxVlNeT1NXV1dVQ1lbXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktRR1NADxALGw%3D%3D")
 			(description "Light emitting diode")
 			(fields
 				(field
@@ -3585,8 +3699,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "n")
 				(field
 					(name "LCSC missing")
 				)
@@ -3594,17 +3707,20 @@
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "LED_SMD:LED_0805_2012Metric")
+					(name "LCSC Part") "C42421005")
 				(field
-					(name "Datasheet")
-				)
+					(name "LCSC") "C42421005")
+				(field
+					(name "Footprint") "C42421005:LED-SMD_FM-B2020RGBA-HG")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C42421005.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=EVFXUwUAFQUPBAFeQgddAwdfQAVbX1FUT1gKBFcCRQcxVlNeT1NXV1dVQ1lbXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktRR1NADxALGw%3D%3D")
 				(field
 					(name "Description") "Light emitting diode")
 			)
 			(libsource
-				(lib "Device")
-				(part "LED")
-				(description "Light emitting diode")
+				(lib "C42421005")
+				(part "FM-B2020RGBA-HG_C42421005")
+				(description "")
 			)
 			(property
 				(name "Sim.Pins")
@@ -3624,7 +3740,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "n")
 			)
 			(property
 				(name "LCSC missing")
@@ -3635,20 +3751,20 @@
 				(value "")
 			)
 			(property
+				(name "LCSC Part")
+				(value "C42421005")
+			)
+			(property
+				(name "LCSC")
+				(value "C42421005")
+			)
+			(property
 				(name "Sheetname")
 				(value "MCU")
 			)
 			(property
 				(name "Sheetfile")
 				(value "mcu.kicad_sch")
-			)
-			(property
-				(name "ki_keywords")
-				(value "LED diode")
-			)
-			(property
-				(name "ki_fp_filters")
-				(value "LED* LED_SMD:* LED_THT:*")
 			)
 			(sheetpath
 				(names "/MCU/")
@@ -3660,10 +3776,16 @@
 					(name "A")
 					(pins
 						(pin
+							(num "3")
+						)
+						(pin
 							(num "1")
 						)
 						(pin
 							(num "2")
+						)
+						(pin
+							(num "4")
 						)
 					)
 				)
@@ -3671,8 +3793,8 @@
 		)
 		(comp
 			(ref "D2")
-			(value "LED")
-			(footprint "LED_SMD:LED_0805_2012Metric")
+			(value "FM-B2020RGBA-HG")
+			(footprint "C42421005:LED-SMD_FM-B2020RGBA-HG")
 			(description "Light emitting diode")
 			(fields
 				(field
@@ -3687,8 +3809,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "n")
 				(field
 					(name "LCSC missing")
 				)
@@ -3696,7 +3817,11 @@
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "LED_SMD:LED_0805_2012Metric")
+					(name "LCSC Part") "C42421005")
+				(field
+					(name "LCSC") "C42421005")
+				(field
+					(name "Footprint") "C42421005:LED-SMD_FM-B2020RGBA-HG")
 				(field
 					(name "Datasheet")
 				)
@@ -3704,9 +3829,9 @@
 					(name "Description") "Light emitting diode")
 			)
 			(libsource
-				(lib "Device")
-				(part "LED")
-				(description "Light emitting diode")
+				(lib "C42421005")
+				(part "FM-B2020RGBA-HG_C42421005")
+				(description "")
 			)
 			(property
 				(name "Sim.Pins")
@@ -3726,7 +3851,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "n")
 			)
 			(property
 				(name "LCSC missing")
@@ -3737,20 +3862,20 @@
 				(value "")
 			)
 			(property
+				(name "LCSC Part")
+				(value "C42421005")
+			)
+			(property
+				(name "LCSC")
+				(value "C42421005")
+			)
+			(property
 				(name "Sheetname")
 				(value "MCU")
 			)
 			(property
 				(name "Sheetfile")
 				(value "mcu.kicad_sch")
-			)
-			(property
-				(name "ki_keywords")
-				(value "LED diode")
-			)
-			(property
-				(name "ki_fp_filters")
-				(value "LED* LED_SMD:* LED_THT:*")
 			)
 			(sheetpath
 				(names "/MCU/")
@@ -3762,10 +3887,16 @@
 					(name "A")
 					(pins
 						(pin
+							(num "3")
+						)
+						(pin
 							(num "1")
 						)
 						(pin
 							(num "2")
+						)
+						(pin
+							(num "4")
 						)
 					)
 				)
@@ -3773,7 +3904,8 @@
 		)
 		(comp
 			(ref "FB1")
-			(value "FerriteBead_Small")
+			(value "UPZ2012E102-1R5TF")
+			(footprint "Resistor_SMD:R_0805_2012Metric")
 			(description "Ferrite bead, small symbol")
 			(fields
 				(field
@@ -3786,8 +3918,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "n")
 				(field
 					(name "LCSC missing")
 				)
@@ -3795,8 +3926,11 @@
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "LCSC") "C98309")
+				(field
+					(name "LCSC Part") "C98309")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0805_2012Metric")
 				(field
 					(name "Datasheet")
 				)
@@ -3822,7 +3956,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "n")
 			)
 			(property
 				(name "LCSC missing")
@@ -3831,6 +3965,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C98309")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C98309")
 			)
 			(property
 				(name "Sheetname")
@@ -3869,12 +4011,12 @@
 		)
 		(comp
 			(ref "Q3")
-			(value "BSS138LT1G")
-			(footprint "C82045:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR")
+			(value "BSS138W")
+			(footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
 			(datasheet "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
 			(fields
 				(field
-					(name "LCSC Part") "C82045")
+					(name "LCSC Part") "C28646265")
 				(field
 					(name "Sim.Type")
 				)
@@ -3885,8 +4027,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -3894,7 +4035,9 @@
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "C82045:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR")
+					(name "LCSC") "C28646265")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-323_SC-70")
 				(field
 					(name "Datasheet") "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
 				(field
@@ -3908,7 +4051,7 @@
 			)
 			(property
 				(name "LCSC Part")
-				(value "C82045")
+				(value "C28646265")
 			)
 			(property
 				(name "Sim.Type")
@@ -3924,7 +4067,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -3933,6 +4076,10 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C28646265")
 			)
 			(property
 				(name "Sheetname")
@@ -3966,12 +4113,12 @@
 		)
 		(comp
 			(ref "Q4")
-			(value "BSS138LT1G")
-			(footprint "C82045:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR")
+			(value "BSS138W")
+			(footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
 			(datasheet "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
 			(fields
 				(field
-					(name "LCSC Part") "C82045")
+					(name "LCSC Part") "C28646265")
 				(field
 					(name "Sim.Type")
 				)
@@ -3982,8 +4129,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -3991,7 +4137,9 @@
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "C82045:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR")
+					(name "LCSC") "C28646265")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-323_SC-70")
 				(field
 					(name "Datasheet") "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
 				(field
@@ -4005,7 +4153,7 @@
 			)
 			(property
 				(name "LCSC Part")
-				(value "C82045")
+				(value "C28646265")
 			)
 			(property
 				(name "Sim.Type")
@@ -4021,7 +4169,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -4030,6 +4178,10 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C28646265")
 			)
 			(property
 				(name "Sheetname")
@@ -4063,12 +4215,12 @@
 		)
 		(comp
 			(ref "Q5")
-			(value "BSS138LT1G")
-			(footprint "C82045:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR")
+			(value "BSS138W")
+			(footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
 			(datasheet "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
 			(fields
 				(field
-					(name "LCSC Part") "C82045")
+					(name "LCSC Part") "C28646265")
 				(field
 					(name "Sim.Type")
 				)
@@ -4079,8 +4231,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -4088,7 +4239,9 @@
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "C82045:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR")
+					(name "LCSC") "C28646265")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-323_SC-70")
 				(field
 					(name "Datasheet") "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
 				(field
@@ -4102,7 +4255,7 @@
 			)
 			(property
 				(name "LCSC Part")
-				(value "C82045")
+				(value "C28646265")
 			)
 			(property
 				(name "Sim.Type")
@@ -4118,7 +4271,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -4127,6 +4280,10 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C28646265")
 			)
 			(property
 				(name "Sheetname")
@@ -4160,12 +4317,12 @@
 		)
 		(comp
 			(ref "Q6")
-			(value "BSS138LT1G")
-			(footprint "C82045:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR")
+			(value "BSS138W")
+			(footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
 			(datasheet "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
 			(fields
 				(field
-					(name "LCSC Part") "C82045")
+					(name "LCSC Part") "C28646265")
 				(field
 					(name "Sim.Type")
 				)
@@ -4176,8 +4333,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -4185,7 +4341,9 @@
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "C82045:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR")
+					(name "LCSC") "C28646265")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-323_SC-70")
 				(field
 					(name "Datasheet") "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
 				(field
@@ -4199,7 +4357,7 @@
 			)
 			(property
 				(name "LCSC Part")
-				(value "C82045")
+				(value "C28646265")
 			)
 			(property
 				(name "Sim.Type")
@@ -4215,7 +4373,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -4224,6 +4382,10 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C28646265")
 			)
 			(property
 				(name "Sheetname")
@@ -4237,7 +4399,415 @@
 				(names "/MCU/")
 				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
 			)
-			(tstamps "7c693a49-1f2f-4016-8fd6-f57d10f9ba45")
+			(tstamps "8eae4c7a-ff68-4f15-8cec-f3ca7e3128d9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "Q7")
+			(value "BSS138W")
+			(footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
+			(datasheet "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
+			(fields
+				(field
+					(name "LCSC Part") "C28646265")
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "LCSC") "C28646265")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-323_SC-70")
+				(field
+					(name "Datasheet") "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "C82045")
+				(part "BSS138LT1G")
+				(description "")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C28646265")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C28646265")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "4c53b988-0fb1-452c-98ee-e29f9f32b7a7")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "Q8")
+			(value "BSS138W")
+			(footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
+			(datasheet "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
+			(fields
+				(field
+					(name "LCSC Part") "C28646265")
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "LCSC") "C28646265")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-323_SC-70")
+				(field
+					(name "Datasheet") "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "C82045")
+				(part "BSS138LT1G")
+				(description "")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C28646265")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C28646265")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "cd2f930c-c57c-4ba4-8ac3-4aef3beab1f6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "Q9")
+			(value "BSS138W")
+			(footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
+			(datasheet "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
+			(fields
+				(field
+					(name "LCSC Part") "C28646265")
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "LCSC") "C28646265")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-323_SC-70")
+				(field
+					(name "Datasheet") "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "C82045")
+				(part "BSS138LT1G")
+				(description "")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C28646265")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C28646265")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "e84aefa5-d9d4-4d66-9fc7-5935892a7645")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "Q10")
+			(value "BSS138W")
+			(footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
+			(datasheet "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
+			(fields
+				(field
+					(name "LCSC Part") "C28646265")
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "LCSC") "C28646265")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-323_SC-70")
+				(field
+					(name "Datasheet") "https://lcsc.com/product-detail/MOSFET_ON_BSS138LT1G_BSS138LT1G_C82045.html")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "C82045")
+				(part "BSS138LT1G")
+				(description "")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C28646265")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C28646265")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "52095071-706f-4a04-a6f0-863fa8b3ff47")
 			(units
 				(unit
 					(name "A")
@@ -4348,113 +4918,6 @@
 				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
 			)
 			(tstamps "7222b08b-e5e9-4195-b67f-54c5693bae2e")
-			(units
-				(unit
-					(name "A")
-					(pins
-						(pin
-							(num "1")
-						)
-						(pin
-							(num "2")
-						)
-					)
-				)
-			)
-		)
-		(comp
-			(ref "R2")
-			(value "0")
-			(footprint "Resistor_SMD:R_0402_1005Metric")
-			(description "Resistor")
-			(fields
-				(field
-					(name "Sim.Type")
-				)
-				(field
-					(name "KLC_S3.3")
-				)
-				(field
-					(name "KLC_S4.1")
-				)
-				(field
-					(name "LCSC") "C17168")
-				(field
-					(name "LCSC Part") "C17168")
-				(field
-					(name "LCSC Basic/Pref") "x")
-				(field
-					(name "LCSC missing")
-				)
-				(field
-					(name "Tolerance")
-				)
-				(field
-					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
-				(field
-					(name "Datasheet")
-				)
-				(field
-					(name "Description") "Resistor")
-			)
-			(libsource
-				(lib "Device")
-				(part "R")
-				(description "Resistor")
-			)
-			(property
-				(name "Sim.Type")
-				(value "")
-			)
-			(property
-				(name "KLC_S3.3")
-				(value "")
-			)
-			(property
-				(name "KLC_S4.1")
-				(value "")
-			)
-			(property
-				(name "LCSC")
-				(value "C17168")
-			)
-			(property
-				(name "LCSC Part")
-				(value "C17168")
-			)
-			(property
-				(name "LCSC Basic/Pref")
-				(value "x")
-			)
-			(property
-				(name "LCSC missing")
-				(value "")
-			)
-			(property
-				(name "Tolerance")
-				(value "")
-			)
-			(property
-				(name "Sheetname")
-				(value "MCU")
-			)
-			(property
-				(name "Sheetfile")
-				(value "mcu.kicad_sch")
-			)
-			(property
-				(name "ki_keywords")
-				(value "R res resistor")
-			)
-			(property
-				(name "ki_fp_filters")
-				(value "R_*")
-			)
-			(sheetpath
-				(names "/MCU/")
-				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
-			)
-			(tstamps "1bd386ed-9ad4-4f43-8486-985d226e0465")
 			(units
 				(unit
 					(name "A")
@@ -5226,28 +5689,16 @@
 		)
 		(comp
 			(ref "R10")
-			(value "R")
+			(value "470")
 			(footprint "Resistor_SMD:R_0402_1005Metric")
 			(description "Resistor")
 			(fields
 				(field
-					(name "Sim.Type")
-				)
+					(name "LCSC") "C25117")
 				(field
-					(name "KLC_S3.3")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
-					(name "KLC_S4.1")
-				)
-				(field
-					(name "LCSC Basic/Pref")
-				)
-				(field
-					(name "LCSC missing")
-				)
-				(field
-					(name "Tolerance")
-				)
+					(name "LCSC Part") "C25117")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -5262,28 +5713,16 @@
 				(description "Resistor")
 			)
 			(property
-				(name "Sim.Type")
-				(value "")
-			)
-			(property
-				(name "KLC_S3.3")
-				(value "")
-			)
-			(property
-				(name "KLC_S4.1")
-				(value "")
+				(name "LCSC")
+				(value "C25117")
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
-				(name "LCSC missing")
-				(value "")
-			)
-			(property
-				(name "Tolerance")
-				(value "")
+				(name "LCSC Part")
+				(value "C25117")
 			)
 			(property
 				(name "Sheetname")
@@ -5305,7 +5744,7 @@
 				(names "/MCU/")
 				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
 			)
-			(tstamps "776e7c3c-790a-4c96-b06a-0cd6a24af109")
+			(tstamps "40b6bec2-57db-475f-a118-cc858db89cab")
 			(units
 				(unit
 					(name "A")
@@ -5322,28 +5761,16 @@
 		)
 		(comp
 			(ref "R11")
-			(value "R")
+			(value "470")
 			(footprint "Resistor_SMD:R_0402_1005Metric")
 			(description "Resistor")
 			(fields
 				(field
-					(name "Sim.Type")
-				)
+					(name "LCSC") "C25117")
 				(field
-					(name "KLC_S3.3")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
-					(name "KLC_S4.1")
-				)
-				(field
-					(name "LCSC Basic/Pref")
-				)
-				(field
-					(name "LCSC missing")
-				)
-				(field
-					(name "Tolerance")
-				)
+					(name "LCSC Part") "C25117")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -5358,28 +5785,16 @@
 				(description "Resistor")
 			)
 			(property
-				(name "Sim.Type")
-				(value "")
-			)
-			(property
-				(name "KLC_S3.3")
-				(value "")
-			)
-			(property
-				(name "KLC_S4.1")
-				(value "")
+				(name "LCSC")
+				(value "C25117")
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
-				(name "LCSC missing")
-				(value "")
-			)
-			(property
-				(name "Tolerance")
-				(value "")
+				(name "LCSC Part")
+				(value "C25117")
 			)
 			(property
 				(name "Sheetname")
@@ -5401,7 +5816,7 @@
 				(names "/MCU/")
 				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
 			)
-			(tstamps "c9229003-305f-4235-9333-714d837392c4")
+			(tstamps "2894756a-481b-4d10-99b0-5ef63a002b23")
 			(units
 				(unit
 					(name "A")
@@ -5616,6 +6031,1578 @@
 				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
 			)
 			(tstamps "2fa99c97-141c-41e7-be03-f52e1603bcea")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R237")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC") "C25744")
+				(field
+					(name "LCSC Part") "C25744")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "155b0d86-d5b0-4858-9cce-5d76eb54944f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R238")
+			(value "470")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25117")
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC Part") "C25117")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25117")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25117")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "e3821963-a90c-4f82-9d08-8a098c90e026")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R239")
+			(value "470")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25117")
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC Part") "C25117")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25117")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25117")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "eb066475-620f-419b-b06e-fe58f75291f6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R240")
+			(value "470")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25117")
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC Part") "C25117")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25117")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25117")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "4edc1a03-edc7-47c9-8155-88497be3ed8e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R241")
+			(value "470")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25117")
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC Part") "C25117")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25117")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25117")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "4d9a775d-4cce-4abc-a936-cc51799adf0a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R242")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC") "C25744")
+				(field
+					(name "LCSC Part") "C25744")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "fa27f6c8-8867-466d-9362-3c7a46b66eed")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R243")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC") "C25744")
+				(field
+					(name "LCSC Part") "C25744")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "c23d1edd-3ad4-4d39-ba91-63faae771071")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R244")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC") "C25744")
+				(field
+					(name "LCSC Part") "C25744")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "6b1329ea-a25e-436d-a2b2-1d8d66592889")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R245")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC") "C25744")
+				(field
+					(name "LCSC Part") "C25744")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "54e3c89d-aa43-4d98-ae44-91a01ef9da50")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R246")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC") "C25744")
+				(field
+					(name "LCSC Part") "C25744")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "9d428850-955e-4292-a5c0-50fd2e69c9e6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R247")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC") "C25744")
+				(field
+					(name "LCSC Part") "C25744")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "2830f11e-738a-4425-80d7-8bda951210fd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R248")
+			(value "1k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "LCSC") "C11702")
+				(field
+					(name "LCSC Part") "C11702")
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C11702")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C11702")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "842b1b22-5940-4964-948e-0232d2953dcf")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R251")
+			(value "33")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "LCSC") "C25105")
+				(field
+					(name "LCSC Part") "C25105")
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C25105")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25105")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "3cb4614a-a870-4f95-86f9-27518ed20e78")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R252")
+			(value "33")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "LCSC") "C25105")
+				(field
+					(name "LCSC Part") "C25105")
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C25105")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25105")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "13cca0f0-9a48-49be-ad4a-8a90e0157209")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R253")
+			(value "33")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "LCSC") "C25105")
+				(field
+					(name "LCSC Part") "C25105")
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C25105")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25105")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "38123db3-d346-48f3-8b2a-ab10f946f130")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R254")
+			(value "33")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "LCSC") "C25105")
+				(field
+					(name "LCSC Part") "C25105")
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C25105")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25105")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "eb52a85b-7ae2-4344-9d2d-24576d07626b")
 			(units
 				(unit
 					(name "A")
@@ -14393,7 +16380,8 @@
 		)
 		(comp
 			(ref "FB2")
-			(value "FerriteBead_Small")
+			(value "UPZ2012E102-1R5TF")
+			(footprint "Resistor_SMD:R_0805_2012Metric")
 			(description "Ferrite bead, small symbol")
 			(fields
 				(field
@@ -14406,8 +16394,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "n")
 				(field
 					(name "LCSC missing")
 				)
@@ -14415,8 +16402,11 @@
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "LCSC") "C98309")
+				(field
+					(name "LCSC Part") "C98309")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0805_2012Metric")
 				(field
 					(name "Datasheet")
 				)
@@ -14442,7 +16432,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "n")
 			)
 			(property
 				(name "LCSC missing")
@@ -14451,6 +16441,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C98309")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C98309")
 			)
 			(property
 				(name "Sheetname")
@@ -19751,6 +21749,12 @@
 			(datasheet "https://www.ti.com/lit/gpn/esds304")
 			(fields
 				(field
+					(name "LCSC") "C1847869")
+				(field
+					(name "LCSC Basic/Pref") "n")
+				(field
+					(name "LCSC Part") "C1847869")
+				(field
 					(name "Footprint") "ESD304:DBV0005A_L")
 				(field
 					(name "Datasheet") "https://www.ti.com/lit/gpn/esds304")
@@ -19762,6 +21766,18 @@
 				(lib "ESD304")
 				(part "ESDS304DBVR")
 				(description "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1847869")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "n")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1847869")
 			)
 			(property
 				(name "Sheetname")
@@ -19930,14 +21946,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -19965,7 +21984,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -19974,6 +21993,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -20029,14 +22056,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -20064,7 +22094,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -20073,6 +22103,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -20342,14 +22380,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -20377,7 +22418,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -20386,6 +22427,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -20441,14 +22490,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -20476,7 +22528,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -20485,6 +22537,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -20754,14 +22814,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -20789,7 +22852,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -20798,6 +22861,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -20853,14 +22924,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -20888,7 +22962,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -20897,6 +22971,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -21166,14 +23248,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -21201,7 +23286,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -21210,6 +23295,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -21265,14 +23358,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -21300,7 +23396,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -21309,6 +23405,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -21578,14 +23682,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -21613,7 +23720,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -21622,6 +23729,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -21677,14 +23792,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -21712,7 +23830,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -21721,6 +23839,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -21990,14 +24116,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -22025,7 +24154,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -22034,6 +24163,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -22089,14 +24226,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -22124,7 +24264,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -22133,6 +24273,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -22402,14 +24550,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -22437,7 +24588,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -22446,6 +24597,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -22501,14 +24660,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -22536,7 +24698,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -22545,6 +24707,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -22814,14 +24984,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -22849,7 +25022,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -22858,6 +25031,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -22913,14 +25094,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -22948,7 +25132,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -22957,6 +25141,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -23226,14 +25418,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -23261,7 +25456,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -23270,6 +25465,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -23325,14 +25528,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -23360,7 +25566,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -23369,6 +25575,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -23638,14 +25852,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -23673,7 +25890,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -23682,6 +25899,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -23737,14 +25962,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -23772,7 +26000,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -23781,6 +26009,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -24050,14 +26286,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -24085,7 +26324,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -24094,6 +26333,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -24149,14 +26396,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -24184,7 +26434,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -24193,6 +26443,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -24462,14 +26720,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -24497,7 +26758,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -24506,6 +26767,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -24561,14 +26830,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -24596,7 +26868,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -24605,6 +26877,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -24874,14 +27154,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -24909,7 +27192,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -24918,6 +27201,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -24973,14 +27264,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -25008,7 +27302,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -25017,6 +27311,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -25286,14 +27588,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -25321,7 +27626,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -25330,6 +27635,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -25385,14 +27698,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -25420,7 +27736,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -25429,6 +27745,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -25698,14 +28022,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -25733,7 +28060,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -25742,6 +28069,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -25797,14 +28132,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -25832,7 +28170,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -25841,6 +28179,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -26110,14 +28456,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -26145,7 +28494,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -26154,6 +28503,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -26209,14 +28566,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C1523")
+				(field
+					(name "LCSC Part") "C1523")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
@@ -26244,7 +28604,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -26253,6 +28613,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C1523")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C1523")
 			)
 			(property
 				(name "Sheetname")
@@ -29873,8 +32241,7 @@
 					(name "LCSC Basic/Pref")
 				)
 				(field
-					(name "LCSC missing")
-				)
+					(name "LCSC missing") "y")
 				(field
 					(name "Tolerance")
 				)
@@ -29910,7 +32277,7 @@
 			)
 			(property
 				(name "LCSC missing")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "Tolerance")
@@ -30067,7 +32434,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -30105,7 +32472,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30174,7 +32541,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -30212,7 +32579,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30281,7 +32648,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -30319,7 +32686,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30388,7 +32755,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -30426,7 +32793,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30495,7 +32862,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -30533,7 +32900,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30602,7 +32969,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -30640,7 +33007,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30709,7 +33076,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -30747,7 +33114,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30816,7 +33183,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -30854,7 +33221,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30923,7 +33290,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -30961,7 +33328,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31030,7 +33397,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -31068,7 +33435,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31137,7 +33504,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -31175,7 +33542,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31244,7 +33611,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -31282,7 +33649,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31351,7 +33718,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -31389,7 +33756,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31458,7 +33825,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -31496,7 +33863,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31565,7 +33932,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -31603,7 +33970,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31672,7 +34039,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -31710,7 +34077,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31779,7 +34146,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -31817,7 +34184,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31886,7 +34253,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -31924,7 +34291,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31993,7 +34360,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -32031,7 +34398,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -32100,7 +34467,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -32138,7 +34505,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -32207,7 +34574,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -32245,7 +34612,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -32314,7 +34681,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -32352,7 +34719,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -32421,7 +34788,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -32459,7 +34826,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -32528,7 +34895,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -32566,7 +34933,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -32635,7 +35002,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -32673,7 +35040,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -32742,7 +35109,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -32780,7 +35147,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -32849,7 +35216,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -32887,7 +35254,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -32956,7 +35323,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -32994,7 +35361,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -33063,7 +35430,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -33101,7 +35468,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -33170,7 +35537,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -33208,7 +35575,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -33277,7 +35644,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -33315,7 +35682,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -33384,7 +35751,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -33422,7 +35789,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -36571,6 +38938,10 @@
 					(name "Tolerance")
 				)
 				(field
+					(name "LCSC") "C2941944")
+				(field
+					(name "LCSC Part") "C2941944")
+				(field
 					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
 				(field
 					(name "Datasheet")
@@ -36606,6 +38977,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C2941944")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C2941944")
 			)
 			(property
 				(name "Sheetname")
@@ -36967,14 +39346,17 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "n")
 				(field
 					(name "LCSC missing")
 				)
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C170101")
+				(field
+					(name "LCSC Part") "C170101")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_1206_3216Metric")
 				(field
@@ -37002,7 +39384,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "n")
 			)
 			(property
 				(name "LCSC missing")
@@ -37011,6 +39393,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C170101")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C170101")
 			)
 			(property
 				(name "Sheetname")
@@ -42994,8 +45384,7 @@
 					(name "LCSC Basic/Pref")
 				)
 				(field
-					(name "LCSC missing")
-				)
+					(name "LCSC missing") "y")
 				(field
 					(name "Tolerance")
 				)
@@ -43030,7 +45419,7 @@
 			)
 			(property
 				(name "LCSC missing")
-				(value "")
+				(value "y")
 			)
 			(property
 				(name "Tolerance")
@@ -43604,6 +45993,220 @@
 				(tstamps "/3126208c-7808-4087-8557-46cefae30ae4/")
 			)
 			(tstamps "c7d45a13-064b-4213-935a-98cc76ff3319")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R249")
+			(value "200")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "LCSC") "C25087")
+				(field
+					(name "LCSC Part") "C25087")
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C25087")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25087")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Debug Connector")
+			)
+			(property
+				(name "Sheetfile")
+				(value "debug_conn.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Debug Connector/")
+				(tstamps "/3126208c-7808-4087-8557-46cefae30ae4/")
+			)
+			(tstamps "04c0f9cf-9e18-49c3-a037-28bae813d5e6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R250")
+			(value "200")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "LCSC") "C25087")
+				(field
+					(name "LCSC Part") "C25087")
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C25087")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25087")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Debug Connector")
+			)
+			(property
+				(name "Sheetfile")
+				(value "debug_conn.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Debug Connector/")
+				(tstamps "/3126208c-7808-4087-8557-46cefae30ae4/")
+			)
+			(tstamps "dd3d5a79-30db-4f0c-bc54-51c2377b6bad")
 			(units
 				(unit
 					(name "A")
@@ -44410,7 +47013,7 @@
 		)
 		(comp
 			(ref "U26")
-			(value "TLV77012PDBVR")
+			(value "TLV77033PDBVR")
 			(footprint "TLV770:SOT-23-5_DBV_TEX")
 			(datasheet "https://www.ti.com/lit/gpn/tlv770")
 			(fields
@@ -45294,7 +47897,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC") "C25741")
 				(field
@@ -45332,7 +47935,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC")
@@ -45401,7 +48004,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC") "C25741")
 				(field
@@ -45439,7 +48042,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC")
@@ -47022,7 +49625,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC") "C25741")
 				(field
@@ -47060,7 +49663,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC")
@@ -51098,7 +53701,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -51123,7 +53726,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -51177,7 +53780,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -51202,7 +53805,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -51412,7 +54015,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -51437,7 +54040,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -51491,7 +54094,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -51516,7 +54119,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -51882,7 +54485,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -51907,7 +54510,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -51961,7 +54564,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -51986,7 +54589,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -52040,7 +54643,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -52065,7 +54668,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -52119,7 +54722,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -52144,7 +54747,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -52822,7 +55425,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -52847,7 +55450,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -52901,7 +55504,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -52926,7 +55529,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -52980,7 +55583,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -53005,7 +55608,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -53059,7 +55662,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -53084,7 +55687,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -53138,7 +55741,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -53163,7 +55766,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -53217,7 +55820,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -53242,7 +55845,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -53296,7 +55899,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -53321,7 +55924,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -53375,7 +55978,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -53400,7 +56003,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -55404,8 +58007,8 @@
 				(names "/ADC1/")
 				(tstamps "/8ecbce95-7163-4b25-8ea0-7aacaf2b4420/")
 			)
-			(tstamps "707ff498-65f3-4d63-b63d-1df0e7aa0717" "a9ead79a-dbe9-4e87-9b4f-8b5c1d92e348"
-				"37ca5a3a-1b73-430f-8b84-7658ab56e17a" "950c3110-406e-4d01-bf46-1ef2ff49e526"
+			(tstamps "707ff498-65f3-4d63-b63d-1df0e7aa0717" "37ca5a3a-1b73-430f-8b84-7658ab56e17a"
+				"a9ead79a-dbe9-4e87-9b4f-8b5c1d92e348" "950c3110-406e-4d01-bf46-1ef2ff49e526"
 				"1a64fa13-3c25-4fc6-845a-411e28e8cad8"
 			)
 			(units
@@ -58918,7 +61521,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -58943,7 +61546,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -59153,7 +61756,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -59178,7 +61781,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -59388,7 +61991,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -59413,7 +62016,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -59467,7 +62070,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -59492,7 +62095,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -59858,7 +62461,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -59883,7 +62486,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -59937,7 +62540,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -59962,7 +62565,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -60016,7 +62619,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -60041,7 +62644,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -60095,7 +62698,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -60120,7 +62723,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -60798,7 +63401,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -60823,7 +63426,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -60877,7 +63480,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -60902,7 +63505,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -60956,7 +63559,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -60981,7 +63584,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -61035,7 +63638,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -61060,7 +63663,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -61114,7 +63717,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -61139,7 +63742,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -61193,7 +63796,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -61218,7 +63821,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -61272,7 +63875,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -61297,7 +63900,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -61351,7 +63954,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -61376,7 +63979,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -63380,8 +65983,8 @@
 				(names "/ADC2/")
 				(tstamps "/1b815250-feab-4e15-9fc8-1220df09f4d5/")
 			)
-			(tstamps "707ff498-65f3-4d63-b63d-1df0e7aa0717" "a9ead79a-dbe9-4e87-9b4f-8b5c1d92e348"
-				"37ca5a3a-1b73-430f-8b84-7658ab56e17a" "950c3110-406e-4d01-bf46-1ef2ff49e526"
+			(tstamps "707ff498-65f3-4d63-b63d-1df0e7aa0717" "37ca5a3a-1b73-430f-8b84-7658ab56e17a"
+				"a9ead79a-dbe9-4e87-9b4f-8b5c1d92e348" "950c3110-406e-4d01-bf46-1ef2ff49e526"
 				"1a64fa13-3c25-4fc6-845a-411e28e8cad8"
 			)
 			(units
@@ -66894,7 +69497,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -66919,7 +69522,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -67129,7 +69732,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -67154,7 +69757,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -67364,7 +69967,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -67389,7 +69992,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -67443,7 +70046,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -67468,7 +70071,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -67834,7 +70437,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -67859,7 +70462,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -67913,7 +70516,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -67938,7 +70541,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -67992,7 +70595,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -68017,7 +70620,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -68071,7 +70674,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -68096,7 +70699,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -68774,7 +71377,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -68799,7 +71402,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -68853,7 +71456,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -68878,7 +71481,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -68932,7 +71535,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -68957,7 +71560,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -69011,7 +71614,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -69036,7 +71639,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -69090,7 +71693,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -69115,7 +71718,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -69169,7 +71772,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -69194,7 +71797,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -69248,7 +71851,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -69273,7 +71876,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -69327,7 +71930,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -69352,7 +71955,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -71356,8 +73959,8 @@
 				(names "/ADC3/")
 				(tstamps "/443c8de8-4114-4248-9fe3-e4e39d7e1ee6/")
 			)
-			(tstamps "707ff498-65f3-4d63-b63d-1df0e7aa0717" "a9ead79a-dbe9-4e87-9b4f-8b5c1d92e348"
-				"37ca5a3a-1b73-430f-8b84-7658ab56e17a" "950c3110-406e-4d01-bf46-1ef2ff49e526"
+			(tstamps "707ff498-65f3-4d63-b63d-1df0e7aa0717" "37ca5a3a-1b73-430f-8b84-7658ab56e17a"
+				"a9ead79a-dbe9-4e87-9b4f-8b5c1d92e348" "950c3110-406e-4d01-bf46-1ef2ff49e526"
 				"1a64fa13-3c25-4fc6-845a-411e28e8cad8"
 			)
 			(units
@@ -74870,7 +77473,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -74895,7 +77498,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -75105,7 +77708,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -75130,7 +77733,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -75340,7 +77943,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -75365,7 +77968,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -75419,7 +78022,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -75444,7 +78047,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -75810,7 +78413,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -75835,7 +78438,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -75889,7 +78492,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -75914,7 +78517,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -75968,7 +78571,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -75993,7 +78596,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -76047,7 +78650,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -76072,7 +78675,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -76750,7 +79353,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -76775,7 +79378,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -76829,7 +79432,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -76854,7 +79457,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -76908,7 +79511,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -76933,7 +79536,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -76987,7 +79590,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -77012,7 +79615,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -77066,7 +79669,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -77091,7 +79694,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -77145,7 +79748,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -77170,7 +79773,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -77224,7 +79827,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -77249,7 +79852,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -77303,7 +79906,7 @@
 				(field
 					(name "LCSC") "C11702")
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC Part") "C11702")
 				(field
@@ -77328,7 +79931,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC Part")
@@ -79332,8 +81935,8 @@
 				(names "/ADC4/")
 				(tstamps "/b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c/")
 			)
-			(tstamps "707ff498-65f3-4d63-b63d-1df0e7aa0717" "a9ead79a-dbe9-4e87-9b4f-8b5c1d92e348"
-				"37ca5a3a-1b73-430f-8b84-7658ab56e17a" "950c3110-406e-4d01-bf46-1ef2ff49e526"
+			(tstamps "707ff498-65f3-4d63-b63d-1df0e7aa0717" "37ca5a3a-1b73-430f-8b84-7658ab56e17a"
+				"a9ead79a-dbe9-4e87-9b4f-8b5c1d92e348" "950c3110-406e-4d01-bf46-1ef2ff49e526"
 				"1a64fa13-3c25-4fc6-845a-411e28e8cad8"
 			)
 			(units
@@ -79928,6 +82531,48 @@
 					(num "B8")
 					(name "SBU2")
 					(type "bidirectional")
+				)
+			)
+		)
+		(libpart
+			(lib "C42421005")
+			(part "FM-B2020RGBA-HG_C42421005")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "FM-B2020RGBA-HG_C42421005")
+				(field
+					(name "Footprint") "C42421005:LED-SMD_FM-B2020RGBA-HG")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+				(field
+					(name "LCSC Part") "C42421005")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "K")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "A")
+					(type "unspecified")
+				)
+				(pin
+					(num "4")
+					(name "K")
+					(type "unspecified")
 				)
 			)
 		)
@@ -82366,6 +85011,10 @@
 			(uri "${KIPRJMOD}/symbols - footprints/C42400252/easyeda2kicad.kicad_sym")
 		)
 		(library
+			(logical "C42421005")
+			(uri "${KIPRJMOD}/symbols - footprints/C42421005/C42421005.kicad_sym")
+		)
+		(library
 			(logical "C5186957")
 			(uri "${KIPRJMOD}/symbols - footprints/C5186957/C5186957.kicad_sym")
 		)
@@ -82839,16 +85488,6 @@
 				(pintype "passive")
 			)
 			(node
-				(ref "R10")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "R11")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
 				(ref "R13")
 				(pin "1")
 				(pintype "passive")
@@ -82875,6 +85514,11 @@
 			)
 			(node
 				(ref "R18")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R237")
 				(pin "1")
 				(pintype "passive")
 			)
@@ -83284,7 +85928,7 @@
 		(net
 			(code "82")
 			(name "+VDD")
-			(class "PWR,Default")
+			(class "Default")
 			(node
 				(ref "C25")
 				(pin "1")
@@ -83395,45 +86039,6 @@
 		)
 		(net
 			(code "87")
-			(name "/3V3 Regulator/V3P3_VIN")
-			(class "Default")
-			(node
-				(ref "C109")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "D79")
-				(pin "1")
-				(pinfunction "K_1")
-				(pintype "passive")
-			)
-			(node
-				(ref "D81")
-				(pin "1")
-				(pinfunction "K_1")
-				(pintype "passive")
-			)
-			(node
-				(ref "R82")
-				(pin "2")
-				(pintype "passive")
-			)
-			(node
-				(ref "TP133")
-				(pin "1")
-				(pinfunction "1_1")
-				(pintype "passive")
-			)
-			(node
-				(ref "U7")
-				(pin "4")
-				(pinfunction "VIN_4")
-				(pintype "power_in")
-			)
-		)
-		(net
-			(code "88")
 			(name "/ADC1/ADCIN_ISOL0")
 			(class "Default")
 			(node
@@ -83454,7 +86059,7 @@
 			)
 		)
 		(net
-			(code "89")
+			(code "88")
 			(name "/ADC1/ADCIN_ISOL1")
 			(class "Default")
 			(node
@@ -83475,7 +86080,7 @@
 			)
 		)
 		(net
-			(code "90")
+			(code "89")
 			(name "/ADC1/ADCIN_ISOL2")
 			(class "Default")
 			(node
@@ -83496,7 +86101,7 @@
 			)
 		)
 		(net
-			(code "91")
+			(code "90")
 			(name "/ADC1/ADCIN_ISOL3")
 			(class "Default")
 			(node
@@ -83517,7 +86122,7 @@
 			)
 		)
 		(net
-			(code "92")
+			(code "91")
 			(name "/ADC1/ADCIN_ISOL4")
 			(class "Default")
 			(node
@@ -83538,7 +86143,7 @@
 			)
 		)
 		(net
-			(code "93")
+			(code "92")
 			(name "/ADC1/ADCIN_ISOL5")
 			(class "Default")
 			(node
@@ -83559,7 +86164,7 @@
 			)
 		)
 		(net
-			(code "94")
+			(code "93")
 			(name "/ADC1/ADCIN_ISOL6")
 			(class "Default")
 			(node
@@ -83580,7 +86185,7 @@
 			)
 		)
 		(net
-			(code "95")
+			(code "94")
 			(name "/ADC1/ADCIN_ISOL7")
 			(class "Default")
 			(node
@@ -83601,7 +86206,7 @@
 			)
 		)
 		(net
-			(code "96")
+			(code "95")
 			(name "/ADC1/ADCIN_SCALED0")
 			(class "Default")
 			(node
@@ -83643,7 +86248,7 @@
 			)
 		)
 		(net
-			(code "97")
+			(code "96")
 			(name "/ADC1/ADCIN_SCALED1")
 			(class "Default")
 			(node
@@ -83685,7 +86290,7 @@
 			)
 		)
 		(net
-			(code "98")
+			(code "97")
 			(name "/ADC1/ADCIN_SCALED2")
 			(class "Default")
 			(node
@@ -83727,7 +86332,7 @@
 			)
 		)
 		(net
-			(code "99")
+			(code "98")
 			(name "/ADC1/ADCIN_SCALED3")
 			(class "Default")
 			(node
@@ -83769,7 +86374,7 @@
 			)
 		)
 		(net
-			(code "100")
+			(code "99")
 			(name "/ADC1/ADCIN_SCALED4")
 			(class "Default")
 			(node
@@ -83811,7 +86416,7 @@
 			)
 		)
 		(net
-			(code "101")
+			(code "100")
 			(name "/ADC1/ADCIN_SCALED5")
 			(class "Default")
 			(node
@@ -83853,7 +86458,7 @@
 			)
 		)
 		(net
-			(code "102")
+			(code "101")
 			(name "/ADC1/ADCIN_SCALED6")
 			(class "Default")
 			(node
@@ -83895,7 +86500,7 @@
 			)
 		)
 		(net
-			(code "103")
+			(code "102")
 			(name "/ADC1/ADCIN_SCALED7")
 			(class "Default")
 			(node
@@ -83937,7 +86542,7 @@
 			)
 		)
 		(net
-			(code "104")
+			(code "103")
 			(name "/ADC1/INT_ADCIN0")
 			(class "Default")
 			(node
@@ -83964,7 +86569,7 @@
 			)
 		)
 		(net
-			(code "105")
+			(code "104")
 			(name "/ADC1/INT_ADCIN1")
 			(class "Default")
 			(node
@@ -83991,7 +86596,7 @@
 			)
 		)
 		(net
-			(code "106")
+			(code "105")
 			(name "/ADC1/INT_ADCIN2")
 			(class "Default")
 			(node
@@ -84018,7 +86623,7 @@
 			)
 		)
 		(net
-			(code "107")
+			(code "106")
 			(name "/ADC1/INT_ADCIN3")
 			(class "Default")
 			(node
@@ -84045,7 +86650,7 @@
 			)
 		)
 		(net
-			(code "108")
+			(code "107")
 			(name "/ADC1/INT_ADCIN4")
 			(class "Default")
 			(node
@@ -84072,7 +86677,7 @@
 			)
 		)
 		(net
-			(code "109")
+			(code "108")
 			(name "/ADC1/INT_ADCIN5")
 			(class "Default")
 			(node
@@ -84099,7 +86704,7 @@
 			)
 		)
 		(net
-			(code "110")
+			(code "109")
 			(name "/ADC1/INT_ADCIN6")
 			(class "Default")
 			(node
@@ -84126,7 +86731,7 @@
 			)
 		)
 		(net
-			(code "111")
+			(code "110")
 			(name "/ADC1/INT_ADCIN7")
 			(class "Default")
 			(node
@@ -84153,7 +86758,7 @@
 			)
 		)
 		(net
-			(code "112")
+			(code "111")
 			(name "/ADC2/ADCIN_ISOL0")
 			(class "Default")
 			(node
@@ -84174,7 +86779,7 @@
 			)
 		)
 		(net
-			(code "113")
+			(code "112")
 			(name "/ADC2/ADCIN_ISOL1")
 			(class "Default")
 			(node
@@ -84195,7 +86800,7 @@
 			)
 		)
 		(net
-			(code "114")
+			(code "113")
 			(name "/ADC2/ADCIN_ISOL2")
 			(class "Default")
 			(node
@@ -84216,7 +86821,7 @@
 			)
 		)
 		(net
-			(code "115")
+			(code "114")
 			(name "/ADC2/ADCIN_ISOL3")
 			(class "Default")
 			(node
@@ -84237,7 +86842,7 @@
 			)
 		)
 		(net
-			(code "116")
+			(code "115")
 			(name "/ADC2/ADCIN_ISOL4")
 			(class "Default")
 			(node
@@ -84258,7 +86863,7 @@
 			)
 		)
 		(net
-			(code "117")
+			(code "116")
 			(name "/ADC2/ADCIN_ISOL5")
 			(class "Default")
 			(node
@@ -84279,7 +86884,7 @@
 			)
 		)
 		(net
-			(code "118")
+			(code "117")
 			(name "/ADC2/ADCIN_ISOL6")
 			(class "Default")
 			(node
@@ -84300,7 +86905,7 @@
 			)
 		)
 		(net
-			(code "119")
+			(code "118")
 			(name "/ADC2/ADCIN_ISOL7")
 			(class "Default")
 			(node
@@ -84321,7 +86926,7 @@
 			)
 		)
 		(net
-			(code "120")
+			(code "119")
 			(name "/ADC2/ADCIN_SCALED0")
 			(class "Default")
 			(node
@@ -84363,7 +86968,7 @@
 			)
 		)
 		(net
-			(code "121")
+			(code "120")
 			(name "/ADC2/ADCIN_SCALED1")
 			(class "Default")
 			(node
@@ -84405,7 +87010,7 @@
 			)
 		)
 		(net
-			(code "122")
+			(code "121")
 			(name "/ADC2/ADCIN_SCALED2")
 			(class "Default")
 			(node
@@ -84447,7 +87052,7 @@
 			)
 		)
 		(net
-			(code "123")
+			(code "122")
 			(name "/ADC2/ADCIN_SCALED3")
 			(class "Default")
 			(node
@@ -84489,7 +87094,7 @@
 			)
 		)
 		(net
-			(code "124")
+			(code "123")
 			(name "/ADC2/ADCIN_SCALED4")
 			(class "Default")
 			(node
@@ -84531,7 +87136,7 @@
 			)
 		)
 		(net
-			(code "125")
+			(code "124")
 			(name "/ADC2/ADCIN_SCALED5")
 			(class "Default")
 			(node
@@ -84573,7 +87178,7 @@
 			)
 		)
 		(net
-			(code "126")
+			(code "125")
 			(name "/ADC2/ADCIN_SCALED6")
 			(class "Default")
 			(node
@@ -84615,7 +87220,7 @@
 			)
 		)
 		(net
-			(code "127")
+			(code "126")
 			(name "/ADC2/ADCIN_SCALED7")
 			(class "Default")
 			(node
@@ -84657,7 +87262,7 @@
 			)
 		)
 		(net
-			(code "128")
+			(code "127")
 			(name "/ADC2/INT_ADCIN0")
 			(class "Default")
 			(node
@@ -84684,7 +87289,7 @@
 			)
 		)
 		(net
-			(code "129")
+			(code "128")
 			(name "/ADC2/INT_ADCIN1")
 			(class "Default")
 			(node
@@ -84711,7 +87316,7 @@
 			)
 		)
 		(net
-			(code "130")
+			(code "129")
 			(name "/ADC2/INT_ADCIN2")
 			(class "Default")
 			(node
@@ -84738,7 +87343,7 @@
 			)
 		)
 		(net
-			(code "131")
+			(code "130")
 			(name "/ADC2/INT_ADCIN3")
 			(class "Default")
 			(node
@@ -84765,7 +87370,7 @@
 			)
 		)
 		(net
-			(code "132")
+			(code "131")
 			(name "/ADC2/INT_ADCIN4")
 			(class "Default")
 			(node
@@ -84792,7 +87397,7 @@
 			)
 		)
 		(net
-			(code "133")
+			(code "132")
 			(name "/ADC2/INT_ADCIN5")
 			(class "Default")
 			(node
@@ -84819,7 +87424,7 @@
 			)
 		)
 		(net
-			(code "134")
+			(code "133")
 			(name "/ADC2/INT_ADCIN6")
 			(class "Default")
 			(node
@@ -84846,7 +87451,7 @@
 			)
 		)
 		(net
-			(code "135")
+			(code "134")
 			(name "/ADC2/INT_ADCIN7")
 			(class "Default")
 			(node
@@ -84873,7 +87478,7 @@
 			)
 		)
 		(net
-			(code "136")
+			(code "135")
 			(name "/ADC3/ADCIN_ISOL0")
 			(class "Default")
 			(node
@@ -84894,7 +87499,7 @@
 			)
 		)
 		(net
-			(code "137")
+			(code "136")
 			(name "/ADC3/ADCIN_ISOL1")
 			(class "Default")
 			(node
@@ -84915,7 +87520,7 @@
 			)
 		)
 		(net
-			(code "138")
+			(code "137")
 			(name "/ADC3/ADCIN_ISOL2")
 			(class "Default")
 			(node
@@ -84936,7 +87541,7 @@
 			)
 		)
 		(net
-			(code "139")
+			(code "138")
 			(name "/ADC3/ADCIN_ISOL3")
 			(class "Default")
 			(node
@@ -84957,7 +87562,7 @@
 			)
 		)
 		(net
-			(code "140")
+			(code "139")
 			(name "/ADC3/ADCIN_ISOL4")
 			(class "Default")
 			(node
@@ -84978,7 +87583,7 @@
 			)
 		)
 		(net
-			(code "141")
+			(code "140")
 			(name "/ADC3/ADCIN_ISOL5")
 			(class "Default")
 			(node
@@ -84999,7 +87604,7 @@
 			)
 		)
 		(net
-			(code "142")
+			(code "141")
 			(name "/ADC3/ADCIN_ISOL6")
 			(class "Default")
 			(node
@@ -85020,7 +87625,7 @@
 			)
 		)
 		(net
-			(code "143")
+			(code "142")
 			(name "/ADC3/ADCIN_ISOL7")
 			(class "Default")
 			(node
@@ -85041,7 +87646,7 @@
 			)
 		)
 		(net
-			(code "144")
+			(code "143")
 			(name "/ADC3/ADCIN_SCALED0")
 			(class "Default")
 			(node
@@ -85083,7 +87688,7 @@
 			)
 		)
 		(net
-			(code "145")
+			(code "144")
 			(name "/ADC3/ADCIN_SCALED1")
 			(class "Default")
 			(node
@@ -85125,7 +87730,7 @@
 			)
 		)
 		(net
-			(code "146")
+			(code "145")
 			(name "/ADC3/ADCIN_SCALED2")
 			(class "Default")
 			(node
@@ -85167,7 +87772,7 @@
 			)
 		)
 		(net
-			(code "147")
+			(code "146")
 			(name "/ADC3/ADCIN_SCALED3")
 			(class "Default")
 			(node
@@ -85209,7 +87814,7 @@
 			)
 		)
 		(net
-			(code "148")
+			(code "147")
 			(name "/ADC3/ADCIN_SCALED4")
 			(class "Default")
 			(node
@@ -85251,7 +87856,7 @@
 			)
 		)
 		(net
-			(code "149")
+			(code "148")
 			(name "/ADC3/ADCIN_SCALED5")
 			(class "Default")
 			(node
@@ -85293,7 +87898,7 @@
 			)
 		)
 		(net
-			(code "150")
+			(code "149")
 			(name "/ADC3/ADCIN_SCALED6")
 			(class "Default")
 			(node
@@ -85335,7 +87940,7 @@
 			)
 		)
 		(net
-			(code "151")
+			(code "150")
 			(name "/ADC3/ADCIN_SCALED7")
 			(class "Default")
 			(node
@@ -85377,7 +87982,7 @@
 			)
 		)
 		(net
-			(code "152")
+			(code "151")
 			(name "/ADC3/INT_ADCIN0")
 			(class "Default")
 			(node
@@ -85404,7 +88009,7 @@
 			)
 		)
 		(net
-			(code "153")
+			(code "152")
 			(name "/ADC3/INT_ADCIN1")
 			(class "Default")
 			(node
@@ -85431,7 +88036,7 @@
 			)
 		)
 		(net
-			(code "154")
+			(code "153")
 			(name "/ADC3/INT_ADCIN2")
 			(class "Default")
 			(node
@@ -85458,7 +88063,7 @@
 			)
 		)
 		(net
-			(code "155")
+			(code "154")
 			(name "/ADC3/INT_ADCIN3")
 			(class "Default")
 			(node
@@ -85485,7 +88090,7 @@
 			)
 		)
 		(net
-			(code "156")
+			(code "155")
 			(name "/ADC3/INT_ADCIN4")
 			(class "Default")
 			(node
@@ -85512,7 +88117,7 @@
 			)
 		)
 		(net
-			(code "157")
+			(code "156")
 			(name "/ADC3/INT_ADCIN5")
 			(class "Default")
 			(node
@@ -85539,7 +88144,7 @@
 			)
 		)
 		(net
-			(code "158")
+			(code "157")
 			(name "/ADC3/INT_ADCIN6")
 			(class "Default")
 			(node
@@ -85566,7 +88171,7 @@
 			)
 		)
 		(net
-			(code "159")
+			(code "158")
 			(name "/ADC3/INT_ADCIN7")
 			(class "Default")
 			(node
@@ -85593,7 +88198,7 @@
 			)
 		)
 		(net
-			(code "160")
+			(code "159")
 			(name "/ADC4/ADCIN_ISOL0")
 			(class "Default")
 			(node
@@ -85614,7 +88219,7 @@
 			)
 		)
 		(net
-			(code "161")
+			(code "160")
 			(name "/ADC4/ADCIN_ISOL1")
 			(class "Default")
 			(node
@@ -85635,7 +88240,7 @@
 			)
 		)
 		(net
-			(code "162")
+			(code "161")
 			(name "/ADC4/ADCIN_ISOL2")
 			(class "Default")
 			(node
@@ -85656,7 +88261,7 @@
 			)
 		)
 		(net
-			(code "163")
+			(code "162")
 			(name "/ADC4/ADCIN_ISOL3")
 			(class "Default")
 			(node
@@ -85677,7 +88282,7 @@
 			)
 		)
 		(net
-			(code "164")
+			(code "163")
 			(name "/ADC4/ADCIN_ISOL4")
 			(class "Default")
 			(node
@@ -85698,7 +88303,7 @@
 			)
 		)
 		(net
-			(code "165")
+			(code "164")
 			(name "/ADC4/ADCIN_ISOL5")
 			(class "Default")
 			(node
@@ -85719,7 +88324,7 @@
 			)
 		)
 		(net
-			(code "166")
+			(code "165")
 			(name "/ADC4/ADCIN_ISOL6")
 			(class "Default")
 			(node
@@ -85740,7 +88345,7 @@
 			)
 		)
 		(net
-			(code "167")
+			(code "166")
 			(name "/ADC4/ADCIN_ISOL7")
 			(class "Default")
 			(node
@@ -85761,7 +88366,7 @@
 			)
 		)
 		(net
-			(code "168")
+			(code "167")
 			(name "/ADC4/ADCIN_SCALED0")
 			(class "Default")
 			(node
@@ -85803,7 +88408,7 @@
 			)
 		)
 		(net
-			(code "169")
+			(code "168")
 			(name "/ADC4/ADCIN_SCALED1")
 			(class "Default")
 			(node
@@ -85845,7 +88450,7 @@
 			)
 		)
 		(net
-			(code "170")
+			(code "169")
 			(name "/ADC4/ADCIN_SCALED2")
 			(class "Default")
 			(node
@@ -85887,7 +88492,7 @@
 			)
 		)
 		(net
-			(code "171")
+			(code "170")
 			(name "/ADC4/ADCIN_SCALED3")
 			(class "Default")
 			(node
@@ -85929,7 +88534,7 @@
 			)
 		)
 		(net
-			(code "172")
+			(code "171")
 			(name "/ADC4/ADCIN_SCALED4")
 			(class "Default")
 			(node
@@ -85971,7 +88576,7 @@
 			)
 		)
 		(net
-			(code "173")
+			(code "172")
 			(name "/ADC4/ADCIN_SCALED5")
 			(class "Default")
 			(node
@@ -86013,7 +88618,7 @@
 			)
 		)
 		(net
-			(code "174")
+			(code "173")
 			(name "/ADC4/ADCIN_SCALED6")
 			(class "Default")
 			(node
@@ -86055,7 +88660,7 @@
 			)
 		)
 		(net
-			(code "175")
+			(code "174")
 			(name "/ADC4/ADCIN_SCALED7")
 			(class "Default")
 			(node
@@ -86097,7 +88702,7 @@
 			)
 		)
 		(net
-			(code "176")
+			(code "175")
 			(name "/ADC4/INT_ADCIN0")
 			(class "Default")
 			(node
@@ -86124,7 +88729,7 @@
 			)
 		)
 		(net
-			(code "177")
+			(code "176")
 			(name "/ADC4/INT_ADCIN1")
 			(class "Default")
 			(node
@@ -86151,7 +88756,7 @@
 			)
 		)
 		(net
-			(code "178")
+			(code "177")
 			(name "/ADC4/INT_ADCIN2")
 			(class "Default")
 			(node
@@ -86178,7 +88783,7 @@
 			)
 		)
 		(net
-			(code "179")
+			(code "178")
 			(name "/ADC4/INT_ADCIN3")
 			(class "Default")
 			(node
@@ -86205,7 +88810,7 @@
 			)
 		)
 		(net
-			(code "180")
+			(code "179")
 			(name "/ADC4/INT_ADCIN4")
 			(class "Default")
 			(node
@@ -86232,7 +88837,7 @@
 			)
 		)
 		(net
-			(code "181")
+			(code "180")
 			(name "/ADC4/INT_ADCIN5")
 			(class "Default")
 			(node
@@ -86259,7 +88864,7 @@
 			)
 		)
 		(net
-			(code "182")
+			(code "181")
 			(name "/ADC4/INT_ADCIN6")
 			(class "Default")
 			(node
@@ -86286,7 +88891,7 @@
 			)
 		)
 		(net
-			(code "183")
+			(code "182")
 			(name "/ADC4/INT_ADCIN7")
 			(class "Default")
 			(node
@@ -86313,7 +88918,7 @@
 			)
 		)
 		(net
-			(code "184")
+			(code "183")
 			(name "/ADCIN1")
 			(class "Default")
 			(node
@@ -86338,7 +88943,7 @@
 			)
 		)
 		(net
-			(code "185")
+			(code "184")
 			(name "/ADCIN2")
 			(class "Default")
 			(node
@@ -86363,7 +88968,7 @@
 			)
 		)
 		(net
-			(code "186")
+			(code "185")
 			(name "/ADCIN3")
 			(class "Default")
 			(node
@@ -86383,7 +88988,7 @@
 			)
 		)
 		(net
-			(code "187")
+			(code "186")
 			(name "/ADCIN4")
 			(class "Default")
 			(node
@@ -86408,7 +89013,7 @@
 			)
 		)
 		(net
-			(code "188")
+			(code "187")
 			(name "/ADCIN5")
 			(class "Default")
 			(node
@@ -86433,7 +89038,7 @@
 			)
 		)
 		(net
-			(code "189")
+			(code "188")
 			(name "/ADCIN6")
 			(class "Default")
 			(node
@@ -86458,7 +89063,7 @@
 			)
 		)
 		(net
-			(code "190")
+			(code "189")
 			(name "/ADCIN7")
 			(class "Default")
 			(node
@@ -86483,7 +89088,7 @@
 			)
 		)
 		(net
-			(code "191")
+			(code "190")
 			(name "/ADCIN8")
 			(class "Default")
 			(node
@@ -86508,7 +89113,7 @@
 			)
 		)
 		(net
-			(code "192")
+			(code "191")
 			(name "/ADCIN9")
 			(class "Default")
 			(node
@@ -86533,7 +89138,7 @@
 			)
 		)
 		(net
-			(code "193")
+			(code "192")
 			(name "/ADCIN10")
 			(class "Default")
 			(node
@@ -86558,7 +89163,7 @@
 			)
 		)
 		(net
-			(code "194")
+			(code "193")
 			(name "/ADCIN11")
 			(class "Default")
 			(node
@@ -86578,7 +89183,7 @@
 			)
 		)
 		(net
-			(code "195")
+			(code "194")
 			(name "/ADCIN12")
 			(class "Default")
 			(node
@@ -86603,7 +89208,7 @@
 			)
 		)
 		(net
-			(code "196")
+			(code "195")
 			(name "/ADCIN13")
 			(class "Default")
 			(node
@@ -86628,7 +89233,7 @@
 			)
 		)
 		(net
-			(code "197")
+			(code "196")
 			(name "/ADCIN14")
 			(class "Default")
 			(node
@@ -86653,7 +89258,7 @@
 			)
 		)
 		(net
-			(code "198")
+			(code "197")
 			(name "/ADCIN15")
 			(class "Default")
 			(node
@@ -86678,7 +89283,7 @@
 			)
 		)
 		(net
-			(code "199")
+			(code "198")
 			(name "/ADCIN16")
 			(class "Default")
 			(node
@@ -86703,7 +89308,7 @@
 			)
 		)
 		(net
-			(code "200")
+			(code "199")
 			(name "/ADCIN17")
 			(class "Default")
 			(node
@@ -86728,7 +89333,7 @@
 			)
 		)
 		(net
-			(code "201")
+			(code "200")
 			(name "/ADCIN18")
 			(class "Default")
 			(node
@@ -86753,7 +89358,7 @@
 			)
 		)
 		(net
-			(code "202")
+			(code "201")
 			(name "/ADCIN19")
 			(class "Default")
 			(node
@@ -86773,7 +89378,7 @@
 			)
 		)
 		(net
-			(code "203")
+			(code "202")
 			(name "/ADCIN20")
 			(class "Default")
 			(node
@@ -86798,7 +89403,7 @@
 			)
 		)
 		(net
-			(code "204")
+			(code "203")
 			(name "/ADCIN21")
 			(class "Default")
 			(node
@@ -86823,7 +89428,7 @@
 			)
 		)
 		(net
-			(code "205")
+			(code "204")
 			(name "/ADCIN22")
 			(class "Default")
 			(node
@@ -86848,7 +89453,7 @@
 			)
 		)
 		(net
-			(code "206")
+			(code "205")
 			(name "/ADCIN23")
 			(class "Default")
 			(node
@@ -86873,7 +89478,7 @@
 			)
 		)
 		(net
-			(code "207")
+			(code "206")
 			(name "/ADCIN24")
 			(class "Default")
 			(node
@@ -86898,7 +89503,7 @@
 			)
 		)
 		(net
-			(code "208")
+			(code "207")
 			(name "/ADCIN25")
 			(class "Default")
 			(node
@@ -86923,7 +89528,7 @@
 			)
 		)
 		(net
-			(code "209")
+			(code "208")
 			(name "/ADCIN26")
 			(class "Default")
 			(node
@@ -86948,7 +89553,7 @@
 			)
 		)
 		(net
-			(code "210")
+			(code "209")
 			(name "/ADCIN27")
 			(class "Default")
 			(node
@@ -86968,7 +89573,7 @@
 			)
 		)
 		(net
-			(code "211")
+			(code "210")
 			(name "/ADCIN28")
 			(class "Default")
 			(node
@@ -86993,7 +89598,7 @@
 			)
 		)
 		(net
-			(code "212")
+			(code "211")
 			(name "/ADCIN29")
 			(class "Default")
 			(node
@@ -87018,7 +89623,7 @@
 			)
 		)
 		(net
-			(code "213")
+			(code "212")
 			(name "/ADCIN30")
 			(class "Default")
 			(node
@@ -87043,7 +89648,7 @@
 			)
 		)
 		(net
-			(code "214")
+			(code "213")
 			(name "/ADCIN31")
 			(class "Default")
 			(node
@@ -87068,7 +89673,7 @@
 			)
 		)
 		(net
-			(code "215")
+			(code "214")
 			(name "/ADCIN32")
 			(class "Default")
 			(node
@@ -87093,7 +89698,7 @@
 			)
 		)
 		(net
-			(code "220")
+			(code "219")
 			(name "/DAQ Connector/EXT_ADC1")
 			(class "Default")
 			(node
@@ -87126,7 +89731,7 @@
 			)
 		)
 		(net
-			(code "221")
+			(code "220")
 			(name "/DAQ Connector/EXT_ADC2")
 			(class "Default")
 			(node
@@ -87159,7 +89764,7 @@
 			)
 		)
 		(net
-			(code "222")
+			(code "221")
 			(name "/DAQ Connector/EXT_ADC3")
 			(class "Default")
 			(node
@@ -87192,7 +89797,7 @@
 			)
 		)
 		(net
-			(code "223")
+			(code "222")
 			(name "/DAQ Connector/EXT_ADC4")
 			(class "Default")
 			(node
@@ -87225,7 +89830,7 @@
 			)
 		)
 		(net
-			(code "224")
+			(code "223")
 			(name "/DAQ Connector/EXT_ADC5")
 			(class "Default")
 			(node
@@ -87258,7 +89863,7 @@
 			)
 		)
 		(net
-			(code "225")
+			(code "224")
 			(name "/DAQ Connector/EXT_ADC6")
 			(class "Default")
 			(node
@@ -87291,7 +89896,7 @@
 			)
 		)
 		(net
-			(code "226")
+			(code "225")
 			(name "/DAQ Connector/EXT_ADC7")
 			(class "Default")
 			(node
@@ -87324,7 +89929,7 @@
 			)
 		)
 		(net
-			(code "227")
+			(code "226")
 			(name "/DAQ Connector/EXT_ADC8")
 			(class "Default")
 			(node
@@ -87357,7 +89962,7 @@
 			)
 		)
 		(net
-			(code "228")
+			(code "227")
 			(name "/DAQ Connector/EXT_ADC9")
 			(class "Default")
 			(node
@@ -87390,7 +89995,7 @@
 			)
 		)
 		(net
-			(code "229")
+			(code "228")
 			(name "/DAQ Connector/EXT_ADC10")
 			(class "Default")
 			(node
@@ -87423,7 +90028,7 @@
 			)
 		)
 		(net
-			(code "230")
+			(code "229")
 			(name "/DAQ Connector/EXT_ADC11")
 			(class "Default")
 			(node
@@ -87456,7 +90061,7 @@
 			)
 		)
 		(net
-			(code "231")
+			(code "230")
 			(name "/DAQ Connector/EXT_ADC12")
 			(class "Default")
 			(node
@@ -87489,7 +90094,7 @@
 			)
 		)
 		(net
-			(code "232")
+			(code "231")
 			(name "/DAQ Connector/EXT_ADC13")
 			(class "Default")
 			(node
@@ -87522,7 +90127,7 @@
 			)
 		)
 		(net
-			(code "233")
+			(code "232")
 			(name "/DAQ Connector/EXT_ADC14")
 			(class "Default")
 			(node
@@ -87555,7 +90160,7 @@
 			)
 		)
 		(net
-			(code "234")
+			(code "233")
 			(name "/DAQ Connector/EXT_ADC15")
 			(class "Default")
 			(node
@@ -87588,7 +90193,7 @@
 			)
 		)
 		(net
-			(code "235")
+			(code "234")
 			(name "/DAQ Connector/EXT_ADC16")
 			(class "Default")
 			(node
@@ -87621,7 +90226,7 @@
 			)
 		)
 		(net
-			(code "236")
+			(code "235")
 			(name "/DAQ Connector/EXT_ADC17")
 			(class "Default")
 			(node
@@ -87654,7 +90259,7 @@
 			)
 		)
 		(net
-			(code "237")
+			(code "236")
 			(name "/DAQ Connector/EXT_ADC18")
 			(class "Default")
 			(node
@@ -87687,7 +90292,7 @@
 			)
 		)
 		(net
-			(code "238")
+			(code "237")
 			(name "/DAQ Connector/EXT_ADC19")
 			(class "Default")
 			(node
@@ -87720,7 +90325,7 @@
 			)
 		)
 		(net
-			(code "239")
+			(code "238")
 			(name "/DAQ Connector/EXT_ADC20")
 			(class "Default")
 			(node
@@ -87753,7 +90358,7 @@
 			)
 		)
 		(net
-			(code "240")
+			(code "239")
 			(name "/DAQ Connector/EXT_ADC21")
 			(class "Default")
 			(node
@@ -87786,7 +90391,7 @@
 			)
 		)
 		(net
-			(code "241")
+			(code "240")
 			(name "/DAQ Connector/EXT_ADC22")
 			(class "Default")
 			(node
@@ -87819,7 +90424,7 @@
 			)
 		)
 		(net
-			(code "242")
+			(code "241")
 			(name "/DAQ Connector/EXT_ADC23")
 			(class "Default")
 			(node
@@ -87852,7 +90457,7 @@
 			)
 		)
 		(net
-			(code "243")
+			(code "242")
 			(name "/DAQ Connector/EXT_ADC24")
 			(class "Default")
 			(node
@@ -87885,7 +90490,7 @@
 			)
 		)
 		(net
-			(code "244")
+			(code "243")
 			(name "/DAQ Connector/EXT_ADC25")
 			(class "Default")
 			(node
@@ -87918,7 +90523,7 @@
 			)
 		)
 		(net
-			(code "245")
+			(code "244")
 			(name "/DAQ Connector/EXT_ADC26")
 			(class "Default")
 			(node
@@ -87951,7 +90556,7 @@
 			)
 		)
 		(net
-			(code "246")
+			(code "245")
 			(name "/DAQ Connector/EXT_ADC27")
 			(class "Default")
 			(node
@@ -87984,7 +90589,7 @@
 			)
 		)
 		(net
-			(code "247")
+			(code "246")
 			(name "/DAQ Connector/EXT_ADC28")
 			(class "Default")
 			(node
@@ -88017,7 +90622,7 @@
 			)
 		)
 		(net
-			(code "248")
+			(code "247")
 			(name "/DAQ Connector/EXT_ADC29")
 			(class "Default")
 			(node
@@ -88050,7 +90655,7 @@
 			)
 		)
 		(net
-			(code "249")
+			(code "248")
 			(name "/DAQ Connector/EXT_ADC30")
 			(class "Default")
 			(node
@@ -88083,7 +90688,7 @@
 			)
 		)
 		(net
-			(code "250")
+			(code "249")
 			(name "/DAQ Connector/EXT_ADC31")
 			(class "Default")
 			(node
@@ -88116,7 +90721,7 @@
 			)
 		)
 		(net
-			(code "251")
+			(code "250")
 			(name "/DAQ Connector/EXT_ADC32")
 			(class "Default")
 			(node
@@ -88149,9 +90754,14 @@
 			)
 		)
 		(net
-			(code "252")
+			(code "251")
 			(name "/DBG_UART.RX")
 			(class "Default")
+			(node
+				(ref "R249")
+				(pin "2")
+				(pintype "passive")
+			)
 			(node
 				(ref "R98")
 				(pin "2")
@@ -88169,15 +90779,9 @@
 				(pinfunction "PB05_37")
 				(pintype "bidirectional")
 			)
-			(node
-				(ref "U14")
-				(pin "4")
-				(pinfunction "A2Y_4")
-				(pintype "output")
-			)
 		)
 		(net
-			(code "253")
+			(code "252")
 			(name "/DBG_UART.TX")
 			(class "Default")
 			(node
@@ -88200,7 +90804,7 @@
 			)
 		)
 		(net
-			(code "255")
+			(code "254")
 			(name "/Debug Connector/+3.3V_UART_CONN")
 			(class "Default")
 			(node
@@ -88233,7 +90837,7 @@
 			)
 		)
 		(net
-			(code "256")
+			(code "255")
 			(name "/Debug Connector/EXT_UART_RX")
 			(class "Default")
 			(node
@@ -88250,13 +90854,28 @@
 			)
 		)
 		(net
-			(code "257")
+			(code "256")
 			(name "/Debug Connector/EXT_UART_TX")
 			(class "Default")
 			(node
 				(ref "J3")
 				(pin "4")
 				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+			(node
+				(ref "R250")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "257")
+			(name "/Debug Connector/EXT_UART_TX_SHFT")
+			(class "Default")
+			(node
+				(ref "R250")
+				(pin "2")
 				(pintype "passive")
 			)
 			(node
@@ -88336,6 +90955,22 @@
 		)
 		(net
 			(code "261")
+			(name "/Debug Connector/UART_RX_SHFT")
+			(class "Default")
+			(node
+				(ref "R249")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U14")
+				(pin "4")
+				(pinfunction "A2Y_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "262")
 			(name "/Ethernet Connector/CTREF1")
 			(class "Default")
 			(node
@@ -88356,7 +90991,7 @@
 			)
 		)
 		(net
-			(code "262")
+			(code "263")
 			(name "/Ethernet Connector/CTREF2")
 			(class "Default")
 			(node
@@ -88377,7 +91012,7 @@
 			)
 		)
 		(net
-			(code "263")
+			(code "264")
 			(name "/Ethernet Connector/MGND")
 			(class "Default")
 			(node
@@ -88407,7 +91042,7 @@
 			)
 		)
 		(net
-			(code "264")
+			(code "265")
 			(name "/Ethernet Connector/MX1+")
 			(class "Default")
 			(node
@@ -88430,7 +91065,7 @@
 			)
 		)
 		(net
-			(code "265")
+			(code "266")
 			(name "/Ethernet Connector/MX1-")
 			(class "Default")
 			(node
@@ -88453,7 +91088,7 @@
 			)
 		)
 		(net
-			(code "266")
+			(code "267")
 			(name "/Ethernet Connector/MX2+")
 			(class "Default")
 			(node
@@ -88476,7 +91111,7 @@
 			)
 		)
 		(net
-			(code "267")
+			(code "268")
 			(name "/Ethernet Connector/MX2-")
 			(class "Default")
 			(node
@@ -88499,7 +91134,7 @@
 			)
 		)
 		(net
-			(code "268")
+			(code "269")
 			(name "/Ethernet Connector/MX3+")
 			(class "Default")
 			(node
@@ -88521,7 +91156,7 @@
 			)
 		)
 		(net
-			(code "269")
+			(code "270")
 			(name "/Ethernet Connector/MX3-")
 			(class "Default")
 			(node
@@ -88553,7 +91188,7 @@
 			)
 		)
 		(net
-			(code "270")
+			(code "271")
 			(name "/Ethernet Connector/MX4+")
 			(class "Default")
 			(node
@@ -88575,7 +91210,7 @@
 			)
 		)
 		(net
-			(code "271")
+			(code "272")
 			(name "/Ethernet Connector/MX4-")
 			(class "Default")
 			(node
@@ -88607,7 +91242,7 @@
 			)
 		)
 		(net
-			(code "272")
+			(code "273")
 			(name "/Ethernet Connector/POE_CT1")
 			(class "Default")
 			(node
@@ -88622,7 +91257,7 @@
 			)
 		)
 		(net
-			(code "273")
+			(code "274")
 			(name "/Ethernet Connector/POE_CT2")
 			(class "Default")
 			(node
@@ -88637,7 +91272,7 @@
 			)
 		)
 		(net
-			(code "274")
+			(code "275")
 			(name "/Ethernet Connector/POE_V+")
 			(class "Default")
 			(node
@@ -88730,7 +91365,7 @@
 			)
 		)
 		(net
-			(code "275")
+			(code "276")
 			(name "/Ethernet Connector/POE_V-")
 			(class "Default")
 			(node
@@ -88798,7 +91433,7 @@
 			)
 		)
 		(net
-			(code "276")
+			(code "277")
 			(name "/Ethernet PHY/LED1{slash}REGOFF")
 			(class "Default")
 			(node
@@ -88815,7 +91450,7 @@
 			)
 		)
 		(net
-			(code "277")
+			(code "278")
 			(name "/Ethernet PHY/LED2{slash}INTSEL")
 			(class "Default")
 			(node
@@ -88837,7 +91472,7 @@
 			)
 		)
 		(net
-			(code "278")
+			(code "279")
 			(name "/Ethernet PHY/MODE0_RXD0")
 			(class "Default")
 			(node
@@ -88863,7 +91498,7 @@
 			)
 		)
 		(net
-			(code "279")
+			(code "280")
 			(name "/Ethernet PHY/MODE1_RXD1")
 			(class "Default")
 			(node
@@ -88889,7 +91524,7 @@
 			)
 		)
 		(net
-			(code "280")
+			(code "281")
 			(name "/Ethernet PHY/MODE2_CRSDV")
 			(class "Default")
 			(node
@@ -88915,7 +91550,7 @@
 			)
 		)
 		(net
-			(code "281")
+			(code "282")
 			(name "/Ethernet PHY/RBIAS")
 			(class "Default")
 			(node
@@ -88931,7 +91566,7 @@
 			)
 		)
 		(net
-			(code "282")
+			(code "283")
 			(name "/Ethernet PHY/VDDCR")
 			(class "Default")
 			(node
@@ -88952,7 +91587,7 @@
 			)
 		)
 		(net
-			(code "283")
+			(code "284")
 			(name "/Ethernet PHY/XIN")
 			(class "Default")
 			(node
@@ -88974,7 +91609,7 @@
 			)
 		)
 		(net
-			(code "284")
+			(code "285")
 			(name "/Ethernet PHY/XOUT")
 			(class "Default")
 			(node
@@ -88996,7 +91631,7 @@
 			)
 		)
 		(net
-			(code "285")
+			(code "286")
 			(name "/JTAG.TCK")
 			(class "Default")
 			(node
@@ -89006,25 +91641,18 @@
 				(pintype "passive")
 			)
 			(node
-				(ref "R96")
+				(ref "R253")
 				(pin "2")
 				(pintype "passive")
 			)
 			(node
-				(ref "TP12")
-				(pin "1")
-				(pinfunction "1_1")
+				(ref "R96")
+				(pin "2")
 				(pintype "passive")
-			)
-			(node
-				(ref "U1")
-				(pin "4")
-				(pinfunction "PA03_4")
-				(pintype "bidirectional")
 			)
 		)
 		(net
-			(code "286")
+			(code "287")
 			(name "/JTAG.TDI")
 			(class "Default")
 			(node
@@ -89034,25 +91662,18 @@
 				(pintype "passive")
 			)
 			(node
-				(ref "R94")
+				(ref "R254")
 				(pin "2")
 				(pintype "passive")
 			)
 			(node
-				(ref "TP3")
-				(pin "1")
-				(pinfunction "1_1")
+				(ref "R94")
+				(pin "2")
 				(pintype "passive")
-			)
-			(node
-				(ref "U1")
-				(pin "1")
-				(pinfunction "PA00_1")
-				(pintype "bidirectional")
 			)
 		)
 		(net
-			(code "287")
+			(code "288")
 			(name "/JTAG.TDO")
 			(class "Default")
 			(node
@@ -89062,7 +91683,7 @@
 				(pintype "passive")
 			)
 			(node
-				(ref "R2")
+				(ref "R251")
 				(pin "2")
 				(pintype "passive")
 			)
@@ -89073,7 +91694,7 @@
 			)
 		)
 		(net
-			(code "288")
+			(code "289")
 			(name "/JTAG.TMS")
 			(class "Default")
 			(node
@@ -89083,25 +91704,18 @@
 				(pintype "passive")
 			)
 			(node
-				(ref "R97")
+				(ref "R252")
 				(pin "2")
 				(pintype "passive")
 			)
 			(node
-				(ref "TP9")
-				(pin "1")
-				(pinfunction "1_1")
+				(ref "R97")
+				(pin "2")
 				(pintype "passive")
-			)
-			(node
-				(ref "U1")
-				(pin "3")
-				(pinfunction "PA02_3")
-				(pintype "bidirectional")
 			)
 		)
 		(net
-			(code "290")
+			(code "291")
 			(name "/MCU/ADC_VINP10")
 			(class "Default")
 			(node
@@ -89118,7 +91732,7 @@
 			)
 		)
 		(net
-			(code "291")
+			(code "292")
 			(name "/MCU/ADC_VINP11")
 			(class "Default")
 			(node
@@ -89135,7 +91749,7 @@
 			)
 		)
 		(net
-			(code "292")
+			(code "293")
 			(name "/MCU/ETH_TSUCOMP")
 			(class "Default")
 			(node
@@ -89152,7 +91766,7 @@
 			)
 		)
 		(net
-			(code "293")
+			(code "294")
 			(name "/MCU/EXT")
 			(class "Default")
 			(node
@@ -89169,7 +91783,7 @@
 			)
 		)
 		(net
-			(code "294")
+			(code "295")
 			(name "/MCU/I2C7.SCL")
 			(class "Default")
 			(node
@@ -89186,7 +91800,7 @@
 			)
 		)
 		(net
-			(code "295")
+			(code "296")
 			(name "/MCU/I2C7.SDA")
 			(class "Default")
 			(node
@@ -89203,11 +91817,55 @@
 			)
 		)
 		(net
-			(code "297")
+			(code "298")
+			(name "/MCU/INT_JTAG_TCK")
+			(class "Default")
+			(node
+				(ref "R253")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP12")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "4")
+				(pinfunction "PA03_4")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "299")
+			(name "/MCU/INT_JTAG_TDI")
+			(class "Default")
+			(node
+				(ref "R254")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP3")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "1")
+				(pinfunction "PA00_1")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "300")
 			(name "/MCU/INT_JTAG_TDO")
 			(class "Default")
 			(node
-				(ref "R2")
+				(ref "R251")
 				(pin "1")
 				(pintype "passive")
 			)
@@ -89225,7 +91883,29 @@
 			)
 		)
 		(net
-			(code "298")
+			(code "301")
+			(name "/MCU/INT_JTAG_TMS")
+			(class "Default")
+			(node
+				(ref "R252")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP9")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "3")
+				(pinfunction "PA02_3")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "302")
 			(name "/MCU/NC_SERCOM4_PAD2")
 			(class "Default")
 			(node
@@ -89242,7 +91922,7 @@
 			)
 		)
 		(net
-			(code "299")
+			(code "303")
 			(name "/MCU/NC_SERCOM4_PAD3")
 			(class "Default")
 			(node
@@ -89259,24 +91939,28 @@
 			)
 		)
 		(net
-			(code "300")
-			(name "/MCU/NC_SERCOM7_PAD3")
+			(code "304")
+			(name "/MCU/RESET_BTN#")
 			(class "Default")
 			(node
-				(ref "TP18")
+				(ref "C272")
 				(pin "1")
-				(pinfunction "1_1")
 				(pintype "passive")
 			)
 			(node
-				(ref "U1")
-				(pin "15")
-				(pinfunction "PA06_15")
-				(pintype "bidirectional")
+				(ref "Q3")
+				(pin "3")
+				(pinfunction "D_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R248")
+				(pin "1")
+				(pintype "passive")
 			)
 		)
 		(net
-			(code "301")
+			(code "305")
 			(name "/MCU/RST_BTN")
 			(class "Default")
 			(node
@@ -89304,7 +91988,7 @@
 			)
 		)
 		(net
-			(code "302")
+			(code "306")
 			(name "/MCU/SPARE1")
 			(class "Default")
 			(node
@@ -89321,24 +92005,7 @@
 			)
 		)
 		(net
-			(code "303")
-			(name "/MCU/SPARE2")
-			(class "Default")
-			(node
-				(ref "TP42")
-				(pin "1")
-				(pinfunction "1_1")
-				(pintype "passive")
-			)
-			(node
-				(ref "U1")
-				(pin "18")
-				(pinfunction "PA18_18")
-				(pintype "bidirectional")
-			)
-		)
-		(net
-			(code "304")
+			(code "307")
 			(name "/MCU/SPARE4")
 			(class "Default")
 			(node
@@ -89351,57 +92018,6 @@
 				(ref "U1")
 				(pin "52")
 				(pinfunction "PC01_52")
-				(pintype "bidirectional")
-			)
-		)
-		(net
-			(code "305")
-			(name "/MCU/SPARE5")
-			(class "Default")
-			(node
-				(ref "TP48")
-				(pin "1")
-				(pinfunction "1_1")
-				(pintype "passive")
-			)
-			(node
-				(ref "U1")
-				(pin "53")
-				(pinfunction "PC02_53")
-				(pintype "bidirectional")
-			)
-		)
-		(net
-			(code "306")
-			(name "/MCU/SPARE6")
-			(class "Default")
-			(node
-				(ref "TP50")
-				(pin "1")
-				(pinfunction "1_1")
-				(pintype "passive")
-			)
-			(node
-				(ref "U1")
-				(pin "54")
-				(pinfunction "PC03_54")
-				(pintype "bidirectional")
-			)
-		)
-		(net
-			(code "307")
-			(name "/MCU/SPARE7")
-			(class "Default")
-			(node
-				(ref "TP52")
-				(pin "1")
-				(pinfunction "1_1")
-				(pintype "passive")
-			)
-			(node
-				(ref "U1")
-				(pin "55")
-				(pinfunction "PC04_55")
 				(pintype "bidirectional")
 			)
 		)
@@ -89458,23 +92074,6 @@
 		)
 		(net
 			(code "311")
-			(name "/MCU/SPARE12")
-			(class "Default")
-			(node
-				(ref "TP10")
-				(pin "1")
-				(pinfunction "1_1")
-				(pintype "passive")
-			)
-			(node
-				(ref "U1")
-				(pin "26")
-				(pinfunction "PB00_26")
-				(pintype "bidirectional")
-			)
-		)
-		(net
-			(code "312")
 			(name "/MCU/SPARE13")
 			(class "Default")
 			(node
@@ -89491,24 +92090,7 @@
 			)
 		)
 		(net
-			(code "313")
-			(name "/MCU/SPARE14")
-			(class "Default")
-			(node
-				(ref "TP29")
-				(pin "1")
-				(pinfunction "1_1")
-				(pintype "passive")
-			)
-			(node
-				(ref "U1")
-				(pin "49")
-				(pinfunction "PB09_49")
-				(pintype "bidirectional")
-			)
-		)
-		(net
-			(code "314")
+			(code "312")
 			(name "/MCU/SPARE15")
 			(class "Default")
 			(node
@@ -89525,7 +92107,7 @@
 			)
 		)
 		(net
-			(code "315")
+			(code "313")
 			(name "/MCU/SPARE16")
 			(class "Default")
 			(node
@@ -89542,7 +92124,7 @@
 			)
 		)
 		(net
-			(code "316")
+			(code "314")
 			(name "/MCU/SPARE17")
 			(class "Default")
 			(node
@@ -89559,14 +92141,87 @@
 			)
 		)
 		(net
+			(code "315")
+			(name "/MCU/STATUS_LED_B")
+			(class "Default")
+			(node
+				(ref "Q7")
+				(pin "1")
+				(pinfunction "G_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R243")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP52")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "55")
+				(pinfunction "PC04_55")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "316")
+			(name "/MCU/STATUS_LED_G")
+			(class "Default")
+			(node
+				(ref "Q8")
+				(pin "1")
+				(pinfunction "G_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R242")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP50")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "54")
+				(pinfunction "PC03_54")
+				(pintype "bidirectional")
+			)
+		)
+		(net
 			(code "317")
-			(name "/MCU/STATUS_LED")
+			(name "/MCU/STATUS_LED_R")
 			(class "Default")
 			(node
 				(ref "Q4")
 				(pin "1")
 				(pinfunction "G_1")
 				(pintype "unspecified")
+			)
+			(node
+				(ref "R244")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP48")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "53")
+				(pinfunction "PC02_53")
+				(pintype "bidirectional")
 			)
 		)
 		(net
@@ -89578,6 +92233,23 @@
 				(pin "3")
 				(pinfunction "D_3")
 				(pintype "unspecified")
+			)
+			(node
+				(ref "R237")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP29")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "49")
+				(pinfunction "PB09_49")
+				(pintype "bidirectional")
 			)
 		)
 		(net
@@ -89725,6 +92397,90 @@
 		)
 		(net
 			(code "325")
+			(name "/MCU/USER_LED_B")
+			(class "Default")
+			(node
+				(ref "Q10")
+				(pin "1")
+				(pinfunction "G_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R246")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP42")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "18")
+				(pinfunction "PA18_18")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "326")
+			(name "/MCU/USER_LED_G")
+			(class "Default")
+			(node
+				(ref "Q9")
+				(pin "1")
+				(pinfunction "G_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R245")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP10")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "26")
+				(pinfunction "PB00_26")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "327")
+			(name "/MCU/USER_LED_R")
+			(class "Default")
+			(node
+				(ref "Q6")
+				(pin "1")
+				(pinfunction "G_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R247")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP18")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "15")
+				(pinfunction "PA06_15")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "328")
 			(name "/MCU/USRBIAS")
 			(class "Default")
 			(node
@@ -89746,7 +92502,7 @@
 			)
 		)
 		(net
-			(code "326")
+			(code "329")
 			(name "/MCU/XIN")
 			(class "Default")
 			(node
@@ -89768,7 +92524,7 @@
 			)
 		)
 		(net
-			(code "327")
+			(code "330")
 			(name "/MCU/XIN32")
 			(class "Default")
 			(node
@@ -89790,7 +92546,7 @@
 			)
 		)
 		(net
-			(code "328")
+			(code "331")
 			(name "/MCU/XOUT")
 			(class "Default")
 			(node
@@ -89812,7 +92568,7 @@
 			)
 		)
 		(net
-			(code "329")
+			(code "332")
 			(name "/MCU/XOUT32")
 			(class "Default")
 			(node
@@ -89834,7 +92590,7 @@
 			)
 		)
 		(net
-			(code "330")
+			(code "333")
 			(name "/MCU_ETH_RST#")
 			(class "Default")
 			(node
@@ -89862,7 +92618,7 @@
 			)
 		)
 		(net
-			(code "331")
+			(code "334")
 			(name "/MCU_RST#")
 			(class "Default")
 			(node
@@ -89872,13 +92628,12 @@
 				(pintype "passive")
 			)
 			(node
-				(ref "Q3")
-				(pin "3")
-				(pinfunction "D_3")
-				(pintype "unspecified")
+				(ref "R1")
+				(pin "2")
+				(pintype "passive")
 			)
 			(node
-				(ref "R1")
+				(ref "R248")
 				(pin "2")
 				(pintype "passive")
 			)
@@ -89896,7 +92651,7 @@
 			)
 		)
 		(net
-			(code "332")
+			(code "335")
 			(name "/MCU_SPI2_ADC1.CS#")
 			(class "Default")
 			(node
@@ -89919,7 +92674,7 @@
 			)
 		)
 		(net
-			(code "333")
+			(code "336")
 			(name "/MCU_SPI2_ADC1.MISO")
 			(class "Default")
 			(node
@@ -89942,7 +92697,7 @@
 			)
 		)
 		(net
-			(code "334")
+			(code "337")
 			(name "/MCU_SPI2_ADC1.MOSI")
 			(class "Default")
 			(node
@@ -89965,7 +92720,7 @@
 			)
 		)
 		(net
-			(code "335")
+			(code "338")
 			(name "/MCU_SPI2_ADC1.SCK")
 			(class "Default")
 			(node
@@ -89988,7 +92743,7 @@
 			)
 		)
 		(net
-			(code "337")
+			(code "340")
 			(name "/MCU_SPI3_ADC2.CS#")
 			(class "Default")
 			(node
@@ -90011,7 +92766,7 @@
 			)
 		)
 		(net
-			(code "338")
+			(code "341")
 			(name "/MCU_SPI3_ADC2.MISO")
 			(class "Default")
 			(node
@@ -90034,7 +92789,7 @@
 			)
 		)
 		(net
-			(code "339")
+			(code "342")
 			(name "/MCU_SPI3_ADC2.MOSI")
 			(class "Default")
 			(node
@@ -90057,7 +92812,7 @@
 			)
 		)
 		(net
-			(code "340")
+			(code "343")
 			(name "/MCU_SPI3_ADC2.SCK")
 			(class "Default")
 			(node
@@ -90080,7 +92835,7 @@
 			)
 		)
 		(net
-			(code "342")
+			(code "345")
 			(name "/MCU_SPI5_ADC3.CS#")
 			(class "Default")
 			(node
@@ -90103,7 +92858,7 @@
 			)
 		)
 		(net
-			(code "343")
+			(code "346")
 			(name "/MCU_SPI5_ADC3.MISO")
 			(class "Default")
 			(node
@@ -90126,7 +92881,7 @@
 			)
 		)
 		(net
-			(code "344")
+			(code "347")
 			(name "/MCU_SPI5_ADC3.MOSI")
 			(class "Default")
 			(node
@@ -90149,7 +92904,7 @@
 			)
 		)
 		(net
-			(code "345")
+			(code "348")
 			(name "/MCU_SPI5_ADC3.SCK")
 			(class "Default")
 			(node
@@ -90172,7 +92927,7 @@
 			)
 		)
 		(net
-			(code "347")
+			(code "350")
 			(name "/MCU_SPI6_ADC4.CS#")
 			(class "Default")
 			(node
@@ -90195,7 +92950,7 @@
 			)
 		)
 		(net
-			(code "348")
+			(code "351")
 			(name "/MCU_SPI6_ADC4.MISO")
 			(class "Default")
 			(node
@@ -90218,7 +92973,7 @@
 			)
 		)
 		(net
-			(code "349")
+			(code "352")
 			(name "/MCU_SPI6_ADC4.MOSI")
 			(class "Default")
 			(node
@@ -90241,7 +92996,7 @@
 			)
 		)
 		(net
-			(code "350")
+			(code "353")
 			(name "/MCU_SPI6_ADC4.SCK")
 			(class "Default")
 			(node
@@ -90264,7 +93019,7 @@
 			)
 		)
 		(net
-			(code "352")
+			(code "355")
 			(name "/MDI.RX+")
 			(class "Default")
 			(node
@@ -90286,7 +93041,7 @@
 			)
 		)
 		(net
-			(code "353")
+			(code "356")
 			(name "/MDI.RX-")
 			(class "Default")
 			(node
@@ -90308,7 +93063,7 @@
 			)
 		)
 		(net
-			(code "354")
+			(code "357")
 			(name "/MDI.TX+")
 			(class "Default")
 			(node
@@ -90330,7 +93085,7 @@
 			)
 		)
 		(net
-			(code "355")
+			(code "358")
 			(name "/MDI.TX-")
 			(class "Default")
 			(node
@@ -90352,7 +93107,7 @@
 			)
 		)
 		(net
-			(code "357")
+			(code "360")
 			(name "/PD Controller/PD_AUX")
 			(class "Default")
 			(node
@@ -90368,7 +93123,7 @@
 			)
 		)
 		(net
-			(code "358")
+			(code "361")
 			(name "/PD Controller/PD_PG")
 			(class "Default")
 			(node
@@ -90385,7 +93140,7 @@
 			)
 		)
 		(net
-			(code "359")
+			(code "362")
 			(name "/PoE Regulator/FLY_CT")
 			(class "Default")
 			(node
@@ -90400,7 +93155,7 @@
 			)
 		)
 		(net
-			(code "360")
+			(code "363")
 			(name "/PoE Regulator/FLY_EN")
 			(class "Default")
 			(node
@@ -90427,7 +93182,7 @@
 			)
 		)
 		(net
-			(code "361")
+			(code "364")
 			(name "/PoE Regulator/FLY_FB")
 			(class "Default")
 			(node
@@ -90448,7 +93203,7 @@
 			)
 		)
 		(net
-			(code "362")
+			(code "365")
 			(name "/PoE Regulator/FLY_SW")
 			(class "Default")
 			(node
@@ -90482,7 +93237,7 @@
 			)
 		)
 		(net
-			(code "363")
+			(code "366")
 			(name "/PoE Regulator/FLY_VCC")
 			(class "Default")
 			(node
@@ -90498,7 +93253,7 @@
 			)
 		)
 		(net
-			(code "364")
+			(code "367")
 			(name "/RMII.CRSDV")
 			(class "Default")
 			(node
@@ -90520,7 +93275,7 @@
 			)
 		)
 		(net
-			(code "365")
+			(code "368")
 			(name "/RMII.REFCK")
 			(class "Default")
 			(node
@@ -90548,7 +93303,7 @@
 			)
 		)
 		(net
-			(code "366")
+			(code "369")
 			(name "/RMII.RXD0")
 			(class "Default")
 			(node
@@ -90570,7 +93325,7 @@
 			)
 		)
 		(net
-			(code "367")
+			(code "370")
 			(name "/RMII.RXD1")
 			(class "Default")
 			(node
@@ -90592,7 +93347,7 @@
 			)
 		)
 		(net
-			(code "368")
+			(code "371")
 			(name "/RMII.RXER")
 			(class "Default")
 			(node
@@ -90625,7 +93380,7 @@
 			)
 		)
 		(net
-			(code "369")
+			(code "372")
 			(name "/RMII.TXD0")
 			(class "Default")
 			(node
@@ -90648,7 +93403,7 @@
 			)
 		)
 		(net
-			(code "370")
+			(code "373")
 			(name "/RMII.TXD1")
 			(class "Default")
 			(node
@@ -90671,7 +93426,7 @@
 			)
 		)
 		(net
-			(code "371")
+			(code "374")
 			(name "/RMII.TXEN")
 			(class "Default")
 			(node
@@ -90694,7 +93449,7 @@
 			)
 		)
 		(net
-			(code "373")
+			(code "376")
 			(name "/SDMMC.SDCD")
 			(class "Default")
 			(node
@@ -90727,7 +93482,7 @@
 			)
 		)
 		(net
-			(code "374")
+			(code "377")
 			(name "/SDMMC.SDCK")
 			(class "Default")
 			(node
@@ -90760,7 +93515,7 @@
 			)
 		)
 		(net
-			(code "375")
+			(code "378")
 			(name "/SDMMC.SDCMD")
 			(class "Default")
 			(node
@@ -90793,7 +93548,7 @@
 			)
 		)
 		(net
-			(code "376")
+			(code "379")
 			(name "/SDMMC.SDDAT0")
 			(class "Default")
 			(node
@@ -90826,7 +93581,7 @@
 			)
 		)
 		(net
-			(code "377")
+			(code "380")
 			(name "/SDMMC.SDDAT1")
 			(class "Default")
 			(node
@@ -90859,7 +93614,7 @@
 			)
 		)
 		(net
-			(code "378")
+			(code "381")
 			(name "/SDMMC.SDDAT2")
 			(class "Default")
 			(node
@@ -90892,7 +93647,7 @@
 			)
 		)
 		(net
-			(code "379")
+			(code "382")
 			(name "/SDMMC.SDDAT3")
 			(class "Default")
 			(node
@@ -90925,7 +93680,7 @@
 			)
 		)
 		(net
-			(code "380")
+			(code "383")
 			(name "/SDMMC.SDWP")
 			(class "Default")
 			(node
@@ -90942,7 +93697,7 @@
 			)
 		)
 		(net
-			(code "382")
+			(code "385")
 			(name "/SMI.MDC")
 			(class "Default")
 			(node
@@ -90970,7 +93725,7 @@
 			)
 		)
 		(net
-			(code "383")
+			(code "386")
 			(name "/SMI.MDIO")
 			(class "Default")
 			(node
@@ -90998,7 +93753,7 @@
 			)
 		)
 		(net
-			(code "385")
+			(code "388")
 			(name "/USB Connector/EXT_USB_CC1")
 			(class "Default")
 			(node
@@ -91025,7 +93780,7 @@
 			)
 		)
 		(net
-			(code "386")
+			(code "389")
 			(name "/USB Connector/EXT_USB_CC2")
 			(class "Default")
 			(node
@@ -91052,7 +93807,7 @@
 			)
 		)
 		(net
-			(code "387")
+			(code "390")
 			(name "/USB Connector/EXT_USB_D+")
 			(class "Default")
 			(node
@@ -91086,7 +93841,7 @@
 			)
 		)
 		(net
-			(code "388")
+			(code "391")
 			(name "/USB Connector/EXT_USB_D-")
 			(class "Default")
 			(node
@@ -91120,7 +93875,7 @@
 			)
 		)
 		(net
-			(code "389")
+			(code "392")
 			(name "/USB Connector/EXT_VBUS")
 			(class "Default")
 			(node
@@ -91153,7 +93908,7 @@
 			)
 		)
 		(net
-			(code "390")
+			(code "393")
 			(name "/USB Connector/NC_USB_SBU1")
 			(class "Default")
 			(node
@@ -91170,7 +93925,7 @@
 			)
 		)
 		(net
-			(code "391")
+			(code "394")
 			(name "/USB Connector/NC_USB_SBU2")
 			(class "Default")
 			(node
@@ -91187,7 +93942,7 @@
 			)
 		)
 		(net
-			(code "392")
+			(code "395")
 			(name "/USB.D+")
 			(class "Default")
 			(node
@@ -91208,7 +93963,7 @@
 			)
 		)
 		(net
-			(code "393")
+			(code "396")
 			(name "/USB.D-")
 			(class "Default")
 			(node
@@ -91229,7 +93984,7 @@
 			)
 		)
 		(net
-			(code "395")
+			(code "398")
 			(name "ETH_SHIELD")
 			(class "Default")
 			(node
@@ -91256,7 +94011,7 @@
 			)
 		)
 		(net
-			(code "396")
+			(code "399")
 			(name "GND")
 			(class "Default")
 			(node
@@ -92030,6 +94785,11 @@
 				(pintype "passive")
 			)
 			(node
+				(ref "C272")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
 				(ref "C28")
 				(pin "2")
 				(pintype "passive")
@@ -92786,6 +95546,24 @@
 			)
 			(node
 				(ref "J2")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J2")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J2")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "J2")
 				(pin "37")
 				(pinfunction "Pin_37_37")
 				(pintype "passive")
@@ -92797,10 +95575,22 @@
 				(pintype "passive")
 			)
 			(node
+				(ref "J2")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+			(node
 				(ref "J3")
 				(pin "1")
 				(pinfunction "Pin_1_1")
 				(pintype "passive")
+			)
+			(node
+				(ref "Q10")
+				(pin "2")
+				(pinfunction "S_2")
+				(pintype "unspecified")
 			)
 			(node
 				(ref "Q3")
@@ -92822,6 +95612,24 @@
 			)
 			(node
 				(ref "Q6")
+				(pin "2")
+				(pinfunction "S_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "Q7")
+				(pin "2")
+				(pinfunction "S_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "Q8")
+				(pin "2")
+				(pinfunction "S_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "Q9")
 				(pin "2")
 				(pinfunction "S_2")
 				(pintype "unspecified")
@@ -93008,6 +95816,36 @@
 			)
 			(node
 				(ref "R24")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R242")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R243")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R244")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R245")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R246")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R247")
 				(pin "2")
 				(pintype "passive")
 			)
@@ -93406,7 +96244,7 @@
 			)
 		)
 		(net
-			(code "397")
+			(code "400")
 			(name "Net-(C34-Pad1)")
 			(class "Default")
 			(node
@@ -93422,7 +96260,7 @@
 			)
 		)
 		(net
-			(code "398")
+			(code "401")
 			(name "Net-(C35-Pad1)")
 			(class "Default")
 			(node
@@ -93438,7 +96276,7 @@
 			)
 		)
 		(net
-			(code "399")
+			(code "402")
 			(name "Net-(C108-Pad2)")
 			(class "Default")
 			(node
@@ -93453,7 +96291,7 @@
 			)
 		)
 		(net
-			(code "400")
+			(code "403")
 			(name "Net-(C132-Pad2)")
 			(class "Default")
 			(node
@@ -93473,7 +96311,7 @@
 			)
 		)
 		(net
-			(code "401")
+			(code "404")
 			(name "Net-(C133-Pad2)")
 			(class "Default")
 			(node
@@ -93493,7 +96331,7 @@
 			)
 		)
 		(net
-			(code "402")
+			(code "405")
 			(name "Net-(C139-Pad2)")
 			(class "Default")
 			(node
@@ -93513,7 +96351,7 @@
 			)
 		)
 		(net
-			(code "403")
+			(code "406")
 			(name "Net-(C142-Pad2)")
 			(class "Default")
 			(node
@@ -93533,7 +96371,7 @@
 			)
 		)
 		(net
-			(code "404")
+			(code "407")
 			(name "Net-(C151-Pad2)")
 			(class "Default")
 			(node
@@ -93553,7 +96391,7 @@
 			)
 		)
 		(net
-			(code "405")
+			(code "408")
 			(name "Net-(C155-Pad2)")
 			(class "Default")
 			(node
@@ -93573,7 +96411,7 @@
 			)
 		)
 		(net
-			(code "406")
+			(code "409")
 			(name "Net-(C159-Pad2)")
 			(class "Default")
 			(node
@@ -93593,7 +96431,7 @@
 			)
 		)
 		(net
-			(code "407")
+			(code "410")
 			(name "Net-(C163-Pad2)")
 			(class "Default")
 			(node
@@ -93613,7 +96451,7 @@
 			)
 		)
 		(net
-			(code "408")
+			(code "411")
 			(name "Net-(C169-Pad2)")
 			(class "Default")
 			(node
@@ -93633,7 +96471,7 @@
 			)
 		)
 		(net
-			(code "409")
+			(code "412")
 			(name "Net-(C170-Pad2)")
 			(class "Default")
 			(node
@@ -93653,7 +96491,7 @@
 			)
 		)
 		(net
-			(code "410")
+			(code "413")
 			(name "Net-(C177-Pad2)")
 			(class "Default")
 			(node
@@ -93673,7 +96511,7 @@
 			)
 		)
 		(net
-			(code "411")
+			(code "414")
 			(name "Net-(C178-Pad2)")
 			(class "Default")
 			(node
@@ -93693,7 +96531,7 @@
 			)
 		)
 		(net
-			(code "412")
+			(code "415")
 			(name "Net-(C185-Pad2)")
 			(class "Default")
 			(node
@@ -93713,7 +96551,7 @@
 			)
 		)
 		(net
-			(code "413")
+			(code "416")
 			(name "Net-(C186-Pad2)")
 			(class "Default")
 			(node
@@ -93733,7 +96571,7 @@
 			)
 		)
 		(net
-			(code "414")
+			(code "417")
 			(name "Net-(C193-Pad2)")
 			(class "Default")
 			(node
@@ -93753,7 +96591,7 @@
 			)
 		)
 		(net
-			(code "415")
+			(code "418")
 			(name "Net-(C194-Pad2)")
 			(class "Default")
 			(node
@@ -93773,7 +96611,7 @@
 			)
 		)
 		(net
-			(code "416")
+			(code "419")
 			(name "Net-(C209-Pad2)")
 			(class "Default")
 			(node
@@ -93793,7 +96631,7 @@
 			)
 		)
 		(net
-			(code "417")
+			(code "420")
 			(name "Net-(C210-Pad2)")
 			(class "Default")
 			(node
@@ -93813,7 +96651,7 @@
 			)
 		)
 		(net
-			(code "418")
+			(code "421")
 			(name "Net-(C211-Pad2)")
 			(class "Default")
 			(node
@@ -93833,7 +96671,7 @@
 			)
 		)
 		(net
-			(code "419")
+			(code "422")
 			(name "Net-(C212-Pad2)")
 			(class "Default")
 			(node
@@ -93853,7 +96691,7 @@
 			)
 		)
 		(net
-			(code "420")
+			(code "423")
 			(name "Net-(C225-Pad2)")
 			(class "Default")
 			(node
@@ -93873,7 +96711,7 @@
 			)
 		)
 		(net
-			(code "421")
+			(code "424")
 			(name "Net-(C226-Pad2)")
 			(class "Default")
 			(node
@@ -93893,7 +96731,7 @@
 			)
 		)
 		(net
-			(code "422")
+			(code "425")
 			(name "Net-(C227-Pad2)")
 			(class "Default")
 			(node
@@ -93913,7 +96751,7 @@
 			)
 		)
 		(net
-			(code "423")
+			(code "426")
 			(name "Net-(C228-Pad2)")
 			(class "Default")
 			(node
@@ -93933,7 +96771,7 @@
 			)
 		)
 		(net
-			(code "424")
+			(code "427")
 			(name "Net-(C241-Pad2)")
 			(class "Default")
 			(node
@@ -93953,7 +96791,7 @@
 			)
 		)
 		(net
-			(code "425")
+			(code "428")
 			(name "Net-(C242-Pad2)")
 			(class "Default")
 			(node
@@ -93973,7 +96811,7 @@
 			)
 		)
 		(net
-			(code "426")
+			(code "429")
 			(name "Net-(C243-Pad2)")
 			(class "Default")
 			(node
@@ -93993,7 +96831,7 @@
 			)
 		)
 		(net
-			(code "427")
+			(code "430")
 			(name "Net-(C244-Pad2)")
 			(class "Default")
 			(node
@@ -94013,7 +96851,7 @@
 			)
 		)
 		(net
-			(code "428")
+			(code "431")
 			(name "Net-(C257-Pad2)")
 			(class "Default")
 			(node
@@ -94033,7 +96871,7 @@
 			)
 		)
 		(net
-			(code "429")
+			(code "432")
 			(name "Net-(C258-Pad2)")
 			(class "Default")
 			(node
@@ -94053,7 +96891,7 @@
 			)
 		)
 		(net
-			(code "430")
+			(code "433")
 			(name "Net-(C259-Pad2)")
 			(class "Default")
 			(node
@@ -94073,7 +96911,7 @@
 			)
 		)
 		(net
-			(code "431")
+			(code "434")
 			(name "Net-(C260-Pad2)")
 			(class "Default")
 			(node
@@ -94093,73 +96931,103 @@
 			)
 		)
 		(net
-			(code "432")
-			(name "Net-(D1-A)")
-			(class "Default")
-			(node
-				(ref "D1")
-				(pin "2")
-				(pinfunction "A_2")
-				(pintype "passive")
-			)
-			(node
-				(ref "R10")
-				(pin "2")
-				(pintype "passive")
-			)
-		)
-		(net
-			(code "433")
-			(name "Net-(D1-K)")
-			(class "Default")
-			(node
-				(ref "D1")
-				(pin "1")
-				(pinfunction "K_1")
-				(pintype "passive")
-			)
-			(node
-				(ref "Q4")
-				(pin "3")
-				(pinfunction "D_3")
-				(pintype "unspecified")
-			)
-		)
-		(net
-			(code "434")
-			(name "Net-(D2-A)")
-			(class "Default")
-			(node
-				(ref "D2")
-				(pin "2")
-				(pinfunction "A_2")
-				(pintype "passive")
-			)
-			(node
-				(ref "R11")
-				(pin "2")
-				(pintype "passive")
-			)
-		)
-		(net
 			(code "435")
-			(name "Net-(D2-K)")
+			(name "Net-(D1-K-Pad1)")
 			(class "Default")
 			(node
-				(ref "D2")
+				(ref "D1")
 				(pin "1")
 				(pinfunction "K_1")
-				(pintype "passive")
+				(pintype "unspecified")
 			)
 			(node
-				(ref "Q6")
-				(pin "3")
-				(pinfunction "D_3")
-				(pintype "unspecified")
+				(ref "R238")
+				(pin "1")
+				(pintype "passive")
 			)
 		)
 		(net
 			(code "436")
+			(name "Net-(D1-K-Pad2)")
+			(class "Default")
+			(node
+				(ref "D1")
+				(pin "2")
+				(pinfunction "K_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R11")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "437")
+			(name "Net-(D1-K-Pad4)")
+			(class "Default")
+			(node
+				(ref "D1")
+				(pin "4")
+				(pinfunction "K_4")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R10")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "438")
+			(name "Net-(D2-K-Pad1)")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R241")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "439")
+			(name "Net-(D2-K-Pad2)")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "2")
+				(pinfunction "K_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R240")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "440")
+			(name "Net-(D2-K-Pad4)")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "4")
+				(pinfunction "K_4")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R239")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "441")
 			(name "Net-(D3-K)")
 			(class "Default")
 			(node
@@ -94175,7 +97043,7 @@
 			)
 		)
 		(net
-			(code "437")
+			(code "442")
 			(name "Net-(D4-K)")
 			(class "Default")
 			(node
@@ -94191,7 +97059,7 @@
 			)
 		)
 		(net
-			(code "438")
+			(code "443")
 			(name "Net-(D37-K)")
 			(class "Default")
 			(node
@@ -94212,7 +97080,7 @@
 			)
 		)
 		(net
-			(code "439")
+			(code "444")
 			(name "Net-(D38-A)")
 			(class "Default")
 			(node
@@ -94244,7 +97112,7 @@
 			)
 		)
 		(net
-			(code "440")
+			(code "445")
 			(name "Net-(D80-A)")
 			(class "Default")
 			(node
@@ -94260,7 +97128,103 @@
 			)
 		)
 		(net
-			(code "441")
+			(code "446")
+			(name "Net-(Q4-D)")
+			(class "Default")
+			(node
+				(ref "Q4")
+				(pin "3")
+				(pinfunction "D_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R238")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "447")
+			(name "Net-(Q6-D)")
+			(class "Default")
+			(node
+				(ref "Q6")
+				(pin "3")
+				(pinfunction "D_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R241")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "448")
+			(name "Net-(Q7-D)")
+			(class "Default")
+			(node
+				(ref "Q7")
+				(pin "3")
+				(pinfunction "D_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R11")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "449")
+			(name "Net-(Q8-D)")
+			(class "Default")
+			(node
+				(ref "Q8")
+				(pin "3")
+				(pinfunction "D_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R10")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "450")
+			(name "Net-(Q9-D)")
+			(class "Default")
+			(node
+				(ref "Q9")
+				(pin "3")
+				(pinfunction "D_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R239")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "451")
+			(name "Net-(Q10-D)")
+			(class "Default")
+			(node
+				(ref "Q10")
+				(pin "3")
+				(pinfunction "D_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R240")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "452")
 			(name "Net-(R20-Pad1)")
 			(class "Default")
 			(node
@@ -94275,7 +97239,7 @@
 			)
 		)
 		(net
-			(code "442")
+			(code "453")
 			(name "Net-(R33-Pad1)")
 			(class "Default")
 			(node
@@ -94290,7 +97254,7 @@
 			)
 		)
 		(net
-			(code "443")
+			(code "454")
 			(name "Net-(R34-Pad1)")
 			(class "Default")
 			(node
@@ -94305,7 +97269,7 @@
 			)
 		)
 		(net
-			(code "444")
+			(code "455")
 			(name "Net-(R91-Pad1)")
 			(class "Default")
 			(node
@@ -94339,7 +97303,7 @@
 			)
 		)
 		(net
-			(code "445")
+			(code "456")
 			(name "Net-(R101-Pad1)")
 			(class "Default")
 			(node
@@ -94354,7 +97318,7 @@
 			)
 		)
 		(net
-			(code "446")
+			(code "457")
 			(name "Net-(R103-Pad1)")
 			(class "Default")
 			(node
@@ -94369,7 +97333,7 @@
 			)
 		)
 		(net
-			(code "447")
+			(code "458")
 			(name "Net-(U1B-VDDA)")
 			(class "Default")
 			(node
@@ -94395,7 +97359,7 @@
 			)
 		)
 		(net
-			(code "448")
+			(code "459")
 			(name "Net-(U5-ILIM)")
 			(class "Default")
 			(node
@@ -94411,7 +97375,7 @@
 			)
 		)
 		(net
-			(code "449")
+			(code "460")
 			(name "Net-(U8-DECAP)")
 			(class "Default")
 			(node
@@ -94427,7 +97391,7 @@
 			)
 		)
 		(net
-			(code "450")
+			(code "461")
 			(name "Net-(U9-DECAP)")
 			(class "Default")
 			(node
@@ -94443,7 +97407,7 @@
 			)
 		)
 		(net
-			(code "451")
+			(code "462")
 			(name "Net-(U10-DECAP)")
 			(class "Default")
 			(node
@@ -94459,7 +97423,7 @@
 			)
 		)
 		(net
-			(code "452")
+			(code "463")
 			(name "Net-(U11-DECAP)")
 			(class "Default")
 			(node
@@ -94475,7 +97439,7 @@
 			)
 		)
 		(net
-			(code "453")
+			(code "464")
 			(name "Net-(U12-RCLASS)")
 			(class "Default")
 			(node
@@ -94491,7 +97455,7 @@
 			)
 		)
 		(net
-			(code "454")
+			(code "465")
 			(name "Net-(U12-RDET)")
 			(class "Default")
 			(node
@@ -94512,7 +97476,7 @@
 			)
 		)
 		(net
-			(code "455")
+			(code "466")
 			(name "Net-(U12-RREF)")
 			(class "Default")
 			(node
@@ -94528,7 +97492,7 @@
 			)
 		)
 		(net
-			(code "456")
+			(code "467")
 			(name "PGND")
 			(class "Default")
 			(node
@@ -94627,7 +97591,58 @@
 			)
 		)
 		(net
-			(code "457")
+			(code "468")
+			(name "V3P3_VIN")
+			(class "Default")
+			(node
+				(ref "C109")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D1")
+				(pin "3")
+				(pinfunction "A_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "D2")
+				(pin "3")
+				(pinfunction "A_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "D79")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D81")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R82")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP133")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U7")
+				(pin "4")
+				(pinfunction "VIN_4")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "469")
 			(name "unconnected-(C149-Pad2)")
 			(class "Default")
 			(node
@@ -94637,7 +97652,7 @@
 			)
 		)
 		(net
-			(code "458")
+			(code "470")
 			(name "unconnected-(C153-Pad2)")
 			(class "Default")
 			(node
@@ -94647,7 +97662,7 @@
 			)
 		)
 		(net
-			(code "459")
+			(code "471")
 			(name "unconnected-(C157-Pad2)")
 			(class "Default")
 			(node
@@ -94657,7 +97672,7 @@
 			)
 		)
 		(net
-			(code "460")
+			(code "472")
 			(name "unconnected-(C161-Pad2)")
 			(class "Default")
 			(node
@@ -94667,7 +97682,7 @@
 			)
 		)
 		(net
-			(code "461")
+			(code "473")
 			(name "unconnected-(CN1-Pad7)")
 			(class "Default")
 			(node
@@ -94678,62 +97693,7 @@
 			)
 		)
 		(net
-			(code "462")
-			(name "unconnected-(J2-Pin_1-Pad1)")
-			(class "Default")
-			(node
-				(ref "J2")
-				(pin "1")
-				(pinfunction "Pin_1_1")
-				(pintype "passive")
-			)
-		)
-		(net
-			(code "463")
-			(name "unconnected-(J2-Pin_2-Pad2)")
-			(class "Default")
-			(node
-				(ref "J2")
-				(pin "2")
-				(pinfunction "Pin_2_2")
-				(pintype "passive")
-			)
-		)
-		(net
-			(code "464")
-			(name "unconnected-(J2-Pin_3-Pad3)")
-			(class "Default")
-			(node
-				(ref "J2")
-				(pin "3")
-				(pinfunction "Pin_3_3")
-				(pintype "passive")
-			)
-		)
-		(net
-			(code "465")
-			(name "unconnected-(J2-Pin_4-Pad4)")
-			(class "Default")
-			(node
-				(ref "J2")
-				(pin "4")
-				(pinfunction "Pin_4_4")
-				(pintype "passive")
-			)
-		)
-		(net
-			(code "466")
-			(name "unconnected-(Q6-G-Pad1)")
-			(class "Default")
-			(node
-				(ref "Q6")
-				(pin "1")
-				(pinfunction "G_1")
-				(pintype "unspecified")
-			)
-		)
-		(net
-			(code "467")
+			(code "474")
 			(name "unconnected-(RJ1-+-Pad11)")
 			(class "Default")
 			(node
@@ -94744,7 +97704,7 @@
 			)
 		)
 		(net
-			(code "468")
+			(code "475")
 			(name "unconnected-(RJ1-+-Pad13)")
 			(class "Default")
 			(node
@@ -94755,7 +97715,7 @@
 			)
 		)
 		(net
-			(code "469")
+			(code "476")
 			(name "unconnected-(RJ1---Pad12)")
 			(class "Default")
 			(node
@@ -94766,7 +97726,7 @@
 			)
 		)
 		(net
-			(code "470")
+			(code "477")
 			(name "unconnected-(RJ1---Pad14)")
 			(class "Default")
 			(node
@@ -94777,7 +97737,7 @@
 			)
 		)
 		(net
-			(code "471")
+			(code "478")
 			(name "unconnected-(T1-Pad4)")
 			(class "Default")
 			(node
@@ -94788,7 +97748,7 @@
 			)
 		)
 		(net
-			(code "472")
+			(code "479")
 			(name "unconnected-(T1-Pad5)")
 			(class "Default")
 			(node
@@ -94799,7 +97759,7 @@
 			)
 		)
 		(net
-			(code "473")
+			(code "480")
 			(name "unconnected-(T1-Pad12)")
 			(class "Default")
 			(node
@@ -94810,7 +97770,7 @@
 			)
 		)
 		(net
-			(code "474")
+			(code "481")
 			(name "unconnected-(T1-Pad13)")
 			(class "Default")
 			(node
@@ -94821,7 +97781,7 @@
 			)
 		)
 		(net
-			(code "475")
+			(code "482")
 			(name "unconnected-(U5-NC-Pad4)")
 			(class "Default")
 			(node
@@ -94832,7 +97792,7 @@
 			)
 		)
 		(net
-			(code "476")
+			(code "483")
 			(name "unconnected-(U5-NC-Pad12)")
 			(class "Default")
 			(node
@@ -94843,7 +97803,7 @@
 			)
 		)
 		(net
-			(code "477")
+			(code "484")
 			(name "unconnected-(U12-NC-Pad6)")
 			(class "Default")
 			(node
@@ -94854,7 +97814,7 @@
 			)
 		)
 		(net
-			(code "478")
+			(code "485")
 			(name "unconnected-(U12-NC-Pad9)")
 			(class "Default")
 			(node
@@ -94865,7 +97825,7 @@
 			)
 		)
 		(net
-			(code "479")
+			(code "486")
 			(name "unconnected-(U17-Pad3)")
 			(class "Default")
 			(node
@@ -94875,7 +97835,7 @@
 			)
 		)
 		(net
-			(code "480")
+			(code "487")
 			(name "unconnected-(U26-NC-Pad4)")
 			(class "Default")
 			(node
