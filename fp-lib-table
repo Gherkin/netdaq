@@ -31,4 +31,8 @@
 	(lib (name "TLV770") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/TLV770/footprints.pretty") (options "") (descr ""))
 	(lib (name "ESD304") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/ESD304/ESD304.pretty") (options "") (descr ""))
 	(lib (name "C42421005") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C42421005/C42421005.pretty") (options "") (descr ""))
+	(lib (name "XG4A-4034") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/XG4A-4034/XG4A-4034.pretty") (options "") (descr ""))
+	(lib (name "XG4A-5034") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/XG4A-5034/XG4A-5034.pretty") (options "") (descr ""))
+	(lib (name "XG4A-6034") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/XG4A-6034/XG4A-6034.pretty") (options "") (descr ""))
+	(lib (name "C22379472") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C22379472/C22379472.pretty") (options "") (descr ""))
 )

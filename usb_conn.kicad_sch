@@ -2498,6 +2498,14 @@
 		(color 0 0 0 0)
 		(uuid "fa5610b8-8459-4681-946c-21eb37f1aad6")
 	)
+	(no_connect
+		(at 106.68 130.81)
+		(uuid "235f44c8-1622-4a0a-a500-e47056304638")
+	)
+	(no_connect
+		(at 33.02 139.7)
+		(uuid "af9eb4a1-2610-40b9-9447-5db65a310cdc")
+	)
 	(bus_entry
 		(at 101.6 114.3)
 		(size 2.54 2.54)
@@ -5674,6 +5682,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 121.92 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 121.92 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BLM15AG221SN1D"
 			(at 121.92 86.36 90)
 			(hide yes)
 			(show_name no)

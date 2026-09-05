@@ -2,7 +2,7 @@
 	(version "E")
 	(design
 		(source "/home/niyohn/git/netdaq/netdaq.kicad_sch")
-		(date "2026-09-03T19:47:36")
+		(date "2026-09-05T21:06:04")
 		(tool "Eeschema 10.0.3")
 		(sheet
 			(number "1")
@@ -3994,7 +3994,221 @@
 				(names "/MCU/")
 				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
 			)
-			(tstamps "09c7923a-da50-4a5e-a50f-560669c664b1")
+			(tstamps "5a5f102f-2809-4e6d-8733-fdf60c388446")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "FB3")
+			(value "UPZ2012E102-1R5TF")
+			(footprint "Resistor_SMD:R_0805_2012Metric")
+			(description "Ferrite bead, small symbol")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "n")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "LCSC") "C98309")
+				(field
+					(name "LCSC Part") "C98309")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Ferrite bead, small symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "FerriteBead_Small")
+				(description "Ferrite bead, small symbol")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "n")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C98309")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C98309")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "L ferrite bead inductor filter")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Inductor_* L_* *Ferrite*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "aa6534c6-94fa-4332-aadb-89fe318df21b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "FB5")
+			(value "UPZ2012E102-1R5TF")
+			(footprint "Resistor_SMD:R_0805_2012Metric")
+			(description "Ferrite bead, small symbol")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "n")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "LCSC") "C98309")
+				(field
+					(name "LCSC Part") "C98309")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Ferrite bead, small symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "FerriteBead_Small")
+				(description "Ferrite bead, small symbol")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "n")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C98309")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C98309")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "L ferrite bead inductor filter")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Inductor_* L_* *Ferrite*")
+			)
+			(sheetpath
+				(names "/MCU/")
+				(tstamps "/e0b2477a-74c1-4066-8a9f-fdb22c0a3710/")
+			)
+			(tstamps "1b5ffaeb-f0c1-4c2f-9b19-6bc534c92f4a")
 			(units
 				(unit
 					(name "A")
@@ -7214,8 +7428,7 @@
 				(field
 					(name "LCSC Part") "C25105")
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -7259,7 +7472,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -7321,8 +7534,7 @@
 				(field
 					(name "LCSC Part") "C25105")
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -7366,7 +7578,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -7428,8 +7640,7 @@
 				(field
 					(name "LCSC Part") "C25105")
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -7473,7 +7684,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -7535,8 +7746,7 @@
 				(field
 					(name "LCSC Part") "C25105")
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -7580,7 +7790,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -16269,6 +16479,7 @@
 			(ref "D4")
 			(value "GREEN")
 			(footprint "LED_SMD:LED_0805_2012Metric")
+			(datasheet "https://www.lcsc.com/datasheet/C2297.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1ddU11VTlNYUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slTlBXUUoOAwwC")
 			(description "Light emitting diode")
 			(fields
 				(field
@@ -16283,10 +16494,9 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
-					(name "LCSC missing")
-				)
+					(name "LCSC missing") "n")
 				(field
 					(name "LCSC") "C2297")
 				(field
@@ -16295,10 +16505,13 @@
 					(name "Tolerance")
 				)
 				(field
+					(name "MPN") "KT-0805G")
+				(field
+					(name "Manufacturer") "Hubei KENTO Elec")
+				(field
 					(name "Footprint") "LED_SMD:LED_0805_2012Metric")
 				(field
-					(name "Datasheet")
-				)
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C2297.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1ddU11VTlNYUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slTlBXUUoOAwwC")
 				(field
 					(name "Description") "Light emitting diode")
 			)
@@ -16325,11 +16538,11 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
-				(value "")
+				(value "n")
 			)
 			(property
 				(name "LCSC")
@@ -16342,6 +16555,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "MPN")
+				(value "KT-0805G")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Hubei KENTO Elec")
 			)
 			(property
 				(name "Sheetname")
@@ -16380,8 +16601,9 @@
 		)
 		(comp
 			(ref "FB2")
-			(value "UPZ2012E102-1R5TF")
+			(value "1.5A 120mΩ 1kΩ@100MHz")
 			(footprint "Resistor_SMD:R_0805_2012Metric")
+			(datasheet "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8755196311749058560-C98309.pdf?response-content-disposition=attachment%3B%20filename%3DC98309.pdf%3B%20filename%2A%3DUTF-8%27%27C98309.pdf&x-oss-date=20260905T082017Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5ndB8jDvqVz5%2FDaT2T3r1kmSbd5tvbF1Dz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qY9YymUu557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWopvGo4lSPZqaIWzHOTEFupYY7CDV2HC3D82fcxJ2B%2Bmz7zwy%2B%2Fdqxot7SHZVvl3SE4LlO17v1wI3PpKXKKWD5sagAFg94W2mOfkrhwLDC8vEOew%2Fp2AZT6MbSNTTeiOlhpV5YR6f%2BdWn8nk6pb%2FgKSQ0vMsVs9dCH1uZM0f3njE0GrVQBjvrDzSUF0ejwjTvVcAG1MjHkXgb38WyKG9chQzff%2FWSDq15TZkImFCKSbUhYKe3GXpTLgWL5EQ0XhAFugyKSAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZhLrwSzRP21MBFKYsE8UY3n6%2F20260905%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=ee9cb3bcf641e386d493f0a0623d858f31014954b7d81ce634865b9ca8dfb072")
 			(description "Ferrite bead, small symbol")
 			(fields
 				(field
@@ -16406,10 +16628,13 @@
 				(field
 					(name "LCSC Part") "C98309")
 				(field
+					(name "MPN") "UPZ2012E102-1R5TF")
+				(field
+					(name "Manufacturer") "Sunlord")
+				(field
 					(name "Footprint") "Resistor_SMD:R_0805_2012Metric")
 				(field
-					(name "Datasheet")
-				)
+					(name "Datasheet") "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8755196311749058560-C98309.pdf?response-content-disposition=attachment%3B%20filename%3DC98309.pdf%3B%20filename%2A%3DUTF-8%27%27C98309.pdf&x-oss-date=20260905T082017Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5ndB8jDvqVz5%2FDaT2T3r1kmSbd5tvbF1Dz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qY9YymUu557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWopvGo4lSPZqaIWzHOTEFupYY7CDV2HC3D82fcxJ2B%2Bmz7zwy%2B%2Fdqxot7SHZVvl3SE4LlO17v1wI3PpKXKKWD5sagAFg94W2mOfkrhwLDC8vEOew%2Fp2AZT6MbSNTTeiOlhpV5YR6f%2BdWn8nk6pb%2FgKSQ0vMsVs9dCH1uZM0f3njE0GrVQBjvrDzSUF0ejwjTvVcAG1MjHkXgb38WyKG9chQzff%2FWSDq15TZkImFCKSbUhYKe3GXpTLgWL5EQ0XhAFugyKSAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZhLrwSzRP21MBFKYsE8UY3n6%2F20260905%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=ee9cb3bcf641e386d493f0a0623d858f31014954b7d81ce634865b9ca8dfb072")
 				(field
 					(name "Description") "Ferrite bead, small symbol")
 			)
@@ -16449,6 +16674,14 @@
 			(property
 				(name "LCSC Part")
 				(value "C98309")
+			)
+			(property
+				(name "MPN")
+				(value "UPZ2012E102-1R5TF")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Sunlord")
 			)
 			(property
 				(name "Sheetname")
@@ -16778,6 +17011,9 @@
 			(property
 				(name "Sheetfile")
 				(value "eth_phy.kicad_sch")
+			)
+			(property
+				(name "dnp")
 			)
 			(property
 				(name "ki_keywords")
@@ -17152,8 +17388,7 @@
 					(name "LCSC missing")
 				)
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -17197,7 +17432,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -17366,8 +17601,7 @@
 					(name "LCSC missing")
 				)
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -17411,7 +17645,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -17473,8 +17707,7 @@
 					(name "LCSC missing")
 				)
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -17518,7 +17751,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -17743,6 +17976,9 @@
 				(value "eth_phy.kicad_sch")
 			)
 			(property
+				(name "dnp")
+			)
+			(property
 				(name "ki_keywords")
 				(value "R res resistor")
 			)
@@ -17848,6 +18084,9 @@
 			(property
 				(name "Sheetfile")
 				(value "eth_phy.kicad_sch")
+			)
+			(property
+				(name "dnp")
 			)
 			(property
 				(name "ki_keywords")
@@ -17957,6 +18196,9 @@
 				(value "eth_phy.kicad_sch")
 			)
 			(property
+				(name "dnp")
+			)
+			(property
 				(name "ki_keywords")
 				(value "R res resistor")
 			)
@@ -18062,6 +18304,9 @@
 			(property
 				(name "Sheetfile")
 				(value "eth_phy.kicad_sch")
+			)
+			(property
+				(name "dnp")
 			)
 			(property
 				(name "ki_keywords")
@@ -18543,8 +18788,7 @@
 				(field
 					(name "LCSC Part") "C25076")
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -18588,7 +18832,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -18626,10 +18870,10 @@
 			)
 		)
 		(comp
-			(ref "U2")
-			(value "LAN8720A-CP")
-			(footprint "LAN8720A-CP:QFN24-6X6_MC_MCH")
-			(datasheet "LAN8720A-CP")
+			(ref "R261")
+			(value "49.9")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
 			(fields
 				(field
 					(name "Sim.Type")
@@ -18641,8 +18885,479 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
+					(name "LCSC") "C25120")
+				(field
+					(name "LCSC Part") "C25120")
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC missing")
 				)
+				(field
+					(name "Tolerance") "1")
+				(field
+					(name "MPN") "0402WGF499JTCE")
+				(field
+					(name "Manufacturer") "UNI-ROYAL")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C25120")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25120")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "1")
+			)
+			(property
+				(name "MPN")
+				(value "0402WGF499JTCE")
+			)
+			(property
+				(name "Manufacturer")
+				(value "UNI-ROYAL")
+			)
+			(property
+				(name "Sheetname")
+				(value "Ethernet PHY")
+			)
+			(property
+				(name "Sheetfile")
+				(value "eth_phy.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Ethernet PHY/")
+				(tstamps "/137b64ac-bb8a-47f8-a978-820d95645cab/")
+			)
+			(tstamps "339e1645-d78a-4cd9-a9c1-f8e9411b18e4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R262")
+			(value "49.9")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC") "C25120")
+				(field
+					(name "LCSC Part") "C25120")
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance") "1")
+				(field
+					(name "MPN") "0402WGF499JTCE")
+				(field
+					(name "Manufacturer") "UNI-ROYAL")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C25120")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25120")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "1")
+			)
+			(property
+				(name "MPN")
+				(value "0402WGF499JTCE")
+			)
+			(property
+				(name "Manufacturer")
+				(value "UNI-ROYAL")
+			)
+			(property
+				(name "Sheetname")
+				(value "Ethernet PHY")
+			)
+			(property
+				(name "Sheetfile")
+				(value "eth_phy.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Ethernet PHY/")
+				(tstamps "/137b64ac-bb8a-47f8-a978-820d95645cab/")
+			)
+			(tstamps "099ddc50-edaf-4851-b616-e9efdfb48ae9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R263")
+			(value "49.9")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC") "C25120")
+				(field
+					(name "LCSC Part") "C25120")
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance") "1")
+				(field
+					(name "MPN") "0402WGF499JTCE")
+				(field
+					(name "Manufacturer") "UNI-ROYAL")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C25120")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25120")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "1")
+			)
+			(property
+				(name "MPN")
+				(value "0402WGF499JTCE")
+			)
+			(property
+				(name "Manufacturer")
+				(value "UNI-ROYAL")
+			)
+			(property
+				(name "Sheetname")
+				(value "Ethernet PHY")
+			)
+			(property
+				(name "Sheetfile")
+				(value "eth_phy.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Ethernet PHY/")
+				(tstamps "/137b64ac-bb8a-47f8-a978-820d95645cab/")
+			)
+			(tstamps "0f74ca2b-42d3-4934-a71e-718e76bbe0d2")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R264")
+			(value "49.9")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC") "C25120")
+				(field
+					(name "LCSC Part") "C25120")
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance") "1")
+				(field
+					(name "MPN") "0402WGF499JTCE")
+				(field
+					(name "Manufacturer") "UNI-ROYAL")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C25120")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25120")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "1")
+			)
+			(property
+				(name "MPN")
+				(value "0402WGF499JTCE")
+			)
+			(property
+				(name "Manufacturer")
+				(value "UNI-ROYAL")
+			)
+			(property
+				(name "Sheetname")
+				(value "Ethernet PHY")
+			)
+			(property
+				(name "Sheetfile")
+				(value "eth_phy.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Ethernet PHY/")
+				(tstamps "/137b64ac-bb8a-47f8-a978-820d95645cab/")
+			)
+			(tstamps "84b48deb-198c-4e0c-958a-33e70730be0a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U2")
+			(value "LAN8720A-CP")
+			(footprint "LAN8720A-CP:QFN24-6X6_MC_MCH")
+			(datasheet "https://ww1.microchip.com/downloads/aemDocuments/documents/UNG/ProductDocuments/DataSheets/LAN8720A-LAN8720Ai-Data-Sheet-DS00002165.pdf")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "n")
 				(field
 					(name "LCSC Part") "C45223")
 				(field
@@ -18654,9 +19369,13 @@
 					(name "Tolerance")
 				)
 				(field
+					(name "MPN") "LAN8720A-CP")
+				(field
+					(name "Manufacturer") "Microchip")
+				(field
 					(name "Footprint") "LAN8720A-CP:QFN24-6X6_MC_MCH")
 				(field
-					(name "Datasheet") "LAN8720A-CP")
+					(name "Datasheet") "https://ww1.microchip.com/downloads/aemDocuments/documents/UNG/ProductDocuments/DataSheets/LAN8720A-LAN8720Ai-Data-Sheet-DS00002165.pdf")
 				(field
 					(name "Description")
 				)
@@ -18680,7 +19399,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "n")
 			)
 			(property
 				(name "LCSC Part")
@@ -18697,6 +19416,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "MPN")
+				(value "LAN8720A-CP")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Microchip")
 			)
 			(property
 				(name "Sheetname")
@@ -18821,6 +19548,10 @@
 					(name "Tolerance")
 				)
 				(field
+					(name "Manufacturer") "YXC Crystal Oscillators")
+				(field
+					(name "MPN") "X322525MSB4SI")
+				(field
 					(name "Footprint") "C13740:CRYSTAL-SMD_4P-L3.2-W2.5-BL-2")
 				(field
 					(name "Datasheet") "https://lcsc.com/product-detail/SMD-Crystals_YSX321SL-25MHZ-20PF-10PPM-40-85_C13740.html")
@@ -18844,6 +19575,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "Manufacturer")
+				(value "YXC Crystal Oscillators")
+			)
+			(property
+				(name "MPN")
+				(value "X322525MSB4SI")
 			)
 			(property
 				(name "Sheetname")
@@ -19292,6 +20031,482 @@
 				(tstamps "/ea65a3d0-a0be-4201-b06b-091231bedc11/")
 			)
 			(tstamps "a2c6993b-cf2b-4d53-ab75-53209f71739a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C273")
+			(value "10n 100V")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "https://www.lcsc.com/datasheet/C527014.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RXX11TQ1VaVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVFYVlFeRlRADxALGw%3D%3D")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC") "C527014")
+				(field
+					(name "LCSC Part") "C527014")
+				(field
+					(name "LCSC Basic/Pref") "n")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "MPN") "CC0402KRX7R0BB103")
+				(field
+					(name "Manufacturer") "YAGEO")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C527014.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RXX11TQ1VaVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVFYVlFeRlRADxALGw%3D%3D")
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C527014")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C527014")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "n")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "MPN")
+				(value "CC0402KRX7R0BB103")
+			)
+			(property
+				(name "Manufacturer")
+				(value "YAGEO")
+			)
+			(property
+				(name "Sheetname")
+				(value "Ethernet Connector")
+			)
+			(property
+				(name "Sheetfile")
+				(value "eth_conn.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Ethernet Connector/")
+				(tstamps "/ea65a3d0-a0be-4201-b06b-091231bedc11/")
+			)
+			(tstamps "53704dd0-30a4-476d-95d3-d13d092f4040")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C274")
+			(value "10n 100V")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "https://www.lcsc.com/datasheet/C527014.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RXX11TQ1VaVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVFYVlFeRlRADxALGw%3D%3D")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC") "C527014")
+				(field
+					(name "LCSC Part") "C527014")
+				(field
+					(name "LCSC Basic/Pref") "n")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "MPN") "CC0402KRX7R0BB103")
+				(field
+					(name "Manufacturer") "YAGEO")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C527014.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RXX11TQ1VaVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVFYVlFeRlRADxALGw%3D%3D")
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C527014")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C527014")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "n")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "MPN")
+				(value "CC0402KRX7R0BB103")
+			)
+			(property
+				(name "Manufacturer")
+				(value "YAGEO")
+			)
+			(property
+				(name "Sheetname")
+				(value "Ethernet Connector")
+			)
+			(property
+				(name "Sheetfile")
+				(value "eth_conn.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Ethernet Connector/")
+				(tstamps "/ea65a3d0-a0be-4201-b06b-091231bedc11/")
+			)
+			(tstamps "c0659be7-57ab-4fad-a458-5bd523631d59")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C275")
+			(value "10n 100V")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "https://www.lcsc.com/datasheet/C527014.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RXX11TQ1VaVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVFYVlFeRlRADxALGw%3D%3D")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC") "C527014")
+				(field
+					(name "LCSC Part") "C527014")
+				(field
+					(name "LCSC Basic/Pref") "n")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "MPN") "CC0402KRX7R0BB103")
+				(field
+					(name "Manufacturer") "YAGEO")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C527014.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RXX11TQ1VaVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVFYVlFeRlRADxALGw%3D%3D")
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C527014")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C527014")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "n")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "MPN")
+				(value "CC0402KRX7R0BB103")
+			)
+			(property
+				(name "Manufacturer")
+				(value "YAGEO")
+			)
+			(property
+				(name "Sheetname")
+				(value "Ethernet Connector")
+			)
+			(property
+				(name "Sheetfile")
+				(value "eth_conn.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Ethernet Connector/")
+				(tstamps "/ea65a3d0-a0be-4201-b06b-091231bedc11/")
+			)
+			(tstamps "db76af7e-4de1-4045-954d-1872f64a59fc")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C276")
+			(value "10n 100V")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "https://www.lcsc.com/datasheet/C527014.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RXX11TQ1VaVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVFYVlFeRlRADxALGw%3D%3D")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC") "C527014")
+				(field
+					(name "LCSC Part") "C527014")
+				(field
+					(name "LCSC Basic/Pref") "n")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "MPN") "CC0402KRX7R0BB103")
+				(field
+					(name "Manufacturer") "YAGEO")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C527014.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RXX11TQ1VaVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVFYVlFeRlRADxALGw%3D%3D")
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C527014")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C527014")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "n")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "MPN")
+				(value "CC0402KRX7R0BB103")
+			)
+			(property
+				(name "Manufacturer")
+				(value "YAGEO")
+			)
+			(property
+				(name "Sheetname")
+				(value "Ethernet Connector")
+			)
+			(property
+				(name "Sheetfile")
+				(value "eth_conn.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Ethernet Connector/")
+				(tstamps "/ea65a3d0-a0be-4201-b06b-091231bedc11/")
+			)
+			(tstamps "48966d80-6cb2-4280-abaa-90e858036746")
 			(units
 				(unit
 					(name "A")
@@ -20470,6 +21685,434 @@
 				(tstamps "/ea65a3d0-a0be-4201-b06b-091231bedc11/")
 			)
 			(tstamps "caaa72f3-7750-4bed-a74d-f21fe70c6079")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R255")
+			(value "0")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC") "C17168")
+				(field
+					(name "LCSC Part") "C17168")
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C17168")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C17168")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Ethernet Connector")
+			)
+			(property
+				(name "Sheetfile")
+				(value "eth_conn.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Ethernet Connector/")
+				(tstamps "/ea65a3d0-a0be-4201-b06b-091231bedc11/")
+			)
+			(tstamps "9bde1a36-3d60-41fe-9272-6af3c4b0bdae")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R256")
+			(value "0")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC") "C17168")
+				(field
+					(name "LCSC Part") "C17168")
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C17168")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C17168")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Ethernet Connector")
+			)
+			(property
+				(name "Sheetfile")
+				(value "eth_conn.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Ethernet Connector/")
+				(tstamps "/ea65a3d0-a0be-4201-b06b-091231bedc11/")
+			)
+			(tstamps "74c58afa-7ed4-4051-a109-7c2aa4fabf35")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R257")
+			(value "0")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC") "C17168")
+				(field
+					(name "LCSC Part") "C17168")
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C17168")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C17168")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Ethernet Connector")
+			)
+			(property
+				(name "Sheetfile")
+				(value "eth_conn.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Ethernet Connector/")
+				(tstamps "/ea65a3d0-a0be-4201-b06b-091231bedc11/")
+			)
+			(tstamps "3d4f0fcd-c46a-4ae9-95e7-b4f320140e9b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R258")
+			(value "0")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC") "C17168")
+				(field
+					(name "LCSC Part") "C17168")
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C17168")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C17168")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Ethernet Connector")
+			)
+			(property
+				(name "Sheetfile")
+				(value "eth_conn.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Ethernet Connector/")
+				(tstamps "/ea65a3d0-a0be-4201-b06b-091231bedc11/")
+			)
+			(tstamps "5b22f622-bb8a-4d30-9939-47cd3a61b1fb")
 			(units
 				(unit
 					(name "A")
@@ -28769,9 +30412,9 @@
 		)
 		(comp
 			(ref "D5")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -28784,22 +30427,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -28822,7 +30464,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -28830,11 +30472,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -28877,9 +30519,9 @@
 		)
 		(comp
 			(ref "D6")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -28892,22 +30534,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -28930,7 +30571,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -28938,11 +30579,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -28985,9 +30626,9 @@
 		)
 		(comp
 			(ref "D7")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -29000,22 +30641,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -29038,7 +30678,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -29046,11 +30686,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -29093,9 +30733,9 @@
 		)
 		(comp
 			(ref "D8")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -29108,22 +30748,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -29146,7 +30785,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -29154,11 +30793,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -29201,9 +30840,9 @@
 		)
 		(comp
 			(ref "D9")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -29216,22 +30855,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -29254,7 +30892,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -29262,11 +30900,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -29309,9 +30947,9 @@
 		)
 		(comp
 			(ref "D10")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -29324,22 +30962,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -29362,7 +30999,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -29370,11 +31007,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -29417,9 +31054,9 @@
 		)
 		(comp
 			(ref "D11")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -29432,22 +31069,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -29470,7 +31106,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -29478,11 +31114,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -29525,9 +31161,9 @@
 		)
 		(comp
 			(ref "D12")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -29540,22 +31176,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -29578,7 +31213,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -29586,11 +31221,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -29633,9 +31268,9 @@
 		)
 		(comp
 			(ref "D13")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -29648,22 +31283,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -29686,7 +31320,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -29694,11 +31328,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -29741,9 +31375,9 @@
 		)
 		(comp
 			(ref "D14")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -29756,22 +31390,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -29794,7 +31427,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -29802,11 +31435,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -29849,9 +31482,9 @@
 		)
 		(comp
 			(ref "D15")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -29864,22 +31497,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -29902,7 +31534,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -29910,11 +31542,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -29957,9 +31589,9 @@
 		)
 		(comp
 			(ref "D16")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -29972,22 +31604,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -30010,7 +31641,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30018,11 +31649,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -30065,9 +31696,9 @@
 		)
 		(comp
 			(ref "D17")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -30080,22 +31711,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -30118,7 +31748,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30126,11 +31756,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -30173,9 +31803,9 @@
 		)
 		(comp
 			(ref "D18")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -30188,22 +31818,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -30226,7 +31855,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30234,11 +31863,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -30281,9 +31910,9 @@
 		)
 		(comp
 			(ref "D19")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -30296,22 +31925,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -30334,7 +31962,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30342,11 +31970,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -30389,9 +32017,9 @@
 		)
 		(comp
 			(ref "D20")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -30404,22 +32032,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -30442,7 +32069,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30450,11 +32077,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -30497,9 +32124,9 @@
 		)
 		(comp
 			(ref "D21")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -30512,22 +32139,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -30550,7 +32176,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30558,11 +32184,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -30605,9 +32231,9 @@
 		)
 		(comp
 			(ref "D22")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -30620,22 +32246,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -30658,7 +32283,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30666,11 +32291,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -30713,9 +32338,9 @@
 		)
 		(comp
 			(ref "D23")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -30728,22 +32353,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -30766,7 +32390,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30774,11 +32398,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -30821,9 +32445,9 @@
 		)
 		(comp
 			(ref "D24")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -30836,22 +32460,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -30874,7 +32497,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30882,11 +32505,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -30929,9 +32552,9 @@
 		)
 		(comp
 			(ref "D25")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -30944,22 +32567,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -30982,7 +32604,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -30990,11 +32612,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -31037,9 +32659,9 @@
 		)
 		(comp
 			(ref "D26")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -31052,22 +32674,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -31090,7 +32711,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31098,11 +32719,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -31145,9 +32766,9 @@
 		)
 		(comp
 			(ref "D27")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -31160,22 +32781,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -31198,7 +32818,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31206,11 +32826,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -31253,9 +32873,9 @@
 		)
 		(comp
 			(ref "D28")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -31268,22 +32888,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -31306,7 +32925,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31314,11 +32933,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -31361,9 +32980,9 @@
 		)
 		(comp
 			(ref "D29")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -31376,22 +32995,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -31414,7 +33032,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31422,11 +33040,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -31469,9 +33087,9 @@
 		)
 		(comp
 			(ref "D30")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -31484,22 +33102,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -31522,7 +33139,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31530,11 +33147,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -31577,9 +33194,9 @@
 		)
 		(comp
 			(ref "D31")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -31592,22 +33209,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -31630,7 +33246,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31638,11 +33254,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -31685,9 +33301,9 @@
 		)
 		(comp
 			(ref "D32")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -31700,22 +33316,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -31738,7 +33353,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31746,11 +33361,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -31793,9 +33408,9 @@
 		)
 		(comp
 			(ref "D33")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -31808,22 +33423,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -31846,7 +33460,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31854,11 +33468,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -31901,9 +33515,9 @@
 		)
 		(comp
 			(ref "D34")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -31916,22 +33530,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -31954,7 +33567,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -31962,11 +33575,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -32009,9 +33622,9 @@
 		)
 		(comp
 			(ref "D35")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -32024,22 +33637,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -32062,7 +33674,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -32070,11 +33682,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -32117,9 +33729,9 @@
 		)
 		(comp
 			(ref "D36")
-			(value "DF2S30FS,L3M")
-			(footprint "Diode_SMD:D_SOD-923")
-			(datasheet "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+			(value "H24VND3BA")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 			(description "Bidirectional transient-voltage-suppression diode")
 			(fields
 				(field
@@ -32132,22 +33744,21 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "Y")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "LCSC") "C1973663")
+					(name "LCSC") "C20615815")
 				(field
-					(name "LCSC Part") "C1973663")
+					(name "LCSC Part") "C20615815")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "Footprint") "Diode_SMD:D_SOD-923")
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
-					(name "Datasheet") "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW")
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D")
 				(field
 					(name "Description") "Bidirectional transient-voltage-suppression diode")
 			)
@@ -32170,7 +33781,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "Y")
 			)
 			(property
 				(name "LCSC missing")
@@ -32178,11 +33789,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C1973663")
+				(value "C20615815")
 			)
 			(property
 				(name "Tolerance")
@@ -38916,8 +40527,9 @@
 		)
 		(comp
 			(ref "C102")
-			(value "910p")
-			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(value "1n 2kV")
+			(footprint "Capacitor_SMD:C_1206_3216Metric")
+			(datasheet "https://www.lcsc.com/datasheet/C9196.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1ddVFFUQlFaVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlZZUlJIHxUDCw%3D%3D")
 			(description "Unpolarized capacitor")
 			(fields
 				(field
@@ -38930,22 +40542,26 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
-					(name "LCSC missing")
-				)
+					(name "LCSC missing") "n")
 				(field
 					(name "Tolerance")
 				)
 				(field
-					(name "LCSC") "C2941944")
+					(name "LCSC") "C9196")
 				(field
-					(name "LCSC Part") "C2941944")
+					(name "LCSC Part") "C9196")
 				(field
-					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+					(name "TC") "X7R")
 				(field
-					(name "Datasheet")
-				)
+					(name "MPN") "1206B102K202NT")
+				(field
+					(name "Manufacturer") "FH")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_1206_3216Metric")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C9196.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1ddVFFUQlFaVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlZZUlJIHxUDCw%3D%3D")
 				(field
 					(name "Description") "Unpolarized capacitor")
 			)
@@ -38968,11 +40584,11 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
-				(value "")
+				(value "n")
 			)
 			(property
 				(name "Tolerance")
@@ -38980,11 +40596,23 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C2941944")
+				(value "C9196")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C2941944")
+				(value "C9196")
+			)
+			(property
+				(name "TC")
+				(value "X7R")
+			)
+			(property
+				(name "MPN")
+				(value "1206B102K202NT")
+			)
+			(property
+				(name "Manufacturer")
+				(value "FH")
 			)
 			(property
 				(name "Sheetname")
@@ -39237,8 +40865,9 @@
 		)
 		(comp
 			(ref "C105")
-			(value "220u")
+			(value "220u 16V")
 			(footprint "Capacitor_SMD:C_Elec_6.3x7.7")
+			(datasheet "https://www.lcsc.com/datasheet/C2927909.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1deUlVXT1JYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slT1ZWUVZIHxUDCw%3D%3D")
 			(description "Polarized capacitor, US symbol")
 			(fields
 				(field
@@ -39253,16 +40882,22 @@
 				(field
 					(name "LCSC Basic/Pref") "n")
 				(field
-					(name "LCSC missing")
-				)
+					(name "LCSC missing") "n")
 				(field
 					(name "Tolerance")
 				)
 				(field
+					(name "LCSC") "C2927909")
+				(field
+					(name "LCSC Part") "C2927909")
+				(field
+					(name "MPN") "RVE220UF16V67RV0003")
+				(field
+					(name "Manufacturer") "KNSCHA")
+				(field
 					(name "Footprint") "Capacitor_SMD:C_Elec_6.3x7.7")
 				(field
-					(name "Datasheet")
-				)
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C2927909.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1deUlVXT1JYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slT1ZWUVZIHxUDCw%3D%3D")
 				(field
 					(name "Description") "Polarized capacitor, US symbol")
 			)
@@ -39289,11 +40924,27 @@
 			)
 			(property
 				(name "LCSC missing")
-				(value "")
+				(value "n")
 			)
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C2927909")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C2927909")
+			)
+			(property
+				(name "MPN")
+				(value "RVE220UF16V67RV0003")
+			)
+			(property
+				(name "Manufacturer")
+				(value "KNSCHA")
 			)
 			(property
 				(name "Sheetname")
@@ -39645,8 +41296,9 @@
 		)
 		(comp
 			(ref "C134")
-			(value "47u")
+			(value "47u 100V")
 			(footprint "Capacitor_SMD:C_Elec_10x10.2")
+			(datasheet "https://www.lcsc.com/datasheet/C87862.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1deUlRSRllaVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVRfVVRIHxUDCw%3D%3D")
 			(description "Polarized capacitor, US symbol")
 			(fields
 				(field
@@ -39667,10 +41319,17 @@
 					(name "Tolerance")
 				)
 				(field
+					(name "LCSC") "C87862")
+				(field
+					(name "LCSC Part") "C87862")
+				(field
+					(name "MPN") "RVT2A470M1010")
+				(field
+					(name "Manufacturer") "Honor Elec")
+				(field
 					(name "Footprint") "Capacitor_SMD:C_Elec_10x10.2")
 				(field
-					(name "Datasheet")
-				)
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C87862.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1deUlRSRllaVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVRfVVRIHxUDCw%3D%3D")
 				(field
 					(name "Description") "Polarized capacitor, US symbol")
 			)
@@ -39702,6 +41361,22 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C87862")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C87862")
+			)
+			(property
+				(name "MPN")
+				(value "RVT2A470M1010")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Honor Elec")
 			)
 			(property
 				(name "Sheetname")
@@ -39830,6 +41505,9 @@
 			(property
 				(name "Sheetfile")
 				(value "poe_reg.kicad_sch")
+			)
+			(property
+				(name "dnp")
 			)
 			(property
 				(name "ki_keywords")
@@ -39980,8 +41658,9 @@
 		)
 		(comp
 			(ref "D80")
-			(value "BZX84C30-7-F")
-			(footprint "MMBZ5256ELT1G:SOT-23(1-3)")
+			(value "BZX84C30")
+			(footprint "C22379472:SOT-23-3_L2.9-W1.5-P2.0-LS2.5-BR")
+			(datasheet "https://www.lcsc.com/datasheet/C22379472.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWXlZST1VbUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlRfUVdUWQkaCgg%3D")
 			(description "Zener diode")
 			(fields
 				(field
@@ -39994,7 +41673,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "n")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -40002,21 +41681,20 @@
 					(name "Tolerance")
 				)
 				(field
-					(name "LCSC") "C151632")
+					(name "LCSC") "C22379472")
 				(field
-					(name "LCSC Part") "C151632")
+					(name "LCSC Part") "C22379472")
 				(field
-					(name "Footprint") "MMBZ5256ELT1G:SOT-23(1-3)")
+					(name "Footprint") "C22379472:SOT-23-3_L2.9-W1.5-P2.0-LS2.5-BR")
 				(field
-					(name "Datasheet")
-				)
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C22379472.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWXlZST1VbUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlRfUVdUWQkaCgg%3D")
 				(field
 					(name "Description") "Zener diode")
 			)
 			(libsource
-				(lib "Device")
-				(part "D_Zener")
-				(description "Zener diode")
+				(lib "C22379472")
+				(part "BZX84C30_C22379472")
+				(description "")
 			)
 			(property
 				(name "Sim.Type")
@@ -40032,7 +41710,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "n")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -40044,11 +41722,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C151632")
+				(value "C22379472")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C151632")
+				(value "C22379472")
 			)
 			(property
 				(name "Sheetname")
@@ -40057,14 +41735,6 @@
 			(property
 				(name "Sheetfile")
 				(value "poe_reg.kicad_sch")
-			)
-			(property
-				(name "ki_keywords")
-				(value "diode")
-			)
-			(property
-				(name "ki_fp_filters")
-				(value "TO-???* *_Diode_* *SingleDiode* D_*")
 			)
 			(sheetpath
 				(names "/PoE Regulator/")
@@ -40076,10 +41746,10 @@
 					(name "A")
 					(pins
 						(pin
-							(num "1")
+							(num "3")
 						)
 						(pin
-							(num "2")
+							(num "1")
 						)
 					)
 				)
@@ -40088,7 +41758,7 @@
 		(comp
 			(ref "R76")
 			(value "56k")
-			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(footprint "Resistor_SMD:R_0805_2012Metric")
 			(description "Resistor")
 			(fields
 				(field
@@ -40101,19 +41771,23 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
-					(name "LCSC") "C25796")
+					(name "LCSC") "C17756")
 				(field
-					(name "LCSC Part") "C25796")
+					(name "LCSC Part") "C17756")
 				(field
-					(name "LCSC missing")
-				)
+					(name "LCSC missing") "n")
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1")
 				(field
-					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+					(name "MPN") "0805W8F5602T5E")
+				(field
+					(name "Manufacturer") "UNI-ROYAL")
+				(field
+					(name "Power") "125 mW")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0805_2012Metric")
 				(field
 					(name "Datasheet")
 				)
@@ -40139,23 +41813,35 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC")
-				(value "C25796")
+				(value "C17756")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C25796")
+				(value "C17756")
 			)
 			(property
 				(name "LCSC missing")
-				(value "")
+				(value "n")
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1")
+			)
+			(property
+				(name "MPN")
+				(value "0805W8F5602T5E")
+			)
+			(property
+				(name "Manufacturer")
+				(value "UNI-ROYAL")
+			)
+			(property
+				(name "Power")
+				(value "125 mW")
 			)
 			(property
 				(name "Sheetname")
@@ -40614,7 +42300,7 @@
 		)
 		(comp
 			(ref "R104")
-			(value "13k")
+			(value "33k")
 			(footprint "Resistor_SMD:R_0603_1608Metric")
 			(description "Resistor")
 			(fields
@@ -40630,9 +42316,9 @@
 				(field
 					(name "LCSC Basic/Pref") "x")
 				(field
-					(name "LCSC") "C22797")
+					(name "LCSC") "C25779")
 				(field
-					(name "LCSC Part") "C22797")
+					(name "LCSC Part") "C25779")
 				(field
 					(name "LCSC missing")
 				)
@@ -40670,11 +42356,11 @@
 			)
 			(property
 				(name "LCSC")
-				(value "C22797")
+				(value "C25779")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C22797")
+				(value "C25779")
 			)
 			(property
 				(name "LCSC missing")
@@ -40721,7 +42407,7 @@
 		)
 		(comp
 			(ref "R105")
-			(value "10k")
+			(value "33k")
 			(footprint "Resistor_SMD:R_0402_1005Metric")
 			(description "Resistor")
 			(fields
@@ -40735,17 +42421,16 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
-					(name "LCSC") "C25744")
+					(name "LCSC") "C25779")
 				(field
-					(name "LCSC Part") "C25744")
+					(name "LCSC Part") "C25779")
 				(field
 					(name "LCSC missing")
 				)
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -40773,15 +42458,15 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC")
-				(value "C25744")
+				(value "C25779")
 			)
 			(property
 				(name "LCSC Part")
-				(value "C25744")
+				(value "C25779")
 			)
 			(property
 				(name "LCSC missing")
@@ -40789,7 +42474,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -41026,6 +42711,113 @@
 				(tstamps "/475d46f3-a9d1-4d0e-882c-449f9a11ef3e/")
 			)
 			(tstamps "634d6f25-4d64-46b9-8da4-a1ee0bcfda56")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R259")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "x")
+				(field
+					(name "LCSC") "C25744")
+				(field
+					(name "LCSC Part") "C25744")
+				(field
+					(name "LCSC missing")
+				)
+				(field
+					(name "Tolerance")
+				)
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "x")
+			)
+			(property
+				(name "LCSC")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C25744")
+			)
+			(property
+				(name "LCSC missing")
+				(value "")
+			)
+			(property
+				(name "Tolerance")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "PoE Regulator")
+			)
+			(property
+				(name "Sheetfile")
+				(value "poe_reg.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/PoE Regulator/")
+				(tstamps "/475d46f3-a9d1-4d0e-882c-449f9a11ef3e/")
+			)
+			(tstamps "ebf0048f-b131-4405-8088-d19ab5adf5c1")
 			(units
 				(unit
 					(name "A")
@@ -41833,13 +43625,16 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref")
-				)
+					(name "LCSC Basic/Pref") "n")
 				(field
 					(name "LCSC missing") "x")
 				(field
 					(name "Tolerance")
 				)
+				(field
+					(name "LCSC") "C5800399")
+				(field
+					(name "LCSC Part") "C5800399")
 				(field
 					(name "Footprint") "MP6004GQ-P:QFN-14_MP6004_MNP")
 				(field
@@ -41867,7 +43662,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "")
+				(value "n")
 			)
 			(property
 				(name "LCSC missing")
@@ -41876,6 +43671,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "LCSC")
+				(value "C5800399")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C5800399")
 			)
 			(property
 				(name "Sheetname")
@@ -42298,8 +44101,7 @@
 					(name "LCSC missing")
 				)
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
 				(field
@@ -42343,7 +44145,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -42405,8 +44207,7 @@
 				(field
 					(name "LCSC Part") "C25076")
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -42450,7 +44251,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -42512,8 +44313,7 @@
 				(field
 					(name "LCSC Part") "C25741")
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -42557,7 +44357,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -42619,8 +44419,7 @@
 				(field
 					(name "LCSC Part") "C25105")
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -42664,7 +44463,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -42717,7 +44516,7 @@
 					(name "KLC_S4.1")
 				)
 				(field
-					(name "LCSC Basic/Pref") "x")
+					(name "LCSC Basic/Pref") "y")
 				(field
 					(name "LCSC missing")
 				)
@@ -42726,8 +44525,7 @@
 				(field
 					(name "LCSC Part") "C25779")
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -42755,7 +44553,7 @@
 			)
 			(property
 				(name "LCSC Basic/Pref")
-				(value "x")
+				(value "y")
 			)
 			(property
 				(name "LCSC missing")
@@ -42771,7 +44569,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -42794,6 +44592,129 @@
 				(tstamps "/dfd7c564-50b6-4b87-afcf-cfbf80807611/")
 			)
 			(tstamps "e29a6798-d877-4aa0-b0c3-8b13bcb50b12")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R260")
+			(value "3k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579706243139112960-C4211.pdf?response-content-disposition=attachment%3B%20filename%3DC4211.pdf%3B%20filename%2A%3DUTF-8%27%27C4211.pdf&x-oss-date=20260905T095655Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5mEM8KGg4VI%2FY%2BRO3LWsEo8RrYZrI3Iljz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qdNS32gu557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWirs13P7LjvyAFpORa%2Bb5wchMHn6pr9EWOXuJZUIn3b%2FstWNupKq5ldctHSeoXq108CXVnU5PXYI96YFGKKWD5sagAGOpzOqbvlcxCv7tQnbX6yhXSKVJqfxPLnJc88m62%2FaFJ%2Fk2OTOq7lXQi0kUw9JcmNLNGL5CQf8MQ7Cs1JX63I8pEyn%2FLsK3yg5%2F%2FDesLHpIsKvxYR3UDnZmcwkZUknHAMpxM2ANa9FGoJDnNzZNv9t%2F9CWXMdmWqKR2jhP3a8MIiAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZ1xx2nZiJMz9TgTJiJ95CHct%2F20260905%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=9915ed3c0abe13638c44635dcf2d32b2c7381aad5d2a1028d3eaa533cce20b92")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Sim.Type")
+				)
+				(field
+					(name "KLC_S3.3")
+				)
+				(field
+					(name "KLC_S4.1")
+				)
+				(field
+					(name "LCSC Basic/Pref") "y")
+				(field
+					(name "LCSC missing") "n")
+				(field
+					(name "LCSC") "C4211")
+				(field
+					(name "LCSC Part") "C4211")
+				(field
+					(name "Tolerance") "1%")
+				(field
+					(name "Manufacturer") "UNI-ROYAL(Uniroyal Elec)")
+				(field
+					(name "MPN") "0603WAF3001T5E")
+				(field
+					(name "Power") "100mW")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579706243139112960-C4211.pdf?response-content-disposition=attachment%3B%20filename%3DC4211.pdf%3B%20filename%2A%3DUTF-8%27%27C4211.pdf&x-oss-date=20260905T095655Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5mEM8KGg4VI%2FY%2BRO3LWsEo8RrYZrI3Iljz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qdNS32gu557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWirs13P7LjvyAFpORa%2Bb5wchMHn6pr9EWOXuJZUIn3b%2FstWNupKq5ldctHSeoXq108CXVnU5PXYI96YFGKKWD5sagAGOpzOqbvlcxCv7tQnbX6yhXSKVJqfxPLnJc88m62%2FaFJ%2Fk2OTOq7lXQi0kUw9JcmNLNGL5CQf8MQ7Cs1JX63I8pEyn%2FLsK3yg5%2F%2FDesLHpIsKvxYR3UDnZmcwkZUknHAMpxM2ANa9FGoJDnNzZNv9t%2F9CWXMdmWqKR2jhP3a8MIiAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZ1xx2nZiJMz9TgTJiJ95CHct%2F20260905%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=9915ed3c0abe13638c44635dcf2d32b2c7381aad5d2a1028d3eaa533cce20b92")
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sim.Type")
+				(value "")
+			)
+			(property
+				(name "KLC_S3.3")
+				(value "")
+			)
+			(property
+				(name "KLC_S4.1")
+				(value "")
+			)
+			(property
+				(name "LCSC Basic/Pref")
+				(value "y")
+			)
+			(property
+				(name "LCSC missing")
+				(value "n")
+			)
+			(property
+				(name "LCSC")
+				(value "C4211")
+			)
+			(property
+				(name "LCSC Part")
+				(value "C4211")
+			)
+			(property
+				(name "Tolerance")
+				(value "1%")
+			)
+			(property
+				(name "Manufacturer")
+				(value "UNI-ROYAL(Uniroyal Elec)")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF3001T5E")
+			)
+			(property
+				(name "Power")
+				(value "100mW")
+			)
+			(property
+				(name "Sheetname")
+				(value "PD Controller")
+			)
+			(property
+				(name "Sheetfile")
+				(value "pd_ctrl.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/PD Controller/")
+				(tstamps "/dfd7c564-50b6-4b87-afcf-cfbf80807611/")
+			)
+			(tstamps "e148f259-1e31-4b4b-8d6f-d218baa2b2bf")
 			(units
 				(unit
 					(name "A")
@@ -43004,7 +44925,7 @@
 			(ref "U12")
 			(value "PD70100ILD-TR")
 			(footprint "PD70100ILD-TR:DFN12_4X3_MCH")
-			(datasheet "PD70100ILD-TR")
+			(datasheet "https://ww1.microchip.com/downloads/aemDocuments/documents/POE/ProductDocuments/DataSheets/PD70100-PD70200-IEEE-802.3afat-Front-End-IC-Datasheet-DS00003639.pdf")
 			(fields
 				(field
 					(name "Sim.Type")
@@ -43031,7 +44952,7 @@
 				(field
 					(name "Footprint") "PD70100ILD-TR:DFN12_4X3_MCH")
 				(field
-					(name "Datasheet") "PD70100ILD-TR")
+					(name "Datasheet") "https://ww1.microchip.com/downloads/aemDocuments/documents/POE/ProductDocuments/DataSheets/PD70100-PD70200-IEEE-802.3afat-Front-End-IC-Datasheet-DS00003639.pdf")
 				(field
 					(name "Description")
 				)
@@ -43385,6 +45306,10 @@
 					(name "Tolerance")
 				)
 				(field
+					(name "Manufacturer") "Murata")
+				(field
+					(name "MPN") "BLM15AG221SN1D")
+				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
 					(name "Datasheet") "https://www.lcsc.com/datasheet/C85813.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TlkLXgYFFlRdBl1XR1lXBFEEEVELVQJVTlcNBgICT1cxVlNRT1RcUFVTTlBaVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVJYVVNUWQkaCgg%3D")
@@ -43427,6 +45352,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "Manufacturer")
+				(value "Murata")
+			)
+			(property
+				(name "MPN")
+				(value "BLM15AG221SN1D")
 			)
 			(property
 				(name "Sheetname")
@@ -47537,6 +49470,10 @@
 					(name "Tolerance")
 				)
 				(field
+					(name "MPN") "DSL34")
+				(field
+					(name "Manufacturer") "hongjiacheng")
+				(field
 					(name "Footprint") "Diode_SMD:D_SOD-123F")
 				(field
 					(name "Datasheet") "https://www.lcsc.com/datasheet/C22466347.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU11QR1ReXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaFA%3D%3D")
@@ -47563,6 +49500,14 @@
 			(property
 				(name "Tolerance")
 				(value "")
+			)
+			(property
+				(name "MPN")
+				(value "DSL34")
+			)
+			(property
+				(name "Manufacturer")
+				(value "hongjiacheng")
 			)
 			(property
 				(name "Sheetname")
@@ -47906,8 +49851,7 @@
 					(name "LCSC missing")
 				)
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -47951,7 +49895,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -48013,8 +49957,7 @@
 					(name "LCSC missing")
 				)
 				(field
-					(name "Tolerance")
-				)
+					(name "Tolerance") "1%")
 				(field
 					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
 				(field
@@ -48058,7 +50001,7 @@
 			)
 			(property
 				(name "Tolerance")
-				(value "")
+				(value "1%")
 			)
 			(property
 				(name "Sheetname")
@@ -49595,117 +51538,6 @@
 				(tstamps "/1813fba9-8b3b-4d19-ab19-e743aa636a8b/")
 			)
 			(tstamps "81ce872b-97d2-4394-ac4e-2245273aa232")
-			(units
-				(unit
-					(name "A")
-					(pins
-						(pin
-							(num "1")
-						)
-						(pin
-							(num "2")
-						)
-					)
-				)
-			)
-		)
-		(comp
-			(ref "R91")
-			(value "100k")
-			(footprint "Resistor_SMD:R_0402_1005Metric")
-			(description "Resistor")
-			(fields
-				(field
-					(name "Sim.Type")
-				)
-				(field
-					(name "KLC_S3.3")
-				)
-				(field
-					(name "KLC_S4.1")
-				)
-				(field
-					(name "LCSC Basic/Pref") "y")
-				(field
-					(name "LCSC") "C25741")
-				(field
-					(name "LCSC Part") "C25741")
-				(field
-					(name "LCSC missing")
-				)
-				(field
-					(name "Tolerance")
-				)
-				(field
-					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
-				(field
-					(name "Datasheet")
-				)
-				(field
-					(name "Description") "Resistor")
-			)
-			(libsource
-				(lib "Device")
-				(part "R")
-				(description "Resistor")
-			)
-			(property
-				(name "Sim.Type")
-				(value "")
-			)
-			(property
-				(name "KLC_S3.3")
-				(value "")
-			)
-			(property
-				(name "KLC_S4.1")
-				(value "")
-			)
-			(property
-				(name "LCSC Basic/Pref")
-				(value "y")
-			)
-			(property
-				(name "LCSC")
-				(value "C25741")
-			)
-			(property
-				(name "LCSC Part")
-				(value "C25741")
-			)
-			(property
-				(name "LCSC missing")
-				(value "")
-			)
-			(property
-				(name "Tolerance")
-				(value "")
-			)
-			(property
-				(name "Sheetname")
-				(value "SDMMC")
-			)
-			(property
-				(name "Sheetfile")
-				(value "sdmmc.kicad_sch")
-			)
-			(property
-				(name "Field2")
-				(value "")
-			)
-			(property
-				(name "ki_keywords")
-				(value "R res resistor")
-			)
-			(property
-				(name "ki_fp_filters")
-				(value "R_*")
-			)
-			(sheetpath
-				(names "/SDMMC/")
-				(tstamps "/1813fba9-8b3b-4d19-ab19-e743aa636a8b/")
-			)
-			(tstamps "e5b67ca3-710e-458b-bc3c-04a3b3a7a6b6")
 			(units
 				(unit
 					(name "A")
@@ -82329,6 +84161,38 @@
 			)
 		)
 		(libpart
+			(lib "C22379472")
+			(part "BZX84C30_C22379472")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "BZX84C30_C22379472")
+				(field
+					(name "Footprint") "C22379472:SOT-23-3_L2.9-W1.5-P2.0-LS2.5-BR")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+				(field
+					(name "LCSC Part") "C22379472")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "A")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "K")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
 			(lib "C32346")
 			(part "Q13FC1350000400")
 			(docs "https://lcsc.com/product-detail/SMD-Crystals_EPSON_Q13FC1350000400_32-768KHz-20ppm-12-5pF_C32346.html")
@@ -84999,6 +86863,10 @@
 			(uri "${KIPRJMOD}/symbols - footprints/C22375349/C22375349.kicad_sym")
 		)
 		(library
+			(logical "C22379472")
+			(uri "${KIPRJMOD}/symbols - footprints/C22379472/C22379472.kicad_sym")
+		)
+		(library
 			(logical "C32346")
 			(uri "${KIPRJMOD}/symbols - footprints/C32346/C32346.kicad_sym")
 		)
@@ -85106,16 +86974,6 @@
 				(pintype "passive")
 			)
 			(node
-				(ref "C10")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "C11")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
 				(ref "C110")
 				(pin "1")
 				(pintype "passive")
@@ -85156,11 +87014,6 @@
 				(pintype "passive")
 			)
 			(node
-				(ref "C12")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
 				(ref "C120")
 				(pin "1")
 				(pintype "passive")
@@ -85187,36 +87040,6 @@
 			)
 			(node
 				(ref "C129")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "C13")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "C14")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "C15")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "C16")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "C17")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "C18")
 				(pin "1")
 				(pintype "passive")
 			)
@@ -85271,32 +87094,7 @@
 				(pintype "passive")
 			)
 			(node
-				(ref "C3")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
 				(ref "C30")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "C6")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "C7")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "C8")
-				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "C9")
 				(pin "1")
 				(pintype "passive")
 			)
@@ -85477,6 +87275,16 @@
 				(pintype "passive")
 			)
 			(node
+				(ref "FB3")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "FB5")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
 				(ref "L1")
 				(pin "2")
 				(pinfunction "2_2")
@@ -85639,74 +87447,8 @@
 			)
 			(node
 				(ref "U1")
-				(pin "20")
-				(pinfunction "VDDIO_20")
-				(pintype "power_in")
-			)
-			(node
-				(ref "U1")
-				(pin "34")
-				(pinfunction "VDDIO_34")
-				(pintype "power_in")
-			)
-			(node
-				(ref "U1")
-				(pin "42")
-				(pinfunction "VDDIO_42")
-				(pintype "power_in")
-			)
-			(node
-				(ref "U1")
-				(pin "44")
-				(pinfunction "VDDREG_44")
-				(pintype "power_in")
-			)
-			(node
-				(ref "U1")
-				(pin "56")
-				(pinfunction "VDDIO_56")
-				(pintype "power_in")
-			)
-			(node
-				(ref "U1")
-				(pin "62")
-				(pinfunction "VDDREG_62")
-				(pintype "power_in")
-			)
-			(node
-				(ref "U1")
-				(pin "69")
-				(pinfunction "VDDIO_69")
-				(pintype "power_in")
-			)
-			(node
-				(ref "U1")
-				(pin "7")
-				(pinfunction "VDDIO_7")
-				(pintype "power_in")
-			)
-			(node
-				(ref "U1")
 				(pin "79")
 				(pinfunction "VUSB3V3_79")
-				(pintype "power_in")
-			)
-			(node
-				(ref "U1")
-				(pin "83")
-				(pinfunction "VDDREG_83")
-				(pintype "power_in")
-			)
-			(node
-				(ref "U1")
-				(pin "85")
-				(pinfunction "VDDIO_85")
-				(pintype "power_in")
-			)
-			(node
-				(ref "U1")
-				(pin "96")
-				(pinfunction "VDDIO_96")
 				(pintype "power_in")
 			)
 			(node
@@ -85927,8 +87669,8 @@
 		)
 		(net
 			(code "82")
-			(name "+VDD")
-			(class "Default")
+			(name "+PHY_VDD")
+			(class "PWR,Default")
 			(node
 				(ref "C25")
 				(pin "1")
@@ -85950,8 +87692,50 @@
 				(pintype "passive")
 			)
 			(node
+				(ref "C34")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C35")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
 				(ref "FB2")
 				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R261")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R262")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R263")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R264")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "T1")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "T1")
+				(pin "7")
+				(pinfunction "7_7")
 				(pintype "passive")
 			)
 			(node
@@ -90842,8 +92626,8 @@
 			(class "Default")
 			(node
 				(ref "J3")
-				(pin "5")
-				(pinfunction "Pin_5_5")
+				(pin "4")
+				(pinfunction "Pin_4_4")
 				(pintype "passive")
 			)
 			(node
@@ -90859,8 +92643,8 @@
 			(class "Default")
 			(node
 				(ref "J3")
-				(pin "4")
-				(pinfunction "Pin_4_4")
+				(pin "5")
+				(pinfunction "Pin_5_5")
 				(pintype "passive")
 			)
 			(node
@@ -91016,28 +92800,28 @@
 			(name "/Ethernet Connector/MGND")
 			(class "Default")
 			(node
+				(ref "C273")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C274")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C275")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C276")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
 				(ref "C36")
 				(pin "1")
-				(pintype "passive")
-			)
-			(node
-				(ref "R39")
-				(pin "2")
-				(pintype "passive")
-			)
-			(node
-				(ref "R40")
-				(pin "2")
-				(pintype "passive")
-			)
-			(node
-				(ref "R41")
-				(pin "2")
-				(pintype "passive")
-			)
-			(node
-				(ref "R42")
-				(pin "2")
 				(pintype "passive")
 			)
 		)
@@ -91303,8 +93087,8 @@
 			)
 			(node
 				(ref "D80")
-				(pin "1")
-				(pinfunction "K_1")
+				(pin "3")
+				(pinfunction "K_3")
 				(pintype "passive")
 			)
 			(node
@@ -91381,8 +93165,8 @@
 			)
 			(node
 				(ref "D40")
-				(pin "1")
-				(pinfunction "K_1")
+				(pin "2")
+				(pinfunction "A_2")
 				(pintype "passive")
 			)
 			(node
@@ -91434,6 +93218,70 @@
 		)
 		(net
 			(code "277")
+			(name "/Ethernet Connector/TRANS_MDI_RX+")
+			(class "Default")
+			(node
+				(ref "R257")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "T1")
+				(pin "3")
+				(pinfunction "3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "278")
+			(name "/Ethernet Connector/TRANS_MDI_RX-")
+			(class "Default")
+			(node
+				(ref "R258")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "T1")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "279")
+			(name "/Ethernet Connector/TRANS_MDI_TX+")
+			(class "Default")
+			(node
+				(ref "R255")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "T1")
+				(pin "8")
+				(pinfunction "8_8")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "280")
+			(name "/Ethernet Connector/TRANS_MDI_TX-")
+			(class "Default")
+			(node
+				(ref "R256")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "T1")
+				(pin "6")
+				(pinfunction "6_6")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "281")
 			(name "/Ethernet PHY/LED1{slash}REGOFF")
 			(class "Default")
 			(node
@@ -91450,7 +93298,7 @@
 			)
 		)
 		(net
-			(code "278")
+			(code "282")
 			(name "/Ethernet PHY/LED2{slash}INTSEL")
 			(class "Default")
 			(node
@@ -91472,7 +93320,7 @@
 			)
 		)
 		(net
-			(code "279")
+			(code "283")
 			(name "/Ethernet PHY/MODE0_RXD0")
 			(class "Default")
 			(node
@@ -91498,7 +93346,7 @@
 			)
 		)
 		(net
-			(code "280")
+			(code "284")
 			(name "/Ethernet PHY/MODE1_RXD1")
 			(class "Default")
 			(node
@@ -91524,7 +93372,7 @@
 			)
 		)
 		(net
-			(code "281")
+			(code "285")
 			(name "/Ethernet PHY/MODE2_CRSDV")
 			(class "Default")
 			(node
@@ -91550,7 +93398,7 @@
 			)
 		)
 		(net
-			(code "282")
+			(code "286")
 			(name "/Ethernet PHY/RBIAS")
 			(class "Default")
 			(node
@@ -91566,7 +93414,7 @@
 			)
 		)
 		(net
-			(code "283")
+			(code "287")
 			(name "/Ethernet PHY/VDDCR")
 			(class "Default")
 			(node
@@ -91587,7 +93435,7 @@
 			)
 		)
 		(net
-			(code "284")
+			(code "288")
 			(name "/Ethernet PHY/XIN")
 			(class "Default")
 			(node
@@ -91609,7 +93457,7 @@
 			)
 		)
 		(net
-			(code "285")
+			(code "289")
 			(name "/Ethernet PHY/XOUT")
 			(class "Default")
 			(node
@@ -91631,7 +93479,7 @@
 			)
 		)
 		(net
-			(code "286")
+			(code "290")
 			(name "/JTAG.TCK")
 			(class "Default")
 			(node
@@ -91652,7 +93500,7 @@
 			)
 		)
 		(net
-			(code "287")
+			(code "291")
 			(name "/JTAG.TDI")
 			(class "Default")
 			(node
@@ -91673,7 +93521,7 @@
 			)
 		)
 		(net
-			(code "288")
+			(code "292")
 			(name "/JTAG.TDO")
 			(class "Default")
 			(node
@@ -91694,7 +93542,7 @@
 			)
 		)
 		(net
-			(code "289")
+			(code "293")
 			(name "/JTAG.TMS")
 			(class "Default")
 			(node
@@ -91715,7 +93563,7 @@
 			)
 		)
 		(net
-			(code "291")
+			(code "295")
 			(name "/MCU/ADC_VINP10")
 			(class "Default")
 			(node
@@ -91732,7 +93580,7 @@
 			)
 		)
 		(net
-			(code "292")
+			(code "296")
 			(name "/MCU/ADC_VINP11")
 			(class "Default")
 			(node
@@ -91749,7 +93597,7 @@
 			)
 		)
 		(net
-			(code "293")
+			(code "297")
 			(name "/MCU/ETH_TSUCOMP")
 			(class "Default")
 			(node
@@ -91766,7 +93614,7 @@
 			)
 		)
 		(net
-			(code "294")
+			(code "298")
 			(name "/MCU/EXT")
 			(class "Default")
 			(node
@@ -91783,7 +93631,7 @@
 			)
 		)
 		(net
-			(code "295")
+			(code "299")
 			(name "/MCU/I2C7.SCL")
 			(class "Default")
 			(node
@@ -91800,7 +93648,7 @@
 			)
 		)
 		(net
-			(code "296")
+			(code "300")
 			(name "/MCU/I2C7.SDA")
 			(class "Default")
 			(node
@@ -91817,7 +93665,7 @@
 			)
 		)
 		(net
-			(code "298")
+			(code "302")
 			(name "/MCU/INT_JTAG_TCK")
 			(class "Default")
 			(node
@@ -91839,7 +93687,7 @@
 			)
 		)
 		(net
-			(code "299")
+			(code "303")
 			(name "/MCU/INT_JTAG_TDI")
 			(class "Default")
 			(node
@@ -91861,7 +93709,7 @@
 			)
 		)
 		(net
-			(code "300")
+			(code "304")
 			(name "/MCU/INT_JTAG_TDO")
 			(class "Default")
 			(node
@@ -91883,7 +93731,7 @@
 			)
 		)
 		(net
-			(code "301")
+			(code "305")
 			(name "/MCU/INT_JTAG_TMS")
 			(class "Default")
 			(node
@@ -91905,7 +93753,7 @@
 			)
 		)
 		(net
-			(code "302")
+			(code "306")
 			(name "/MCU/NC_SERCOM4_PAD2")
 			(class "Default")
 			(node
@@ -91922,7 +93770,7 @@
 			)
 		)
 		(net
-			(code "303")
+			(code "307")
 			(name "/MCU/NC_SERCOM4_PAD3")
 			(class "Default")
 			(node
@@ -91939,7 +93787,7 @@
 			)
 		)
 		(net
-			(code "304")
+			(code "308")
 			(name "/MCU/RESET_BTN#")
 			(class "Default")
 			(node
@@ -91960,7 +93808,7 @@
 			)
 		)
 		(net
-			(code "305")
+			(code "309")
 			(name "/MCU/RST_BTN")
 			(class "Default")
 			(node
@@ -91988,7 +93836,7 @@
 			)
 		)
 		(net
-			(code "306")
+			(code "310")
 			(name "/MCU/SPARE1")
 			(class "Default")
 			(node
@@ -92005,7 +93853,7 @@
 			)
 		)
 		(net
-			(code "307")
+			(code "311")
 			(name "/MCU/SPARE4")
 			(class "Default")
 			(node
@@ -92022,7 +93870,7 @@
 			)
 		)
 		(net
-			(code "308")
+			(code "312")
 			(name "/MCU/SPARE8")
 			(class "Default")
 			(node
@@ -92039,7 +93887,7 @@
 			)
 		)
 		(net
-			(code "309")
+			(code "313")
 			(name "/MCU/SPARE9")
 			(class "Default")
 			(node
@@ -92056,7 +93904,7 @@
 			)
 		)
 		(net
-			(code "310")
+			(code "314")
 			(name "/MCU/SPARE10")
 			(class "Default")
 			(node
@@ -92073,7 +93921,7 @@
 			)
 		)
 		(net
-			(code "311")
+			(code "315")
 			(name "/MCU/SPARE13")
 			(class "Default")
 			(node
@@ -92090,7 +93938,7 @@
 			)
 		)
 		(net
-			(code "312")
+			(code "316")
 			(name "/MCU/SPARE15")
 			(class "Default")
 			(node
@@ -92107,7 +93955,7 @@
 			)
 		)
 		(net
-			(code "313")
+			(code "317")
 			(name "/MCU/SPARE16")
 			(class "Default")
 			(node
@@ -92124,7 +93972,7 @@
 			)
 		)
 		(net
-			(code "314")
+			(code "318")
 			(name "/MCU/SPARE17")
 			(class "Default")
 			(node
@@ -92141,7 +93989,7 @@
 			)
 		)
 		(net
-			(code "315")
+			(code "319")
 			(name "/MCU/STATUS_LED_B")
 			(class "Default")
 			(node
@@ -92169,7 +94017,7 @@
 			)
 		)
 		(net
-			(code "316")
+			(code "320")
 			(name "/MCU/STATUS_LED_G")
 			(class "Default")
 			(node
@@ -92197,7 +94045,7 @@
 			)
 		)
 		(net
-			(code "317")
+			(code "321")
 			(name "/MCU/STATUS_LED_R")
 			(class "Default")
 			(node
@@ -92225,7 +94073,7 @@
 			)
 		)
 		(net
-			(code "318")
+			(code "322")
 			(name "/MCU/TRIGGER#")
 			(class "Default")
 			(node
@@ -92253,7 +94101,7 @@
 			)
 		)
 		(net
-			(code "319")
+			(code "323")
 			(name "/MCU/TRIG_BTN")
 			(class "Default")
 			(node
@@ -92281,7 +94129,7 @@
 			)
 		)
 		(net
-			(code "320")
+			(code "324")
 			(name "/MCU/USB0ID")
 			(class "Default")
 			(node
@@ -92308,7 +94156,7 @@
 			)
 		)
 		(net
-			(code "321")
+			(code "325")
 			(name "/MCU/USB_FS.D+")
 			(class "Default")
 			(node
@@ -92330,7 +94178,7 @@
 			)
 		)
 		(net
-			(code "322")
+			(code "326")
 			(name "/MCU/USB_FS.D-")
 			(class "Default")
 			(node
@@ -92352,7 +94200,7 @@
 			)
 		)
 		(net
-			(code "323")
+			(code "327")
 			(name "/MCU/USB_HS.D+")
 			(class "Default")
 			(node
@@ -92374,7 +94222,7 @@
 			)
 		)
 		(net
-			(code "324")
+			(code "328")
 			(name "/MCU/USB_HS.D-")
 			(class "Default")
 			(node
@@ -92396,7 +94244,7 @@
 			)
 		)
 		(net
-			(code "325")
+			(code "329")
 			(name "/MCU/USER_LED_B")
 			(class "Default")
 			(node
@@ -92424,7 +94272,7 @@
 			)
 		)
 		(net
-			(code "326")
+			(code "330")
 			(name "/MCU/USER_LED_G")
 			(class "Default")
 			(node
@@ -92452,7 +94300,7 @@
 			)
 		)
 		(net
-			(code "327")
+			(code "331")
 			(name "/MCU/USER_LED_R")
 			(class "Default")
 			(node
@@ -92480,7 +94328,7 @@
 			)
 		)
 		(net
-			(code "328")
+			(code "332")
 			(name "/MCU/USRBIAS")
 			(class "Default")
 			(node
@@ -92502,7 +94350,7 @@
 			)
 		)
 		(net
-			(code "329")
+			(code "333")
 			(name "/MCU/XIN")
 			(class "Default")
 			(node
@@ -92524,7 +94372,7 @@
 			)
 		)
 		(net
-			(code "330")
+			(code "334")
 			(name "/MCU/XIN32")
 			(class "Default")
 			(node
@@ -92546,7 +94394,7 @@
 			)
 		)
 		(net
-			(code "331")
+			(code "335")
 			(name "/MCU/XOUT")
 			(class "Default")
 			(node
@@ -92568,7 +94416,7 @@
 			)
 		)
 		(net
-			(code "332")
+			(code "336")
 			(name "/MCU/XOUT32")
 			(class "Default")
 			(node
@@ -92590,7 +94438,7 @@
 			)
 		)
 		(net
-			(code "333")
+			(code "337")
 			(name "/MCU_ETH_RST#")
 			(class "Default")
 			(node
@@ -92618,7 +94466,7 @@
 			)
 		)
 		(net
-			(code "334")
+			(code "338")
 			(name "/MCU_RST#")
 			(class "Default")
 			(node
@@ -92651,7 +94499,7 @@
 			)
 		)
 		(net
-			(code "335")
+			(code "339")
 			(name "/MCU_SPI2_ADC1.CS#")
 			(class "Default")
 			(node
@@ -92674,19 +94522,19 @@
 			)
 		)
 		(net
-			(code "336")
+			(code "340")
 			(name "/MCU_SPI2_ADC1.MISO")
 			(class "Default")
 			(node
-				(ref "TP73")
+				(ref "TP74")
 				(pin "1")
 				(pinfunction "1_1")
 				(pintype "passive")
 			)
 			(node
 				(ref "U1")
-				(pin "65")
-				(pinfunction "PC16_65")
+				(pin "66")
+				(pinfunction "PC17_66")
 				(pintype "bidirectional")
 			)
 			(node
@@ -92697,7 +94545,7 @@
 			)
 		)
 		(net
-			(code "337")
+			(code "341")
 			(name "/MCU_SPI2_ADC1.MOSI")
 			(class "Default")
 			(node
@@ -92720,19 +94568,19 @@
 			)
 		)
 		(net
-			(code "338")
+			(code "342")
 			(name "/MCU_SPI2_ADC1.SCK")
 			(class "Default")
 			(node
-				(ref "TP74")
+				(ref "TP73")
 				(pin "1")
 				(pinfunction "1_1")
 				(pintype "passive")
 			)
 			(node
 				(ref "U1")
-				(pin "66")
-				(pinfunction "PC17_66")
+				(pin "65")
+				(pinfunction "PC16_65")
 				(pintype "bidirectional")
 			)
 			(node
@@ -92743,7 +94591,7 @@
 			)
 		)
 		(net
-			(code "340")
+			(code "344")
 			(name "/MCU_SPI3_ADC2.CS#")
 			(class "Default")
 			(node
@@ -92766,19 +94614,19 @@
 			)
 		)
 		(net
-			(code "341")
+			(code "345")
 			(name "/MCU_SPI3_ADC2.MISO")
 			(class "Default")
 			(node
-				(ref "TP34")
+				(ref "TP36")
 				(pin "1")
 				(pinfunction "1_1")
 				(pintype "passive")
 			)
 			(node
 				(ref "U1")
-				(pin "9")
-				(pinfunction "PA14_9")
+				(pin "10")
+				(pinfunction "PA15_10")
 				(pintype "bidirectional")
 			)
 			(node
@@ -92789,7 +94637,7 @@
 			)
 		)
 		(net
-			(code "342")
+			(code "346")
 			(name "/MCU_SPI3_ADC2.MOSI")
 			(class "Default")
 			(node
@@ -92812,19 +94660,19 @@
 			)
 		)
 		(net
-			(code "343")
+			(code "347")
 			(name "/MCU_SPI3_ADC2.SCK")
 			(class "Default")
 			(node
-				(ref "TP36")
+				(ref "TP34")
 				(pin "1")
 				(pinfunction "1_1")
 				(pintype "passive")
 			)
 			(node
 				(ref "U1")
-				(pin "10")
-				(pinfunction "PA15_10")
+				(pin "9")
+				(pinfunction "PA14_9")
 				(pintype "bidirectional")
 			)
 			(node
@@ -92835,7 +94683,7 @@
 			)
 		)
 		(net
-			(code "345")
+			(code "349")
 			(name "/MCU_SPI5_ADC3.CS#")
 			(class "Default")
 			(node
@@ -92858,19 +94706,19 @@
 			)
 		)
 		(net
-			(code "346")
+			(code "350")
 			(name "/MCU_SPI5_ADC3.MISO")
 			(class "Default")
 			(node
-				(ref "TP22")
+				(ref "TP24")
 				(pin "1")
 				(pinfunction "1_1")
 				(pintype "passive")
 			)
 			(node
 				(ref "U1")
-				(pin "17")
-				(pinfunction "PA08_17")
+				(pin "22")
+				(pinfunction "PA09_22")
 				(pintype "bidirectional")
 			)
 			(node
@@ -92881,7 +94729,7 @@
 			)
 		)
 		(net
-			(code "347")
+			(code "351")
 			(name "/MCU_SPI5_ADC3.MOSI")
 			(class "Default")
 			(node
@@ -92904,19 +94752,19 @@
 			)
 		)
 		(net
-			(code "348")
+			(code "352")
 			(name "/MCU_SPI5_ADC3.SCK")
 			(class "Default")
 			(node
-				(ref "TP24")
+				(ref "TP22")
 				(pin "1")
 				(pinfunction "1_1")
 				(pintype "passive")
 			)
 			(node
 				(ref "U1")
-				(pin "22")
-				(pinfunction "PA09_22")
+				(pin "17")
+				(pinfunction "PA08_17")
 				(pintype "bidirectional")
 			)
 			(node
@@ -92927,7 +94775,7 @@
 			)
 		)
 		(net
-			(code "350")
+			(code "354")
 			(name "/MCU_SPI6_ADC4.CS#")
 			(class "Default")
 			(node
@@ -92950,19 +94798,19 @@
 			)
 		)
 		(net
-			(code "351")
+			(code "355")
 			(name "/MCU_SPI6_ADC4.MISO")
 			(class "Default")
 			(node
-				(ref "TP44")
+				(ref "TP25")
 				(pin "1")
 				(pinfunction "1_1")
 				(pintype "passive")
 			)
 			(node
 				(ref "U1")
-				(pin "46")
-				(pinfunction "PB17_46")
+				(pin "47")
+				(pinfunction "PB07_47")
 				(pintype "bidirectional")
 			)
 			(node
@@ -92973,7 +94821,7 @@
 			)
 		)
 		(net
-			(code "352")
+			(code "356")
 			(name "/MCU_SPI6_ADC4.MOSI")
 			(class "Default")
 			(node
@@ -92996,19 +94844,19 @@
 			)
 		)
 		(net
-			(code "353")
+			(code "357")
 			(name "/MCU_SPI6_ADC4.SCK")
 			(class "Default")
 			(node
-				(ref "TP25")
+				(ref "TP44")
 				(pin "1")
 				(pinfunction "1_1")
 				(pintype "passive")
 			)
 			(node
 				(ref "U1")
-				(pin "47")
-				(pinfunction "PB07_47")
+				(pin "46")
+				(pinfunction "PB17_46")
 				(pintype "bidirectional")
 			)
 			(node
@@ -93019,13 +94867,17 @@
 			)
 		)
 		(net
-			(code "355")
+			(code "359")
 			(name "/MDI.RX+")
 			(class "Default")
 			(node
-				(ref "T1")
-				(pin "3")
-				(pinfunction "3_3")
+				(ref "R257")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R264")
+				(pin "1")
 				(pintype "passive")
 			)
 			(node
@@ -93041,13 +94893,17 @@
 			)
 		)
 		(net
-			(code "356")
+			(code "360")
 			(name "/MDI.RX-")
 			(class "Default")
 			(node
-				(ref "T1")
+				(ref "R258")
 				(pin "1")
-				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R263")
+				(pin "1")
 				(pintype "passive")
 			)
 			(node
@@ -93063,13 +94919,17 @@
 			)
 		)
 		(net
-			(code "357")
+			(code "361")
 			(name "/MDI.TX+")
 			(class "Default")
 			(node
-				(ref "T1")
-				(pin "8")
-				(pinfunction "8_8")
+				(ref "R255")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R262")
+				(pin "1")
 				(pintype "passive")
 			)
 			(node
@@ -93085,13 +94945,17 @@
 			)
 		)
 		(net
-			(code "358")
+			(code "362")
 			(name "/MDI.TX-")
 			(class "Default")
 			(node
-				(ref "T1")
-				(pin "6")
-				(pinfunction "6_6")
+				(ref "R256")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R261")
+				(pin "1")
 				(pintype "passive")
 			)
 			(node
@@ -93107,7 +94971,7 @@
 			)
 		)
 		(net
-			(code "360")
+			(code "364")
 			(name "/PD Controller/PD_AUX")
 			(class "Default")
 			(node
@@ -93123,7 +94987,7 @@
 			)
 		)
 		(net
-			(code "361")
+			(code "365")
 			(name "/PD Controller/PD_PG")
 			(class "Default")
 			(node
@@ -93140,7 +95004,7 @@
 			)
 		)
 		(net
-			(code "362")
+			(code "366")
 			(name "/PoE Regulator/FLY_CT")
 			(class "Default")
 			(node
@@ -93155,17 +95019,17 @@
 			)
 		)
 		(net
-			(code "363")
+			(code "367")
 			(name "/PoE Regulator/FLY_EN")
 			(class "Default")
 			(node
-				(ref "R104")
-				(pin "1")
+				(ref "R105")
+				(pin "2")
 				(pintype "passive")
 			)
 			(node
-				(ref "R105")
-				(pin "2")
+				(ref "R259")
+				(pin "1")
 				(pintype "passive")
 			)
 			(node
@@ -93182,7 +95046,7 @@
 			)
 		)
 		(net
-			(code "364")
+			(code "368")
 			(name "/PoE Regulator/FLY_FB")
 			(class "Default")
 			(node
@@ -93203,7 +95067,7 @@
 			)
 		)
 		(net
-			(code "365")
+			(code "369")
 			(name "/PoE Regulator/FLY_SW")
 			(class "Default")
 			(node
@@ -93237,7 +95101,7 @@
 			)
 		)
 		(net
-			(code "366")
+			(code "370")
 			(name "/PoE Regulator/FLY_VCC")
 			(class "Default")
 			(node
@@ -93253,7 +95117,7 @@
 			)
 		)
 		(net
-			(code "367")
+			(code "371")
 			(name "/RMII.CRSDV")
 			(class "Default")
 			(node
@@ -93275,7 +95139,7 @@
 			)
 		)
 		(net
-			(code "368")
+			(code "372")
 			(name "/RMII.REFCK")
 			(class "Default")
 			(node
@@ -93303,7 +95167,7 @@
 			)
 		)
 		(net
-			(code "369")
+			(code "373")
 			(name "/RMII.RXD0")
 			(class "Default")
 			(node
@@ -93325,7 +95189,7 @@
 			)
 		)
 		(net
-			(code "370")
+			(code "374")
 			(name "/RMII.RXD1")
 			(class "Default")
 			(node
@@ -93347,7 +95211,7 @@
 			)
 		)
 		(net
-			(code "371")
+			(code "375")
 			(name "/RMII.RXER")
 			(class "Default")
 			(node
@@ -93380,7 +95244,7 @@
 			)
 		)
 		(net
-			(code "372")
+			(code "376")
 			(name "/RMII.TXD0")
 			(class "Default")
 			(node
@@ -93403,7 +95267,7 @@
 			)
 		)
 		(net
-			(code "373")
+			(code "377")
 			(name "/RMII.TXD1")
 			(class "Default")
 			(node
@@ -93426,7 +95290,7 @@
 			)
 		)
 		(net
-			(code "374")
+			(code "378")
 			(name "/RMII.TXEN")
 			(class "Default")
 			(node
@@ -93449,7 +95313,7 @@
 			)
 		)
 		(net
-			(code "376")
+			(code "380")
 			(name "/SDMMC.SDCD")
 			(class "Default")
 			(node
@@ -93482,7 +95346,7 @@
 			)
 		)
 		(net
-			(code "377")
+			(code "381")
 			(name "/SDMMC.SDCK")
 			(class "Default")
 			(node
@@ -93515,7 +95379,7 @@
 			)
 		)
 		(net
-			(code "378")
+			(code "382")
 			(name "/SDMMC.SDCMD")
 			(class "Default")
 			(node
@@ -93548,7 +95412,7 @@
 			)
 		)
 		(net
-			(code "379")
+			(code "383")
 			(name "/SDMMC.SDDAT0")
 			(class "Default")
 			(node
@@ -93581,7 +95445,7 @@
 			)
 		)
 		(net
-			(code "380")
+			(code "384")
 			(name "/SDMMC.SDDAT1")
 			(class "Default")
 			(node
@@ -93614,7 +95478,7 @@
 			)
 		)
 		(net
-			(code "381")
+			(code "385")
 			(name "/SDMMC.SDDAT2")
 			(class "Default")
 			(node
@@ -93647,7 +95511,7 @@
 			)
 		)
 		(net
-			(code "382")
+			(code "386")
 			(name "/SDMMC.SDDAT3")
 			(class "Default")
 			(node
@@ -93680,7 +95544,7 @@
 			)
 		)
 		(net
-			(code "383")
+			(code "387")
 			(name "/SDMMC.SDWP")
 			(class "Default")
 			(node
@@ -93697,7 +95561,7 @@
 			)
 		)
 		(net
-			(code "385")
+			(code "389")
 			(name "/SMI.MDC")
 			(class "Default")
 			(node
@@ -93725,7 +95589,7 @@
 			)
 		)
 		(net
-			(code "386")
+			(code "390")
 			(name "/SMI.MDIO")
 			(class "Default")
 			(node
@@ -93753,7 +95617,7 @@
 			)
 		)
 		(net
-			(code "388")
+			(code "392")
 			(name "/USB Connector/EXT_USB_CC1")
 			(class "Default")
 			(node
@@ -93780,7 +95644,7 @@
 			)
 		)
 		(net
-			(code "389")
+			(code "393")
 			(name "/USB Connector/EXT_USB_CC2")
 			(class "Default")
 			(node
@@ -93807,7 +95671,7 @@
 			)
 		)
 		(net
-			(code "390")
+			(code "394")
 			(name "/USB Connector/EXT_USB_D+")
 			(class "Default")
 			(node
@@ -93841,7 +95705,7 @@
 			)
 		)
 		(net
-			(code "391")
+			(code "395")
 			(name "/USB Connector/EXT_USB_D-")
 			(class "Default")
 			(node
@@ -93875,7 +95739,7 @@
 			)
 		)
 		(net
-			(code "392")
+			(code "396")
 			(name "/USB Connector/EXT_VBUS")
 			(class "Default")
 			(node
@@ -93908,7 +95772,7 @@
 			)
 		)
 		(net
-			(code "393")
+			(code "397")
 			(name "/USB Connector/NC_USB_SBU1")
 			(class "Default")
 			(node
@@ -93925,7 +95789,7 @@
 			)
 		)
 		(net
-			(code "394")
+			(code "398")
 			(name "/USB Connector/NC_USB_SBU2")
 			(class "Default")
 			(node
@@ -93942,7 +95806,7 @@
 			)
 		)
 		(net
-			(code "395")
+			(code "399")
 			(name "/USB.D+")
 			(class "Default")
 			(node
@@ -93963,7 +95827,7 @@
 			)
 		)
 		(net
-			(code "396")
+			(code "400")
 			(name "/USB.D-")
 			(class "Default")
 			(node
@@ -93984,7 +95848,7 @@
 			)
 		)
 		(net
-			(code "398")
+			(code "402")
 			(name "ETH_SHIELD")
 			(class "Default")
 			(node
@@ -94011,7 +95875,7 @@
 			)
 		)
 		(net
-			(code "399")
+			(code "403")
 			(name "GND")
 			(class "Default")
 			(node
@@ -95890,11 +97754,6 @@
 				(pintype "passive")
 			)
 			(node
-				(ref "R91")
-				(pin "2")
-				(pintype "passive")
-			)
-			(node
 				(ref "R92")
 				(pin "1")
 				(pintype "passive")
@@ -96062,6 +97921,30 @@
 				(pin "2")
 				(pinfunction "GND_2")
 				(pintype "power_in")
+			)
+			(node
+				(ref "U15")
+				(pin "10")
+				(pinfunction "EH_10")
+				(pintype "passive")
+			)
+			(node
+				(ref "U15")
+				(pin "11")
+				(pinfunction "EH_11")
+				(pintype "passive")
+			)
+			(node
+				(ref "U15")
+				(pin "12")
+				(pinfunction "EH_12")
+				(pintype "passive")
+			)
+			(node
+				(ref "U15")
+				(pin "13")
+				(pinfunction "EH_13")
+				(pintype "passive")
 			)
 			(node
 				(ref "U15")
@@ -96244,39 +98127,158 @@
 			)
 		)
 		(net
-			(code "400")
-			(name "Net-(C34-Pad1)")
+			(code "404")
+			(name "Net-(C10-Pad1)")
 			(class "Default")
 			(node
-				(ref "C34")
+				(ref "C10")
 				(pin "1")
 				(pintype "passive")
 			)
 			(node
-				(ref "T1")
-				(pin "7")
-				(pinfunction "7_7")
-				(pintype "passive")
-			)
-		)
-		(net
-			(code "401")
-			(name "Net-(C35-Pad1)")
-			(class "Default")
-			(node
-				(ref "C35")
+				(ref "C11")
 				(pin "1")
 				(pintype "passive")
 			)
 			(node
-				(ref "T1")
+				(ref "C12")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C13")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C14")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C6")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C7")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C8")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C9")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "FB3")
 				(pin "2")
-				(pinfunction "2_2")
 				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "20")
+				(pinfunction "VDDIO_20")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "34")
+				(pinfunction "VDDIO_34")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "42")
+				(pinfunction "VDDIO_42")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "56")
+				(pinfunction "VDDIO_56")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "69")
+				(pinfunction "VDDIO_69")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "7")
+				(pinfunction "VDDIO_7")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "85")
+				(pinfunction "VDDIO_85")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "96")
+				(pinfunction "VDDIO_96")
+				(pintype "power_in")
 			)
 		)
 		(net
-			(code "402")
+			(code "405")
+			(name "Net-(C15-Pad1)")
+			(class "Default")
+			(node
+				(ref "C15")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C16")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C17")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C18")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "FB5")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "44")
+				(pinfunction "VDDREG_44")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "62")
+				(pinfunction "VDDREG_62")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "83")
+				(pinfunction "VDDREG_83")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "406")
 			(name "Net-(C108-Pad2)")
 			(class "Default")
 			(node
@@ -96291,7 +98293,7 @@
 			)
 		)
 		(net
-			(code "403")
+			(code "407")
 			(name "Net-(C132-Pad2)")
 			(class "Default")
 			(node
@@ -96311,7 +98313,7 @@
 			)
 		)
 		(net
-			(code "404")
+			(code "408")
 			(name "Net-(C133-Pad2)")
 			(class "Default")
 			(node
@@ -96331,7 +98333,7 @@
 			)
 		)
 		(net
-			(code "405")
+			(code "409")
 			(name "Net-(C139-Pad2)")
 			(class "Default")
 			(node
@@ -96351,7 +98353,7 @@
 			)
 		)
 		(net
-			(code "406")
+			(code "410")
 			(name "Net-(C142-Pad2)")
 			(class "Default")
 			(node
@@ -96371,7 +98373,7 @@
 			)
 		)
 		(net
-			(code "407")
+			(code "411")
 			(name "Net-(C151-Pad2)")
 			(class "Default")
 			(node
@@ -96391,7 +98393,7 @@
 			)
 		)
 		(net
-			(code "408")
+			(code "412")
 			(name "Net-(C155-Pad2)")
 			(class "Default")
 			(node
@@ -96411,7 +98413,7 @@
 			)
 		)
 		(net
-			(code "409")
+			(code "413")
 			(name "Net-(C159-Pad2)")
 			(class "Default")
 			(node
@@ -96431,7 +98433,7 @@
 			)
 		)
 		(net
-			(code "410")
+			(code "414")
 			(name "Net-(C163-Pad2)")
 			(class "Default")
 			(node
@@ -96451,7 +98453,7 @@
 			)
 		)
 		(net
-			(code "411")
+			(code "415")
 			(name "Net-(C169-Pad2)")
 			(class "Default")
 			(node
@@ -96471,7 +98473,7 @@
 			)
 		)
 		(net
-			(code "412")
+			(code "416")
 			(name "Net-(C170-Pad2)")
 			(class "Default")
 			(node
@@ -96491,7 +98493,7 @@
 			)
 		)
 		(net
-			(code "413")
+			(code "417")
 			(name "Net-(C177-Pad2)")
 			(class "Default")
 			(node
@@ -96511,7 +98513,7 @@
 			)
 		)
 		(net
-			(code "414")
+			(code "418")
 			(name "Net-(C178-Pad2)")
 			(class "Default")
 			(node
@@ -96531,7 +98533,7 @@
 			)
 		)
 		(net
-			(code "415")
+			(code "419")
 			(name "Net-(C185-Pad2)")
 			(class "Default")
 			(node
@@ -96551,7 +98553,7 @@
 			)
 		)
 		(net
-			(code "416")
+			(code "420")
 			(name "Net-(C186-Pad2)")
 			(class "Default")
 			(node
@@ -96571,7 +98573,7 @@
 			)
 		)
 		(net
-			(code "417")
+			(code "421")
 			(name "Net-(C193-Pad2)")
 			(class "Default")
 			(node
@@ -96591,7 +98593,7 @@
 			)
 		)
 		(net
-			(code "418")
+			(code "422")
 			(name "Net-(C194-Pad2)")
 			(class "Default")
 			(node
@@ -96611,7 +98613,7 @@
 			)
 		)
 		(net
-			(code "419")
+			(code "423")
 			(name "Net-(C209-Pad2)")
 			(class "Default")
 			(node
@@ -96631,7 +98633,7 @@
 			)
 		)
 		(net
-			(code "420")
+			(code "424")
 			(name "Net-(C210-Pad2)")
 			(class "Default")
 			(node
@@ -96651,7 +98653,7 @@
 			)
 		)
 		(net
-			(code "421")
+			(code "425")
 			(name "Net-(C211-Pad2)")
 			(class "Default")
 			(node
@@ -96671,7 +98673,7 @@
 			)
 		)
 		(net
-			(code "422")
+			(code "426")
 			(name "Net-(C212-Pad2)")
 			(class "Default")
 			(node
@@ -96691,7 +98693,7 @@
 			)
 		)
 		(net
-			(code "423")
+			(code "427")
 			(name "Net-(C225-Pad2)")
 			(class "Default")
 			(node
@@ -96711,7 +98713,7 @@
 			)
 		)
 		(net
-			(code "424")
+			(code "428")
 			(name "Net-(C226-Pad2)")
 			(class "Default")
 			(node
@@ -96731,7 +98733,7 @@
 			)
 		)
 		(net
-			(code "425")
+			(code "429")
 			(name "Net-(C227-Pad2)")
 			(class "Default")
 			(node
@@ -96751,7 +98753,7 @@
 			)
 		)
 		(net
-			(code "426")
+			(code "430")
 			(name "Net-(C228-Pad2)")
 			(class "Default")
 			(node
@@ -96771,7 +98773,7 @@
 			)
 		)
 		(net
-			(code "427")
+			(code "431")
 			(name "Net-(C241-Pad2)")
 			(class "Default")
 			(node
@@ -96791,7 +98793,7 @@
 			)
 		)
 		(net
-			(code "428")
+			(code "432")
 			(name "Net-(C242-Pad2)")
 			(class "Default")
 			(node
@@ -96811,7 +98813,7 @@
 			)
 		)
 		(net
-			(code "429")
+			(code "433")
 			(name "Net-(C243-Pad2)")
 			(class "Default")
 			(node
@@ -96831,7 +98833,7 @@
 			)
 		)
 		(net
-			(code "430")
+			(code "434")
 			(name "Net-(C244-Pad2)")
 			(class "Default")
 			(node
@@ -96851,7 +98853,7 @@
 			)
 		)
 		(net
-			(code "431")
+			(code "435")
 			(name "Net-(C257-Pad2)")
 			(class "Default")
 			(node
@@ -96871,7 +98873,7 @@
 			)
 		)
 		(net
-			(code "432")
+			(code "436")
 			(name "Net-(C258-Pad2)")
 			(class "Default")
 			(node
@@ -96891,7 +98893,7 @@
 			)
 		)
 		(net
-			(code "433")
+			(code "437")
 			(name "Net-(C259-Pad2)")
 			(class "Default")
 			(node
@@ -96911,7 +98913,7 @@
 			)
 		)
 		(net
-			(code "434")
+			(code "438")
 			(name "Net-(C260-Pad2)")
 			(class "Default")
 			(node
@@ -96931,7 +98933,67 @@
 			)
 		)
 		(net
-			(code "435")
+			(code "439")
+			(name "Net-(C273-Pad1)")
+			(class "Default")
+			(node
+				(ref "C273")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R39")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "440")
+			(name "Net-(C274-Pad1)")
+			(class "Default")
+			(node
+				(ref "C274")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R40")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "441")
+			(name "Net-(C275-Pad1)")
+			(class "Default")
+			(node
+				(ref "C275")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R41")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "442")
+			(name "Net-(C276-Pad1)")
+			(class "Default")
+			(node
+				(ref "C276")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R42")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "443")
 			(name "Net-(D1-K-Pad1)")
 			(class "Default")
 			(node
@@ -96947,7 +99009,7 @@
 			)
 		)
 		(net
-			(code "436")
+			(code "444")
 			(name "Net-(D1-K-Pad2)")
 			(class "Default")
 			(node
@@ -96963,7 +99025,7 @@
 			)
 		)
 		(net
-			(code "437")
+			(code "445")
 			(name "Net-(D1-K-Pad4)")
 			(class "Default")
 			(node
@@ -96979,7 +99041,7 @@
 			)
 		)
 		(net
-			(code "438")
+			(code "446")
 			(name "Net-(D2-K-Pad1)")
 			(class "Default")
 			(node
@@ -96995,7 +99057,7 @@
 			)
 		)
 		(net
-			(code "439")
+			(code "447")
 			(name "Net-(D2-K-Pad2)")
 			(class "Default")
 			(node
@@ -97011,7 +99073,7 @@
 			)
 		)
 		(net
-			(code "440")
+			(code "448")
 			(name "Net-(D2-K-Pad4)")
 			(class "Default")
 			(node
@@ -97027,7 +99089,7 @@
 			)
 		)
 		(net
-			(code "441")
+			(code "449")
 			(name "Net-(D3-K)")
 			(class "Default")
 			(node
@@ -97043,7 +99105,7 @@
 			)
 		)
 		(net
-			(code "442")
+			(code "450")
 			(name "Net-(D4-K)")
 			(class "Default")
 			(node
@@ -97059,7 +99121,7 @@
 			)
 		)
 		(net
-			(code "443")
+			(code "451")
 			(name "Net-(D37-K)")
 			(class "Default")
 			(node
@@ -97080,7 +99142,7 @@
 			)
 		)
 		(net
-			(code "444")
+			(code "452")
 			(name "Net-(D38-A)")
 			(class "Default")
 			(node
@@ -97112,13 +99174,13 @@
 			)
 		)
 		(net
-			(code "445")
+			(code "453")
 			(name "Net-(D80-A)")
 			(class "Default")
 			(node
 				(ref "D80")
-				(pin "2")
-				(pinfunction "A_2")
+				(pin "1")
+				(pinfunction "A_1")
 				(pintype "passive")
 			)
 			(node
@@ -97128,7 +99190,7 @@
 			)
 		)
 		(net
-			(code "446")
+			(code "454")
 			(name "Net-(Q4-D)")
 			(class "Default")
 			(node
@@ -97144,7 +99206,7 @@
 			)
 		)
 		(net
-			(code "447")
+			(code "455")
 			(name "Net-(Q6-D)")
 			(class "Default")
 			(node
@@ -97160,7 +99222,7 @@
 			)
 		)
 		(net
-			(code "448")
+			(code "456")
 			(name "Net-(Q7-D)")
 			(class "Default")
 			(node
@@ -97176,7 +99238,7 @@
 			)
 		)
 		(net
-			(code "449")
+			(code "457")
 			(name "Net-(Q8-D)")
 			(class "Default")
 			(node
@@ -97192,7 +99254,7 @@
 			)
 		)
 		(net
-			(code "450")
+			(code "458")
 			(name "Net-(Q9-D)")
 			(class "Default")
 			(node
@@ -97208,7 +99270,7 @@
 			)
 		)
 		(net
-			(code "451")
+			(code "459")
 			(name "Net-(Q10-D)")
 			(class "Default")
 			(node
@@ -97224,7 +99286,7 @@
 			)
 		)
 		(net
-			(code "452")
+			(code "460")
 			(name "Net-(R20-Pad1)")
 			(class "Default")
 			(node
@@ -97239,7 +99301,7 @@
 			)
 		)
 		(net
-			(code "453")
+			(code "461")
 			(name "Net-(R33-Pad1)")
 			(class "Default")
 			(node
@@ -97254,7 +99316,7 @@
 			)
 		)
 		(net
-			(code "454")
+			(code "462")
 			(name "Net-(R34-Pad1)")
 			(class "Default")
 			(node
@@ -97269,41 +99331,22 @@
 			)
 		)
 		(net
-			(code "455")
-			(name "Net-(R91-Pad1)")
+			(code "463")
+			(name "Net-(R100-Pad1)")
 			(class "Default")
 			(node
-				(ref "R91")
+				(ref "R100")
 				(pin "1")
 				(pintype "passive")
 			)
 			(node
-				(ref "U15")
-				(pin "10")
-				(pinfunction "EH_10")
-				(pintype "passive")
-			)
-			(node
-				(ref "U15")
-				(pin "11")
-				(pinfunction "EH_11")
-				(pintype "passive")
-			)
-			(node
-				(ref "U15")
-				(pin "12")
-				(pinfunction "EH_12")
-				(pintype "passive")
-			)
-			(node
-				(ref "U15")
-				(pin "13")
-				(pinfunction "EH_13")
+				(ref "R260")
+				(pin "2")
 				(pintype "passive")
 			)
 		)
 		(net
-			(code "456")
+			(code "464")
 			(name "Net-(R101-Pad1)")
 			(class "Default")
 			(node
@@ -97318,7 +99361,7 @@
 			)
 		)
 		(net
-			(code "457")
+			(code "465")
 			(name "Net-(R103-Pad1)")
 			(class "Default")
 			(node
@@ -97333,9 +99376,29 @@
 			)
 		)
 		(net
-			(code "458")
+			(code "466")
+			(name "Net-(R104-Pad1)")
+			(class "Default")
+			(node
+				(ref "R104")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R259")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "467")
 			(name "Net-(U1B-VDDA)")
 			(class "Default")
+			(node
+				(ref "C3")
+				(pin "1")
+				(pintype "passive")
+			)
 			(node
 				(ref "C4")
 				(pin "1")
@@ -97359,7 +99422,7 @@
 			)
 		)
 		(net
-			(code "459")
+			(code "468")
 			(name "Net-(U5-ILIM)")
 			(class "Default")
 			(node
@@ -97375,7 +99438,7 @@
 			)
 		)
 		(net
-			(code "460")
+			(code "469")
 			(name "Net-(U8-DECAP)")
 			(class "Default")
 			(node
@@ -97391,7 +99454,7 @@
 			)
 		)
 		(net
-			(code "461")
+			(code "470")
 			(name "Net-(U9-DECAP)")
 			(class "Default")
 			(node
@@ -97407,7 +99470,7 @@
 			)
 		)
 		(net
-			(code "462")
+			(code "471")
 			(name "Net-(U10-DECAP)")
 			(class "Default")
 			(node
@@ -97423,7 +99486,7 @@
 			)
 		)
 		(net
-			(code "463")
+			(code "472")
 			(name "Net-(U11-DECAP)")
 			(class "Default")
 			(node
@@ -97439,7 +99502,7 @@
 			)
 		)
 		(net
-			(code "464")
+			(code "473")
 			(name "Net-(U12-RCLASS)")
 			(class "Default")
 			(node
@@ -97455,7 +99518,7 @@
 			)
 		)
 		(net
-			(code "465")
+			(code "474")
 			(name "Net-(U12-RDET)")
 			(class "Default")
 			(node
@@ -97476,11 +99539,11 @@
 			)
 		)
 		(net
-			(code "466")
+			(code "475")
 			(name "Net-(U12-RREF)")
 			(class "Default")
 			(node
-				(ref "R100")
+				(ref "R260")
 				(pin "1")
 				(pintype "passive")
 			)
@@ -97492,7 +99555,7 @@
 			)
 		)
 		(net
-			(code "467")
+			(code "476")
 			(name "PGND")
 			(class "Default")
 			(node
@@ -97517,8 +99580,8 @@
 			)
 			(node
 				(ref "D40")
-				(pin "2")
-				(pinfunction "A_2")
+				(pin "1")
+				(pinfunction "K_1")
 				(pintype "passive")
 			)
 			(node
@@ -97591,7 +99654,7 @@
 			)
 		)
 		(net
-			(code "468")
+			(code "477")
 			(name "V3P3_VIN")
 			(class "Default")
 			(node
@@ -97642,7 +99705,7 @@
 			)
 		)
 		(net
-			(code "469")
+			(code "478")
 			(name "unconnected-(C149-Pad2)")
 			(class "Default")
 			(node
@@ -97652,7 +99715,7 @@
 			)
 		)
 		(net
-			(code "470")
+			(code "479")
 			(name "unconnected-(C153-Pad2)")
 			(class "Default")
 			(node
@@ -97662,7 +99725,7 @@
 			)
 		)
 		(net
-			(code "471")
+			(code "480")
 			(name "unconnected-(C157-Pad2)")
 			(class "Default")
 			(node
@@ -97672,7 +99735,7 @@
 			)
 		)
 		(net
-			(code "472")
+			(code "481")
 			(name "unconnected-(C161-Pad2)")
 			(class "Default")
 			(node
@@ -97682,7 +99745,7 @@
 			)
 		)
 		(net
-			(code "473")
+			(code "482")
 			(name "unconnected-(CN1-Pad7)")
 			(class "Default")
 			(node
@@ -97693,7 +99756,7 @@
 			)
 		)
 		(net
-			(code "474")
+			(code "483")
 			(name "unconnected-(RJ1-+-Pad11)")
 			(class "Default")
 			(node
@@ -97704,7 +99767,7 @@
 			)
 		)
 		(net
-			(code "475")
+			(code "484")
 			(name "unconnected-(RJ1-+-Pad13)")
 			(class "Default")
 			(node
@@ -97715,7 +99778,7 @@
 			)
 		)
 		(net
-			(code "476")
+			(code "485")
 			(name "unconnected-(RJ1---Pad12)")
 			(class "Default")
 			(node
@@ -97726,7 +99789,7 @@
 			)
 		)
 		(net
-			(code "477")
+			(code "486")
 			(name "unconnected-(RJ1---Pad14)")
 			(class "Default")
 			(node
@@ -97737,7 +99800,7 @@
 			)
 		)
 		(net
-			(code "478")
+			(code "487")
 			(name "unconnected-(T1-Pad4)")
 			(class "Default")
 			(node
@@ -97748,7 +99811,7 @@
 			)
 		)
 		(net
-			(code "479")
+			(code "488")
 			(name "unconnected-(T1-Pad5)")
 			(class "Default")
 			(node
@@ -97759,7 +99822,7 @@
 			)
 		)
 		(net
-			(code "480")
+			(code "489")
 			(name "unconnected-(T1-Pad12)")
 			(class "Default")
 			(node
@@ -97770,7 +99833,7 @@
 			)
 		)
 		(net
-			(code "481")
+			(code "490")
 			(name "unconnected-(T1-Pad13)")
 			(class "Default")
 			(node
@@ -97781,7 +99844,7 @@
 			)
 		)
 		(net
-			(code "482")
+			(code "491")
 			(name "unconnected-(U5-NC-Pad4)")
 			(class "Default")
 			(node
@@ -97792,7 +99855,7 @@
 			)
 		)
 		(net
-			(code "483")
+			(code "492")
 			(name "unconnected-(U5-NC-Pad12)")
 			(class "Default")
 			(node
@@ -97803,7 +99866,7 @@
 			)
 		)
 		(net
-			(code "484")
+			(code "493")
 			(name "unconnected-(U12-NC-Pad6)")
 			(class "Default")
 			(node
@@ -97814,7 +99877,7 @@
 			)
 		)
 		(net
-			(code "485")
+			(code "494")
 			(name "unconnected-(U12-NC-Pad9)")
 			(class "Default")
 			(node
@@ -97825,7 +99888,7 @@
 			)
 		)
 		(net
-			(code "486")
+			(code "495")
 			(name "unconnected-(U17-Pad3)")
 			(class "Default")
 			(node
@@ -97835,7 +99898,7 @@
 			)
 		)
 		(net
-			(code "487")
+			(code "496")
 			(name "unconnected-(U26-NC-Pad4)")
 			(class "Default")
 			(node

@@ -2349,7 +2349,7 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
 			(at 93.98 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2474,6 +2474,28 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 54.61 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "DSL34"
+			(at 54.61 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "hongjiacheng"
 			(at 54.61 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -4123,7 +4145,7 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
 			(at 177.8 97.79 0)
 			(hide yes)
 			(show_name no)

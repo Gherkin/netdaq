@@ -5,6 +5,161 @@
 	(uuid "66890eed-b3c1-462e-a6ff-3a77cc137277")
 	(paper "A3")
 	(lib_symbols
+		(symbol "C22379472:BZX84C30_C22379472"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "BZX84C30_C22379472"
+				(at 0 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "C22379472:SOT-23-3_L2.9-W1.5-P2.0-LS2.5-BR"
+				(at 0 -17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C22379472"
+				(at 0 -20.32 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "BZX84C30_C22379472_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BZX84C30_C22379472_1_1"
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:TestPoint"
 			(pin_numbers
 				(hide yes)
@@ -902,172 +1057,6 @@
 				)
 			)
 			(symbol "D_Schottky_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Device:D_Zener"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "D_Zener"
-				(at 0 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Zener diode"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "diode"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "D_Zener_0_1"
-				(polyline
-					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "D_Zener_1_1"
 				(pin passive line
 					(at -3.81 0 0)
 					(length 2.54)
@@ -2788,7 +2777,7 @@
 	)
 	(text_box "Design Note:\nILIM 330k =>\n0.34 A switch current\n2.5 A on secondary at 37 V\n3.87 A on secondary at 57 V"
 		(exclude_from_sim no)
-		(at 68.58 180.34 0)
+		(at 48.895 165.735 0)
 		(size 24.13 16.2161)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -2808,7 +2797,7 @@
 	)
 	(text_box "Design Note:\nMODE 0 => Flyback"
 		(exclude_from_sim no)
-		(at 68.58 170.18 0)
+		(at 48.895 157.48 0)
 		(size 22.86 10.16)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -2886,10 +2875,10 @@
 		)
 		(uuid "91991eff-8053-448e-8e49-72006bdf2b46")
 	)
-	(text_box "Design Note:\nEN\n30 V Zener + 10k over 13k\n36.9 V rising\n32.3 V falling\n"
+	(text_box "Design Note:\nEN\n30 V Zener + 33k over 43k\n36.9 V rising\n32.3 V falling\ncurrent ~= 0.47 mA\n"
 		(exclude_from_sim no)
-		(at 68.58 156.21 0)
-		(size 22.86 14.1714)
+		(at 48.895 141.605 0)
+		(size 22.86 16.2161)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width -0.0001)
@@ -2908,7 +2897,7 @@
 	)
 	(text_box "Design Note:\nMaximum switch frequency\nat max input voltage\n133kHz"
 		(exclude_from_sim no)
-		(at 68.58 199.39 0)
+		(at 48.895 184.785 0)
 		(size 22.86 14.1714)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -2957,12 +2946,6 @@
 		(uuid "0bcb5513-5126-41b7-a6d3-62404ca757ac")
 	)
 	(junction
-		(at 96.52 149.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0c53085d-e162-4f04-a839-3980285fb832")
-	)
-	(junction
 		(at 190.5 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2973,6 +2956,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2843fcd4-0757-4928-8631-77389279dfa1")
+	)
+	(junction
+		(at 96.52 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29d80a41-4c8f-4499-aa0f-530d8efc7fca")
 	)
 	(junction
 		(at 176.53 137.16)
@@ -3510,7 +3499,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 158.75) (xy 96.52 149.86)
+			(xy 96.52 167.64) (xy 96.52 163.83)
 		)
 		(stroke
 			(width 0)
@@ -3740,7 +3729,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 166.37) (xy 96.52 167.64)
+			(xy 96.52 175.26) (xy 96.52 176.53)
 		)
 		(stroke
 			(width 0)
@@ -3907,6 +3896,16 @@
 			(type default)
 		)
 		(uuid "d3f518b1-4ead-40db-bc33-2c536b21fe09")
+	)
+	(wire
+		(pts
+			(xy 96.52 156.21) (xy 96.52 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5ae711f-57f0-401e-8895-5e676a501b66")
 	)
 	(wire
 		(pts
@@ -4880,7 +4879,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDD")
-		(at 96.52 167.64 0)
+		(at 96.52 176.53 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4891,7 +4890,7 @@
 		(fields_autoplaced yes)
 		(uuid "155037bf-8815-4bc9-808f-58754bd0831d")
 		(property "Reference" "#PWR0311"
-			(at 96.52 173.99 0)
+			(at 96.52 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4902,7 +4901,7 @@
 			)
 		)
 		(property "Value" "PGND"
-			(at 96.52 171.45 0)
+			(at 96.52 180.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4912,7 +4911,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 96.52 167.64 0)
+			(at 96.52 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4923,7 +4922,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 167.64 0)
+			(at 96.52 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4934,7 +4933,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
-			(at 96.52 167.64 0)
+			(at 96.52 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5245,7 +5244,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 96.52 162.56 0)
+		(at 96.52 171.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5256,7 +5255,7 @@
 		(fields_autoplaced yes)
 		(uuid "24e23071-2de1-449c-b3c0-5af8b36ddfe0")
 		(property "Reference" "R104"
-			(at 99.06 161.2899 0)
+			(at 99.06 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5266,8 +5265,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "13k"
-			(at 99.06 163.8299 0)
+		(property "Value" "33k"
+			(at 99.06 172.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5278,7 +5277,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 94.742 162.56 90)
+			(at 94.742 171.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5289,7 +5288,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 162.56 0)
+			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5300,7 +5299,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 96.52 162.56 0)
+			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5311,7 +5310,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 96.52 162.56 0)
+			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5322,7 +5321,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 96.52 162.56 0)
+			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5333,7 +5332,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 96.52 162.56 0)
+			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5344,7 +5343,7 @@
 			)
 		)
 		(property "LCSC Basic/Pref" "x"
-			(at 96.52 162.56 0)
+			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5354,8 +5353,8 @@
 				)
 			)
 		)
-		(property "LCSC" "C22797"
-			(at 96.52 162.56 0)
+		(property "LCSC" "C25779"
+			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5365,8 +5364,8 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C22797"
-			(at 96.52 162.56 0)
+		(property "LCSC Part" "C25779"
+			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5377,7 +5376,7 @@
 			)
 		)
 		(property "LCSC missing" ""
-			(at 96.52 162.56 0)
+			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5388,7 +5387,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 96.52 162.56 0)
+			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5592,7 +5591,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "33k"
 			(at 99.06 140.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5669,7 +5668,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 96.52 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -5680,7 +5679,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25744"
+		(property "LCSC" "C25779"
 			(at 96.52 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -5691,7 +5690,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C25744"
+		(property "LCSC Part" "C25779"
 			(at 96.52 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -5713,7 +5712,7 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
 			(at 96.52 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -6003,7 +6002,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "910p"
+		(property "Value" "1n 2kV"
 			(at 194.31 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6014,7 +6013,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 191.4652 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -6025,7 +6024,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C9196.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1ddVFFUQlFaVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlZZUlJIHxUDCw%3D%3D"
 			(at 190.5 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -6080,7 +6079,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "n"
+		(property "LCSC Basic/Pref" "y"
 			(at 190.5 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -6091,7 +6090,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "n"
 			(at 190.5 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -6113,7 +6112,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C2941944"
+		(property "LCSC" "C9196"
 			(at 190.5 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -6124,7 +6123,40 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C2941944"
+		(property "LCSC Part" "C9196"
+			(at 190.5 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TC" "X7R"
+			(at 190.5 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1206B102K202NT"
+			(at 190.5 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "FH"
 			(at 190.5 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -6173,7 +6205,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "47u 100V"
 			(at 113.03 116.2049 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6195,7 +6227,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C87862.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1deUlRSRllaVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVRfVVRIHxUDCw%3D%3D"
 			(at 109.22 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -6273,6 +6305,50 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 109.22 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C87862"
+			(at 109.22 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C87862"
+			(at 109.22 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RVT2A470M1010"
+			(at 109.22 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Honor Elec"
 			(at 109.22 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -7331,7 +7407,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "691d0938-b273-49ba-b4f9-e531216b4b36")
 		(property "Reference" "D37"
@@ -8327,7 +8403,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Zener")
+		(lib_id "C22379472:BZX84C30_C22379472")
 		(at 96.52 127 270)
 		(unit 1)
 		(body_style 1)
@@ -8348,8 +8424,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BZX84C30-7-F"
-			(at 77.724 129.032 90)
+		(property "Value" "BZX84C30"
+			(at 83.82 128.524 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8359,8 +8435,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MMBZ5256ELT1G:SOT-23(1-3)"
-			(at 96.52 127 0)
+		(property "Footprint" "C22379472:SOT-23-3_L2.9-W1.5-P2.0-LS2.5-BR"
+			(at 78.74 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8370,7 +8446,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C22379472.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWXlZST1VbUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlRfUVdUWQkaCgg%3D"
 			(at 96.52 127 0)
 			(hide yes)
 			(show_name no)
@@ -8425,7 +8501,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "n"
+		(property "LCSC Basic/Pref" "y"
 			(at 96.52 127 90)
 			(hide yes)
 			(show_name no)
@@ -8458,7 +8534,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C151632"
+		(property "LCSC" "C22379472"
 			(at 96.52 127 90)
 			(hide yes)
 			(show_name no)
@@ -8469,8 +8545,8 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C151632"
-			(at 96.52 127 90)
+		(property "LCSC Part" "C22379472"
+			(at 76.2 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8480,7 +8556,7 @@
 				)
 			)
 		)
-		(pin "2"
+		(pin "3"
 			(uuid "26c54e9f-00c4-4c9c-b5d1-2bb89cc6f468")
 		)
 		(pin "1"
@@ -8909,7 +8985,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 178.562 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -8975,7 +9051,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 180.34 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -8986,7 +9062,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25796"
+		(property "LCSC" "C17756"
 			(at 180.34 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -8997,7 +9073,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C25796"
+		(property "LCSC Part" "C17756"
 			(at 180.34 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -9008,7 +9084,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "n"
 			(at 180.34 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -9019,7 +9095,40 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1"
+			(at 180.34 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0805W8F5602T5E"
+			(at 180.34 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 180.34 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "125 mW"
 			(at 180.34 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -9238,7 +9347,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220u"
+		(property "Value" "220u 16V"
 			(at 302.26 130.1749 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9260,7 +9369,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2927909.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1deUlVXT1JYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slT1ZWUVZIHxUDCw%3D%3D"
 			(at 298.45 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9326,7 +9435,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "n"
 			(at 298.45 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9338,6 +9447,50 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 298.45 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2927909"
+			(at 298.45 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C2927909"
+			(at 298.45 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RVE220UF16V67RV0003"
+			(at 298.45 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KNSCHA"
 			(at 298.45 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9753,6 +9906,176 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e"
 					(reference "#PWR0166")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 96.52 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ebf0048f-b131-4405-8088-d19ab5adf5c1")
+		(property "Reference" "R259"
+			(at 99.06 158.7499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 99.06 161.2899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 94.742 160.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Basic/Pref" "x"
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25744"
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C25744"
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC missing" ""
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c58581ce-12c7-4939-a3bb-c423ed9e6f6a")
+		)
+		(pin "1"
+			(uuid "e643787a-4837-4d2d-be77-df998932c6c6")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e"
+					(reference "R259")
 					(unit 1)
 				)
 			)

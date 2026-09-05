@@ -4398,7 +4398,7 @@
 	)
 	(text "DNM"
 		(exclude_from_sim no)
-		(at 65.532 205.74 0)
+		(at 65.786 215.646 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4546,12 +4546,6 @@
 		(uuid "2b6cab81-9f2e-4a04-89de-2deb055da144")
 	)
 	(junction
-		(at 281.94 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2c7b2409-8f64-4b9a-9e11-b63148afe889")
-	)
-	(junction
 		(at 359.41 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4622,6 +4616,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4051bb98-e47e-44cd-8234-922e943532d7")
+	)
+	(junction
+		(at 281.94 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "422c3b7e-82fe-48e7-899f-2b1034bb914c")
 	)
 	(junction
 		(at 359.41 148.59)
@@ -4846,12 +4846,6 @@
 		(uuid "77bc112f-928b-4d11-8972-91b134ed864f")
 	)
 	(junction
-		(at 281.94 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "78bc04f5-81a9-49ee-b1ca-786f3de41473")
-	)
-	(junction
 		(at 269.24 210.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4964,6 +4958,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9a9a12c8-bfbf-44fd-ac28-ca5c5a02d736")
+	)
+	(junction
+		(at 303.53 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a487ed17-5609-4024-bd0e-877220713537")
 	)
 	(junction
 		(at 172.72 232.41)
@@ -5729,7 +5729,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 97.79) (xy 318.77 97.79)
+			(xy 309.88 97.79) (xy 332.74 97.79)
 		)
 		(stroke
 			(width 0)
@@ -5776,16 +5776,6 @@
 			(type default)
 		)
 		(uuid "0b1d9b37-485b-4ad0-be17-23faef1bd1a8")
-	)
-	(wire
-		(pts
-			(xy 323.85 97.79) (xy 332.74 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0be0a09f-6606-4055-886a-0368f095e5d3")
 	)
 	(wire
 		(pts
@@ -5869,6 +5859,16 @@
 	)
 	(wire
 		(pts
+			(xy 303.53 135.89) (xy 332.74 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1279b00a-a9e6-42b1-b158-09d555a4a7ca")
+	)
+	(wire
+		(pts
 			(xy 161.29 153.67) (xy 190.5 153.67)
 		)
 		(stroke
@@ -5876,6 +5876,16 @@
 			(type default)
 		)
 		(uuid "129e31ff-9570-490a-b257-3077390062c6")
+	)
+	(wire
+		(pts
+			(xy 294.64 97.79) (xy 274.32 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "149ec0ae-2817-4d42-bc46-89ab6fcdfb3a")
 	)
 	(wire
 		(pts
@@ -6649,6 +6659,16 @@
 	)
 	(wire
 		(pts
+			(xy 289.56 135.89) (xy 303.53 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d4d3572-eced-4968-8ad9-cb0182228e50")
+	)
+	(wire
+		(pts
 			(xy 347.98 99.06) (xy 347.98 97.79)
 		)
 		(stroke
@@ -6819,7 +6839,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 115.57) (xy 274.32 116.84)
+			(xy 261.62 115.57) (xy 261.62 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7109,7 +7129,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 116.84) (xy 274.32 116.84)
+			(xy 281.94 116.84) (xy 275.59 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7609,7 +7629,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 137.16) (xy 281.94 135.89)
+			(xy 303.53 137.16) (xy 303.53 135.89)
 		)
 		(stroke
 			(width 0)
@@ -7956,16 +7976,6 @@
 			(type default)
 		)
 		(uuid "847720b0-0ff4-4505-a418-67ce54b617a8")
-	)
-	(wire
-		(pts
-			(xy 281.94 135.89) (xy 332.74 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8587e7d5-b834-44b2-9c52-41cbf2f4f06f")
 	)
 	(wire
 		(pts
@@ -9309,7 +9319,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 97.79) (xy 274.32 97.79)
+			(xy 309.88 97.79) (xy 299.72 97.79)
 		)
 		(stroke
 			(width 0)
@@ -9399,7 +9409,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 135.89) (xy 281.94 135.89)
+			(xy 274.32 135.89) (xy 284.48 135.89)
 		)
 		(stroke
 			(width 0)
@@ -9619,6 +9629,16 @@
 	)
 	(wire
 		(pts
+			(xy 270.51 116.84) (xy 261.62 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9d1e92c-df5c-49e6-8138-6bf70a4e96ef")
+	)
+	(wire
+		(pts
 			(xy 307.34 222.25) (xy 314.96 222.25)
 		)
 		(stroke
@@ -9829,7 +9849,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 144.78) (xy 281.94 146.05)
+			(xy 303.53 144.78) (xy 303.53 146.05)
 		)
 		(stroke
 			(width 0)
@@ -10017,16 +10037,6 @@
 		)
 		(uuid "022e8ba1-6c9f-445b-9ca0-8876aa57fd50")
 	)
-	(label "SPI2.MISO"
-		(at 173.99 181.61 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "026e339c-83c1-4ea1-9370-5dedc495a1be")
-	)
 	(label "SPI2.CS#"
 		(at 173.99 186.69 0)
 		(effects
@@ -10148,6 +10158,16 @@
 		)
 		(uuid "21c39566-80d7-4f6f-8d8f-23403df012f1")
 	)
+	(label "SPI2.MISO"
+		(at 173.99 184.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "27443442-4bd9-4ba7-bf9d-a150c5de4cee")
+	)
 	(label "SPI6.MOSI"
 		(at 173.99 110.49 0)
 		(effects
@@ -10157,6 +10177,16 @@
 			(justify left bottom)
 		)
 		(uuid "276f37f5-78f1-4934-ab89-ab10939c9e4e")
+	)
+	(label "SPI5.SCK"
+		(at 173.99 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2867888d-c4ca-464e-972f-25a68e4cf1dc")
 	)
 	(label "STATUS_LED_G"
 		(at 262.89 226.06 0)
@@ -10187,16 +10217,6 @@
 			(justify left bottom)
 		)
 		(uuid "2dd18370-4e33-4543-9a54-d32b3b39f0e0")
-	)
-	(label "SPI5.MISO"
-		(at 173.99 128.27 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "35ce7d60-a4d0-4cec-ae2e-4de0c3e05417")
 	)
 	(label "SDMMC0.SDDAT0"
 		(at 100.33 161.29 180)
@@ -10448,16 +10468,6 @@
 		)
 		(uuid "61375466-c290-4fa6-9fe7-03aeeb57147c")
 	)
-	(label "SPI6.MISO"
-		(at 173.99 113.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "64c051f6-69ad-4c6a-8cfc-685fe5a6b241")
-	)
 	(label "USER_LED_B"
 		(at 307.34 222.25 0)
 		(effects
@@ -10518,6 +10528,16 @@
 		)
 		(uuid "69ea022b-3c23-4f26-b70a-98660b48cff5")
 	)
+	(label "SPI3.MISO"
+		(at 100.33 118.11 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6b1432ab-27ae-4580-b9ad-da7947d2202b")
+	)
 	(label "SPARE10"
 		(at 173.99 189.23 0)
 		(effects
@@ -10538,16 +10558,6 @@
 		)
 		(uuid "6d85e5c9-cfb9-4c2e-ac40-80d1f5a13202")
 	)
-	(label "SPI2.SCK"
-		(at 173.99 184.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6df48573-b156-4bde-aa93-8561dd8c03a8")
-	)
 	(label "ADC_VINP11"
 		(at 100.33 130.81 180)
 		(effects
@@ -10557,16 +10567,6 @@
 			(justify right bottom)
 		)
 		(uuid "707098e8-60bf-4302-a678-795909443931")
-	)
-	(label "SPI3.MISO"
-		(at 100.33 143.51 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "71432d9a-cd0d-4bb1-92af-43f7cbd11ef0")
 	)
 	(label "XOUT"
 		(at 100.33 151.13 180)
@@ -10607,6 +10607,16 @@
 			(justify left bottom)
 		)
 		(uuid "7ac6eaee-566e-4188-850f-8f247afbf849")
+	)
+	(label "SPI6.MISO"
+		(at 173.99 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7f285ef3-d296-4b34-9089-bb823d43bf96")
 	)
 	(label "TRIGGER#"
 		(at 229.87 224.79 180)
@@ -10700,16 +10710,6 @@
 		)
 		(uuid "96c0f31d-4de1-4158-ae67-3aef615d16fc")
 	)
-	(label "SPI3.SCK"
-		(at 100.33 118.11 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "96fd3d1d-27c3-49d5-9521-c2b7e008403f")
-	)
 	(label "XOUT"
 		(at 49.53 260.35 0)
 		(effects
@@ -10739,6 +10739,16 @@
 			(justify left bottom)
 		)
 		(uuid "9817d6c6-52be-499d-8dd5-323507bbd9c1")
+	)
+	(label "SPI5.MISO"
+		(at 173.99 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9a552d0c-7010-42f1-9547-4c670ce2480e")
 	)
 	(label "JTAG.TDO"
 		(at 207.01 95.25 0)
@@ -10790,16 +10800,6 @@
 		)
 		(uuid "a8588f40-2c73-45ce-939f-3d743032455b")
 	)
-	(label "SPI5.SCK"
-		(at 173.99 130.81 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "afe2a7bb-9260-4b8e-b8fa-0dfd37d72262")
-	)
 	(label "MCU_ETH_RST#"
 		(at 173.99 191.77 0)
 		(effects
@@ -10829,6 +10829,16 @@
 			(justify left bottom)
 		)
 		(uuid "c07a209f-10b0-4b9e-90b3-b0d8b780b85f")
+	)
+	(label "SPI2.SCK"
+		(at 173.99 181.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c2ff681a-083e-43f2-97b6-c2940bd67741")
 	)
 	(label "TRIG_BTN"
 		(at 194.31 232.41 0)
@@ -10910,6 +10920,16 @@
 		)
 		(uuid "d5a44cc5-816b-4f51-9da5-c47779618336")
 	)
+	(label "SPI6.SCK"
+		(at 173.99 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d7150f9f-e00e-4159-a6cf-2334be1e4322")
+	)
 	(label "XOUT32"
 		(at 109.22 251.46 0)
 		(effects
@@ -10930,15 +10950,15 @@
 		)
 		(uuid "dae5a0ad-0f80-482b-b7d4-271b813947c3")
 	)
-	(label "SPI6.SCK"
-		(at 173.99 115.57 0)
+	(label "SPI3.SCK"
+		(at 100.33 143.51 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "ddc5bcad-34af-4571-a476-c254ad91cded")
+		(uuid "ddb159c8-b559-4af0-bd5f-829335f358c9")
 	)
 	(label "I2C7{I2C}"
 		(at 226.06 100.33 0)
@@ -11558,174 +11578,6 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
 					(reference "#PWR0546")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:FerriteBead_Small")
-		(at 321.31 97.79 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "09c7923a-da50-4a5e-a50f-560669c664b1")
-		(property "Reference" "FB1"
-			(at 321.2719 91.44 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "UPZ2012E102-1R5TF"
-			(at 321.2719 93.98 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 321.31 99.568 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 321.31 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Ferrite bead, small symbol"
-			(at 321.31 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 321.31 97.79 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 321.31 97.79 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.1" ""
-			(at 321.31 97.79 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Basic/Pref" "n"
-			(at 321.31 97.79 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC missing" ""
-			(at 321.31 97.79 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tolerance" ""
-			(at 321.31 97.79 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C98309"
-			(at 321.31 97.79 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C98309"
-			(at 321.31 97.79 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f37415ea-1851-4cc1-a108-4eed46d5ef6a")
-		)
-		(pin "1"
-			(uuid "ed873bde-abc7-4f11-9815-6bbcf858ae33")
-		)
-		(instances
-			(project "netdaq"
-				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
-					(reference "FB1")
 					(unit 1)
 				)
 			)
@@ -12721,7 +12573,7 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
 			(at 196.85 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -13226,8 +13078,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 281.94 140.97 0)
+		(lib_id "Device:FerriteBead_Small")
+		(at 287.02 135.89 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13235,31 +13087,29 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "1cc5ab0a-f130-4e76-8de3-8f3b58066a3d")
-		(property "Reference" "C15"
-			(at 282.956 138.176 0)
+		(uuid "1b5ffaeb-f0c1-4c2f-9b19-6bc534c92f4a")
+		(property "Reference" "FB5"
+			(at 283.464 138.176 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "47u"
-			(at 282.956 143.51 0)
+		(property "Value" "UPZ2012E102-1R5TF"
+			(at 283.464 140.716 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 282.9052 144.78 0)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 287.02 137.668 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13270,7 +13120,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 281.94 140.97 0)
+			(at 287.02 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13280,8 +13130,8 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 281.94 140.97 0)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 287.02 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13292,7 +13142,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 281.94 140.97 0)
+			(at 287.02 135.89 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13303,7 +13153,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 281.94 140.97 0)
+			(at 287.02 135.89 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13314,7 +13164,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 281.94 140.97 0)
+			(at 287.02 135.89 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13324,30 +13174,8 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
-			(at 281.94 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C96123"
-			(at 281.94 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C96123"
-			(at 281.94 140.97 0)
+		(property "LCSC Basic/Pref" "n"
+			(at 287.02 135.89 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13358,7 +13186,7 @@
 			)
 		)
 		(property "LCSC missing" ""
-			(at 281.94 140.97 0)
+			(at 287.02 135.89 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13369,7 +13197,198 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 281.94 140.97 0)
+			(at 287.02 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C98309"
+			(at 287.02 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C98309"
+			(at 287.02 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1d4076d9-35a5-4dd6-a8e6-c9ae1b8b1c79")
+		)
+		(pin "1"
+			(uuid "3940a23c-664b-456c-8865-de7b03dc0e5a")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "FB5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 303.53 140.97 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1cc5ab0a-f130-4e76-8de3-8f3b58066a3d")
+		(property "Reference" "C15"
+			(at 304.546 138.176 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47u"
+			(at 304.546 143.51 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 304.4952 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 303.53 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 303.53 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 303.53 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 303.53 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 303.53 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Basic/Pref" "x"
+			(at 303.53 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C96123"
+			(at 303.53 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C96123"
+			(at 303.53 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC missing" ""
+			(at 303.53 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 303.53 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13734,7 +13753,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 274.32 115.57 0)
+		(at 261.62 115.57 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13744,7 +13763,7 @@
 		(dnp no)
 		(uuid "1f93fb97-0a2d-44f5-b4d3-e89871b62735")
 		(property "Reference" "#PWR09"
-			(at 274.32 119.38 0)
+			(at 261.62 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13755,7 +13774,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 274.32 111.506 0)
+			(at 261.62 111.506 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13765,7 +13784,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 274.32 115.57 0)
+			(at 261.62 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13776,7 +13795,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 274.32 115.57 0)
+			(at 261.62 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13787,7 +13806,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 274.32 115.57 0)
+			(at 261.62 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16269,7 +16288,7 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
 			(at 196.85 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -16893,7 +16912,7 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
 			(at 196.85 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -18605,7 +18624,7 @@
 				)
 			)
 		)
-		(property "Value" "27"
+		(property "Value" "0"
 			(at 82.042 187.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18615,7 +18634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 77.47 191.008 90)
 			(hide yes)
 			(show_name no)
@@ -18681,7 +18700,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 77.47 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -18692,7 +18711,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25190"
+		(property "LCSC" "C17168"
 			(at 77.47 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -18703,7 +18722,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C25190"
+		(property "LCSC Part" "C17168"
 			(at 77.47 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -19667,7 +19686,7 @@
 				)
 			)
 		)
-		(property "Value" "27"
+		(property "Value" "0"
 			(at 82.042 177.8 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19677,7 +19696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 77.47 180.848 90)
 			(hide yes)
 			(show_name no)
@@ -19743,7 +19762,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 77.47 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -19754,7 +19773,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25190"
+		(property "LCSC" "C17168"
 			(at 77.47 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -19765,7 +19784,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C25190"
+		(property "LCSC Part" "C17168"
 			(at 77.47 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -20550,6 +20569,174 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 297.18 97.79 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5a5f102f-2809-4e6d-8733-fdf60c388446")
+		(property "Reference" "FB1"
+			(at 297.1419 91.44 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "UPZ2012E102-1R5TF"
+			(at 297.1419 93.98 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 297.18 99.568 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 297.18 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 297.18 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 297.18 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 297.18 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 297.18 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Basic/Pref" "n"
+			(at 297.18 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC missing" ""
+			(at 297.18 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 297.18 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C98309"
+			(at 297.18 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C98309"
+			(at 297.18 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "24060d71-637b-4c14-9a88-486e7f9ca7ea")
+		)
+		(pin "1"
+			(uuid "de574f83-34c1-4073-85a6-7fceca948826")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "FB1")
 					(unit 1)
 				)
 			)
@@ -21575,6 +21762,174 @@
 			(project "mcu"
 				(path "/97416748-7e5c-4bf4-ab93-2f2a0b3843f6"
 					(reference "TP?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 36.83 170.18 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "65f89d0c-c602-4884-afd6-9b5c22af6660")
+		(property "Reference" "R265"
+			(at 36.83 163.83 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 36.83 166.37 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 36.83 171.958 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 36.83 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 36.83 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 36.83 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 36.83 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 36.83 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17168"
+			(at 36.83 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C17168"
+			(at 36.83 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Basic/Pref" "x"
+			(at 36.83 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC missing" ""
+			(at 36.83 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 36.83 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "42451d62-28db-4274-bf14-0ae0a6c48150")
+		)
+		(pin "1"
+			(uuid "ba83e2a0-779e-4a63-87a8-64154d207f84")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "R265")
 					(unit 1)
 				)
 			)
@@ -27078,7 +27433,7 @@
 				)
 			)
 		)
-		(property "Value" "27"
+		(property "Value" "0"
 			(at 82.042 190.5 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27088,7 +27443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 77.47 193.548 90)
 			(hide yes)
 			(show_name no)
@@ -27154,7 +27509,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 77.47 191.77 90)
 			(hide yes)
 			(show_name no)
@@ -27165,7 +27520,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25190"
+		(property "LCSC" "C17168"
 			(at 77.47 191.77 90)
 			(hide yes)
 			(show_name no)
@@ -27176,7 +27531,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C25190"
+		(property "LCSC Part" "C17168"
 			(at 77.47 191.77 90)
 			(hide yes)
 			(show_name no)
@@ -28543,6 +28898,173 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 273.05 116.84 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "aa6534c6-94fa-4332-aadb-89fe318df21b")
+		(property "Reference" "FB3"
+			(at 279.4 110.236 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "UPZ2012E102-1R5TF"
+			(at 279.4 112.776 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 273.05 118.618 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 273.05 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 273.05 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 273.05 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 273.05 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Basic/Pref" "n"
+			(at 273.05 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC missing" ""
+			(at 273.05 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" ""
+			(at 273.05 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C98309"
+			(at 273.05 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C98309"
+			(at 273.05 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e9ed5011-42dd-4f95-8533-c5798fea1940")
+		)
+		(pin "1"
+			(uuid "c3d84e56-61fc-4e4e-813e-a96ff33bd0b0")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710"
+					(reference "FB3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 113.03 120.65 90)
 		(mirror x)
@@ -29891,7 +30413,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "bd1c1843-6374-4470-b976-5cc8bf7b8e37")
 		(property "Reference" "R9"
@@ -35364,7 +35886,7 @@
 				)
 			)
 		)
-		(property "Value" "27"
+		(property "Value" "0"
 			(at 82.042 180.34 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35374,7 +35896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 77.47 183.388 90)
 			(hide yes)
 			(show_name no)
@@ -35440,7 +35962,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 77.47 181.61 90)
 			(hide yes)
 			(show_name no)
@@ -35451,7 +35973,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25190"
+		(property "LCSC" "C17168"
 			(at 77.47 181.61 90)
 			(hide yes)
 			(show_name no)
@@ -35462,7 +35984,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C25190"
+		(property "LCSC Part" "C17168"
 			(at 77.47 181.61 90)
 			(hide yes)
 			(show_name no)
@@ -35765,7 +36287,7 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
 			(at 196.85 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -38112,7 +38634,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 281.94 146.05 0)
+		(at 303.53 146.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -38123,7 +38645,7 @@
 		(fields_autoplaced yes)
 		(uuid "fe835b96-d305-408b-bbd7-244dd63850dc")
 		(property "Reference" "#PWR020"
-			(at 281.94 152.4 0)
+			(at 303.53 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38134,7 +38656,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 281.94 151.13 0)
+			(at 303.53 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38144,7 +38666,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 281.94 146.05 0)
+			(at 303.53 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38155,7 +38677,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 281.94 146.05 0)
+			(at 303.53 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38166,7 +38688,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 281.94 146.05 0)
+			(at 303.53 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

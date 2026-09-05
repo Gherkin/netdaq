@@ -1632,6 +1632,12 @@
 		(uuid "42958fa5-fb89-4585-bbec-68c84f3c647c")
 	)
 	(junction
+		(at 236.22 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4c77925f-8651-4528-9c10-4a607fe1796a")
+	)
+	(junction
 		(at 158.75 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1684,12 +1690,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc890cdb-6ea0-478f-bc84-bd0d5a138097")
-	)
-	(junction
-		(at 236.22 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c234d6b6-5abe-4824-9f9e-5b5f166f4630")
 	)
 	(junction
 		(at 127 99.06)
@@ -1968,16 +1968,6 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 101.6) (xy 236.22 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30971b8b-0dcc-4272-b3e4-5b3ebf2dd533")
-	)
-	(wire
-		(pts
 			(xy 162.56 105.41) (xy 157.48 105.41)
 		)
 		(stroke
@@ -2135,16 +2125,6 @@
 			(type default)
 		)
 		(uuid "54883077-3d4d-4454-93fd-e614c1738387")
-	)
-	(wire
-		(pts
-			(xy 236.22 113.03) (xy 236.22 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b056d3c-2cef-4dc4-beae-bf65afdc8d13")
 	)
 	(wire
 		(pts
@@ -2695,6 +2675,16 @@
 			(type default)
 		)
 		(uuid "f1fb58db-cfe2-450b-9153-48d55a96d8fe")
+	)
+	(wire
+		(pts
+			(xy 236.22 101.6) (xy 236.22 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3101824-ffc4-4b2d-bc6e-10f2ad7af940")
 	)
 	(wire
 		(pts
@@ -5343,176 +5333,6 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/1813fba9-8b3b-4d19-ab19-e743aa636a8b"
 					(reference "C113")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 236.22 109.22 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e5b67ca3-710e-458b-bc3c-04a3b3a7a6b6")
-		(property "Reference" "R91"
-			(at 238.76 107.9499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100k"
-			(at 238.76 110.4899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 234.442 109.22 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 236.22 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 236.22 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 236.22 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 236.22 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.1" ""
-			(at 236.22 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Basic/Pref" "y"
-			(at 236.22 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C25741"
-			(at 236.22 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C25741"
-			(at 236.22 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC missing" ""
-			(at 236.22 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tolerance" ""
-			(at 236.22 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "fb81bfe9-2562-4abc-9fb5-4cc076da90ed")
-		)
-		(pin "1"
-			(uuid "32226376-8408-43d4-8082-29fd716fad23")
-		)
-		(instances
-			(project "netdaq"
-				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/1813fba9-8b3b-4d19-ab19-e743aa636a8b"
-					(reference "R91")
 					(unit 1)
 				)
 			)

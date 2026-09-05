@@ -31,10 +31,10 @@
       "keepouts": false,
       "lockedItems": false,
       "otherItems": false,
-      "pads": false,
-      "text": true,
-      "tracks": true,
-      "vias": true,
+      "pads": true,
+      "text": false,
+      "tracks": false,
+      "vias": false,
       "zones": false
     },
     "visible_items": [
@@ -58,7 +58,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_55555555_57555501",
+    "visible_layers": "00000000_00000000_55555555_57555521",
     "zone_display_mode": 0
   },
   "git": {

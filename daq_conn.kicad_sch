@@ -9162,7 +9162,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 115.5699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9173,7 +9173,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -9184,7 +9184,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -9239,7 +9239,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -9261,7 +9261,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -9272,7 +9272,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -10491,7 +10491,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 115.5699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10502,7 +10502,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -10513,7 +10513,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -10568,7 +10568,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -10590,7 +10590,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -10601,7 +10601,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -12917,7 +12917,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 45.7199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12928,7 +12928,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -12939,7 +12939,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -12994,7 +12994,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -13016,7 +13016,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -13027,7 +13027,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -13311,7 +13311,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 101.5999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13322,7 +13322,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -13333,7 +13333,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -13388,7 +13388,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -13410,7 +13410,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -13421,7 +13421,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -14133,7 +14133,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 243.8399 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14144,7 +14144,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -14155,7 +14155,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -14210,7 +14210,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 242.57 90)
 			(hide yes)
 			(show_name no)
@@ -14232,7 +14232,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 242.57 90)
 			(hide yes)
 			(show_name no)
@@ -14243,7 +14243,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 242.57 90)
 			(hide yes)
 			(show_name no)
@@ -17132,7 +17132,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 73.6599 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17143,7 +17143,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -17154,7 +17154,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -17209,7 +17209,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -17231,7 +17231,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -17242,7 +17242,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -18270,7 +18270,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 73.6599 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18281,7 +18281,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -18292,7 +18292,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -18347,7 +18347,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -18369,7 +18369,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -18380,7 +18380,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -19194,7 +19194,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 87.6299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19205,7 +19205,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -19216,7 +19216,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -19271,7 +19271,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -19293,7 +19293,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -19304,7 +19304,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -20261,7 +20261,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 144.7799 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20272,7 +20272,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -20283,7 +20283,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -20338,7 +20338,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -20360,7 +20360,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -20371,7 +20371,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -20602,7 +20602,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 243.8399 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20613,7 +20613,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -20624,7 +20624,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -20679,7 +20679,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 242.57 90)
 			(hide yes)
 			(show_name no)
@@ -20701,7 +20701,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 242.57 90)
 			(hide yes)
 			(show_name no)
@@ -20712,7 +20712,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 242.57 90)
 			(hide yes)
 			(show_name no)
@@ -20773,7 +20773,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 228.5999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20784,7 +20784,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -20795,7 +20795,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -20850,7 +20850,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 227.33 90)
 			(hide yes)
 			(show_name no)
@@ -20872,7 +20872,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 227.33 90)
 			(hide yes)
 			(show_name no)
@@ -20883,7 +20883,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 227.33 90)
 			(hide yes)
 			(show_name no)
@@ -22664,7 +22664,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 200.6599 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22675,7 +22675,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -22686,7 +22686,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -22741,7 +22741,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -22763,7 +22763,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -22774,7 +22774,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -23668,7 +23668,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 130.8099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23679,7 +23679,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -23690,7 +23690,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -23745,7 +23745,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -23767,7 +23767,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -23778,7 +23778,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -23916,7 +23916,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 228.5999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23927,7 +23927,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -23938,7 +23938,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -23993,7 +23993,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 227.33 90)
 			(hide yes)
 			(show_name no)
@@ -24015,7 +24015,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 227.33 90)
 			(hide yes)
 			(show_name no)
@@ -24026,7 +24026,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 227.33 90)
 			(hide yes)
 			(show_name no)
@@ -25430,7 +25430,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 200.6599 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25441,7 +25441,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -25452,7 +25452,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -25507,7 +25507,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -25529,7 +25529,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -25540,7 +25540,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -26097,7 +26097,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 130.8099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26108,7 +26108,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -26119,7 +26119,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -26174,7 +26174,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -26196,7 +26196,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -26207,7 +26207,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -27398,7 +27398,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 186.6899 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27409,7 +27409,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -27420,7 +27420,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -27475,7 +27475,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -27497,7 +27497,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -27508,7 +27508,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -28220,7 +28220,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 158.7499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28231,7 +28231,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -28242,7 +28242,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -28297,7 +28297,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -28319,7 +28319,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -28330,7 +28330,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -29305,7 +29305,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 144.7799 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29316,7 +29316,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -29327,7 +29327,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -29382,7 +29382,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -29404,7 +29404,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -29415,7 +29415,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -31875,7 +31875,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 45.7199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31886,7 +31886,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -31897,7 +31897,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -31952,7 +31952,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -31974,7 +31974,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -31985,7 +31985,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -32917,7 +32917,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 31.7499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32928,7 +32928,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -32939,7 +32939,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -32994,7 +32994,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -33016,7 +33016,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -33027,7 +33027,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -33488,7 +33488,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 59.6899 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33499,7 +33499,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -33510,7 +33510,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -33565,7 +33565,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -33587,7 +33587,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -33598,7 +33598,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -34689,7 +34689,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 59.6899 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34700,7 +34700,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -34711,7 +34711,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -34766,7 +34766,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -34788,7 +34788,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -34799,7 +34799,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -34859,7 +34859,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 87.6299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34870,7 +34870,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -34881,7 +34881,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -34936,7 +34936,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -34958,7 +34958,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -34969,7 +34969,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -35106,7 +35106,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 214.6299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35117,7 +35117,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -35128,7 +35128,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -35183,7 +35183,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 213.36 90)
 			(hide yes)
 			(show_name no)
@@ -35205,7 +35205,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 213.36 90)
 			(hide yes)
 			(show_name no)
@@ -35216,7 +35216,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 213.36 90)
 			(hide yes)
 			(show_name no)
@@ -35771,7 +35771,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 101.5999 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35782,7 +35782,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -35793,7 +35793,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -35848,7 +35848,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -35870,7 +35870,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -35881,7 +35881,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -36361,7 +36361,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 158.7499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36372,7 +36372,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -36383,7 +36383,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -36438,7 +36438,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -36460,7 +36460,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -36471,7 +36471,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -37246,7 +37246,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 186.6899 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37257,7 +37257,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -37268,7 +37268,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -37323,7 +37323,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -37345,7 +37345,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -37356,7 +37356,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -38344,7 +38344,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 214.6299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38355,7 +38355,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -38366,7 +38366,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -38421,7 +38421,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 213.36 90)
 			(hide yes)
 			(show_name no)
@@ -38443,7 +38443,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 213.36 90)
 			(hide yes)
 			(show_name no)
@@ -38454,7 +38454,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 213.36 90)
 			(hide yes)
 			(show_name no)
@@ -39156,7 +39156,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 172.7199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39167,7 +39167,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -39178,7 +39178,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -39233,7 +39233,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -39255,7 +39255,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -39266,7 +39266,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -39495,7 +39495,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 129.54 172.7199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39506,7 +39506,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -39517,7 +39517,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -39572,7 +39572,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -39594,7 +39594,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 127 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -39605,7 +39605,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 127 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -40833,7 +40833,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DF2S30FS,L3M"
+		(property "Value" "H24VND3BA"
 			(at 293.37 31.7499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40844,7 +40844,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-923"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 295.91 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -40855,7 +40855,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C1973663.pdf?spm=wm.fly.bg.0.pdf___wm.mly.mlk.6-20-3.ml&lcsc_vid=QFVaUQZeFAVcX1BeFABbAVRfT1FaUVJRQVdbBFEHElIxVlNeRFBaU1VXRFhWVTtW"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -40910,7 +40910,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" ""
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -40932,7 +40932,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1973663"
+		(property "LCSC" "C20615815"
 			(at 295.91 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -40943,7 +40943,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1973663"
+		(property "LCSC Part" "C20615815"
 			(at 295.91 30.48 90)
 			(hide yes)
 			(show_name no)

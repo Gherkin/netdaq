@@ -1143,12 +1143,6 @@
 		(uuid "8c1fe454-69a4-4ca1-a683-d008251da0ee")
 	)
 	(junction
-		(at 176.53 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9837bf6e-781e-4e32-80d6-f279325d6bb9")
-	)
-	(junction
 		(at 154.94 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1158,13 +1152,19 @@
 		(at 166.37 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "aa591bf7-5a9e-4def-890f-bf635e38a8d3")
+		(uuid "b3f42024-b0b7-4eef-b16b-43879f52323a")
 	)
 	(junction
 		(at 186.69 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ddbe5b15-831e-44a4-aa67-8223b11a6d84")
+	)
+	(junction
+		(at 176.53 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "df7145ab-03a8-47ec-b9cb-4d84768d9f6c")
 	)
 	(junction
 		(at 242.57 162.56)
@@ -1197,6 +1197,16 @@
 			(type default)
 		)
 		(uuid "171ec481-3cae-415d-bd3b-b429885624d1")
+	)
+	(wire
+		(pts
+			(xy 176.53 129.54) (xy 176.53 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31e48ef7-f291-4d22-b13b-25bac6878d9c")
 	)
 	(wire
 		(pts
@@ -1240,7 +1250,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 134.62) (xy 166.37 135.89)
+			(xy 166.37 137.16) (xy 166.37 138.43)
 		)
 		(stroke
 			(width 0)
@@ -1260,7 +1270,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 143.51) (xy 176.53 148.59)
+			(xy 176.53 146.05) (xy 176.53 148.59)
 		)
 		(stroke
 			(width 0)
@@ -1290,7 +1300,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 125.73) (xy 166.37 127)
+			(xy 166.37 125.73) (xy 166.37 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1300,7 +1310,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 135.89) (xy 176.53 128.27)
+			(xy 176.53 138.43) (xy 176.53 137.16)
 		)
 		(stroke
 			(width 0)
@@ -1590,7 +1600,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 143.51) (xy 166.37 148.59)
+			(xy 166.37 146.05) (xy 166.37 148.59)
 		)
 		(stroke
 			(width 0)
@@ -1673,7 +1683,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 166.37 130.81 0)
+		(at 166.37 133.35 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1684,17 +1694,6 @@
 		(fields_autoplaced yes)
 		(uuid "05e103de-ea82-46ff-9368-8f92f5e1ba27")
 		(property "Reference" "R108"
-			(at 168.91 129.5399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "33"
 			(at 168.91 132.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1705,8 +1704,19 @@
 				(justify left)
 			)
 		)
+		(property "Value" "33"
+			(at 168.91 134.6199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 164.592 130.81 90)
+			(at 164.592 133.35 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1717,7 +1727,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 130.81 0)
+			(at 166.37 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1728,7 +1738,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 166.37 130.81 0)
+			(at 166.37 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1739,7 +1749,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 166.37 130.81 0)
+			(at 166.37 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1750,7 +1760,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 166.37 130.81 0)
+			(at 166.37 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1761,7 +1771,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 166.37 130.81 0)
+			(at 166.37 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1772,7 +1782,7 @@
 			)
 		)
 		(property "LCSC Basic/Pref" "x"
-			(at 166.37 130.81 0)
+			(at 166.37 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1783,7 +1793,7 @@
 			)
 		)
 		(property "LCSC missing" ""
-			(at 166.37 130.81 0)
+			(at 166.37 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1794,7 +1804,7 @@
 			)
 		)
 		(property "LCSC" "C25105"
-			(at 166.37 130.81 0)
+			(at 166.37 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1805,7 +1815,7 @@
 			)
 		)
 		(property "LCSC Part" "C25105"
-			(at 166.37 130.81 0)
+			(at 166.37 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1815,8 +1825,8 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
-			(at 166.37 130.81 0)
+		(property "Tolerance" "1%"
+			(at 166.37 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2484,7 +2494,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 176.53 139.7 0)
+		(at 176.53 142.24 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2495,17 +2505,6 @@
 		(fields_autoplaced yes)
 		(uuid "78f6701c-23f5-4590-b900-ae69ef945d1e")
 		(property "Reference" "R100"
-			(at 179.07 138.4299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "240k"
 			(at 179.07 140.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2516,8 +2515,19 @@
 				(justify left)
 			)
 		)
+		(property "Value" "240k"
+			(at 179.07 143.5099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 174.752 139.7 90)
+			(at 174.752 142.24 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2528,7 +2538,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 139.7 0)
+			(at 176.53 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2539,7 +2549,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 176.53 139.7 0)
+			(at 176.53 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2550,7 +2560,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 176.53 139.7 0)
+			(at 176.53 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2561,7 +2571,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 176.53 139.7 0)
+			(at 176.53 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2572,7 +2582,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 176.53 139.7 0)
+			(at 176.53 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2583,7 +2593,7 @@
 			)
 		)
 		(property "LCSC Basic/Pref" "x"
-			(at 176.53 139.7 0)
+			(at 176.53 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2594,7 +2604,7 @@
 			)
 		)
 		(property "LCSC" "C4197"
-			(at 176.53 139.7 0)
+			(at 176.53 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2605,7 +2615,7 @@
 			)
 		)
 		(property "LCSC Part" "C4197"
-			(at 176.53 139.7 0)
+			(at 176.53 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2616,7 +2626,7 @@
 			)
 		)
 		(property "LCSC missing" ""
-			(at 176.53 139.7 0)
+			(at 176.53 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2626,8 +2636,8 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
-			(at 176.53 139.7 0)
+		(property "Tolerance" "1%"
+			(at 176.53 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2796,7 +2806,7 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
 			(at 176.53 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3174,6 +3184,209 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 176.53 133.35 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e148f259-1e31-4b4b-8d6f-d218baa2b2bf")
+		(property "Reference" "R260"
+			(at 179.07 132.0799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "3k"
+			(at 179.07 134.6199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 174.752 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579706243139112960-C4211.pdf?response-content-disposition=attachment%3B%20filename%3DC4211.pdf%3B%20filename%2A%3DUTF-8%27%27C4211.pdf&x-oss-date=20260905T095655Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5mEM8KGg4VI%2FY%2BRO3LWsEo8RrYZrI3Iljz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qdNS32gu557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWirs13P7LjvyAFpORa%2Bb5wchMHn6pr9EWOXuJZUIn3b%2FstWNupKq5ldctHSeoXq108CXVnU5PXYI96YFGKKWD5sagAGOpzOqbvlcxCv7tQnbX6yhXSKVJqfxPLnJc88m62%2FaFJ%2Fk2OTOq7lXQi0kUw9JcmNLNGL5CQf8MQ7Cs1JX63I8pEyn%2FLsK3yg5%2F%2FDesLHpIsKvxYR3UDnZmcwkZUknHAMpxM2ANa9FGoJDnNzZNv9t%2F9CWXMdmWqKR2jhP3a8MIiAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZ1xx2nZiJMz9TgTJiJ95CHct%2F20260905%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=9915ed3c0abe13638c44635dcf2d32b2c7381aad5d2a1028d3eaa533cce20b92"
+			(at 176.53 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 176.53 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 176.53 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 176.53 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 176.53 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Basic/Pref" "y"
+			(at 176.53 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC missing" "n"
+			(at 176.53 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C4211"
+			(at 176.53 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C4211"
+			(at 176.53 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 176.53 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 176.53 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603WAF3001T5E"
+			(at 176.53 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "100mW"
+			(at 176.53 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "60516e3d-7f86-40bb-85ba-a34db3184539")
+		)
+		(pin "2"
+			(uuid "130f31ce-f751-44b5-9ce9-5522ffab670b")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/dfd7c564-50b6-4b87-afcf-cfbf80807611"
+					(reference "R260")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 166.37 114.3 0)
 		(unit 1)
 		(body_style 1)
@@ -3272,7 +3485,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 166.37 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3316,7 +3529,7 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
 			(at 166.37 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3514,7 +3727,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 166.37 139.7 0)
+		(at 166.37 142.24 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3525,17 +3738,6 @@
 		(fields_autoplaced yes)
 		(uuid "fc10ea3f-a059-4a0c-9ffb-7f8a3f75708c")
 		(property "Reference" "R101"
-			(at 168.91 138.4299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100"
 			(at 168.91 140.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3546,8 +3748,19 @@
 				(justify left)
 			)
 		)
+		(property "Value" "100"
+			(at 168.91 143.5099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 164.592 139.7 90)
+			(at 164.592 142.24 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3558,7 +3771,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 139.7 0)
+			(at 166.37 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3569,7 +3782,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 166.37 139.7 0)
+			(at 166.37 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3580,7 +3793,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 166.37 139.7 0)
+			(at 166.37 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3591,7 +3804,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 166.37 139.7 0)
+			(at 166.37 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3602,7 +3815,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 166.37 139.7 0)
+			(at 166.37 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3613,7 +3826,7 @@
 			)
 		)
 		(property "LCSC Basic/Pref" "x"
-			(at 166.37 139.7 0)
+			(at 166.37 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3624,7 +3837,7 @@
 			)
 		)
 		(property "LCSC missing" ""
-			(at 166.37 139.7 0)
+			(at 166.37 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3635,7 +3848,7 @@
 			)
 		)
 		(property "LCSC" "C25076"
-			(at 166.37 139.7 0)
+			(at 166.37 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3646,7 +3859,7 @@
 			)
 		)
 		(property "LCSC Part" "C25076"
-			(at 166.37 139.7 0)
+			(at 166.37 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3656,8 +3869,8 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
-			(at 166.37 139.7 0)
+		(property "Tolerance" "1%"
+			(at 166.37 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
