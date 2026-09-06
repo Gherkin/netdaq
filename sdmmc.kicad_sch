@@ -2852,7 +2852,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25744.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1dZUl1XQlFeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNXUEoOAwwC"
 			(at 114.3 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2907,7 +2907,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 114.3 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2940,7 +2940,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "n"
 			(at 114.3 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2951,7 +2951,51 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
+			(at 114.3 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 114.3 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 114.3 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "62.5mW"
+			(at 114.3 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 114.3 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3178,7 +3222,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25744.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1dZUl1XQlFeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNXUEoOAwwC"
 			(at 123.19 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3233,7 +3277,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 123.19 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3266,7 +3310,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "n"
 			(at 123.19 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3277,7 +3321,51 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
+			(at 123.19 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 123.19 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 123.19 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "62.5mW"
+			(at 123.19 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 123.19 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3456,6 +3544,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 219.71 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "CD"
 			(uuid "0bba8033-6ce5-49ac-a686-d2586a50ccc3")
 		)
@@ -3549,7 +3648,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25744.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1dZUl1XQlFeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNXUEoOAwwC"
 			(at 132.08 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3604,7 +3703,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 132.08 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3637,7 +3736,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "n"
 			(at 132.08 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3648,7 +3747,51 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
+			(at 132.08 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 132.08 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 132.08 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "62.5mW"
+			(at 132.08 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 132.08 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4217,6 +4360,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 170.18 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0cb1a64d-81d2-4d3e-8da0-d9f9519122bd")
 		)
@@ -4289,7 +4443,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25744.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1dZUl1XQlFeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNXUEoOAwwC"
 			(at 140.97 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4344,7 +4498,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 140.97 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4377,7 +4531,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "n"
 			(at 140.97 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4388,7 +4542,51 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
+			(at 140.97 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 140.97 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 140.97 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "62.5mW"
+			(at 140.97 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 140.97 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4459,7 +4657,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25744.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1dZUl1XQlFeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNXUEoOAwwC"
 			(at 167.64 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4514,7 +4712,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 167.64 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4547,7 +4745,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "n"
 			(at 167.64 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4558,7 +4756,51 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
+			(at 167.64 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 167.64 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 167.64 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "62.5mW"
+			(at 167.64 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 167.64 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4737,6 +4979,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 130.81 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "397933d8-ac00-4c98-a66a-2214df4af76f")
 		)
@@ -4809,7 +5062,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25744.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1dZUl1XQlFeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNXUEoOAwwC"
 			(at 158.75 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4864,7 +5117,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 158.75 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4897,7 +5150,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "n"
 			(at 158.75 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4908,7 +5161,51 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
+			(at 158.75 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 158.75 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 158.75 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "62.5mW"
+			(at 158.75 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 158.75 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5323,6 +5620,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 180.34 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "02794f76-ac68-481f-80fe-9ae822cca321")
 		)
@@ -5383,7 +5691,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25744.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1dZUl1XQlFeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNXUEoOAwwC"
 			(at 149.86 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5438,7 +5746,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 149.86 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5471,7 +5779,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "n"
 			(at 149.86 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5482,7 +5790,51 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
+			(at 149.86 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 149.86 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 149.86 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "62.5mW"
+			(at 149.86 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 149.86 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5653,6 +6005,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 195.58 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 195.58 64.77 0)
 			(hide yes)
 			(show_name no)

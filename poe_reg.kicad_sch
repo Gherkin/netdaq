@@ -4468,6 +4468,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 283.21 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dd0c28fb-f760-4049-8cc1-caba0c2c7cc9")
 		)
@@ -4638,6 +4649,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 124.46 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d0a64796-59f6-4be1-9e54-2f9ea6ede354")
 		)
@@ -4737,7 +4759,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -4852,6 +4874,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 243.84 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 243.84 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -5188,6 +5221,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 133.35 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "14"
 			(uuid "1f71a6f9-863e-47cf-8093-5a55e84cff82")
 		)
@@ -5387,6 +5431,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 96.52 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -5723,6 +5778,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 96.52 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "803f8f55-11b2-491e-a808-6420e51554de")
 		)
@@ -5858,6 +5924,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 215.9 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 215.9 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -6167,6 +6244,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 190.5 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "93832502-794b-43de-b7c4-6fcc4d36e807")
 		)
@@ -6359,6 +6447,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 109.22 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "45128413-ff4c-4e84-9a80-4b0dbbde02b4")
 		)
@@ -6499,6 +6598,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 105.41 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 105.41 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -6656,6 +6766,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 233.68 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2274b7f9-5d1a-4929-800c-76a5a7684a8a")
 		)
@@ -6802,6 +6923,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 193.04 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a0889738-9a75-4cec-ae21-c1140c1b29bb")
 		)
@@ -6848,7 +6980,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 314.198 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -6859,7 +6991,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579705986066026496-C25087.pdf?response-content-disposition=attachment%3B%20filename%3DC25087.pdf%3B%20filename%2A%3DUTF-8%27%27C25087.pdf&x-oss-date=20260906T080114Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5qMIo%2Fco%2Bl34aG7RlLVlmlsSc5et%2FHlujz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qZN0slIu557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWgrMe4k2SPZqaIWzHOTEFupYY7CDV2HC3D82fcxJ2B%2Bmz7zwy%2B%2Fdqxot7SHZVvl3SE4LlO17v1wIU7UcxaKWD5sagAEeJF5oW6mSsCUe8S%2BPvghauFqBb2F7v0lsc%2Btd4t6iV5UqXD5aRdOZ8Wr136%2Bp9FE%2BtyDG98O285bxV2GMu9tmAGVukYy7%2FyEFnvS2tCeov1zfWJYn3F%2FbG7PCWZhAQt7oPRDmWPsfXqnJEGwNadl31Rm55%2B7vOCxsV3UsHirdHyAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NY9i5hN6VVcPDtdri9EArX4NX%2F20260906%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=0c75c9611dd782bf4cde790ef2a0211590a234338034aa43fa1e95313412abc6"
 			(at 312.42 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -6925,7 +7057,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "n"
 			(at 312.42 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -6958,7 +7090,51 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
+			(at 312.42 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" " 50V"
+			(at 312.42 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF2000TCE"
+			(at 312.42 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 312.42 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" " 62.5mW"
 			(at 312.42 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -7148,6 +7324,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 248.92 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 248.92 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -7386,6 +7573,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 196.85 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "831f1675-3df5-4483-8333-b25fbe01b237")
 		)
@@ -7404,7 +7602,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -7565,6 +7763,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 190.5 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 190.5 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -7823,6 +8032,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 190.5 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "58665bca-e8e9-49fa-bf43-cc0f3659900d")
 		)
@@ -7992,6 +8212,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 270.51 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "68d93cb4-8755-4138-8202-a1c772fe4b32")
 		)
@@ -8142,6 +8373,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 196.85 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d65326ee-ecef-485c-b9f5-809f17f78535")
 		)
@@ -8188,7 +8430,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 314.198 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -8199,7 +8441,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579706011701202944-C25102.pdf?response-content-disposition=attachment%3B%20filename%3DC25102.pdf%3B%20filename%2A%3DUTF-8%27%27C25102.pdf&x-oss-date=20260906T080235Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5qMIo%2Fco%2Bl34aG7RlLVlmlsSc5et%2FHlujz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qZN0slIu557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWgrMe4k2SPZqaIWzHOTEFupYY7CDV2HC3D82fcxJ2B%2Bmz7zwy%2B%2Fdqxot7SHZVvl3SE4LlO17v1wIU7UcxaKWD5sagAEeJF5oW6mSsCUe8S%2BPvghauFqBb2F7v0lsc%2Btd4t6iV5UqXD5aRdOZ8Wr136%2Bp9FE%2BtyDG98O285bxV2GMu9tmAGVukYy7%2FyEFnvS2tCeov1zfWJYn3F%2FbG7PCWZhAQt7oPRDmWPsfXqnJEGwNadl31Rm55%2B7vOCxsV3UsHirdHyAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NY9i5hN6VVcPDtdri9EArX4NX%2F20260906%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=179005ea02bfa169e4604e899d7d69afb02be7877a43176b730016d1a3146d8a"
 			(at 312.42 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -8265,7 +8507,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "n"
 			(at 312.42 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -8298,7 +8540,51 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
+			(at 312.42 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" " 50V"
+			(at 312.42 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF3000TCE"
+			(at 312.42 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 312.42 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "UNI-ROYAL(Uniroyal Elec)"
 			(at 312.42 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -8556,6 +8842,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 96.52 127 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "26c54e9f-00c4-4c9c-b5d1-2bb89cc6f468")
 		)
@@ -8577,7 +8874,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -8692,6 +8989,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 255.27 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 255.27 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -9139,6 +9447,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 180.34 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4a4a0bf1-f37d-495e-bc0d-cbcddfbf5a94")
 		)
@@ -9299,6 +9618,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 118.11 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 118.11 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -9501,6 +9831,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 298.45 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "be21585d-7792-4453-94bd-7780f40af1ef")
 		)
@@ -9671,6 +10012,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 190.5 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9bee49e7-54e9-4131-bc58-a1fdb7b033c0")
 		)
@@ -9821,6 +10173,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 288.29 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "10b65475-6ea2-4a12-a063-5c04e48ad9d4")
 		)
@@ -9956,7 +10319,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25744.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1dZUl1XQlFeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNXUEoOAwwC"
 			(at 96.52 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -10011,7 +10374,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "x"
+		(property "LCSC Basic/Pref" "y"
 			(at 96.52 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -10044,7 +10407,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" ""
+		(property "LCSC missing" "n"
 			(at 96.52 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -10055,7 +10418,51 @@
 				)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL"
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "62.5mW"
+			(at 96.52 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 96.52 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -10372,6 +10779,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 227.33 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5e6acf0b-475c-4f6c-abd0-1e24a8dd6e3a")
 		)
@@ -10529,6 +10947,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 123.19 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 123.19 162.56 0)
 			(hide yes)
 			(show_name no)

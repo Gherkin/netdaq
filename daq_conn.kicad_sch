@@ -8897,7 +8897,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -9036,6 +9036,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9294,6 +9305,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 127 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9ef3f2f8-b5c6-4b26-814d-5307aacd247d")
 		)
@@ -9393,7 +9415,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -9532,6 +9554,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 278.13 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 278.13 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -9790,6 +9823,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 96.52 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c5fb2578-ce84-4884-8ddc-e037e745ee65")
 		)
@@ -9959,6 +10003,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 312.42 208.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ceb32c0c-b8d9-43bd-a3bf-259ab5f7b3a9")
 		)
@@ -9980,7 +10035,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -10119,6 +10174,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -10375,6 +10441,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 312.42 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "742c0922-81cf-4b71-862a-6a36683ec6d8")
 		)
@@ -10613,6 +10690,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 295.91 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 295.91 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -11022,6 +11110,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 110.49 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6f0411b7-e311-455b-a162-ee283a6a4675")
 		)
@@ -11198,7 +11297,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -11337,6 +11436,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -11516,6 +11626,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 312.42 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "05ccd885-9b00-46c0-ab7e-dda75cfce856")
 		)
@@ -11665,6 +11786,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 196.85 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "741f7190-3a8d-4bea-bc36-c794911064a6")
 		)
@@ -11800,6 +11932,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 226.06 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 226.06 113.03 90)
 			(hide yes)
 			(show_name no)
@@ -12062,7 +12205,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -12201,6 +12344,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 278.13 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 278.13 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -12460,6 +12614,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 326.39 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "733a704b-29a5-4b61-a50d-1767a9b6956a")
 		)
@@ -12559,7 +12724,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -12698,6 +12863,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -12879,6 +13055,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 326.39 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "161ac224-6832-40c4-8421-fba45f7a4cad")
 		)
@@ -13039,6 +13226,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 127 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 127 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -13275,6 +13473,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 226.06 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5211dac4-6dce-451e-8a98-4891687a5add")
 		)
@@ -13433,6 +13642,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 295.91 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 295.91 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -13697,7 +13917,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -13836,6 +14056,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -14006,6 +14237,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 96.52 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 96.52 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -14265,6 +14507,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 295.91 242.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "15e26952-e02b-4f1f-830a-5db8b1b7973f")
 		)
@@ -14513,6 +14766,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 326.39 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "988d7c84-28f8-4218-a109-e448a180bfb9")
 		)
@@ -14652,6 +14916,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 196.85 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 196.85 113.03 90)
 			(hide yes)
 			(show_name no)
@@ -14820,6 +15095,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 326.39 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 326.39 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -15212,6 +15498,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 226.06 123.19 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fdc2f068-2b35-4edd-8555-a7751e95cda2")
 		)
@@ -15344,6 +15641,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 212.09 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 212.09 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -15711,6 +16019,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 326.39 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "892c5f7c-7622-4d4a-8631-0dfd99c2fdf3")
 		)
@@ -16034,6 +16353,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 110.49 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b3252dd2-e927-466d-adf5-c62a881f22e6")
 		)
@@ -16133,7 +16463,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -16272,6 +16602,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 278.13 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 278.13 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -16441,6 +16782,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 312.42 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 312.42 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -16622,6 +16974,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 326.39 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c45a2020-ae8e-40f0-9130-1621cf792d46")
 		)
@@ -16721,7 +17084,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -16860,6 +17223,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -17009,6 +17383,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 196.85 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 196.85 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -17264,6 +17649,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 295.91 72.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "445c50e5-07a2-4a06-bb68-def52dbb14c7")
 		)
@@ -17286,7 +17682,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -17425,6 +17821,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 278.13 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 278.13 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -17662,6 +18069,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 196.85 123.19 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e42f6d8a-5fa2-4720-b57a-248abc0dfe71")
 		)
@@ -17820,6 +18238,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 326.39 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 326.39 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -18006,7 +18435,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -18145,6 +18574,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -18402,6 +18842,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 127 72.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2bafad74-d43f-4597-b24f-57caf585f5d7")
 		)
@@ -18570,6 +19021,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 110.49 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8681d160-4932-4231-90fd-7bf182f66988")
 		)
@@ -18728,6 +19190,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 110.49 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 110.49 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -18908,6 +19381,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 96.52 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "32eedc12-c3df-445c-aeb3-b44fc930abbd")
 		)
@@ -19006,7 +19490,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -19145,6 +19629,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -19316,6 +19811,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 295.91 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 295.91 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -19651,6 +20157,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 96.52 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1f33694c-893d-43e6-89d6-04e23083a052")
 		)
@@ -19821,6 +20338,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 96.52 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ddd6b8d0-811f-4fcd-9419-3c754afc3873")
 		)
@@ -19842,7 +20370,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -19981,6 +20509,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -20393,6 +20932,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 127 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "644d5eec-16f8-4eb5-872b-9daf3d777de2")
 		)
@@ -20415,7 +20965,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -20554,6 +21104,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 278.13 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 278.13 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -20724,6 +21285,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 127 242.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 127 242.57 90)
 			(hide yes)
 			(show_name no)
@@ -20905,6 +21477,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 295.91 227.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1998a389-8e6a-40e4-90da-22acc229ff0d")
 		)
@@ -21044,6 +21627,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 196.85 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 196.85 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -21288,6 +21882,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 96.52 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 96.52 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -21552,7 +22157,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -21691,6 +22296,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 278.13 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 278.13 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -21870,6 +22486,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 312.42 237.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "32e51fb1-a59f-4483-a967-2f39e6a8e853")
 		)
@@ -21969,7 +22596,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -22108,6 +22735,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -22276,6 +22914,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 110.49 166.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 110.49 166.37 90)
 			(hide yes)
 			(show_name no)
@@ -22456,6 +23105,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 96.52 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "82e743be-2bd2-4931-aaac-c53ec43d9a19")
 		)
@@ -22615,6 +23275,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 312.42 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 312.42 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -22796,6 +23467,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 295.91 199.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f4739db4-4810-454a-a283-3e484105bac2")
 		)
@@ -22954,6 +23636,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 110.49 180.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 110.49 180.34 90)
 			(hide yes)
 			(show_name no)
@@ -23123,6 +23816,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 312.42 180.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 312.42 180.34 90)
 			(hide yes)
 			(show_name no)
@@ -23459,6 +24163,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 326.39 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6dcbbdc6-9fbf-4567-a90a-6aac877dbea6")
 		)
@@ -23481,7 +24196,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -23620,6 +24335,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 278.13 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 278.13 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -23790,6 +24516,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 127 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 127 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -24048,6 +24785,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 127 227.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a8268067-1366-4193-922d-a562559a261e")
 		)
@@ -24069,7 +24817,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -24208,6 +24956,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -24386,6 +25145,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 110.49 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a9e67c91-c0ef-48cd-8e33-0b153ae9478e")
 		)
@@ -24524,6 +25294,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 226.06 130.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 226.06 130.81 90)
 			(hide yes)
 			(show_name no)
@@ -24691,6 +25472,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 96.52 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 96.52 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -24947,6 +25739,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 312.42 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dae373ae-a005-4e7a-98dc-47f7bb860660")
 		)
@@ -25173,6 +25976,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 196.85 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4553405b-859b-41b9-822c-cb28a8a10764")
 		)
@@ -25308,6 +26122,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 226.06 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 226.06 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -25562,6 +26387,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 127 199.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9faddb9e-5f0d-43ae-87b1-6ea07ec3f20d")
 		)
@@ -25584,7 +26420,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -25733,6 +26569,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 278.13 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1d28b516-01a5-4a1d-9638-8ad6baf2024f")
 		)
@@ -25832,7 +26679,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -25971,6 +26818,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 278.13 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 278.13 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -26229,6 +27087,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 295.91 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a2a19c96-dfcc-46de-9b7d-4c232cb6f40c")
 		)
@@ -26444,6 +27313,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 226.06 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 226.06 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -26697,6 +27577,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 312.42 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f3b99808-3cfb-4354-a745-e62444171710")
 		)
@@ -26855,6 +27746,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 110.49 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 110.49 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -27112,6 +28014,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 312.42 194.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f7411297-ffa5-4850-851f-ff5e1d52890f")
 		)
@@ -27134,7 +28047,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -27273,6 +28186,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 278.13 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 278.13 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -27530,6 +28454,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 127 185.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "28b05d8e-d0cf-4977-a29b-b31d1dfbe31e")
 		)
@@ -27690,6 +28625,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 96.52 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 96.52 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -27938,6 +28884,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 326.39 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 326.39 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -28352,6 +29309,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 127 157.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e8263375-0d70-467e-bda3-67840f31af1d")
 		)
@@ -28522,6 +29490,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 96.52 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "03216950-71c8-4f95-9236-c4079743f398")
 		)
@@ -28621,7 +29600,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -28760,6 +29739,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 278.13 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 278.13 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -28930,6 +29920,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 96.52 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 96.52 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -29266,6 +30267,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 326.39 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b206362c-dd9b-430e-a21c-052ab6f8523e")
 		)
@@ -29427,6 +30439,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 295.91 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 295.91 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -29608,6 +30631,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 326.39 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "91717e64-75c8-4538-a895-bc2d31113281")
 		)
@@ -29630,7 +30664,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -29769,6 +30803,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 278.13 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 278.13 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -30026,6 +31071,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 96.52 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "be801857-2029-40e9-8a57-66a1438f4ee0")
 		)
@@ -30174,6 +31230,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 226.06 118.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "909032ba-fe73-4253-92fa-fef529894fe5")
 		)
@@ -30310,6 +31377,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 196.85 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 196.85 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -30641,6 +31719,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 110.49 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8c87a9d8-e3aa-43cd-8920-ed6b0ba8372b")
 		)
@@ -30662,7 +31751,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -30811,6 +31900,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 144.78 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7c954419-2499-4b7f-9885-5a5432e7a532")
 		)
@@ -30833,7 +31933,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -30972,6 +32072,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 278.13 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 278.13 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -31208,6 +32319,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 196.85 130.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "63d7ffd8-a040-479c-8756-f5c1c25fa2d5")
 		)
@@ -31354,6 +32476,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 196.85 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c296c924-ba39-4dc3-b94f-cf8f18d6920b")
 		)
@@ -31372,7 +32505,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -31511,6 +32644,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -31690,6 +32834,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 312.42 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "36e80be4-9624-409d-8e20-790eb838f6d3")
 		)
@@ -31829,6 +32984,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 196.85 125.73 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 196.85 125.73 90)
 			(hide yes)
 			(show_name no)
@@ -31997,6 +33163,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 295.91 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 295.91 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -32411,6 +33588,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 326.39 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "81c79b50-896d-44eb-b7b2-73510ba13e4f")
 		)
@@ -32579,6 +33767,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 110.49 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "43e01440-4f1a-4730-83b3-4614c534425a")
 		)
@@ -32717,6 +33916,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 226.06 151.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 226.06 151.13 90)
 			(hide yes)
 			(show_name no)
@@ -33049,6 +34259,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 127 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "40236fc9-895c-4b71-bae9-77f54d9007b4")
 		)
@@ -33284,6 +34505,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 110.49 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 110.49 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -33620,6 +34852,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 295.91 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8108ecbb-f2ab-41e9-9c57-b96f7464c159")
 		)
@@ -33866,6 +35109,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 312.42 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d2d1e10a-ac77-409a-b35b-069d8f22026f")
 		)
@@ -34005,6 +35259,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 196.85 151.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 196.85 151.13 90)
 			(hide yes)
 			(show_name no)
@@ -34183,6 +35448,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 326.39 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8f7094b5-20c8-4865-a2bd-7236b48ad091")
 		)
@@ -34322,6 +35598,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 196.85 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 196.85 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -34487,6 +35774,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 110.49 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 110.49 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -34821,6 +36119,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 127 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5dddd5c7-cc7f-4e98-93df-f65dc5b461ad")
 		)
@@ -34981,6 +36290,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 127 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 127 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -35238,6 +36558,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 127 213.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "57eab7e8-f335-468e-9a91-b417de960c1b")
 		)
@@ -35259,7 +36590,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -35398,6 +36729,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -35568,6 +36910,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 96.52 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 96.52 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -35903,6 +37256,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 127 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4d4e0194-4dfb-4f1e-ae9b-0981915e9815")
 		)
@@ -36064,6 +37428,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 326.39 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 326.39 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -36322,6 +37697,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 96.52 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "80dfaa35-3003-46f6-b23e-8c03abc72946")
 		)
@@ -36483,6 +37869,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 295.91 157.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 295.91 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -37129,6 +38526,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 326.39 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eaa13e0f-ef13-4e70-8c99-482367186d71")
 		)
@@ -37378,6 +38786,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 295.91 185.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "21c9d8ec-b692-40ff-8d09-edaf90acf203")
 		)
@@ -37526,6 +38945,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 226.06 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ffad0d40-cdd2-4f2e-b028-d985eab25545")
 		)
@@ -37661,6 +39091,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 226.06 125.73 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 226.06 125.73 90)
 			(hide yes)
 			(show_name no)
@@ -37836,6 +39277,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 110.49 237.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "103410f1-b579-465e-bc13-d5f2690404b2")
 		)
@@ -37975,6 +39427,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 196.85 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 196.85 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -38140,6 +39603,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 110.49 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 110.49 39.37 90)
 			(hide yes)
 			(show_name no)
@@ -38476,6 +39950,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 295.91 213.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ad1c8dae-bd95-4413-b551-3395559fe169")
 		)
@@ -38722,6 +40207,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 312.42 166.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ae6adf78-a996-41c6-927c-097dcf4cfb92")
 		)
@@ -38893,6 +40389,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 326.39 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "aeb10b82-49c8-49b9-a252-316c8f1f0756")
 		)
@@ -39032,6 +40539,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 196.85 118.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 196.85 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -39288,6 +40806,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 295.91 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cef54053-e2fe-4e00-b7f4-ceb2539cd82c")
 		)
@@ -39447,6 +40976,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 312.42 124.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 312.42 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -39617,6 +41157,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 127 171.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 127 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -39853,6 +41404,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 226.06 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "97f67706-eb54-4de1-8237-80a50d72c8d9")
 		)
@@ -40019,6 +41581,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 312.42 222.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "181c9956-20e0-4d11-889c-22672be79dc8")
 		)
@@ -40168,6 +41741,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 196.85 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "856ff57d-9e94-473a-8abf-34ecf5322ed8")
 		)
@@ -40303,6 +41887,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 226.06 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 226.06 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -40480,6 +42075,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 96.52 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1e9a41d5-6106-408f-a91d-8a6844544d38")
 		)
@@ -40618,6 +42224,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 226.06 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 226.06 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -40784,6 +42401,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 312.42 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 312.42 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -40965,6 +42593,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 295.91 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7413cfe0-c3a6-4db9-bfb8-361f1837eb0f")
 		)
@@ -41103,6 +42742,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 226.06 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 226.06 140.97 90)
 			(hide yes)
 			(show_name no)
@@ -41356,6 +43006,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 110.49 194.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "96d358b1-bc90-41c8-bf82-bc3b86e452fe")
 		)
@@ -41494,6 +43155,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 226.06 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 226.06 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -41728,6 +43400,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 196.85 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "89088b3a-7772-4bdd-a909-ec51fce33111")
 		)
@@ -41747,7 +43430,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -41896,6 +43579,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 278.13 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6f385950-2bbe-4ed0-8bc5-1a7b65f1715d")
 		)
@@ -41917,7 +43611,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -42056,6 +43750,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -42292,6 +43997,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 226.06 135.89 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "85be8743-5685-40cb-9b17-fee39d1562b8")
 		)
@@ -42449,6 +44165,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 96.52 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 96.52 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -42627,6 +44354,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 110.49 208.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9146df93-826f-49f9-8708-0e4b52becf15")
 		)
@@ -42649,7 +44387,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -42798,6 +44536,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 278.13 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ee3efb70-a22f-41dc-b68a-a2552387431e")
 		)
@@ -42897,7 +44646,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -43046,6 +44795,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 278.13 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "927c0fab-7bc5-460d-a042-1ebb0dc7c2ed")
 		)
@@ -43145,7 +44905,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim yes)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
@@ -43284,6 +45044,17 @@
 			)
 		)
 		(property "LCSC Part" "C1523"
+			(at 144.78 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 144.78 114.3 0)
 			(hide yes)
 			(show_name no)

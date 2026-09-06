@@ -2190,6 +2190,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 195.58 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ad14eabe-ff20-4ca1-acf6-cb5aa138832d")
 		)
@@ -2360,6 +2371,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 93.98 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ae986efd-930c-4b2c-ac20-1225ca74aa62")
 		)
@@ -2496,6 +2518,17 @@
 			)
 		)
 		(property "Manufacturer" "hongjiacheng"
+			(at 54.61 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 54.61 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -2966,6 +2999,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 92.71 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "87285669-0be9-45f3-a39d-be26bee79908")
 		)
@@ -3289,6 +3333,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 208.28 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "10fb8816-fd06-4fa4-afc8-5f91c0f8fcbc")
 		)
@@ -3515,6 +3570,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 214.63 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9c166885-d68b-42d9-b2ed-8364c016c74d")
 		)
@@ -3626,6 +3692,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 54.61 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 54.61 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3804,6 +3881,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 163.83 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f360563d-f5d8-46d6-b699-d98e9d48cc17")
 		)
@@ -3964,6 +4052,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 102.87 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 102.87 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -4156,6 +4255,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 177.8 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eb3acbbe-c9ac-4723-b4b8-014c4ca11171")
 		)
@@ -4292,6 +4402,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 149.86 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 149.86 92.71 90)
 			(hide yes)
 			(show_name no)
@@ -4550,6 +4671,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 156.21 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c3b1d9be-2533-4c0e-8112-e7ec7af1ce88")
 		)
@@ -4777,6 +4909,17 @@
 				)
 			)
 		)
+		(property "Voltage" ""
+			(at 168.91 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "05b5d8f1-7437-4085-959d-ca7123c6bb5b")
 		)
@@ -4934,6 +5077,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 220.98 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 220.98 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -5104,6 +5258,17 @@
 			)
 		)
 		(property "Tolerance" ""
+			(at 80.01 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" ""
 			(at 80.01 97.79 0)
 			(hide yes)
 			(show_name no)

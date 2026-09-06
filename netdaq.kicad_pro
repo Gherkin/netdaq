@@ -842,21 +842,27 @@
           "group_by": false,
           "label": "Power",
           "name": "Power",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "TC",
           "name": "TC",
-          "show": false
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Voltage",
+          "name": "Voltage",
+          "show": true
         }
       ],
-      "filter_string": "r",
+      "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Manufacturer"
+      "sort_asc": false,
+      "sort_field": "${DNP}"
     },
     "bus_aliases": {
       "I2C": [
