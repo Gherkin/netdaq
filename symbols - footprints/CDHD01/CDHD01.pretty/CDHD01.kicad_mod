@@ -7,7 +7,7 @@
 		(at 0 -8 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "a10aabd9-f112-46c3-a558-81c3cee29563")
+		(uuid "323fdbf7-9a89-4f74-a86f-b707dc58d003")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at 0 -6.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "ed9f89f7-d56d-4b34-99fd-4c9df2c3a440")
+		(uuid "c708bdd3-d701-4dd1-ae7e-6d9be33b27b6")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "eace52f3-f53d-4798-9621-3562da457a87")
+		(uuid "b29f6422-f7c2-4383-9837-57b329daa73c")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ccc0d14d-ee28-4f5a-9c85-b23d276f47a2")
+		(uuid "3d76fdbc-f412-4b0c-ab6f-5223334df3a9")
 		(effects
 			(font
 				(size 1 1)
@@ -64,13 +64,13 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "46230577-c4e1-4190-9760-fffbcf860820")
+		(uuid "a875e4a6-9e4e-4077-96a9-bcbfbf4e0445")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 -5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "07c6b156-2f4b-465b-be56-ff154a7b76e2")
+		(uuid "dc4dea17-39d2-4912-9004-6df6b30c513a")
 		(effects
 			(font
 				(size 1 1)
@@ -84,15 +84,15 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(thermal_bridge_angle 45)
-		(uuid "c8ca3d4d-4f86-4b95-af06-47bfbbe31026")
+		(uuid "95c4c4cc-96cf-4da8-b397-b8918a94dc9c")
 	)
 	(pad "2" smd roundrect
-		(at -1.25 -2.95)
+		(at 1.25 2.95)
 		(size 1.2 1.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(thermal_bridge_angle 45)
-		(uuid "65f0d316-260f-432a-aa2b-803de6f39b35")
+		(uuid "7f5ca275-3179-4fc4-b23e-e90de96a0704")
 	)
 	(pad "3" smd roundrect
 		(at -1.25 2.95)
@@ -100,15 +100,15 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(thermal_bridge_angle 45)
-		(uuid "cac04459-b018-4a52-970a-7e70f822de03")
+		(uuid "c012b2b6-b693-4c88-89dd-92d8b489e8ba")
 	)
 	(pad "4" smd roundrect
-		(at 1.25 2.95)
+		(at -1.25 -2.95)
 		(size 1.2 1.2)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
 		(thermal_bridge_angle 45)
-		(uuid "4cfbc43a-2c86-4708-aaf3-cb61be35c44c")
+		(uuid "def52450-ecfd-45cb-94d5-e40fc35c16b7")
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/symbols - footprints/CDHD01/CD-HD0x_3d.stp"

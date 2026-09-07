@@ -2025,10 +2025,6 @@
 		(color 0 0 0 0)
 		(uuid "fb5e4fac-f3cd-49a4-a361-8602795798fd")
 	)
-	(no_connect
-		(at 116.84 142.24)
-		(uuid "cd81ad95-0f7c-4794-983f-e1749d34c32a")
-	)
 	(bus_entry
 		(at 172.72 142.24)
 		(size 2.54 -2.54)
@@ -3123,7 +3119,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25744.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1dZUl1XQlFeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNXUEoOAwwC"
 			(at 143.51 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -3178,7 +3174,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 143.51 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -3244,7 +3240,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 143.51 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -3266,7 +3262,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 143.51 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -3334,7 +3330,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579705986066026496-C25087.pdf?response-content-disposition=attachment%3B%20filename%3DC25087.pdf%3B%20filename%2A%3DUTF-8%27%27C25087.pdf&x-oss-date=20260906T080114Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5qMIo%2Fco%2Bl34aG7RlLVlmlsSc5et%2FHlujz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qZN0slIu557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWgrMe4k2SPZqaIWzHOTEFupYY7CDV2HC3D82fcxJ2B%2Bmz7zwy%2B%2Fdqxot7SHZVvl3SE4LlO17v1wIU7UcxaKWD5sagAEeJF5oW6mSsCUe8S%2BPvghauFqBb2F7v0lsc%2Btd4t6iV5UqXD5aRdOZ8Wr136%2Bp9FE%2BtyDG98O285bxV2GMu9tmAGVukYy7%2FyEFnvS2tCeov1zfWJYn3F%2FbG7PCWZhAQt7oPRDmWPsfXqnJEGwNadl31Rm55%2B7vOCxsV3UsHirdHyAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NY9i5hN6VVcPDtdri9EArX4NX%2F20260906%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=0c75c9611dd782bf4cde790ef2a0211590a234338034aa43fa1e95313412abc6"
 			(at 69.85 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3389,7 +3385,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 69.85 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3444,7 +3440,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" " 50V"
 			(at 69.85 64.77 90)
 			(hide yes)
 			(show_name no)
@@ -3477,7 +3473,7 @@
 				)
 			)
 		)
-		(property "Power" "62.5mW"
+		(property "Power" " 62.5mW"
 			(at 69.85 64.77 90)
 			(hide yes)
 			(show_name no)
@@ -3936,7 +3932,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A105KB8NNNC_C15849.pdf"
+		(property "Datasheet" ""
 			(at 137.16 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -4013,7 +4009,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 137.16 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -4024,7 +4020,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 137.16 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -4035,7 +4031,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 137.16 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -4046,40 +4042,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 137.16 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "CL10A105KB8NNNC"
-			(at 137.16 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 137.16 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X5R"
+		(property "Voltage" ""
 			(at 137.16 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -4149,7 +4112,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.pdf"
+		(property "Datasheet" ""
 			(at 85.09 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -4226,7 +4189,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 85.09 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -4237,7 +4200,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 85.09 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -4248,7 +4211,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 85.09 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -4259,40 +4222,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 85.09 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "CL05B104KB54PNC"
-			(at 85.09 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 85.09 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 85.09 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -5062,7 +4992,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25744.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1dZUl1XQlFeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNXUEoOAwwC"
 			(at 151.13 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -5117,7 +5047,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 151.13 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -5183,7 +5113,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 151.13 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -5205,7 +5135,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 151.13 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -5721,7 +5651,7 @@
 				)
 			)
 		)
-		(property "Value" "HX JN1.27-2x5P ZZ H4.9"
+		(property "Value" "HX JN1.27-2X5P ZZ H4.9"
 			(at 130.81 150.114 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5742,7 +5672,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8604440453135540224"
+		(property "Datasheet" ""
 			(at 123.19 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -5808,7 +5738,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "extended"
+		(property "LCSC Basic/Pref" ""
 			(at 123.19 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -5819,7 +5749,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 123.19 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -5853,28 +5783,6 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 123.19 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "HX JN1.27-2x5P ZZ H4.9"
-			(at 123.19 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hanxia"
 			(at 123.19 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -5969,7 +5877,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25744.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1dZUl1XQlFeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNXUEoOAwwC"
 			(at 158.75 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -6024,7 +5932,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 158.75 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -6090,7 +5998,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 158.75 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -6112,7 +6020,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 158.75 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -6183,7 +6091,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25744.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1dZUl1XQlFeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNXUEoOAwwC"
 			(at 166.37 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -6238,7 +6146,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 166.37 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -6304,7 +6212,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 166.37 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -6326,7 +6234,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 166.37 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -6359,7 +6267,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -6374,7 +6282,7 @@
 				)
 			)
 		)
-		(property "Value" "2.54-1x6PStraight pin"
+		(property "Value" "Conn_01x06_Pin"
 			(at 212.725 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6395,7 +6303,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8588886995741380608-C37208.pdf?response-content-disposition=attachment%3B%20filename%3DC37208.pdf%3B%20filename%2A%3DUTF-8%27%27C37208.pdf&x-oss-date=20260906T084243Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5nmCP2Hmu4U5LDZenP1hXE3b71627HJsjz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qfc8iVAu557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWmquXMk646HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIe5tCOKKWD5sagAGJMjaavyWM%2B6hustbu3XpePrqNEjn9g4A5me7DvQdvRUNwT8odczZ7uD1AWGaB631pG%2Bw7lGlugJwprF6lBk%2FN6n83SQHOmYPHzf6S8wxIkwVjBJWjhuq7eT6nily4aL5carHr2Yst6tJkbjUCDY8orksi%2F%2B4EhyQuVpL1utJ99SAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZSCG3w15Sr2xUDaqbc2V4tbP%2F20260906%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=aec57a8d3a65d3162a3bb5d69394bfa7b88ab9768540c3e5e9eb0103962c1b32"
+		(property "Datasheet" ""
 			(at 213.36 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -6450,7 +6358,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "extended"
+		(property "LCSC Basic/Pref" ""
 			(at 213.36 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -6484,50 +6392,6 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 213.36 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C37208"
-			(at 213.36 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C37208"
-			(at 213.36 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "2.54-1x6PStraight pin"
-			(at 213.36 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "BOOMELE(Boom Precision Elec)"
 			(at 213.36 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -6608,7 +6472,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589835182690623488"
+		(property "Datasheet" ""
 			(at 104.14 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -6674,7 +6538,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "extended"
+		(property "LCSC Basic/Pref" ""
 			(at 104.14 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -6685,7 +6549,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 104.14 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -6719,28 +6583,6 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 104.14 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "TXU0202DCUR"
-			(at 104.14 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "TEXAS INSTRUMENTS"
 			(at 104.14 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -6983,7 +6825,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com.cn/cn/lit/ds/symlink/tlv770.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tlv770"
 			(at 132.588 20.828 0)
 			(hide yes)
 			(show_name no)
@@ -7017,7 +6859,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "extended"
+		(property "LCSC Basic/Pref" "n"
 			(at 156.21 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7041,39 +6883,6 @@
 		)
 		(property "Voltage" ""
 			(at 156.21 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC missing" "n"
-			(at 132.588 20.828 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "TLV77033PDBVR"
-			(at 132.588 20.828 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Texas Instruments"
-			(at 132.588 20.828 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7152,7 +6961,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25744.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=FFgPBABRR1JYAwZWRVhdVQZWEVcIBgBURANaBQVXQAUxVlNeT1dZUl1XQlFeVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVNXUEoOAwwC"
 			(at 58.42 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7207,7 +7016,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 58.42 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7273,7 +7082,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "UNI-ROYAL"
 			(at 58.42 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7295,7 +7104,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 58.42 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7520,7 +7329,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A105KB8NNNC_C15849.pdf"
+		(property "Datasheet" ""
 			(at 176.53 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7597,7 +7406,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 176.53 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7608,7 +7417,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 176.53 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7619,7 +7428,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 176.53 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7630,40 +7439,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 176.53 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "CL10A105KB8NNNC"
-			(at 176.53 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 176.53 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X5R"
+		(property "Voltage" ""
 			(at 176.53 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7731,7 +7507,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2205311900_UNI-ROYAL-Uniroyal-Elec-0402WGF2000TCE_C25087.pdf"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8579705986066026496-C25087.pdf?response-content-disposition=attachment%3B%20filename%3DC25087.pdf%3B%20filename%2A%3DUTF-8%27%27C25087.pdf&x-oss-date=20260906T080114Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5qMIo%2Fco%2Bl34aG7RlLVlmlsSc5et%2FHlujz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qZN0slIu557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWgrMe4k2SPZqaIWzHOTEFupYY7CDV2HC3D82fcxJ2B%2Bmz7zwy%2B%2Fdqxot7SHZVvl3SE4LlO17v1wIU7UcxaKWD5sagAEeJF5oW6mSsCUe8S%2BPvghauFqBb2F7v0lsc%2Btd4t6iV5UqXD5aRdOZ8Wr136%2Bp9FE%2BtyDG98O285bxV2GMu9tmAGVukYy7%2FyEFnvS2tCeov1zfWJYn3F%2FbG7PCWZhAQt7oPRDmWPsfXqnJEGwNadl31Rm55%2B7vOCxsV3UsHirdHyAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NY9i5hN6VVcPDtdri9EArX4NX%2F20260906%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=0c75c9611dd782bf4cde790ef2a0211590a234338034aa43fa1e95313412abc6"
 			(at 146.05 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -7786,7 +7562,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 146.05 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -7841,7 +7617,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" " 50V"
 			(at 146.05 62.23 90)
 			(hide yes)
 			(show_name no)
@@ -7874,7 +7650,7 @@
 				)
 			)
 		)
-		(property "Power" "62.5mW"
+		(property "Power" " 62.5mW"
 			(at 146.05 62.23 90)
 			(hide yes)
 			(show_name no)
@@ -8410,7 +8186,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.pdf"
+		(property "Datasheet" ""
 			(at 123.19 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8487,7 +8263,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 123.19 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8498,7 +8274,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 123.19 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8509,7 +8285,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 123.19 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8520,40 +8296,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 123.19 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "CL05B104KB54PNC"
-			(at 123.19 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 123.19 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 123.19 54.61 0)
 			(hide yes)
 			(show_name no)

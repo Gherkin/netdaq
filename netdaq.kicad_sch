@@ -145,6 +145,16 @@
 		)
 		(uuid "17ff4846-6988-49f6-a9f4-92c1e0b1e3c4")
 	)
+	(wire
+		(pts
+			(xy 153.67 71.12) (xy 166.37 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18241551-102b-4436-8c5e-85e5ffc01ce3")
+	)
 	(bus
 		(pts
 			(xy 208.28 233.68) (xy 198.12 233.68)
@@ -157,7 +167,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 45.72) (xy 167.64 55.88)
+			(xy 173.99 45.72) (xy 173.99 59.69)
 		)
 		(stroke
 			(width 0)
@@ -185,19 +195,19 @@
 		)
 		(uuid "360394e0-8c18-4278-8ea4-ce10b498a7b0")
 	)
-	(bus
+	(wire
 		(pts
-			(xy 213.36 45.72) (xy 213.36 97.79)
+			(xy 181.61 100.33) (xy 193.04 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3740752f-92d4-49ff-b363-78a402dec141")
+		(uuid "61dde786-0657-45bf-954a-09a201250eba")
 	)
 	(wire
 		(pts
-			(xy 170.18 45.72) (xy 170.18 55.88)
+			(xy 176.53 45.72) (xy 176.53 59.69)
 		)
 		(stroke
 			(width 0)
@@ -257,7 +267,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 73.66) (xy 167.64 80.01)
+			(xy 153.67 68.58) (xy 166.37 68.58)
 		)
 		(stroke
 			(width 0)
@@ -347,7 +357,7 @@
 	)
 	(bus
 		(pts
-			(xy 181.61 31.75) (xy 203.2 31.75)
+			(xy 187.96 31.75) (xy 203.2 31.75)
 		)
 		(stroke
 			(width 0)
@@ -404,6 +414,16 @@
 			(type default)
 		)
 		(uuid "c59305ef-90f4-4ca7-a713-35232d9d68bd")
+	)
+	(bus
+		(pts
+			(xy 213.36 45.72) (xy 213.36 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6c02d7c-1575-43b0-9656-64b6114a60aa")
 	)
 	(bus
 		(pts
@@ -545,6 +565,16 @@
 		)
 		(uuid "44611af2-5bcd-4098-8d13-0a59a999b087")
 	)
+	(label "POE_V+"
+		(at 173.99 55.88 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "48c2f912-5315-4907-a35b-05f98edcb511")
+	)
 	(label "MCU_ETH_RST#"
 		(at 210.82 73.66 90)
 		(effects
@@ -554,6 +584,16 @@
 			(justify left bottom)
 		)
 		(uuid "54a846c5-0d97-48c0-a0f4-78046fe34614")
+	)
+	(label "POE_V+"
+		(at 157.48 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6ca5ed0e-9979-437f-aa63-10fac789a4cc")
 	)
 	(label "MCU_SPI6_ADC4{SPI}"
 		(at 215.9 151.13 90)
@@ -615,8 +655,18 @@
 		)
 		(uuid "b9ad7af4-e8f1-4737-8ee6-bf23567f4335")
 	)
+	(label "POE_V-"
+		(at 176.53 55.88 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c15ce8c4-d615-4816-bdf0-ba1e7434b83d")
+	)
 	(label "RMII{RMII}"
-		(at 213.36 97.79 90)
+		(at 213.36 73.66 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -624,6 +674,16 @@
 			(justify left bottom)
 		)
 		(uuid "d30048df-99c1-49cf-92db-622911de48ae")
+	)
+	(label "3V3_PG"
+		(at 184.15 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ee16210e-ea6e-43d9-991e-bb1e440684d0")
 	)
 	(label "MCU_SPI3_ADC2{SPI}"
 		(at 210.82 151.13 90)
@@ -1615,7 +1675,7 @@
 		)
 	)
 	(sheet
-		(at 160.02 80.01)
+		(at 132.08 59.69)
 		(size 21.59 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1631,7 +1691,7 @@
 		)
 		(uuid "475d46f3-a9d1-4d0e-882c-449f9a11ef3e")
 		(property "Sheetname" "PoE Regulator"
-			(at 160.02 79.2984 0)
+			(at 132.08 58.9784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1642,7 +1702,7 @@
 			)
 		)
 		(property "Sheetfile" "poe_reg.kicad_sch"
-			(at 160.02 99.6446 0)
+			(at 132.08 79.3246 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1653,8 +1713,18 @@
 			)
 		)
 		(pin "VIN" input
-			(at 167.64 80.01 90)
+			(at 153.67 68.58 0)
 			(uuid "ecea1fd2-a204-45c9-bf53-6abbc018e4f1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PD_PG" input
+			(at 153.67 71.12 0)
+			(uuid "2b107d25-0058-47f4-8761-f64b5512f88b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1671,7 +1741,7 @@
 		)
 	)
 	(sheet
-		(at 132.08 82.55)
+		(at 162.56 85.09)
 		(size 19.05 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1687,7 +1757,7 @@
 		)
 		(uuid "4a874178-a54c-4eb4-8350-ff261e3dfdab")
 		(property "Sheetname" "3V3 Regulator"
-			(at 132.08 81.8384 0)
+			(at 162.56 84.3784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1698,7 +1768,7 @@
 			)
 		)
 		(property "Sheetfile" "3v3_reg.kicad_sch"
-			(at 132.08 100.9146 0)
+			(at 162.56 103.4546 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1706,6 +1776,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "3V3_PG" output
+			(at 181.61 100.33 0)
+			(uuid "13acaa84-56d7-4afa-ba1a-ccf47c3a534f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -1987,7 +2067,7 @@
 		)
 	)
 	(sheet
-		(at 160.02 55.88)
+		(at 166.37 59.69)
 		(size 21.59 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2003,7 +2083,7 @@
 		)
 		(uuid "dfd7c564-50b6-4b87-afcf-cfbf80807611")
 		(property "Sheetname" "PD Controller"
-			(at 160.02 55.1684 0)
+			(at 166.37 58.9784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2014,7 +2094,7 @@
 			)
 		)
 		(property "Sheetfile" "pd_ctrl.kicad_sch"
-			(at 160.02 74.2446 0)
+			(at 166.37 78.0546 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2025,7 +2105,7 @@
 			)
 		)
 		(pin "POE_V+" output
-			(at 167.64 73.66 270)
+			(at 166.37 68.58 180)
 			(uuid "9bc9fd9a-43df-4115-8391-e221f3a3cce9")
 			(effects
 				(font
@@ -2035,7 +2115,7 @@
 			)
 		)
 		(pin "VIN+" input
-			(at 167.64 55.88 90)
+			(at 173.99 59.69 90)
 			(uuid "effe459e-223f-4908-be7a-1dbac96274b7")
 			(effects
 				(font
@@ -2045,13 +2125,23 @@
 			)
 		)
 		(pin "VIN-" input
-			(at 170.18 55.88 90)
+			(at 176.53 59.69 90)
 			(uuid "050d7da7-9a15-4e85-bcd6-32868d37920f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "PD_PG" output
+			(at 166.37 71.12 180)
+			(uuid "b6f4d035-fb4b-4f8a-9ff6-ed93ac83a1d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
@@ -2239,6 +2329,16 @@
 				(justify right)
 			)
 		)
+		(pin "3V3_PG" input
+			(at 193.04 100.33 180)
+			(uuid "2661b5b9-9855-4571-ba71-826d8c55f980")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
@@ -2248,7 +2348,7 @@
 		)
 	)
 	(sheet
-		(at 160.02 26.67)
+		(at 166.37 26.67)
 		(size 21.59 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2264,7 +2364,7 @@
 		)
 		(uuid "ea65a3d0-a0be-4201-b06b-091231bedc11")
 		(property "Sheetname" "Ethernet Connector"
-			(at 160.02 25.9584 0)
+			(at 166.37 25.9584 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2275,7 +2375,7 @@
 			)
 		)
 		(property "Sheetfile" "eth_conn.kicad_sch"
-			(at 160.02 46.3046 0)
+			(at 166.37 46.3046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2286,7 +2386,7 @@
 			)
 		)
 		(pin "MDI{MDI}" bidirectional
-			(at 181.61 31.75 0)
+			(at 187.96 31.75 0)
 			(uuid "caa37bd2-25bb-423b-8599-7a5e2703aa8c")
 			(effects
 				(font
@@ -2296,7 +2396,7 @@
 			)
 		)
 		(pin "POE_V+" output
-			(at 167.64 45.72 270)
+			(at 173.99 45.72 270)
 			(uuid "c1c5909d-e6b4-439a-ae92-886cea7fb887")
 			(effects
 				(font
@@ -2306,7 +2406,7 @@
 			)
 		)
 		(pin "POE_V-" output
-			(at 170.18 45.72 270)
+			(at 176.53 45.72 270)
 			(uuid "b16ba324-41b4-4145-9e94-fd3ec168601c")
 			(effects
 				(font

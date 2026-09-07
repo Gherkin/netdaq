@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "CDHD01:CDHD01"
 			(at 0 0 0)
 			(effects
 				(font

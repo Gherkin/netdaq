@@ -8914,7 +8914,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8936,7 +8936,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -8991,7 +8991,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9002,7 +9002,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9013,7 +9013,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9046,40 +9046,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9228,7 +9195,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -9283,7 +9250,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -9294,7 +9261,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -9340,28 +9307,6 @@
 		)
 		(property "Voltage" ""
 			(at 127 114.3 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 127 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9487,7 +9432,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 172.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9509,7 +9454,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -9564,7 +9509,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -9575,7 +9520,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -9586,7 +9531,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -9619,40 +9564,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -9779,7 +9691,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9801,7 +9713,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9856,7 +9768,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9867,7 +9779,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9900,7 +9812,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9911,40 +9823,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -10014,7 +9893,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -10069,7 +9948,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 208.28 90)
 			(hide yes)
 			(show_name no)
@@ -10080,7 +9959,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 208.28 90)
 			(hide yes)
 			(show_name no)
@@ -10113,7 +9992,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 208.28 90)
 			(hide yes)
 			(show_name no)
@@ -10124,41 +10003,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 208.28 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 208.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 208.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 208.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10206,7 +10052,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 214.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10228,7 +10074,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -10283,7 +10129,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -10294,7 +10140,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -10305,7 +10151,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -10338,40 +10184,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -10518,7 +10331,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -10573,7 +10386,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -10584,7 +10397,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -10617,7 +10430,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -10628,41 +10441,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 53.34 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10810,7 +10590,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -10865,7 +10645,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -10876,7 +10656,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -10922,28 +10702,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 114.3 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11242,7 +11000,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -11297,7 +11055,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -11308,7 +11066,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -11341,7 +11099,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -11352,41 +11110,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 53.34 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11589,7 +11314,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11611,7 +11336,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -11666,7 +11391,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -11677,7 +11402,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -11688,7 +11413,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -11721,40 +11446,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -11824,7 +11516,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -11879,7 +11571,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -11890,7 +11582,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -11923,7 +11615,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -11934,41 +11626,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 25.4 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12563,7 +12222,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12585,7 +12244,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -12640,7 +12299,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -12651,7 +12310,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -12662,7 +12321,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -12695,40 +12354,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -12856,7 +12482,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 243.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12878,7 +12504,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -12933,7 +12559,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -12944,7 +12570,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -12977,7 +12603,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -12988,40 +12614,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -13148,7 +12741,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 243.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13170,7 +12763,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -13225,7 +12818,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -13236,7 +12829,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -13247,7 +12840,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -13280,40 +12873,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -13363,7 +12923,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 144.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13385,7 +12945,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -13440,7 +13000,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -13451,7 +13011,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -13484,7 +13044,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -13495,40 +13055,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -13599,7 +13126,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -13654,7 +13181,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -13665,7 +13192,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -13711,28 +13238,6 @@
 		)
 		(property "Voltage" ""
 			(at 127 44.45 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 127 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14037,7 +13542,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -14092,7 +13597,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -14103,7 +13608,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -14149,28 +13654,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 100.33 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14451,7 +13934,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 200.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14473,7 +13956,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -14528,7 +14011,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -14539,7 +14022,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -14550,7 +14033,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -14583,40 +14066,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -14665,7 +14115,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14687,7 +14137,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -14742,7 +14192,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -14753,7 +14203,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -14786,7 +14236,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -14797,40 +14247,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -14980,7 +14397,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -15035,7 +14452,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 242.57 90)
 			(hide yes)
 			(show_name no)
@@ -15046,7 +14463,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 242.57 90)
 			(hide yes)
 			(show_name no)
@@ -15092,28 +14509,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 242.57 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 242.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15239,7 +14634,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15261,7 +14656,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -15316,7 +14711,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -15327,7 +14722,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -15360,7 +14755,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -15371,40 +14766,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -15611,7 +14973,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 228.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15633,7 +14995,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -15688,7 +15050,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -15699,7 +15061,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -15732,7 +15094,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -15743,40 +15105,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -16558,7 +15887,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16580,7 +15909,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -16635,7 +15964,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -16646,7 +15975,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -16679,7 +16008,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -16690,40 +16019,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -16947,7 +16243,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -17002,7 +16298,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -17013,7 +16309,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -17046,7 +16342,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -17057,41 +16353,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 67.31 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17217,7 +16480,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 214.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17239,7 +16502,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -17294,7 +16557,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -17305,7 +16568,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -17316,7 +16579,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -17349,40 +16612,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -17452,7 +16682,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -17507,7 +16737,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -17518,7 +16748,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -17551,7 +16781,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -17562,41 +16792,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 95.25 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17645,7 +16842,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17667,7 +16864,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -17722,7 +16919,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -17733,7 +16930,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -17766,7 +16963,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -17777,40 +16974,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -17937,7 +17101,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17959,7 +17123,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -18014,7 +17178,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -18025,7 +17189,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -18036,7 +17200,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -18069,40 +17233,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -18408,7 +17539,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -18463,7 +17594,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -18474,7 +17605,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -18529,28 +17660,6 @@
 				)
 			)
 		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "445c50e5-07a2-4a06-bb68-def52dbb14c7")
 		)
@@ -18590,7 +17699,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18612,7 +17721,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -18667,7 +17776,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -18678,7 +17787,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -18689,7 +17798,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -18722,40 +17831,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -19040,7 +18116,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 172.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19062,7 +18138,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -19117,7 +18193,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -19128,7 +18204,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -19161,7 +18237,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -19172,40 +18248,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -19409,7 +18452,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19431,7 +18474,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -19486,7 +18529,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -19497,7 +18540,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -19508,7 +18551,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -19541,40 +18584,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -19722,7 +18732,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -19777,7 +18787,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -19788,7 +18798,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -19834,28 +18844,6 @@
 		)
 		(property "Voltage" ""
 			(at 127 72.39 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 127 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19923,7 +18911,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -19978,7 +18966,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -19989,7 +18977,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -20022,7 +19010,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -20033,41 +19021,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 124.46 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20135,7 +19090,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -20190,7 +19145,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -20201,7 +19156,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -20234,7 +19189,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -20245,41 +19200,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 138.43 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20327,7 +19249,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 243.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20349,7 +19271,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -20404,7 +19326,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -20415,7 +19337,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -20448,7 +19370,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -20459,40 +19381,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -20618,7 +19507,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20640,7 +19529,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -20695,7 +19584,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -20706,7 +19595,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -20717,7 +19606,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -20750,40 +19639,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -20855,7 +19711,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -20910,7 +19766,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -20921,7 +19777,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -20967,28 +19823,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 86.36 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21191,7 +20025,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21213,7 +20047,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -21268,7 +20102,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -21279,7 +20113,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -21312,7 +20146,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -21323,40 +20157,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -21405,7 +20206,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21427,7 +20228,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -21482,7 +20283,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -21493,7 +20294,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -21526,7 +20327,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -21537,40 +20338,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -21619,7 +20387,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21641,7 +20409,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -21696,7 +20464,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -21707,7 +20475,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -21718,7 +20486,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -21751,40 +20519,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -22087,7 +20822,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -22142,7 +20877,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -22153,7 +20888,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -22208,28 +20943,6 @@
 				)
 			)
 		)
-		(property "MPN" "H24VND3BA"
-			(at 127 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "644d5eec-16f8-4eb5-872b-9daf3d777de2")
 		)
@@ -22269,7 +20982,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22291,7 +21004,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -22346,7 +21059,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -22357,7 +21070,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -22368,7 +21081,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -22401,40 +21114,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -22505,7 +21185,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -22560,7 +21240,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 242.57 90)
 			(hide yes)
 			(show_name no)
@@ -22571,7 +21251,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 242.57 90)
 			(hide yes)
 			(show_name no)
@@ -22617,28 +21297,6 @@
 		)
 		(property "Voltage" ""
 			(at 127 242.57 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 127 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 242.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22709,7 +21367,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -22764,7 +21422,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 227.33 90)
 			(hide yes)
 			(show_name no)
@@ -22775,7 +21433,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 227.33 90)
 			(hide yes)
 			(show_name no)
@@ -22821,28 +21479,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 227.33 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 227.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23124,7 +21760,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 186.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23146,7 +21782,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -23201,7 +21837,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -23212,7 +21848,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -23245,7 +21881,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -23256,40 +21892,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -23571,7 +22174,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23593,7 +22196,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -23648,7 +22251,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -23659,7 +22262,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -23670,7 +22273,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -23703,40 +22306,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -23806,7 +22376,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 237.49 0)
 			(hide yes)
 			(show_name no)
@@ -23861,7 +22431,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 237.49 90)
 			(hide yes)
 			(show_name no)
@@ -23872,7 +22442,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 237.49 90)
 			(hide yes)
 			(show_name no)
@@ -23905,7 +22475,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 237.49 90)
 			(hide yes)
 			(show_name no)
@@ -23916,41 +22486,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 237.49 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 237.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 237.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24076,7 +22613,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24098,7 +22635,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -24153,7 +22690,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -24164,7 +22701,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -24175,7 +22712,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -24208,40 +22745,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -24310,7 +22814,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -24365,7 +22869,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 166.37 90)
 			(hide yes)
 			(show_name no)
@@ -24376,7 +22880,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 166.37 90)
 			(hide yes)
 			(show_name no)
@@ -24409,7 +22913,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 166.37 90)
 			(hide yes)
 			(show_name no)
@@ -24420,41 +22924,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 166.37 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24502,7 +22973,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 144.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24524,7 +22995,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -24579,7 +23050,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -24590,7 +23061,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -24623,7 +23094,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -24634,40 +23105,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -24737,7 +23175,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -24792,7 +23230,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -24803,7 +23241,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -24836,7 +23274,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -24847,41 +23285,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 81.28 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24952,7 +23357,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -25007,7 +23412,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -25018,7 +23423,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -25064,28 +23469,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 199.39 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 199.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25153,7 +23536,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -25208,7 +23591,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 180.34 90)
 			(hide yes)
 			(show_name no)
@@ -25219,7 +23602,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 180.34 90)
 			(hide yes)
 			(show_name no)
@@ -25252,7 +23635,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 180.34 90)
 			(hide yes)
 			(show_name no)
@@ -25263,41 +23646,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 180.34 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25366,7 +23716,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -25421,7 +23771,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 180.34 90)
 			(hide yes)
 			(show_name no)
@@ -25432,7 +23782,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 180.34 90)
 			(hide yes)
 			(show_name no)
@@ -25465,7 +23815,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 180.34 90)
 			(hide yes)
 			(show_name no)
@@ -25476,41 +23826,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 180.34 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 180.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25714,7 +24031,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 186.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25736,7 +24053,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -25791,7 +24108,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -25802,7 +24119,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -25835,7 +24152,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -25846,40 +24163,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -25929,7 +24213,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25951,7 +24235,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -26006,7 +24290,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -26017,7 +24301,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -26028,7 +24312,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -26061,40 +24345,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -26165,7 +24416,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -26220,7 +24471,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -26231,7 +24482,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -26277,28 +24528,6 @@
 		)
 		(property "Voltage" ""
 			(at 127 129.54 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 127 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26446,7 +24675,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -26501,7 +24730,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 227.33 90)
 			(hide yes)
 			(show_name no)
@@ -26512,7 +24741,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 227.33 90)
 			(hide yes)
 			(show_name no)
@@ -26567,28 +24796,6 @@
 				)
 			)
 		)
-		(property "MPN" "H24VND3BA"
-			(at 127 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "a8268067-1366-4193-922d-a562559a261e")
 		)
@@ -26627,7 +24834,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 144.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26649,7 +24856,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -26704,7 +24911,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -26715,7 +24922,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -26726,7 +24933,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -26759,40 +24966,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -26861,7 +25035,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -26916,7 +25090,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -26927,7 +25101,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -26960,7 +25134,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -26971,41 +25145,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 25.4 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27209,7 +25350,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 228.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27231,7 +25372,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -27286,7 +25427,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -27297,7 +25438,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -27330,7 +25471,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -27341,40 +25482,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -27521,7 +25629,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -27576,7 +25684,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 39.37 90)
 			(hide yes)
 			(show_name no)
@@ -27587,7 +25695,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 39.37 90)
 			(hide yes)
 			(show_name no)
@@ -27620,7 +25728,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 39.37 90)
 			(hide yes)
 			(show_name no)
@@ -27631,41 +25739,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 39.37 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28202,7 +26277,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -28257,7 +26332,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -28268,7 +26343,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -28323,28 +26398,6 @@
 				)
 			)
 		)
-		(property "MPN" "H24VND3BA"
-			(at 127 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "9faddb9e-5f0d-43ae-87b1-6ea07ec3f20d")
 		)
@@ -28384,7 +26437,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28406,7 +26459,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -28461,7 +26514,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -28472,7 +26525,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -28483,7 +26536,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -28516,40 +26569,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -28676,7 +26696,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 243.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28698,7 +26718,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -28753,7 +26773,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -28764,7 +26784,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -28775,7 +26795,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -28808,40 +26828,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -28990,7 +26977,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -29045,7 +27032,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -29056,7 +27043,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 129.54 90)
 			(hide yes)
 			(show_name no)
@@ -29102,28 +27089,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 129.54 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29502,7 +27467,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -29557,7 +27522,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 152.4 90)
 			(hide yes)
 			(show_name no)
@@ -29568,7 +27533,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 152.4 90)
 			(hide yes)
 			(show_name no)
@@ -29601,7 +27566,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 152.4 90)
 			(hide yes)
 			(show_name no)
@@ -29612,41 +27577,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 152.4 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29714,7 +27646,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -29769,7 +27701,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -29780,7 +27712,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -29813,7 +27745,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -29824,41 +27756,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 109.22 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30005,7 +27904,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -30060,7 +27959,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -30071,7 +27970,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -30104,7 +28003,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -30115,41 +28014,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 194.31 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30198,7 +28064,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30220,7 +28086,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -30275,7 +28141,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -30286,7 +28152,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -30297,7 +28163,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -30330,40 +28196,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -30511,7 +28344,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -30566,7 +28399,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -30577,7 +28410,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -30632,28 +28465,6 @@
 				)
 			)
 		)
-		(property "MPN" "H24VND3BA"
-			(at 127 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "28b05d8e-d0cf-4977-a29b-b31d1dfbe31e")
 		)
@@ -30692,7 +28503,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30714,7 +28525,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -30769,7 +28580,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -30780,7 +28591,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -30813,7 +28624,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -30824,40 +28635,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -30984,7 +28762,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 200.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31006,7 +28784,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -31061,7 +28839,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -31072,7 +28850,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -31105,7 +28883,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -31116,40 +28894,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -31454,7 +29199,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -31509,7 +29254,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -31520,7 +29265,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -31575,28 +29320,6 @@
 				)
 			)
 		)
-		(property "MPN" "H24VND3BA"
-			(at 127 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "e8263375-0d70-467e-bda3-67840f31af1d")
 		)
@@ -31635,7 +29358,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 172.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31657,7 +29380,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -31712,7 +29435,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -31723,7 +29446,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -31756,7 +29479,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -31767,40 +29490,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -31927,7 +29617,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31949,7 +29639,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -32004,7 +29694,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -32015,7 +29705,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -32026,7 +29716,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -32059,40 +29749,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -32141,7 +29798,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32163,7 +29820,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -32218,7 +29875,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -32229,7 +29886,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -32262,7 +29919,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -32273,40 +29930,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -32511,7 +30135,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32533,7 +30157,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -32588,7 +30212,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -32599,7 +30223,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -32632,7 +30256,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -32643,40 +30267,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -32748,7 +30339,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -32803,7 +30394,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -32814,7 +30405,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -32869,28 +30460,6 @@
 				)
 			)
 		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "6d10cf20-2bee-465e-8438-9e439974be5b")
 		)
@@ -32930,7 +30499,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32952,7 +30521,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -33007,7 +30576,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -33018,7 +30587,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -33051,7 +30620,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -33062,40 +30631,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -33145,7 +30681,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 228.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33167,7 +30703,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -33222,7 +30758,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -33233,7 +30769,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -33244,7 +30780,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -33277,40 +30813,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -33436,7 +30939,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33458,7 +30961,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -33513,7 +31016,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -33524,7 +31027,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -33557,7 +31060,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -33568,40 +31071,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -34139,7 +31609,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -34194,7 +31664,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 152.4 90)
 			(hide yes)
 			(show_name no)
@@ -34205,7 +31675,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 152.4 90)
 			(hide yes)
 			(show_name no)
@@ -34238,7 +31708,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 152.4 90)
 			(hide yes)
 			(show_name no)
@@ -34249,41 +31719,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 152.4 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34331,7 +31768,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 228.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34353,7 +31790,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -34408,7 +31845,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -34419,7 +31856,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -34430,7 +31867,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -34463,40 +31900,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 227.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -34546,7 +31950,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 186.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34568,7 +31972,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -34623,7 +32027,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -34634,7 +32038,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -34645,7 +32049,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -34678,40 +32082,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -35151,7 +32522,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 186.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35173,7 +32544,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -35228,7 +32599,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -35239,7 +32610,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -35250,7 +32621,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -35283,40 +32654,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -35386,7 +32724,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -35441,7 +32779,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -35452,7 +32790,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -35485,7 +32823,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -35496,41 +32834,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 109.22 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35758,7 +33063,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -35813,7 +33118,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -35824,7 +33129,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -35870,28 +33175,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 44.45 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36173,7 +33456,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36195,7 +33478,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -36250,7 +33533,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -36261,7 +33544,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -36294,7 +33577,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -36305,40 +33588,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -36407,7 +33657,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -36462,7 +33712,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 222.25 90)
 			(hide yes)
 			(show_name no)
@@ -36473,7 +33723,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 222.25 90)
 			(hide yes)
 			(show_name no)
@@ -36506,7 +33756,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 222.25 90)
 			(hide yes)
 			(show_name no)
@@ -36517,41 +33767,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 222.25 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36932,7 +34149,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -36987,7 +34204,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -36998,7 +34215,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -37044,28 +34261,6 @@
 		)
 		(property "Voltage" ""
 			(at 127 30.48 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 127 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37210,7 +34405,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -37265,7 +34460,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -37276,7 +34471,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -37309,7 +34504,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -37320,41 +34515,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 95.25 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37580,7 +34742,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -37635,7 +34797,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -37646,7 +34808,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -37692,28 +34854,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 58.42 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37859,7 +34999,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -37914,7 +35054,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -37925,7 +35065,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -37958,7 +35098,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -37969,41 +35109,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 67.31 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38209,7 +35316,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38231,7 +35338,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -38286,7 +35393,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -38297,7 +35404,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -38330,7 +35437,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -38341,40 +35448,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -38600,7 +35674,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -38655,7 +35729,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -38666,7 +35740,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -38699,7 +35773,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -38710,41 +35784,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 81.28 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38968,7 +36009,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -39023,7 +36064,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -39034,7 +36075,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -39080,28 +36121,6 @@
 		)
 		(property "Voltage" ""
 			(at 127 58.42 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 127 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39171,7 +36190,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -39226,7 +36245,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -39237,7 +36256,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -39283,28 +36302,6 @@
 		)
 		(property "Voltage" ""
 			(at 127 86.36 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 127 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39451,7 +36448,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -39506,7 +36503,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 213.36 90)
 			(hide yes)
 			(show_name no)
@@ -39517,7 +36514,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 213.36 90)
 			(hide yes)
 			(show_name no)
@@ -39572,28 +36569,6 @@
 				)
 			)
 		)
-		(property "MPN" "H24VND3BA"
-			(at 127 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "57eab7e8-f335-468e-9a91-b417de960c1b")
 		)
@@ -39632,7 +36607,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39654,7 +36629,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -39709,7 +36684,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -39720,7 +36695,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -39731,7 +36706,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -39764,40 +36739,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -39846,7 +36788,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39868,7 +36810,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -39923,7 +36865,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -39934,7 +36876,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -39967,7 +36909,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -39978,40 +36920,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -40237,7 +37146,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -40292,7 +37201,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -40303,7 +37212,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -40358,28 +37267,6 @@
 				)
 			)
 		)
-		(property "MPN" "H24VND3BA"
-			(at 127 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "4d4e0194-4dfb-4f1e-ae9b-0981915e9815")
 		)
@@ -40419,7 +37306,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40441,7 +37328,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -40496,7 +37383,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -40507,7 +37394,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -40540,7 +37427,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -40551,40 +37438,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -40711,7 +37565,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40733,7 +37587,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -40788,7 +37642,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -40799,7 +37653,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -40832,7 +37686,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -40843,40 +37697,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -40948,7 +37769,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -41003,7 +37824,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -41014,7 +37835,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -41060,28 +37881,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 157.48 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41595,7 +38394,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41617,7 +38416,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -41672,7 +38471,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -41683,7 +38482,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -41716,7 +38515,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -41727,40 +38526,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -41910,7 +38676,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -41965,7 +38731,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -41976,7 +38742,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -42022,28 +38788,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 185.42 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42423,7 +39167,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 237.49 0)
 			(hide yes)
 			(show_name no)
@@ -42478,7 +39222,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 237.49 90)
 			(hide yes)
 			(show_name no)
@@ -42489,7 +39233,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 237.49 90)
 			(hide yes)
 			(show_name no)
@@ -42522,7 +39266,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 237.49 90)
 			(hide yes)
 			(show_name no)
@@ -42533,41 +39277,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 237.49 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 237.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 237.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42792,7 +39503,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -42847,7 +39558,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 39.37 90)
 			(hide yes)
 			(show_name no)
@@ -42858,7 +39569,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 39.37 90)
 			(hide yes)
 			(show_name no)
@@ -42891,7 +39602,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 39.37 90)
 			(hide yes)
 			(show_name no)
@@ -42902,41 +39613,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 39.37 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43162,7 +39840,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -43217,7 +39895,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 213.36 90)
 			(hide yes)
 			(show_name no)
@@ -43228,7 +39906,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 213.36 90)
 			(hide yes)
 			(show_name no)
@@ -43274,28 +39952,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 213.36 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 213.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43441,7 +40097,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -43496,7 +40152,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 166.37 90)
 			(hide yes)
 			(show_name no)
@@ -43507,7 +40163,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 166.37 90)
 			(hide yes)
 			(show_name no)
@@ -43540,7 +40196,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 166.37 90)
 			(hide yes)
 			(show_name no)
@@ -43551,41 +40207,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 166.37 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 166.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43634,7 +40257,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 322.58 214.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43656,7 +40279,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 326.39 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -43711,7 +40334,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 326.39 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -43722,7 +40345,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 326.39 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -43755,7 +40378,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 326.39 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -43766,40 +40389,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 326.39 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 326.39 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 326.39 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 326.39 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -44106,7 +40696,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -44161,7 +40751,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -44172,7 +40762,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -44218,28 +40808,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 171.45 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44308,7 +40876,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -44363,7 +40931,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -44374,7 +40942,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -44407,7 +40975,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 124.46 90)
 			(hide yes)
 			(show_name no)
@@ -44418,41 +40986,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 124.46 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44522,7 +41057,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 127 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -44577,7 +41112,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 127 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -44588,7 +41123,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 127 171.45 90)
 			(hide yes)
 			(show_name no)
@@ -44634,28 +41169,6 @@
 		)
 		(property "Voltage" ""
 			(at 127 171.45 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 127 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 127 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44958,7 +41471,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -45013,7 +41526,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 222.25 90)
 			(hide yes)
 			(show_name no)
@@ -45024,7 +41537,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 222.25 90)
 			(hide yes)
 			(show_name no)
@@ -45057,7 +41570,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 222.25 90)
 			(hide yes)
 			(show_name no)
@@ -45068,41 +41581,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 222.25 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 222.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45463,7 +41943,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 200.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45485,7 +41965,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -45540,7 +42020,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -45551,7 +42031,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -45584,7 +42064,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -45595,40 +42075,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -45854,7 +42301,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 312.42 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -45909,7 +42356,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 312.42 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -45920,7 +42367,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 312.42 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -45953,7 +42400,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 312.42 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -45964,41 +42411,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 312.42 138.43 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 312.42 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 312.42 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 312.42 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46069,7 +42483,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590925396865474560"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C20615815.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TllcUAZWT1lbVVAAEQQKX1FfTwBcAwdVRAdbXlZUElUxVlNeT1RWX1xSRFJZUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 295.91 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -46124,7 +42538,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "preferred"
+		(property "LCSC Basic/Pref" "Y"
 			(at 295.91 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -46135,7 +42549,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 295.91 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -46181,28 +42595,6 @@
 		)
 		(property "Voltage" ""
 			(at 295.91 30.48 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "H24VND3BA"
-			(at 295.91 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "hongjiacheng"
-			(at 295.91 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46504,7 +42896,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -46559,7 +42951,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -46570,7 +42962,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -46603,7 +42995,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -46614,41 +43006,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 194.31 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47088,7 +43447,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 200.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47110,7 +43469,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -47165,7 +43524,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -47176,7 +43535,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -47187,7 +43546,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -47220,40 +43579,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 199.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -47302,7 +43628,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 172.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47324,7 +43650,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -47379,7 +43705,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -47390,7 +43716,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -47401,7 +43727,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -47434,40 +43760,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 171.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -47750,7 +44043,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p 50V"
+		(property "Value" "100p"
 			(at 100.33 214.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47772,7 +44065,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402CG101J500NT_C1546.pdf"
+		(property "Datasheet" ""
 			(at 96.52 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -47827,7 +44120,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 96.52 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -47838,7 +44131,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 96.52 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -47871,7 +44164,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "5%"
+		(property "Tolerance" ""
 			(at 96.52 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -47882,40 +44175,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 96.52 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402CG101J500NT"
-			(at 96.52 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 96.52 213.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "C0G"
+		(property "Voltage" ""
 			(at 96.52 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -47984,7 +44244,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"
+		(property "Datasheet" ""
 			(at 110.49 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -48039,7 +44299,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 110.49 208.28 90)
 			(hide yes)
 			(show_name no)
@@ -48050,7 +44310,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 110.49 208.28 90)
 			(hide yes)
 			(show_name no)
@@ -48083,7 +44343,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 110.49 208.28 90)
 			(hide yes)
 			(show_name no)
@@ -48094,41 +44354,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 110.49 208.28 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF1001TCE"
-			(at 110.49 208.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 110.49 208.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 110.49 208.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48177,7 +44404,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 144.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48199,7 +44426,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -48254,7 +44481,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -48265,7 +44492,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -48276,7 +44503,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -48309,40 +44536,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -48469,7 +44663,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 274.32 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48491,7 +44685,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 278.13 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -48546,7 +44740,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 278.13 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -48557,7 +44751,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 278.13 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -48568,7 +44762,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 278.13 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -48601,40 +44795,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 278.13 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 278.13 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 278.13 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 278.13 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -48761,7 +44922,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n 50V"
+		(property "Value" "1n"
 			(at 148.59 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48783,7 +44944,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0402B102K500NT_C1523.pdf"
+		(property "Datasheet" ""
 			(at 144.78 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -48838,7 +44999,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "y"
 			(at 144.78 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -48849,7 +45010,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 144.78 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -48860,7 +45021,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 144.78 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -48893,40 +45054,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 144.78 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402B102K500NT"
-			(at 144.78 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 144.78 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 144.78 114.3 0)
 			(hide yes)
 			(show_name no)

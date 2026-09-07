@@ -280,7 +280,76 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "power_pin_not_driven|1028700|927100|8c92ff6d-1004-4be8-b4f2-5a235ff258db|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/4a874178-a54c-4eb4-8350-ff261e3dfdab|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/4a874178-a54c-4eb4-8350-ff261e3dfdab|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1333500|1295400|7823d533-7e36-4e7d-b85f-a9e7aafabb21|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1333500|1346200|43535fc0-d5de-490f-81d0-bfff3a85a4e6|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1333500|1778000|e2eaafb9-c304-4f62-9780-27d89307bfab|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1574800|1244600|d301c64d-63ae-4ad9-8912-57b7d5a9863c|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/c9141396-b417-45d3-9560-a5d378bd1b7a|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/c9141396-b417-45d3-9560-a5d378bd1b7a|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1892300|1435100|d7c3d0b5-d65c-472d-9389-87480ead76df|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/dfd7c564-50b6-4b87-afcf-cfbf80807611|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/dfd7c564-50b6-4b87-afcf-cfbf80807611|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|2400300|1282700|70abfe0f-84f4-4ae3-bf11-5371e8fea0a8|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/dfd7c564-50b6-4b87-afcf-cfbf80807611|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/dfd7c564-50b6-4b87-afcf-cfbf80807611|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|3187700|1193800|ebd6515c-b9a8-4d20-b000-b11e3f9bc6cf|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e|",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|1905000|1358900|789d9fb9-abc2-4134-bc24-783488bd225f|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|1905000|1384300|e2425912-b900-4b49-a0ac-23705df16eb7|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|1905000|1460500|5d59acf1-d9c9-4ca4-8fd6-712a8fbe75a4|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|1905000|1485900|66dcf8dc-4544-41d9-942c-125f8c9aae0b|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|1905000|1511300|847720b0-0ff4-4505-a418-67ce54b617a8|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|1905000|1536700|129e31ff-9570-490a-b257-3077390062c6|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|1905000|1562100|b6ea0a1a-86cb-4f5d-b29b-2e035bc70685|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|1905000|1765300|6e800a5b-2ff3-4ada-a5c7-d48e7b25e94f|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|1905000|1892300|905ef2ec-2c68-4102-a17e-875ef886e74f|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -487,7 +556,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -743,12 +812,6 @@
           "show": false
         },
         {
-          "group_by": true,
-          "label": "Footprint",
-          "name": "Footprint",
-          "show": true
-        },
-        {
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
@@ -794,6 +857,12 @@
           "group_by": false,
           "label": "LCSC Part",
           "name": "LCSC Part",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Footprint",
+          "name": "Footprint",
           "show": true
         },
         {
@@ -857,12 +926,12 @@
           "show": true
         }
       ],
-      "filter_string": "",
+      "filter_string": "d",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "${DNP}"
+      "sort_asc": true,
+      "sort_field": "Value"
     },
     "bus_aliases": {
       "I2C": [
@@ -968,7 +1037,7 @@
         "uuid": "2970f661-65ab-4e2b-aeda-d76d1044f2b8"
       }
     ],
-    "used_designators": "FB1,FB3,FB5,R259-260,R265",
+    "used_designators": "R265,R267-270,C279",
     "variants": []
   },
   "sheets": [

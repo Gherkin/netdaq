@@ -2498,6 +2498,14 @@
 		(color 0 0 0 0)
 		(uuid "fa5610b8-8459-4681-946c-21eb37f1aad6")
 	)
+	(no_connect
+		(at 106.68 130.81)
+		(uuid "235f44c8-1622-4a0a-a500-e47056304638")
+	)
+	(no_connect
+		(at 33.02 139.7)
+		(uuid "af9eb4a1-2610-40b9-9447-5db65a310cdc")
+	)
 	(bus_entry
 		(at 101.6 114.3)
 		(size 2.54 2.54)
@@ -4568,7 +4576,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.pdf"
+		(property "Datasheet" ""
 			(at 107.95 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -4634,7 +4642,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 107.95 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -4656,7 +4664,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 107.95 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -4667,7 +4675,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 107.95 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -4678,40 +4686,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
-			(at 107.95 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "CL05B104KB54PNC"
-			(at 107.95 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 107.95 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X7R"
+		(property "Voltage" ""
 			(at 107.95 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -4779,7 +4754,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf"
+		(property "Datasheet" ""
 			(at 146.05 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4834,7 +4809,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 146.05 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -4867,7 +4842,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 146.05 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -4878,7 +4853,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 146.05 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -4889,41 +4864,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 146.05 104.14 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF5101TCE"
-			(at 146.05 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 146.05 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 146.05 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5227,7 +5169,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2202140000_Murata-Electronics-DLM0NSN500HY2D_C913480.pdf"
+		(property "Datasheet" ""
 			(at 123.19 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -5293,7 +5235,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "extended"
+		(property "LCSC Basic/Pref" ""
 			(at 123.19 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -5304,7 +5246,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 123.19 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -5338,28 +5280,6 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 123.19 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "DLM0NSN500HY2D"
-			(at 123.19 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Murata Electronics"
 			(at 123.19 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -5658,7 +5578,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "extended"
+		(property "LCSC Basic/Pref" ""
 			(at 157.48 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -5680,7 +5600,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 157.48 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -5704,28 +5624,6 @@
 		)
 		(property "Voltage" ""
 			(at 157.48 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "TPUSBLC6-4SC6"
-			(at 99.06 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "TECH PUBLIC"
-			(at 99.06 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5784,7 +5682,7 @@
 				)
 			)
 		)
-		(property "Value" "450mA 290mΩ 220Ω@100MHz"
+		(property "Value" "BLM15AG221SN1D"
 			(at 121.8692 80.645 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5805,7 +5703,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/datasheet/pdf/f85b01b3a1a015a5ec4a9f03876e0063.pdf?productCode=C85813"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C85813.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=TlkLXgYFFlRdBl1XR1lXBFEEEVELVQJVTlcNBgICT1cxVlNRT1RcUFVTTlBaVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVJYVVNUWQkaCgg%3D"
 			(at 121.92 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -5871,7 +5769,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "extended"
+		(property "LCSC Basic/Pref" ""
 			(at 121.92 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -5882,7 +5780,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 121.92 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -5904,7 +5802,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "25%"
+		(property "Tolerance" ""
 			(at 121.92 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -5915,7 +5813,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "muRata"
+		(property "Manufacturer" "Murata"
 			(at 121.92 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -6005,7 +5903,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf"
+		(property "Datasheet" ""
 			(at 146.05 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6060,7 +5958,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 146.05 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -6093,7 +5991,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 146.05 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -6104,7 +6002,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "1%"
+		(property "Tolerance" ""
 			(at 146.05 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -6115,41 +6013,8 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" ""
 			(at 146.05 101.6 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0402WGF5101TCE"
-			(at 146.05 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 146.05 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "62.5mW"
-			(at 146.05 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6219,7 +6084,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL21A106KAYNNNE_C15850.pdf"
+		(property "Datasheet" ""
 			(at 92.71 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -6274,7 +6139,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "basic"
+		(property "LCSC Basic/Pref" "x"
 			(at 92.71 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -6307,7 +6172,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 92.71 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -6318,7 +6183,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "10%"
+		(property "Tolerance" ""
 			(at 92.71 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -6329,40 +6194,7 @@
 				)
 			)
 		)
-		(property "Voltage" "25V"
-			(at 92.71 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "CL21A106KAYNNNE"
-			(at 92.71 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 92.71 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "TC" "X5R"
+		(property "Voltage" ""
 			(at 92.71 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -6430,7 +6262,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2411281203_HOAUC-HYCW498-USBC16-735B_C42400252.pdf"
+		(property "Datasheet" ""
 			(at 203.2 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -6496,7 +6328,7 @@
 				)
 			)
 		)
-		(property "LCSC Basic/Pref" "extended"
+		(property "LCSC Basic/Pref" ""
 			(at 203.2 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -6507,7 +6339,7 @@
 				)
 			)
 		)
-		(property "LCSC missing" "n"
+		(property "LCSC missing" ""
 			(at 203.2 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -6541,28 +6373,6 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 203.2 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "HYCW498-USBC16-735B"
-			(at 203.2 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "HOAUC"
 			(at 203.2 113.03 0)
 			(hide yes)
 			(show_name no)
