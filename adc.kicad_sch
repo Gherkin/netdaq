@@ -1920,6 +1920,12 @@
 		(uuid "291fda71-2e97-4b75-a13e-6533534ae9b6")
 	)
 	(junction
+		(at 373.38 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2b5dbfda-82ea-4af7-a2dd-767d1580cc20")
+	)
+	(junction
 		(at 101.6 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2160,12 +2166,6 @@
 		(uuid "a20cf7d0-c923-45ed-abd1-0c6f733b9600")
 	)
 	(junction
-		(at 373.38 154.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a45089a8-c413-4564-a82f-0df3e738fa0c")
-	)
-	(junction
 		(at 105.41 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2224,6 +2224,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0781ec8-4959-405b-8aca-b4d3d807a47b")
+	)
+	(junction
+		(at 347.98 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b67fe3ce-e999-4f2a-a772-723fcb345dfa")
 	)
 	(junction
 		(at 105.41 220.98)
@@ -2292,12 +2298,6 @@
 		(uuid "d3a907c5-1aa5-49b7-b23b-897bf27e8b1f")
 	)
 	(junction
-		(at 373.38 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d4a56f07-f9e2-40b0-af2d-bd710ff28fd1")
-	)
-	(junction
 		(at 107.95 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2326,6 +2326,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9fe2284-b52c-4ca0-ba5b-41908b68a2ca")
+	)
+	(junction
+		(at 373.38 154.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eff97da9-4ee4-430b-b238-9521191c98c2")
 	)
 	(junction
 		(at 142.24 143.51)
@@ -2533,6 +2539,26 @@
 	)
 	(wire
 		(pts
+			(xy 373.38 154.94) (xy 373.38 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05a2be02-8333-43fa-ac18-a5ff09cd3cbb")
+	)
+	(wire
+		(pts
+			(xy 373.38 157.48) (xy 373.38 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06050af3-0efb-4205-a83f-f25f958ccb11")
+	)
+	(wire
+		(pts
 			(xy 123.19 39.37) (xy 123.19 46.99)
 		)
 		(stroke
@@ -2640,6 +2666,16 @@
 			(type default)
 		)
 		(uuid "0d89df2b-635a-48c2-9f53-4b609526706c")
+	)
+	(wire
+		(pts
+			(xy 384.81 176.53) (xy 384.81 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fa0a3f4-5e3c-4aff-a5d2-5f46697ea41d")
 	)
 	(wire
 		(pts
@@ -2823,6 +2859,16 @@
 	)
 	(wire
 		(pts
+			(xy 347.98 113.03) (xy 347.98 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cbbee33-95db-4b5e-b7cc-ce79fcf56a98")
+	)
+	(wire
+		(pts
 			(xy 281.94 40.64) (xy 281.94 41.91)
 		)
 		(stroke
@@ -3000,6 +3046,16 @@
 			(type default)
 		)
 		(uuid "2c0643aa-3652-4529-8ff4-5d39bb5b2167")
+	)
+	(wire
+		(pts
+			(xy 342.9 154.94) (xy 373.38 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d73578e-19f2-4fdb-b86d-266ff5aa09c2")
 	)
 	(wire
 		(pts
@@ -3183,6 +3239,16 @@
 	)
 	(wire
 		(pts
+			(xy 373.38 152.4) (xy 373.38 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e12ee5f-ab51-45ff-a075-d1c459ae828b")
+	)
+	(wire
+		(pts
 			(xy 203.2 167.64) (xy 203.2 170.18)
 		)
 		(stroke
@@ -3220,16 +3286,6 @@
 			(type default)
 		)
 		(uuid "3fe1b516-650d-4166-a19a-251ffc764be1")
-	)
-	(wire
-		(pts
-			(xy 373.38 158.75) (xy 373.38 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4146562d-49ad-4587-adeb-db2ada49b6c3")
 	)
 	(wire
 		(pts
@@ -3410,16 +3466,6 @@
 			(type default)
 		)
 		(uuid "50788821-620f-4a4e-a48c-aecd3f6d0578")
-	)
-	(wire
-		(pts
-			(xy 363.22 158.75) (xy 373.38 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "508bb0d6-743b-498e-97e8-d948ec38f31e")
 	)
 	(wire
 		(pts
@@ -4073,16 +4119,6 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 152.4) (xy 373.38 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "88523dc3-ac0b-4613-9864-a6a8f62bc18d")
-	)
-	(wire
-		(pts
 			(xy 123.19 127) (xy 142.24 127)
 		)
 		(stroke
@@ -4260,6 +4296,16 @@
 			(type default)
 		)
 		(uuid "9443cc2c-518a-44ce-96d5-0661cb8b3762")
+	)
+	(wire
+		(pts
+			(xy 384.81 157.48) (xy 384.81 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94c7fa2e-543d-469a-9591-e1137fc5cb8b")
 	)
 	(wire
 		(pts
@@ -4603,16 +4649,6 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 154.94) (xy 373.38 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac7b7370-50e8-4598-b372-dfd76b6419e1")
-	)
-	(wire
-		(pts
 			(xy 142.24 36.83) (xy 139.7 36.83)
 		)
 		(stroke
@@ -4620,6 +4656,16 @@
 			(type default)
 		)
 		(uuid "ae19c3d1-649f-4f3a-acf8-e0da731e3c0f")
+	)
+	(wire
+		(pts
+			(xy 347.98 115.57) (xy 368.3 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af176703-ce25-4fc8-9883-42c2e167d132")
 	)
 	(wire
 		(pts
@@ -4683,6 +4729,16 @@
 	)
 	(wire
 		(pts
+			(xy 347.98 104.14) (xy 347.98 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3b58fac-7c31-4f3a-bc5d-916dad59a58f")
+	)
+	(wire
+		(pts
 			(xy 92.71 223.52) (xy 92.71 220.98)
 		)
 		(stroke
@@ -4730,16 +4786,6 @@
 			(type default)
 		)
 		(uuid "b95bb987-5bbe-4b60-a5c5-92de6c1d4bd6")
-	)
-	(wire
-		(pts
-			(xy 373.38 154.94) (xy 373.38 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b98aaf51-8742-4d2a-bc8c-7d051425ed3c")
 	)
 	(wire
 		(pts
@@ -5403,7 +5449,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 115.57) (xy 368.3 115.57)
+			(xy 342.9 115.57) (xy 347.98 115.57)
 		)
 		(stroke
 			(width 0)
@@ -5513,6 +5559,16 @@
 	)
 	(wire
 		(pts
+			(xy 373.38 157.48) (xy 384.81 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa7e948b-8027-4dd5-bb03-7b30afb667a7")
+	)
+	(wire
+		(pts
 			(xy 142.24 73.66) (xy 142.24 63.5)
 		)
 		(stroke
@@ -5550,6 +5606,16 @@
 			(type default)
 		)
 		(uuid "fc347779-c6cc-461d-ab82-663cf5bb5810")
+	)
+	(wire
+		(pts
+			(xy 363.22 152.4) (xy 363.22 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc6fce1b-b16b-407f-94b3-8a1661aca3d4")
 	)
 	(wire
 		(pts
@@ -6172,6 +6238,97 @@
 				)
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c"
 					(reference "#PWR0523")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 384.81 177.8 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "049a59b9-93a0-457a-beff-da509e1f616c")
+		(property "Reference" "#PWR0248"
+			(at 384.81 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 384.81 182.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 384.81 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 384.81 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 384.81 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "480f9b07-31e6-4fda-a4db-5c0b657c6d75")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/1b815250-feab-4e15-9fc8-1220df09f4d5"
+					(reference "#PWR0249")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/443c8de8-4114-4248-9fe3-e4e39d7e1ee6"
+					(reference "#PWR0250")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/8ecbce95-7163-4b25-8ea0-7aacaf2b4420"
+					(reference "#PWR0248")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c"
+					(reference "#PWR0251")
 					(unit 1)
 				)
 			)
@@ -7325,6 +7482,96 @@
 				)
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c"
 					(reference "R124")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 363.22 152.4 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "139ca5e9-9277-4280-b049-e52e1e37c3d9")
+		(property "Reference" "#PWR0200"
+			(at 363.22 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 367.284 150.622 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 363.22 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 363.22 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 363.22 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "18e216c8-73f6-490a-99ea-5da3fdb3dee6")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/1b815250-feab-4e15-9fc8-1220df09f4d5"
+					(reference "#PWR0201")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/443c8de8-4114-4248-9fe3-e4e39d7e1ee6"
+					(reference "#PWR0202")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/8ecbce95-7163-4b25-8ea0-7aacaf2b4420"
+					(reference "#PWR0200")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c"
+					(reference "#PWR0203")
 					(unit 1)
 				)
 			)
@@ -9568,7 +9815,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "348k"
+		(property "Value" "309k"
 			(at 94.488 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9590,7 +9837,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404101148_YAGEO-RE0402BRE07348KL_C4135252.pdf"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8590385980387078144-C4180598.pdf?response-content-disposition=attachment%3B%20filename%3DC4180598.pdf%3B%20filename%2A%3DUTF-8%27%27C4180598.pdf&x-oss-date=20260908T193040Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vFBvfXj5hV%2BZadRlblj3Y0e%2Bpvipb%2Frjz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qdQo73Qh557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWiqi29Bkm6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIfecF4aKWD5sagAEUzfn%2FlJMTaU%2BItpfMZ0qjvZb%2Fn%2Bs5FRWA3qUBTaPgnvqQTCJjiF7SZQhS8BlE62LTnVvPrwr%2Fub9LHh9EJM6QeqLxgMpIZglNLy5OfF7v4AWTZ61UnXLoKpziIep6JddsDrKfIsd%2Fi4lXJaw0XwrJHRkpYYR7Zl6Ix2Y2DZfu3SAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXpMMcbGtNTvDpTkvaweCeSTL%2F20260908%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=520e75b6291f3bc9701cf15e99a92b71ef0024a53063f3b823e026e114537545"
 			(at 92.71 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -9612,7 +9859,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4135252"
+		(property "LCSC" "C4180598"
 			(at 92.71 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -9634,7 +9881,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C4135252"
+		(property "LCSC Part" "C4180598"
 			(at 92.71 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -9677,7 +9924,7 @@
 				)
 			)
 		)
-		(property "MPN" "RE0402BRE07348KL"
+		(property "MPN" "RE0402BRE07309KL"
 			(at 92.71 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -11648,96 +11895,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 373.38 152.4 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "36ee30a8-dd04-4b16-aa07-e800268a0ab8")
-		(property "Reference" "#PWR0200"
-			(at 373.38 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 377.444 150.622 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 373.38 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 373.38 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 373.38 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ae2720d5-4121-4ade-a432-e9d762ae2163")
-		)
-		(instances
-			(project "netdaq"
-				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/1b815250-feab-4e15-9fc8-1220df09f4d5"
-					(reference "#PWR0201")
-					(unit 1)
-				)
-				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/443c8de8-4114-4248-9fe3-e4e39d7e1ee6"
-					(reference "#PWR0202")
-					(unit 1)
-				)
-				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/8ecbce95-7163-4b25-8ea0-7aacaf2b4420"
-					(reference "#PWR0200")
-					(unit 1)
-				)
-				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c"
-					(reference "#PWR0203")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 179.07 60.96 270)
 		(mirror x)
@@ -12697,6 +12854,96 @@
 				)
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c"
 					(reference "#PWR0530")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 373.38 152.4 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3f4d7d35-9a10-409e-b570-6f14fc728bcb")
+		(property "Reference" "#PWR0244"
+			(at 373.38 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.0V_REF"
+			(at 379.984 150.622 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 373.38 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 373.38 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 373.38 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a9096d0a-9b21-460b-a8e4-48a0af4991ad")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/1b815250-feab-4e15-9fc8-1220df09f4d5"
+					(reference "#PWR0245")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/443c8de8-4114-4248-9fe3-e4e39d7e1ee6"
+					(reference "#PWR0246")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/8ecbce95-7163-4b25-8ea0-7aacaf2b4420"
+					(reference "#PWR0244")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c"
+					(reference "#PWR0247")
 					(unit 1)
 				)
 			)
@@ -14674,7 +14921,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "348k"
+		(property "Value" "309k"
 			(at 94.488 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14696,7 +14943,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404101148_YAGEO-RE0402BRE07348KL_C4135252.pdf"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8590385980387078144-C4180598.pdf?response-content-disposition=attachment%3B%20filename%3DC4180598.pdf%3B%20filename%2A%3DUTF-8%27%27C4180598.pdf&x-oss-date=20260908T193040Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vFBvfXj5hV%2BZadRlblj3Y0e%2Bpvipb%2Frjz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qdQo73Qh557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWiqi29Bkm6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIfecF4aKWD5sagAEUzfn%2FlJMTaU%2BItpfMZ0qjvZb%2Fn%2Bs5FRWA3qUBTaPgnvqQTCJjiF7SZQhS8BlE62LTnVvPrwr%2Fub9LHh9EJM6QeqLxgMpIZglNLy5OfF7v4AWTZ61UnXLoKpziIep6JddsDrKfIsd%2Fi4lXJaw0XwrJHRkpYYR7Zl6Ix2Y2DZfu3SAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXpMMcbGtNTvDpTkvaweCeSTL%2F20260908%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=520e75b6291f3bc9701cf15e99a92b71ef0024a53063f3b823e026e114537545"
 			(at 92.71 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -14718,7 +14965,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4135252"
+		(property "LCSC" "C4180598"
 			(at 92.71 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -14740,7 +14987,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C4135252"
+		(property "LCSC Part" "C4180598"
 			(at 92.71 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -14783,7 +15030,7 @@
 				)
 			)
 		)
-		(property "MPN" "RE0402BRE07348KL"
+		(property "MPN" "RE0402BRE07309KL"
 			(at 92.71 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -18015,7 +18262,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "348k"
+		(property "Value" "309k"
 			(at 94.488 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18037,7 +18284,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404101148_YAGEO-RE0402BRE07348KL_C4135252.pdf"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8590385980387078144-C4180598.pdf?response-content-disposition=attachment%3B%20filename%3DC4180598.pdf%3B%20filename%2A%3DUTF-8%27%27C4180598.pdf&x-oss-date=20260908T193040Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vFBvfXj5hV%2BZadRlblj3Y0e%2Bpvipb%2Frjz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qdQo73Qh557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWiqi29Bkm6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIfecF4aKWD5sagAEUzfn%2FlJMTaU%2BItpfMZ0qjvZb%2Fn%2Bs5FRWA3qUBTaPgnvqQTCJjiF7SZQhS8BlE62LTnVvPrwr%2Fub9LHh9EJM6QeqLxgMpIZglNLy5OfF7v4AWTZ61UnXLoKpziIep6JddsDrKfIsd%2Fi4lXJaw0XwrJHRkpYYR7Zl6Ix2Y2DZfu3SAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXpMMcbGtNTvDpTkvaweCeSTL%2F20260908%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=520e75b6291f3bc9701cf15e99a92b71ef0024a53063f3b823e026e114537545"
 			(at 92.71 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -18059,7 +18306,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4135252"
+		(property "LCSC" "C4180598"
 			(at 92.71 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -18081,7 +18328,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C4135252"
+		(property "LCSC Part" "C4180598"
 			(at 92.71 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -18124,7 +18371,7 @@
 				)
 			)
 		)
-		(property "MPN" "RE0402BRE07348KL"
+		(property "MPN" "RE0402BRE07309KL"
 			(at 92.71 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -18207,7 +18454,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "348k"
+		(property "Value" "309k"
 			(at 94.488 203.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18229,7 +18476,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404101148_YAGEO-RE0402BRE07348KL_C4135252.pdf"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8590385980387078144-C4180598.pdf?response-content-disposition=attachment%3B%20filename%3DC4180598.pdf%3B%20filename%2A%3DUTF-8%27%27C4180598.pdf&x-oss-date=20260908T193040Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vFBvfXj5hV%2BZadRlblj3Y0e%2Bpvipb%2Frjz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qdQo73Qh557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWiqi29Bkm6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIfecF4aKWD5sagAEUzfn%2FlJMTaU%2BItpfMZ0qjvZb%2Fn%2Bs5FRWA3qUBTaPgnvqQTCJjiF7SZQhS8BlE62LTnVvPrwr%2Fub9LHh9EJM6QeqLxgMpIZglNLy5OfF7v4AWTZ61UnXLoKpziIep6JddsDrKfIsd%2Fi4lXJaw0XwrJHRkpYYR7Zl6Ix2Y2DZfu3SAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXpMMcbGtNTvDpTkvaweCeSTL%2F20260908%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=520e75b6291f3bc9701cf15e99a92b71ef0024a53063f3b823e026e114537545"
 			(at 92.71 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -18251,7 +18498,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4135252"
+		(property "LCSC" "C4180598"
 			(at 92.71 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -18273,7 +18520,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C4135252"
+		(property "LCSC Part" "C4180598"
 			(at 92.71 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -18316,7 +18563,7 @@
 				)
 			)
 		)
-		(property "MPN" "RE0402BRE07348KL"
+		(property "MPN" "RE0402BRE07309KL"
 			(at 92.71 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -19572,7 +19819,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "348k"
+		(property "Value" "309k"
 			(at 94.488 176.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19594,7 +19841,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404101148_YAGEO-RE0402BRE07348KL_C4135252.pdf"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8590385980387078144-C4180598.pdf?response-content-disposition=attachment%3B%20filename%3DC4180598.pdf%3B%20filename%2A%3DUTF-8%27%27C4180598.pdf&x-oss-date=20260908T193040Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vFBvfXj5hV%2BZadRlblj3Y0e%2Bpvipb%2Frjz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qdQo73Qh557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWiqi29Bkm6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIfecF4aKWD5sagAEUzfn%2FlJMTaU%2BItpfMZ0qjvZb%2Fn%2Bs5FRWA3qUBTaPgnvqQTCJjiF7SZQhS8BlE62LTnVvPrwr%2Fub9LHh9EJM6QeqLxgMpIZglNLy5OfF7v4AWTZ61UnXLoKpziIep6JddsDrKfIsd%2Fi4lXJaw0XwrJHRkpYYR7Zl6Ix2Y2DZfu3SAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXpMMcbGtNTvDpTkvaweCeSTL%2F20260908%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=520e75b6291f3bc9701cf15e99a92b71ef0024a53063f3b823e026e114537545"
 			(at 92.71 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -19616,7 +19863,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4135252"
+		(property "LCSC" "C4180598"
 			(at 92.71 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -19638,7 +19885,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C4135252"
+		(property "LCSC Part" "C4180598"
 			(at 92.71 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -19681,7 +19928,7 @@
 				)
 			)
 		)
-		(property "MPN" "RE0402BRE07348KL"
+		(property "MPN" "RE0402BRE07309KL"
 			(at 92.71 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -20761,7 +21008,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "348k"
+		(property "Value" "309k"
 			(at 94.488 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20783,7 +21030,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404101148_YAGEO-RE0402BRE07348KL_C4135252.pdf"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8590385980387078144-C4180598.pdf?response-content-disposition=attachment%3B%20filename%3DC4180598.pdf%3B%20filename%2A%3DUTF-8%27%27C4180598.pdf&x-oss-date=20260908T193040Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vFBvfXj5hV%2BZadRlblj3Y0e%2Bpvipb%2Frjz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qdQo73Qh557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWiqi29Bkm6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIfecF4aKWD5sagAEUzfn%2FlJMTaU%2BItpfMZ0qjvZb%2Fn%2Bs5FRWA3qUBTaPgnvqQTCJjiF7SZQhS8BlE62LTnVvPrwr%2Fub9LHh9EJM6QeqLxgMpIZglNLy5OfF7v4AWTZ61UnXLoKpziIep6JddsDrKfIsd%2Fi4lXJaw0XwrJHRkpYYR7Zl6Ix2Y2DZfu3SAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXpMMcbGtNTvDpTkvaweCeSTL%2F20260908%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=520e75b6291f3bc9701cf15e99a92b71ef0024a53063f3b823e026e114537545"
 			(at 92.71 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -20805,7 +21052,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4135252"
+		(property "LCSC" "C4180598"
 			(at 92.71 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -20827,7 +21074,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C4135252"
+		(property "LCSC Part" "C4180598"
 			(at 92.71 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -20870,7 +21117,7 @@
 				)
 			)
 		)
-		(property "MPN" "RE0402BRE07348KL"
+		(property "MPN" "RE0402BRE07309KL"
 			(at 92.71 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -21642,6 +21889,231 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 384.81 172.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8cf522ae-47b1-42ce-9e4a-9dcc2ec6fb96")
+		(property "Reference" "C281"
+			(at 385.826 169.926 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n 50V"
+			(at 385.826 175.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 385.7752 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.pdf"
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C307331"
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C307331"
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Basic/Pref" "basic"
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC missing" "n"
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TC" "X7R"
+			(at 384.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0cceab1f-f094-43e3-9e32-2443c85fc9ca")
+		)
+		(pin "1"
+			(uuid "624f658a-ad83-4f76-854c-da98d0b6ca97")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/1b815250-feab-4e15-9fc8-1220df09f4d5"
+					(reference "C282")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/443c8de8-4114-4248-9fe3-e4e39d7e1ee6"
+					(reference "C283")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/8ecbce95-7163-4b25-8ea0-7aacaf2b4420"
+					(reference "C281")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c"
+					(reference "C284")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 113.03 52.07 0)
 		(mirror y)
@@ -22162,7 +22634,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "348k"
+		(property "Value" "309k"
 			(at 94.488 229.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22184,7 +22656,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404101148_YAGEO-RE0402BRE07348KL_C4135252.pdf"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8590385980387078144-C4180598.pdf?response-content-disposition=attachment%3B%20filename%3DC4180598.pdf%3B%20filename%2A%3DUTF-8%27%27C4180598.pdf&x-oss-date=20260908T193040Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vFBvfXj5hV%2BZadRlblj3Y0e%2Bpvipb%2Frjz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qdQo73Qh557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWiqi29Bkm6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIfecF4aKWD5sagAEUzfn%2FlJMTaU%2BItpfMZ0qjvZb%2Fn%2Bs5FRWA3qUBTaPgnvqQTCJjiF7SZQhS8BlE62LTnVvPrwr%2Fub9LHh9EJM6QeqLxgMpIZglNLy5OfF7v4AWTZ61UnXLoKpziIep6JddsDrKfIsd%2Fi4lXJaw0XwrJHRkpYYR7Zl6Ix2Y2DZfu3SAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXpMMcbGtNTvDpTkvaweCeSTL%2F20260908%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=520e75b6291f3bc9701cf15e99a92b71ef0024a53063f3b823e026e114537545"
 			(at 92.71 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -22206,7 +22678,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4135252"
+		(property "LCSC" "C4180598"
 			(at 92.71 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -22228,7 +22700,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C4135252"
+		(property "LCSC Part" "C4180598"
 			(at 92.71 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -22271,7 +22743,7 @@
 				)
 			)
 		)
-		(property "MPN" "RE0402BRE07348KL"
+		(property "MPN" "RE0402BRE07309KL"
 			(at 92.71 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -25522,6 +25994,232 @@
 				)
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c"
 					(reference "C257")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 347.98 109.22 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b72860b4-4ea4-46a3-8fa0-eabd033101d2")
+		(property "Reference" "R272"
+			(at 350.52 107.9499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 350.52 110.4899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 346.202 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Basic/Pref" "basic"
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25744"
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C25744"
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC missing" "n"
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "62.5mW"
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 347.98 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7147771a-e504-4d82-863e-45c123e8fe75")
+		)
+		(pin "1"
+			(uuid "bcbfe510-5395-4c81-970f-3f483b43addb")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/1b815250-feab-4e15-9fc8-1220df09f4d5"
+					(reference "R273")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/443c8de8-4114-4248-9fe3-e4e39d7e1ee6"
+					(reference "R274")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/8ecbce95-7163-4b25-8ea0-7aacaf2b4420"
+					(reference "R272")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c"
+					(reference "R275")
 					(unit 1)
 				)
 			)
@@ -29505,7 +30203,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "348k"
+		(property "Value" "309k"
 			(at 94.488 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29527,7 +30225,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2404101148_YAGEO-RE0402BRE07348KL_C4135252.pdf"
+		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8590385980387078144-C4180598.pdf?response-content-disposition=attachment%3B%20filename%3DC4180598.pdf%3B%20filename%2A%3DUTF-8%27%27C4180598.pdf&x-oss-date=20260908T193040Z&x-oss-expires=1800&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5vFBvfXj5hV%2BZadRlblj3Y0e%2Bpvipb%2Frjz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qdQo73Qh557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWiqi29Bkm6HD0eS19jklBdzSlusJRAJJUVBflCeKEaRNSAd3WGhEfM2%2BBt4QT30w5N2u00S8OSMIfecF4aKWD5sagAEUzfn%2FlJMTaU%2BItpfMZ0qjvZb%2Fn%2Bs5FRWA3qUBTaPgnvqQTCJjiF7SZQhS8BlE62LTnVvPrwr%2Fub9LHh9EJM6QeqLxgMpIZglNLy5OfF7v4AWTZ61UnXLoKpziIep6JddsDrKfIsd%2Fi4lXJaw0XwrJHRkpYYR7Zl6Ix2Y2DZfu3SAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NXpMMcbGtNTvDpTkvaweCeSTL%2F20260908%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=520e75b6291f3bc9701cf15e99a92b71ef0024a53063f3b823e026e114537545"
 			(at 92.71 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -29549,7 +30247,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4135252"
+		(property "LCSC" "C4180598"
 			(at 92.71 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -29571,7 +30269,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C4135252"
+		(property "LCSC Part" "C4180598"
 			(at 92.71 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -29614,7 +30312,7 @@
 				)
 			)
 		)
-		(property "MPN" "RE0402BRE07348KL"
+		(property "MPN" "RE0402BRE07309KL"
 			(at 92.71 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -29953,6 +30651,96 @@
 				)
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c"
 					(reference "#PWR0286")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 347.98 104.14 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ede82962-6ecc-4718-be39-ae0f0bf98685")
+		(property "Reference" "#PWR0228"
+			(at 347.98 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 352.044 102.362 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 347.98 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 347.98 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 347.98 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9fb8417e-4684-4bc6-8a1a-fbad69879a33")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/1b815250-feab-4e15-9fc8-1220df09f4d5"
+					(reference "#PWR0229")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/443c8de8-4114-4248-9fe3-e4e39d7e1ee6"
+					(reference "#PWR0230")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/8ecbce95-7163-4b25-8ea0-7aacaf2b4420"
+					(reference "#PWR0228")
+					(unit 1)
+				)
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c"
+					(reference "#PWR0231")
 					(unit 1)
 				)
 			)

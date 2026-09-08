@@ -29,4 +29,6 @@
 	(lib (name "ESD304") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/ESD304/ESD304.kicad_sym") (options "") (descr ""))
 	(lib (name "C42421005") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C42421005/C42421005.kicad_sym") (options "") (descr ""))
 	(lib (name "C22379472") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C22379472/C22379472.kicad_sym") (options "") (descr ""))
+	(lib (name "TPUSBLC6") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/TPUSBLC6/TPUSBLC6.kicad_sym") (options "") (descr ""))
+	(lib (name "C54120492") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C54120492/C54120492.kicad_sym") (options "") (descr ""))
 )

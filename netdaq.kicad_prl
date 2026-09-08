@@ -13,7 +13,7 @@
       "/ADCIN1",
       "/ADCIN7"
     ],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 2,
     "opacity": {
       "images": 0.6,
@@ -58,7 +58,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_55555555_57555521",
+    "visible_layers": "00000000_00000000_55555555_57555525",
     "zone_display_mode": 0
   },
   "git": {

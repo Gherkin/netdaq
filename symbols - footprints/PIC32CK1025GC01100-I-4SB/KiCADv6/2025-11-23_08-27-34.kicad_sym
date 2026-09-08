@@ -435,10 +435,10 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at 0 -5.08 0)
 				(length 7.62)
-				(name "EXT"
+				(name "PA19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1568,7 +1568,7 @@
 			(pin power_in line
 				(at 0 -43.18 0)
 				(length 7.62)
-				(name "GND"
+				(name "VSS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1604,7 +1604,7 @@
 			(pin power_in line
 				(at 0 -45.72 0)
 				(length 7.62)
-				(name "GND"
+				(name "VSS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1640,7 +1640,7 @@
 			(pin power_in line
 				(at 0 -71.12 0)
 				(length 7.62)
-				(name "VSSA"
+				(name "AVSS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1658,7 +1658,7 @@
 			(pin power_in line
 				(at 0 -5.08 0)
 				(length 7.62)
-				(name "VDDA"
+				(name "AVDD"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1694,7 +1694,7 @@
 			(pin power_in line
 				(at 0 -48.26 0)
 				(length 7.62)
-				(name "GND"
+				(name "VSS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1730,7 +1730,7 @@
 			(pin power_in line
 				(at 0 -50.8 0)
 				(length 7.62)
-				(name "GND"
+				(name "VSS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1784,7 +1784,7 @@
 			(pin power_in line
 				(at 0 -53.34 0)
 				(length 7.62)
-				(name "GND"
+				(name "VSS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1838,7 +1838,7 @@
 			(pin power_in line
 				(at 0 -55.88 0)
 				(length 7.62)
-				(name "GND"
+				(name "VSS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1910,7 +1910,7 @@
 			(pin power_in line
 				(at 0 -38.1 0)
 				(length 7.62)
-				(name "VDDREG"
+				(name "VDDREG_USB"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1928,7 +1928,7 @@
 			(pin power_in line
 				(at 0 -76.2 0)
 				(length 7.62)
-				(name "VSSIO"
+				(name "VSS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1964,7 +1964,7 @@
 			(pin power_in line
 				(at 0 -58.42 0)
 				(length 7.62)
-				(name "GND"
+				(name "VSS"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2000,7 +2000,7 @@
 			(pin power_in line
 				(at 0 -60.96 0)
 				(length 7.62)
-				(name "GND"
+				(name "VSS"
 					(effects
 						(font
 							(size 1.27 1.27)

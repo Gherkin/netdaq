@@ -348,6 +348,42 @@
       [
         "unconnected_wire_endpoint|1905000|1892300|905ef2ec-2c68-4102-a17e-875ef886e74f|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
         ""
+      ],
+      [
+        "unconnected_wire_endpoint|838200|1003300|468e1716-5f28-49e7-9f80-8ad6b5c19db8|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|838200|1028700|9c79b897-8e76-4c4b-b667-458c505d73f7|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|838200|1231900|e04e6a13-7341-4c71-b3b2-48dd96219296|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|838200|1257300|2f6e6258-02f6-472f-9a36-f690c7bbb92b|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|838200|1282700|e2f6a89d-a3ad-4798-9032-94f8ca2e3430|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|838200|1308100|2535a92d-f6b1-447b-b1f9-57e05b55a937|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|838200|1358900|5e2780ec-4bc5-4d11-9548-be2cbf05b1da|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|838200|1384300|2267f739-75bc-438a-821b-577bccfcdb41|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|838200|952500|8a6db60f-dceb-4da8-a1ac-89e743bd3ae1|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
       ]
     ],
     "meta": {
@@ -575,7 +611,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "TPUSBLC6"
+    ]
   },
   "meta": {
     "filename": "netdaq.kicad_pro",
@@ -926,7 +964,7 @@
           "show": true
         }
       ],
-      "filter_string": "d",
+      "filter_string": "r",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
@@ -1037,7 +1075,7 @@
         "uuid": "2970f661-65ab-4e2b-aeda-d76d1044f2b8"
       }
     ],
-    "used_designators": "R265,R267-270,C279",
+    "used_designators": "R277,C280-284,#PWR200-203,#PWR234-237,#PWR244-251,U28",
     "variants": []
   },
   "sheets": [

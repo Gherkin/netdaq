@@ -3279,12 +3279,6 @@
 		(uuid "a0dca852-1aa0-4934-913c-24df6d7cc90c")
 	)
 	(junction
-		(at 204.47 201.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a7ea9951-d46c-4e21-b8d9-afdec341b7d2")
-	)
-	(junction
 		(at 132.08 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3339,12 +3333,6 @@
 		(uuid "dbb376c3-079b-419d-9c66-c79311aa40f4")
 	)
 	(junction
-		(at 227.33 201.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dd49fbc8-946a-4836-b7b9-53592f02b6a1")
-	)
-	(junction
 		(at 105.41 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3390,7 +3378,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 195.58) (xy 227.33 201.93)
+			(xy 227.33 196.85) (xy 227.33 201.93)
 		)
 		(stroke
 			(width 0)
@@ -3480,7 +3468,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 195.58) (xy 227.33 195.58)
+			(xy 219.71 196.85) (xy 227.33 196.85)
 		)
 		(stroke
 			(width 0)
@@ -3507,16 +3495,6 @@
 			(type default)
 		)
 		(uuid "29cc7210-4c02-4d37-a46c-e4b4f13425bb")
-	)
-	(wire
-		(pts
-			(xy 204.47 201.93) (xy 212.09 201.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2aa2d796-1b12-43b3-86af-d4ee0254cc82")
 	)
 	(wire
 		(pts
@@ -3690,7 +3668,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 195.58) (xy 204.47 195.58)
+			(xy 212.09 196.85) (xy 204.47 196.85)
 		)
 		(stroke
 			(width 0)
@@ -3780,23 +3758,13 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 195.58) (xy 204.47 201.93)
+			(xy 204.47 196.85) (xy 204.47 201.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5d3e52e3-d685-4dad-8a04-43cba2d18ea1")
-	)
-	(wire
-		(pts
-			(xy 227.33 201.93) (xy 219.71 201.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6165f30b-a578-4329-a7d2-682849c8ae9c")
 	)
 	(wire
 		(pts
@@ -7414,217 +7382,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 215.9 201.93 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "5e18c065-483f-4caf-b59b-dae6ad25e466")
-		(property "Reference" "R265"
-			(at 210.058 197.358 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1M"
-			(at 210.058 199.898 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 215.9 203.708 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8586177313226153984-C17927.pdf?response-content-disposition=attachment%3B%20filename%3DC17927.pdf%3B%20filename%2A%3DUTF-8%27%27C17927.pdf&x-oss-date=20260907T154212Z&x-oss-expires=3600&x-oss-security-token=CAISgAN1q6Ft5B2yfSjIr5nbc9DT1IZgjpivT1%2BIo1g9OtgdvZyfqTz2IHhMdHJsAOodtv0%2FmmhT6PkclqRLcbhpcmfjV%2BZHzLB8qd1XzAUu557b16cNrbH4M4H6aXeirtuwDsz9SNTCALjPD3nPii50x5bjaDymRCbLGJaViJlhHLN1Ow6jdmhpCctxLAlvo9NgFxm3D%2Fu2NQPwiWf9FVdhvhEG6Vly8qOi2MaRmFy8yFTx0b0SvJ%2BjYMrmPctoN9JnSdC5mfdzau3a1TJ84gRD0a5wkaVA1zbDs5bfISEIuUzebreLqY03dV4mOvdqIcMe8qigz88fk%2FfIioH6xyxKOexoSCnFTOiiupCcQLPyao9jLu6iayqViY7QaIOTqQohZmkAMwVOasAsI3Ngh4zF97Qt0cVNkXO9gWfLI8DtuMleWirrA8LJLjvyAFpORa%2Bb5wchMHn6pr9EWOXuJZUIn3b%2FstWNupKq5ldctHSeoXq108CXVnU5PXYIm6QbJ6KWD5sagAFxiMsIrZ4EOtrwOTiJLPKoNdkbF4TiZCzoKJAsT86QgZSnDXyP5ho0UBN7m0vaPoHQopbK9IcungjErAAI8K4w62ML3xTN%2BTr%2BUGGk9EIJiO8FHHtkYZsXCLQXJNZM2Jr4ryNsDaXsddaJiAZyH6UJEDuqogWCEjomy%2BHKN5Iy3CAA&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-credential=STS.NZn8jg9YA9ZDMy9GXh6W1RY4K%2F20260907%2Feu-central-1%2Foss%2Faliyun_v4_request&x-oss-signature=c54bbad400a65c10bff61b056c4a78e88567da968afcabcffabf90ff55055d38"
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.1" ""
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Basic/Pref" "basic"
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C17927"
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C17927"
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC missing" "n"
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tolerance" "1%"
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Voltage" "200V"
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "0603WAF2402T5E"
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Power" "250mW"
-			(at 215.9 201.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9acc88ab-6200-4dea-bd28-47ed5f577aa0")
-		)
-		(pin "2"
-			(uuid "d322b8db-4297-4354-9e5e-769cf5cba3ca")
-		)
-		(instances
-			(project "netdaq"
-				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e"
-					(reference "R265")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 233.68 124.46 0)
 		(mirror y)
@@ -9926,7 +9683,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 215.9 195.58 90)
+		(at 215.9 196.85 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9936,7 +9693,7 @@
 		(dnp no)
 		(uuid "935f90e5-e438-4886-bb94-186e0647a01d")
 		(property "Reference" "C279"
-			(at 210.566 192.024 90)
+			(at 210.566 193.294 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9946,7 +9703,7 @@
 			)
 		)
 		(property "Value" "1n 2kV"
-			(at 209.296 194.056 90)
+			(at 209.296 195.326 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9956,7 +9713,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 219.71 194.6148 0)
+			(at 219.71 195.8848 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9967,7 +9724,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-1206B102K202NT_C9196.pdf"
-			(at 215.9 195.58 0)
+			(at 215.9 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9978,7 +9735,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 215.9 195.58 0)
+			(at 215.9 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9989,7 +9746,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 215.9 195.58 90)
+			(at 215.9 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10000,7 +9757,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 215.9 195.58 90)
+			(at 215.9 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10011,7 +9768,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 215.9 195.58 90)
+			(at 215.9 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10022,7 +9779,7 @@
 			)
 		)
 		(property "LCSC Basic/Pref" "basic"
-			(at 215.9 195.58 90)
+			(at 215.9 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10033,7 +9790,7 @@
 			)
 		)
 		(property "LCSC" "C9196"
-			(at 215.9 195.58 90)
+			(at 215.9 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10044,7 +9801,7 @@
 			)
 		)
 		(property "LCSC Part" "C9196"
-			(at 215.9 195.58 90)
+			(at 215.9 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10055,7 +9812,7 @@
 			)
 		)
 		(property "LCSC missing" "n"
-			(at 215.9 195.58 90)
+			(at 215.9 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10066,7 +9823,7 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 215.9 195.58 90)
+			(at 215.9 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10077,7 +9834,7 @@
 			)
 		)
 		(property "Voltage" "2kV"
-			(at 215.9 195.58 90)
+			(at 215.9 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10088,7 +9845,7 @@
 			)
 		)
 		(property "MPN" "1206B102K202NT"
-			(at 215.9 195.58 0)
+			(at 215.9 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10099,7 +9856,7 @@
 			)
 		)
 		(property "Manufacturer" "FH(Guangdong Fenghua Advanced Tech)"
-			(at 215.9 195.58 0)
+			(at 215.9 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10110,7 +9867,7 @@
 			)
 		)
 		(property "TC" "X7R"
-			(at 215.9 195.58 0)
+			(at 215.9 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

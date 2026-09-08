@@ -105,42 +105,6 @@
 						)
 					)
 				)
-				(pin power_out line
-					(at 11.43 -3.81 180)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A1B12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at -11.43 24.13 0)
-					(length 2.54)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A4B9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin bidirectional line
 					(at -11.43 11.43 0)
 					(length 2.54)
@@ -370,6 +334,42 @@
 						)
 					)
 					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 11.43 -3.81 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A1B12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -11.43 24.13 0)
+					(length 2.54)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A4B9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1375,7 +1375,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Library:TPUSBLC6-4SC6"
+		(symbol "TPUSBLC6:TPUSBLC6-4SC6"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1387,24 +1387,26 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at -19.05 10.16 0)
+			(property "Reference" "U16"
+				(at -7.874 9.398 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
 			(property "Value" "TPUSBLC6-4SC6"
-				(at 8.89 -10.16 0)
+				(at 1.524 -9.398 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
 			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering"
@@ -1429,8 +1431,128 @@
 					)
 				)
 			)
-			(property "Description" "4-Channel Low Capacitance TVS Diode Array, SOT23-6"
+			(property "Description" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C558419"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Sim.Type" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "KLC_S3.3" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "KLC_S4.1" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Basic/Pref" "extended"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C558419"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC missing" "n"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Tolerance" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Voltage" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "TPUSBLC6-4SC6"
+				(at -58.42 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TECH PUBLIC"
+				(at -58.42 0 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2373,12 +2495,6 @@
 		(uuid "e620d9ac-f041-4b89-8084-8e984b93c982")
 	)
 	(junction
-		(at 217.17 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "00ec457a-5f40-432a-b3bc-d36f9fcae403")
-	)
-	(junction
 		(at 170.18 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2445,6 +2561,12 @@
 		(uuid "8db84ed0-b690-4f24-b0b9-d26e1429aaa3")
 	)
 	(junction
+		(at 217.17 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a2b6f2bd-4301-446f-ad18-0c37d542afdd")
+	)
+	(junction
 		(at 92.71 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2467,12 +2589,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dd7c97de-57d2-450d-867b-712679cc1a26")
-	)
-	(junction
-		(at 217.17 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eb586a69-a46d-4528-ac41-71ab535f915b")
 	)
 	(junction
 		(at 170.18 116.84)
@@ -2598,6 +2714,16 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 111.76) (xy 227.33 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f780209-950e-4fda-af0a-4587433fce49")
+	)
+	(wire
+		(pts
 			(xy 170.18 130.81) (xy 175.26 130.81)
 		)
 		(stroke
@@ -2715,6 +2841,16 @@
 			(type default)
 		)
 		(uuid "4e868afb-3ad8-4548-ac3c-da599bfe48cf")
+	)
+	(wire
+		(pts
+			(xy 227.33 121.92) (xy 227.33 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50b1af3e-0843-4dff-8e78-adae7fc1b3d4")
 	)
 	(wire
 		(pts
@@ -2898,6 +3034,16 @@
 	)
 	(wire
 		(pts
+			(xy 227.33 111.76) (xy 227.33 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a090806a-0165-4e47-a4b7-2a60f3a364e4")
+	)
+	(wire
+		(pts
 			(xy 92.71 83.82) (xy 92.71 86.36)
 		)
 		(stroke
@@ -3068,16 +3214,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 116.84) (xy 217.17 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e94c1a8b-c2dc-4c7a-a841-069cf59f8c82")
-	)
-	(wire
-		(pts
 			(xy 92.71 86.36) (xy 92.71 88.9)
 		)
 		(stroke
@@ -3145,6 +3281,16 @@
 			(justify left bottom)
 		)
 		(uuid "0ce319a3-f665-4a1e-be36-9df3df63c879")
+	)
+	(label "USB_SHIELD"
+		(at 217.17 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2d344582-5dac-4c9d-8297-357c5ea1b7aa")
 	)
 	(label "EXT_USB_CC2"
 		(at 175.26 104.14 0)
@@ -5550,7 +5696,221 @@
 		)
 	)
 	(symbol
-		(lib_id "Library:TPUSBLC6-4SC6")
+		(lib_id "Device:R")
+		(at 227.33 118.11 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8f5ba1ef-bda8-481d-bdae-99d69330e4c0")
+		(property "Reference" "R276"
+			(at 229.87 116.8399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 229.87 119.3799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 225.552 118.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1002TCE_C25744.pdf"
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Basic/Pref" "basic"
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25744"
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C25744"
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC missing" "n"
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF1002TCE"
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "62.5mW"
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 227.33 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "216f6e72-ed87-434b-b880-253f54d5d573")
+		)
+		(pin "1"
+			(uuid "05d49276-1d60-415b-b915-3b465ba4cdc9")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/c9141396-b417-45d3-9560-a5d378bd1b7a"
+					(reference "R276")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TPUSBLC6:TPUSBLC6-4SC6")
 		(at 157.48 133.35 0)
 		(unit 1)
 		(body_style 1)
@@ -5757,6 +6117,84 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/c9141396-b417-45d3-9560-a5d378bd1b7a"
 					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 227.33 123.19 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a675348e-e51f-4cb8-b96f-3409bc8d96f4")
+		(property "Reference" "#PWR0233"
+			(at 227.33 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 227.33 127.635 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 227.33 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e4c9ade3-d8ee-4556-ae80-d97470ad1443")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/c9141396-b417-45d3-9560-a5d378bd1b7a"
+					(reference "#PWR0233")
 					(unit 1)
 				)
 			)
