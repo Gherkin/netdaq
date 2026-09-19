@@ -10433,6 +10433,16 @@
 		)
 		(uuid "2dd18370-4e33-4543-9a54-d32b3b39f0e0")
 	)
+	(label "MCU_VDDIO"
+		(at 318.77 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "36f42605-671d-4649-8afa-c569e5777fbc")
+	)
 	(label "SDMMC0.SDDAT0"
 		(at 100.33 161.29 180)
 		(effects
@@ -10663,6 +10673,16 @@
 		)
 		(uuid "5ebc5e45-64ad-4347-a4fc-bab23ad8816c")
 	)
+	(label "MCU_AVDD"
+		(at 320.04 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "60f8c1f7-01fa-44fc-92e8-79d591027dde")
+	)
 	(label "RMII.RXER"
 		(at 173.99 163.83 0)
 		(effects
@@ -10823,6 +10843,16 @@
 		)
 		(uuid "7f285ef3-d296-4b34-9089-bb823d43bf96")
 	)
+	(label "MCU_VBUS"
+		(at 341.63 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7f573303-cca1-4756-b0ad-68227e466a0f")
+	)
 	(label "TRIGGER#"
 		(at 229.87 224.79 180)
 		(effects
@@ -10964,6 +10994,16 @@
 			(justify left bottom)
 		)
 		(uuid "9a552d0c-7010-42f1-9547-4c670ce2480e")
+	)
+	(label "MCU_VDDREG"
+		(at 317.5 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9ba7fa57-ea1a-437f-b984-2d2264403d85")
 	)
 	(label "JTAG.TDO"
 		(at 204.47 95.25 0)
@@ -42573,4 +42613,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
