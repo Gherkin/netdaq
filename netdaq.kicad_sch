@@ -135,16 +135,6 @@
 		)
 		(uuid "176eeed7-01d7-415f-b2b4-b1ec76c29264")
 	)
-	(bus
-		(pts
-			(xy 215.9 152.4) (xy 254 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17ff4846-6988-49f6-a9f4-92c1e0b1e3c4")
-	)
 	(wire
 		(pts
 			(xy 153.67 71.12) (xy 166.37 71.12)
@@ -154,6 +144,16 @@
 			(type default)
 		)
 		(uuid "18241551-102b-4436-8c5e-85e5ffc01ce3")
+	)
+	(bus
+		(pts
+			(xy 213.36 161.29) (xy 226.06 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ae69b71-91b6-4f37-9a3d-a740c9d88f9d")
 	)
 	(bus
 		(pts
@@ -187,6 +187,16 @@
 	)
 	(bus
 		(pts
+			(xy 213.36 130.81) (xy 213.36 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d994cdb-0bb2-46e9-8175-4b66451fb1d8")
+	)
+	(bus
+		(pts
 			(xy 226.06 161.29) (xy 226.06 194.31)
 		)
 		(stroke
@@ -204,6 +214,16 @@
 			(type default)
 		)
 		(uuid "61dde786-0657-45bf-954a-09a201250eba")
+	)
+	(bus
+		(pts
+			(xy 198.12 161.29) (xy 210.82 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72862aa4-81cc-4693-99dd-9a4b4f41fd89")
 	)
 	(wire
 		(pts
@@ -265,6 +285,16 @@
 		)
 		(uuid "884bdde0-c221-4c41-a8a4-f273e0f809bf")
 	)
+	(bus
+		(pts
+			(xy 170.18 152.4) (xy 208.28 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "893d1920-b789-4177-ae3a-b1c77722c0fd")
+	)
 	(wire
 		(pts
 			(xy 153.67 68.58) (xy 166.37 68.58)
@@ -287,26 +317,6 @@
 	)
 	(bus
 		(pts
-			(xy 208.28 152.4) (xy 170.18 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e3cd4b7-4464-40d2-8ecc-22ad78f6f8cc")
-	)
-	(bus
-		(pts
-			(xy 210.82 161.29) (xy 198.12 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "997e791d-ea88-4430-94f7-88d65a01aeec")
-	)
-	(bus
-		(pts
 			(xy 204.47 242.57) (xy 204.47 236.22)
 		)
 		(stroke
@@ -324,16 +334,6 @@
 			(type default)
 		)
 		(uuid "a396c609-06e6-42b7-8211-cc1e0e8ff478")
-	)
-	(bus
-		(pts
-			(xy 210.82 130.81) (xy 210.82 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7aa3504-c09f-45da-8171-61de6e5c405a")
 	)
 	(bus
 		(pts
@@ -407,6 +407,16 @@
 	)
 	(bus
 		(pts
+			(xy 210.82 130.81) (xy 210.82 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be805906-c1ce-4970-9205-2f8bc31f9e67")
+	)
+	(bus
+		(pts
 			(xy 254 152.4) (xy 254 194.31)
 		)
 		(stroke
@@ -477,23 +487,23 @@
 	)
 	(bus
 		(pts
-			(xy 213.36 161.29) (xy 226.06 161.29)
+			(xy 215.9 152.4) (xy 254 152.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fa4c3f36-b693-469a-97e9-0f12a64d2db4")
+		(uuid "ff86c5fb-a758-4fb1-9428-193fa53cc4b6")
 	)
-	(bus
-		(pts
-			(xy 213.36 130.81) (xy 213.36 161.29)
+	(label "MCU_SPI6_ADC2{SPI}"
+		(at 210.82 151.13 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
 		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff1f1f94-347c-4ee9-87aa-2e3aacbf371e")
+		(uuid "01c0b61a-ad11-4f39-8331-b12f22410f34")
 	)
 	(label "ADCIN[25..32]"
 		(at 254 232.41 90)
@@ -585,6 +595,16 @@
 		)
 		(uuid "54a846c5-0d97-48c0-a0f4-78046fe34614")
 	)
+	(label "MCU_SPI5_ADC3{SPI}"
+		(at 213.36 151.13 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5bef6eda-60af-42db-a3e2-26814932c01a")
+	)
 	(label "POE_V+"
 		(at 157.48 68.58 0)
 		(effects
@@ -595,7 +615,7 @@
 		)
 		(uuid "6ca5ed0e-9979-437f-aa63-10fac789a4cc")
 	)
-	(label "MCU_SPI6_ADC4{SPI}"
+	(label "MCU_SPI3_ADC4{SPI}"
 		(at 215.9 151.13 90)
 		(effects
 			(font
@@ -645,16 +665,6 @@
 		)
 		(uuid "a30f16cc-ef73-4adf-8aba-d85c23744d8f")
 	)
-	(label "MCU_SPI5_ADC3{SPI}"
-		(at 213.36 151.13 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b9ad7af4-e8f1-4737-8ee6-bf23567f4335")
-	)
 	(label "POE_V-"
 		(at 176.53 55.88 90)
 		(effects
@@ -684,16 +694,6 @@
 			(justify left bottom)
 		)
 		(uuid "ee16210e-ea6e-43d9-991e-bb1e440684d0")
-	)
-	(label "MCU_SPI3_ADC2{SPI}"
-		(at 210.82 151.13 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f4b2512c-4371-4106-8065-1af51ae90203")
 	)
 	(label "DBG_UART{UART}"
 		(at 240.03 115.57 0)
@@ -2290,7 +2290,7 @@
 			)
 		)
 		(pin "SPI5{SPI}" bidirectional
-			(at 210.82 130.81 270)
+			(at 213.36 130.81 270)
 			(uuid "e43e20b2-0c28-47a8-94dc-679681890c48")
 			(effects
 				(font
@@ -2300,7 +2300,7 @@
 			)
 		)
 		(pin "SPI6{SPI}" bidirectional
-			(at 213.36 130.81 270)
+			(at 210.82 130.81 270)
 			(uuid "5bbb0773-9444-45b9-aab0-e19d7aed5ce1")
 			(effects
 				(font

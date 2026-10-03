@@ -10573,11 +10573,12 @@
 		)
 		(uuid "510e78c2-8689-48d0-93ff-c8caaa309f6a")
 	)
-	(label "I2C7.SDA"
+	(label "NC_PA4"
 		(at 173.99 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 0 18 255 1)
 			)
 			(justify left bottom)
 		)
@@ -11165,11 +11166,12 @@
 		)
 		(uuid "d25f2682-ed8b-444a-8e62-dc3c84a9c640")
 	)
-	(label "I2C7.SCL"
+	(label "NC_PA5"
 		(at 173.99 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 6 0 255 1)
 			)
 			(justify left bottom)
 		)
