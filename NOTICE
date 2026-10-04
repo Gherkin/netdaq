@@ -1,0 +1,20 @@
+netdaq
+Copyright (c) gherkin
+
+SPDX-License-Identifier: CERN-OHL-P-2.0
+
+The netdaq design is licensed under the CERN Open Hardware Licence
+Version 2 - Permissive. The full text is in LICENSE.
+
+Covered: the KiCad project, schematic and board files, and the
+fabrication outputs generated from them (production/, production.zip).
+
+Not covered. These files come from third parties and keep their own
+terms:
+
+  symbols - footprints/    Symbols, footprints and 3D models from
+                           component vendors and library services.
+  datasheets.tar.gz        Vendor datasheets.
+  table_5-3_page36.*       Extracts of a pin table from a vendor
+  table36_comparison.html  datasheet.
+  page36_top.png
