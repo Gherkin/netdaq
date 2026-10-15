@@ -964,12 +964,12 @@
           "show": true
         }
       ],
-      "filter_string": "r260",
+      "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Value"
     },
     "bus_aliases": {
       "I2C": [
@@ -1075,7 +1075,7 @@
         "uuid": "2970f661-65ab-4e2b-aeda-d76d1044f2b8"
       }
     ],
-    "used_designators": "J1,#PWR553,R278",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -1138,6 +1138,10 @@
     [
       "b1f1b5cf-56ac-4b0f-bbb9-08aecf979a8c",
       "ADC4"
+    ],
+    [
+      "e96e3cc0-ef51-43ca-88ae-8e450e866126",
+      "EEPROM"
     ]
   ],
   "text_variables": {},
