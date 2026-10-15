@@ -19478,7 +19478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WQFN16_RTE_TEX"
+		(property "Footprint" "TLA2518IRTER:WQFN16_RTE_TEX"
 			(at 276.86 118.11 0)
 			(hide yes)
 			(show_name no)

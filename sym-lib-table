@@ -31,4 +31,5 @@
 	(lib (name "C22379472") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C22379472/C22379472.kicad_sym") (options "") (descr ""))
 	(lib (name "TPUSBLC6") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/TPUSBLC6/TPUSBLC6.kicad_sym") (options "") (descr ""))
 	(lib (name "C54120492") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C54120492/C54120492.kicad_sym") (options "") (descr ""))
+	(lib (name "XG4A-5034") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/XG4A-5034/XG4A-5034.kicad_sym") (options "") (descr ""))
 )

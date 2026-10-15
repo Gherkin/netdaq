@@ -1053,6 +1053,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Design Note:\n33k/183k:\n6.7 V @ 37 V, 10.3 V @ 57 V"
+		(exclude_from_sim no)
+		(at 290.068 146.812 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "32c68d1d-38dd-4da1-8f88-e182fd28535c")
+	)
 	(text "https://www.ti.com/lit/an/slua736/slua736.pdf?ts=1786819310575"
 		(exclude_from_sim no)
 		(at 204.47 168.656 0)
@@ -1095,6 +1106,12 @@
 		(uuid "36007478-22fe-4877-a140-5098c80af81c")
 	)
 	(junction
+		(at 285.75 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "177674a0-20bd-4250-96c4-43da89a4480d")
+	)
+	(junction
 		(at 166.37 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1135,12 +1152,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6b1ceb13-90b1-4414-9f77-f2b3d15a6653")
-	)
-	(junction
-		(at 276.86 138.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "73093343-bb46-4080-a413-fe5a129a24af")
 	)
 	(junction
 		(at 181.61 148.59)
@@ -1191,10 +1202,26 @@
 		(uuid "e3236abe-afe2-457c-a699-d36b9b91fcb7")
 	)
 	(junction
+		(at 276.86 138.43)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e98bef4f-2e95-44db-bab3-6887e4bb812f")
+	)
+	(junction
 		(at 242.57 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f3c58547-6647-4378-a725-b529eb2f11e7")
+	)
+	(wire
+		(pts
+			(xy 285.75 138.43) (xy 290.83 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03a6f3fe-2c73-4d15-b33c-0c553938dbce")
 	)
 	(wire
 		(pts
@@ -1228,13 +1255,23 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 137.16) (xy 276.86 138.43)
+			(xy 285.75 137.16) (xy 285.75 138.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "229e1b16-9c19-4efc-b369-151e68f0cfb0")
+	)
+	(wire
+		(pts
+			(xy 276.86 138.43) (xy 285.75 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ddf4cb8-9f95-4f21-aac3-873fe7c4720e")
 	)
 	(wire
 		(pts
@@ -1428,16 +1465,6 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 138.43) (xy 290.83 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "953a14d6-26b4-43a7-9ae5-383eb3cf8d97")
-	)
-	(wire
-		(pts
 			(xy 149.86 125.73) (xy 149.86 107.95)
 		)
 		(stroke
@@ -1475,6 +1502,16 @@
 			(type default)
 		)
 		(uuid "a4d88a9f-cf1f-4751-bd0b-be57757b6b2a")
+	)
+	(wire
+		(pts
+			(xy 276.86 148.59) (xy 276.86 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aac955c4-b780-4b37-858a-5d56120effea")
 	)
 	(wire
 		(pts
@@ -1655,6 +1692,16 @@
 			(type default)
 		)
 		(uuid "da47aa2e-1fea-4d2b-8576-c7694eea6b66")
+	)
+	(wire
+		(pts
+			(xy 276.86 156.21) (xy 276.86 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dad536a6-bf3b-48a1-8739-99a1ed8c025d")
 	)
 	(wire
 		(pts
@@ -1979,6 +2026,84 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/dfd7c564-50b6-4b87-afcf-cfbf80807611"
 					(reference "R108")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDD")
+		(at 276.86 165.1 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0a4c249b-5b32-495a-83c6-3d0ec2cd43e3")
+		(property "Reference" "#PWR0553"
+			(at 276.86 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PGND"
+			(at 276.86 168.91 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 276.86 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 276.86 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
+			(at 276.86 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "49ee16ee-1600-4200-9f7a-27908231383a")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/dfd7c564-50b6-4b87-afcf-cfbf80807611"
+					(reference "#PWR0553")
 					(unit 1)
 				)
 			)
@@ -3143,7 +3268,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 276.86 137.16 0)
+		(at 285.75 137.16 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -3155,7 +3280,7 @@
 		(fields_autoplaced yes)
 		(uuid "938f66df-9259-44a2-abc6-6e783515ddb7")
 		(property "Reference" "TP215"
-			(at 279.4 133.8579 0)
+			(at 288.29 133.8579 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3166,7 +3291,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 275.5901 132.08 90)
+			(at 284.4801 132.08 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3178,7 +3303,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
-			(at 271.78 137.16 0)
+			(at 280.67 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3189,7 +3314,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 271.78 137.16 0)
+			(at 280.67 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3200,7 +3325,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 276.86 137.16 0)
+			(at 285.75 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3211,7 +3336,7 @@
 			)
 		)
 		(property "Sim.Type" ""
-			(at 276.86 137.16 0)
+			(at 285.75 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3222,7 +3347,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 276.86 137.16 0)
+			(at 285.75 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3233,7 +3358,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 276.86 137.16 0)
+			(at 285.75 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3244,7 +3369,7 @@
 			)
 		)
 		(property "LCSC Basic/Pref" ""
-			(at 276.86 137.16 0)
+			(at 285.75 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3255,7 +3380,7 @@
 			)
 		)
 		(property "LCSC missing" ""
-			(at 276.86 137.16 0)
+			(at 285.75 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3266,7 +3391,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 276.86 137.16 0)
+			(at 285.75 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3277,7 +3402,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 276.86 137.16 0)
+			(at 285.75 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3294,6 +3419,220 @@
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/dfd7c564-50b6-4b87-afcf-cfbf80807611"
 					(reference "TP215")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 276.86 152.4 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "984e2315-5435-4f84-b8fb-7948f99bb2c2")
+		(property "Reference" "R278"
+			(at 279.4 151.1299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "33k"
+			(at 279.4 153.6699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 275.082 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF3302TCE_C25779.pdf"
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Basic/Pref" "basic"
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25779"
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C25779"
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC missing" "n"
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402WGF3302TCE"
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "62.5mW"
+			(at 276.86 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "66488d4a-0f26-4151-b641-f6e3ab83315f")
+		)
+		(pin "1"
+			(uuid "81598601-0886-446d-91c0-568bb52282c7")
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8/dfd7c564-50b6-4b87-afcf-cfbf80807611"
+					(reference "R278")
 					(unit 1)
 				)
 			)
@@ -3558,7 +3897,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "150k"
 			(at 267.97 124.4599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3569,7 +3908,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 267.208 123.19 90)
 			(hide yes)
 			(show_name no)
@@ -3580,7 +3919,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF1003TCE_C25741.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1503T5E_C22807.pdf"
 			(at 265.43 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -3646,7 +3985,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25741"
+		(property "LCSC" "C22807"
 			(at 265.43 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -3657,7 +3996,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C25741"
+		(property "LCSC Part" "C22807"
 			(at 265.43 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -3690,7 +4029,7 @@
 				)
 			)
 		)
-		(property "Voltage" "50V"
+		(property "Voltage" "75V"
 			(at 265.43 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -3701,7 +4040,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402WGF1003TCE"
+		(property "MPN" "0603WAF1503T5E"
 			(at 265.43 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -3723,7 +4062,7 @@
 				)
 			)
 		)
-		(property "Power" "62.5mW"
+		(property "Power" "100mW"
 			(at 265.43 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -3783,7 +4122,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 174.752 133.35 90)
 			(hide yes)
 			(show_name no)
