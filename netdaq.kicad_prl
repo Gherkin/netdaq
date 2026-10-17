@@ -6,13 +6,9 @@
     "hidden_netclasses": [],
     "hidden_nets": [
       "GND",
-      "/ADCIN5",
       "/ADCIN4",
-      "/ADCIN6",
-      "/ADCIN8",
       "/ADCIN1",
-      "/ADCIN2",
-      "/ADCIN7"
+      "/ADCIN2"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 2,
@@ -32,7 +28,7 @@
       "keepouts": false,
       "lockedItems": false,
       "otherItems": false,
-      "pads": true,
+      "pads": false,
       "text": false,
       "tracks": true,
       "vias": true,
@@ -59,7 +55,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_55555555_57555525",
+    "visible_layers": "00000000_00000000_55555555_d755556d",
     "zone_display_mode": 0
   },
   "git": {
