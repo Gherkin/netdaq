@@ -282,6 +282,26 @@
   "erc": {
     "erc_exclusions": [
       [
+        "isolated_pin_label|1739900|1562100|eb4c82a7-cbbb-4ae2-ad62-16e22e05ef6e|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "multiple_net_names|1358900|2413000|fcbea89a-1ad5-4b4c-9764-83557ae2be69|4b15e795-805f-4fbf-a929-5f54cd6d4bb8|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/137b64ac-bb8a-47f8-a978-820d95645cab|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/137b64ac-bb8a-47f8-a978-820d95645cab|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/137b64ac-bb8a-47f8-a978-820d95645cab",
+        ""
+      ],
+      [
+        "multiple_net_names|1371600|1079500|ee3af55d-5d47-4674-8dcc-8bb6f1dd06fd|fb393e6f-9dd7-4101-a5db-1264cfe5bae0|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/dfd7c564-50b6-4b87-afcf-cfbf80807611|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/dfd7c564-50b6-4b87-afcf-cfbf80807611|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/dfd7c564-50b6-4b87-afcf-cfbf80807611",
+        ""
+      ],
+      [
+        "multiple_net_names|1409700|2070100|fc41d928-5eef-4893-ac2e-9a7551ce33bd|6602ab63-e80f-459f-bd41-dc7f6dbbb795|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/137b64ac-bb8a-47f8-a978-820d95645cab|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/137b64ac-bb8a-47f8-a978-820d95645cab|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/137b64ac-bb8a-47f8-a978-820d95645cab",
+        ""
+      ],
+      [
+        "multiple_net_names|2171700|1917700|b9994785-66b2-43bf-abb7-ed6994abbe0b|02ba31a4-982c-4eca-a2b5-45e839d2dfb0|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710",
+        ""
+      ],
+      [
         "power_pin_not_driven|1028700|927100|8c92ff6d-1004-4be8-b4f2-5a235ff258db|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/4a874178-a54c-4eb4-8350-ff261e3dfdab|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/4a874178-a54c-4eb4-8350-ff261e3dfdab|",
         ""
       ],
@@ -311,6 +331,14 @@
       ],
       [
         "power_pin_not_driven|3187700|1193800|ebd6515c-b9a8-4d20-b000-b11e3f9bc6cf|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/475d46f3-a9d1-4d0e-882c-449f9a11ef3e|",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|1905000|1028700|5e15aca7-2f7d-4bbf-aaf2-5f170839e1bc|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|1905000|1054100|b01857f5-f144-4d3e-a82c-4baf08c45f19|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
         ""
       ],
       [
@@ -379,6 +407,10 @@
       ],
       [
         "unconnected_wire_endpoint|838200|1384300|2267f739-75bc-438a-821b-577bccfcdb41|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
+        ""
+      ],
+      [
+        "unconnected_wire_endpoint|838200|1536700|4ea4a1de-5976-4f0e-bf60-70763ec2aa01|00000000-0000-0000-0000-000000000000|/2970f661-65ab-4e2b-aeda-d76d1044f2b8/e0b2477a-74c1-4066-8a9f-fdb22c0a3710||",
         ""
       ],
       [
@@ -964,7 +996,7 @@
           "show": true
         }
       ],
-      "filter_string": "",
+      "filter_string": "u27",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
@@ -1142,6 +1174,10 @@
     [
       "e96e3cc0-ef51-43ca-88ae-8e450e866126",
       "EEPROM"
+    ],
+    [
+      "c261c79c-e6c7-48e6-a68d-fc494f548a20",
+      "Temp Sensor"
     ]
   ],
   "text_variables": {},

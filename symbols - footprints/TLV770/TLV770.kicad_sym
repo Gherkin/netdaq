@@ -89,7 +89,7 @@
 			)
 		)
 		(symbol "TLV77012PDBVR_0_1"
-			(pin input line
+			(pin power_in line
 				(at -12.7 2.54 0)
 				(length 7.62)
 				(name "IN"
@@ -161,7 +161,20 @@
 					)
 				)
 			)
-			(pin output line
+		)
+		(symbol "TLV77012PDBVR_1_1"
+			(rectangle
+				(start -5.08 5.08)
+				(end 5.08 -3.81)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin power_out line
 				(at 12.7 2.54 180)
 				(length 7.62)
 				(name "OUT"
@@ -177,19 +190,6 @@
 							(size 1.27 1.27)
 						)
 					)
-				)
-			)
-		)
-		(symbol "TLV77012PDBVR_1_1"
-			(rectangle
-				(start -5.08 5.08)
-				(end 5.08 -3.81)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type background)
 				)
 			)
 		)

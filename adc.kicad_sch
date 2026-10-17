@@ -1171,7 +1171,7 @@
 					)
 				)
 			)
-			(property "Footprint" "WQFN16_RTE_TEX"
+			(property "Footprint" "TLA2518IRTER:WQFN16_RTE_TEX"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1200,16 +1200,6 @@
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -8420,7 +8410,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302221330_Texas-Instruments-TLV9004IPWR_C2058050.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9004.pdf"
 			(at 132.08 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -12128,7 +12118,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302221330_Texas-Instruments-TLV9004IPWR_C2058050.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9004.pdf"
 			(at 132.08 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -16527,7 +16517,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302221330_Texas-Instruments-TLV9004IPWR_C2058050.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9004.pdf"
 			(at 132.08 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -17129,7 +17119,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302221330_Texas-Instruments-TLV9004IPWR_C2058050.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9004.pdf"
 			(at 254 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -17876,7 +17866,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302221330_Texas-Instruments-TLV9004IPWR_C2058050.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9004.pdf"
 			(at 132.08 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -20619,7 +20609,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302221330_Texas-Instruments-TLV9004IPWR_C2058050.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9004.pdf"
 			(at 132.08 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -22438,7 +22428,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302221330_Texas-Instruments-TLV9004IPWR_C2058050.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9004.pdf"
 			(at 281.94 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -24605,7 +24595,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302221330_Texas-Instruments-TLV9004IPWR_C2058050.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9004.pdf"
 			(at 132.08 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -26537,7 +26527,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302221330_Texas-Instruments-TLV9004IPWR_C2058050.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9004.pdf"
 			(at 132.08 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -31296,7 +31286,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2302221330_Texas-Instruments-TLV9004IPWR_C2058050.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv9004.pdf"
 			(at 132.08 63.5 0)
 			(hide yes)
 			(show_name no)

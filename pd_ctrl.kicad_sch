@@ -3682,7 +3682,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603137513003769856"
+		(property "Datasheet" "PD70100ILD-TR"
 			(at 189.23 123.19 0)
 			(hide yes)
 			(show_name no)

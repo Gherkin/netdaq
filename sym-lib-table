@@ -33,4 +33,5 @@
 	(lib (name "C54120492") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C54120492/C54120492.kicad_sym") (options "") (descr ""))
 	(lib (name "XG4A-5034") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/XG4A-5034/XG4A-5034.kicad_sym") (options "") (descr ""))
 	(lib (name "C79988") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C79988/C79988.kicad_sym") (options "") (descr ""))
+	(lib (name "C28927") (type "KiCad") (uri "${KIPRJMOD}/symbols - footprints/C28927/C28927.kicad_sym") (options "") (descr ""))
 )

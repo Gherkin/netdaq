@@ -31,7 +31,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CONN_XG4A-5034_OMR"
+		(property "Footprint" "XG4A-5034:CONN_XG4A-5034_OMR"
 			(at -3.556 11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60,16 +60,6 @@
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1910,7 +1900,7 @@
 					(type none)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 0 0 0)
 				(length 5.08)
 				(name "1"
@@ -1928,7 +1918,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 0 180)
 				(length 5.08)
 				(name "2"
@@ -1946,7 +1936,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -2.54 0)
 				(length 5.08)
 				(name "3"
@@ -1964,7 +1954,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 21.59 -2.54 180)
 				(length 5.08)
 				(name "4"
@@ -1982,7 +1972,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -5.08 0)
 				(length 5.08)
 				(name "5"
@@ -2000,7 +1990,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -5.08 180)
 				(length 5.08)
 				(name "6"
@@ -2018,7 +2008,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 0 -7.62 0)
 				(length 5.08)
 				(name "7"
@@ -2036,7 +2026,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -7.62 180)
 				(length 5.08)
 				(name "8"
@@ -2054,7 +2044,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -10.16 0)
 				(length 5.08)
 				(name "9"
@@ -2072,7 +2062,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 21.59 -10.16 180)
 				(length 5.08)
 				(name "10"
@@ -2090,7 +2080,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -12.7 0)
 				(length 5.08)
 				(name "11"
@@ -2108,7 +2098,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -12.7 180)
 				(length 5.08)
 				(name "12"
@@ -2126,7 +2116,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 0 -15.24 0)
 				(length 5.08)
 				(name "13"
@@ -2144,7 +2134,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -15.24 180)
 				(length 5.08)
 				(name "14"
@@ -2162,7 +2152,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -17.78 0)
 				(length 5.08)
 				(name "15"
@@ -2180,7 +2170,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 21.59 -17.78 180)
 				(length 5.08)
 				(name "16"
@@ -2198,7 +2188,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -20.32 0)
 				(length 5.08)
 				(name "17"
@@ -2216,7 +2206,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -20.32 180)
 				(length 5.08)
 				(name "18"
@@ -2234,7 +2224,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 0 -22.86 0)
 				(length 5.08)
 				(name "19"
@@ -2252,7 +2242,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -22.86 180)
 				(length 5.08)
 				(name "20"
@@ -2270,7 +2260,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -25.4 0)
 				(length 5.08)
 				(name "21"
@@ -2288,7 +2278,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 21.59 -25.4 180)
 				(length 5.08)
 				(name "22"
@@ -2306,7 +2296,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -27.94 0)
 				(length 5.08)
 				(name "23"
@@ -2324,7 +2314,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -27.94 180)
 				(length 5.08)
 				(name "24"
@@ -2342,7 +2332,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 0 -30.48 0)
 				(length 5.08)
 				(name "25"
@@ -2360,7 +2350,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -30.48 180)
 				(length 5.08)
 				(name "26"
@@ -2378,7 +2368,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -33.02 0)
 				(length 5.08)
 				(name "27"
@@ -2396,7 +2386,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 21.59 -33.02 180)
 				(length 5.08)
 				(name "28"
@@ -2414,7 +2404,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -35.56 0)
 				(length 5.08)
 				(name "29"
@@ -2432,7 +2422,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -35.56 180)
 				(length 5.08)
 				(name "30"
@@ -2450,7 +2440,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 0 -38.1 0)
 				(length 5.08)
 				(name "31"
@@ -2468,7 +2458,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -38.1 180)
 				(length 5.08)
 				(name "32"
@@ -2486,7 +2476,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -40.64 0)
 				(length 5.08)
 				(name "33"
@@ -2504,7 +2494,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 21.59 -40.64 180)
 				(length 5.08)
 				(name "34"
@@ -2522,7 +2512,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -43.18 0)
 				(length 5.08)
 				(name "35"
@@ -2540,7 +2530,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -43.18 180)
 				(length 5.08)
 				(name "36"
@@ -2558,7 +2548,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 0 -45.72 0)
 				(length 5.08)
 				(name "37"
@@ -2576,7 +2566,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -45.72 180)
 				(length 5.08)
 				(name "38"
@@ -2594,7 +2584,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -48.26 0)
 				(length 5.08)
 				(name "39"
@@ -2612,7 +2602,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 21.59 -48.26 180)
 				(length 5.08)
 				(name "40"
@@ -2630,7 +2620,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -50.8 0)
 				(length 5.08)
 				(name "41"
@@ -2648,7 +2638,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -50.8 180)
 				(length 5.08)
 				(name "42"
@@ -2666,7 +2656,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 0 -53.34 0)
 				(length 5.08)
 				(name "43"
@@ -2684,7 +2674,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -53.34 180)
 				(length 5.08)
 				(name "44"
@@ -2702,7 +2692,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -55.88 0)
 				(length 5.08)
 				(name "45"
@@ -2720,7 +2710,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 21.59 -55.88 180)
 				(length 5.08)
 				(name "46"
@@ -2738,7 +2728,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 0 -58.42 0)
 				(length 5.08)
 				(name "47"
@@ -2756,7 +2746,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at 21.59 -58.42 180)
 				(length 5.08)
 				(name "48"
@@ -2774,7 +2764,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 0 -60.96 0)
 				(length 5.08)
 				(name "49"
@@ -2792,7 +2782,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
 				(at 21.59 -60.96 180)
 				(length 5.08)
 				(name "50"

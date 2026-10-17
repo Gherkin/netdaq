@@ -3521,16 +3521,6 @@
 		)
 		(uuid "e2832126-23d2-4f37-b9c7-f0c2deafdad0")
 	)
-	(text "TODO: this conn has integrated leds, we need to optocouple"
-		(exclude_from_sim no)
-		(at 328.93 89.154 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "1550f519-cbf5-4c81-be48-dbdab24df0b1")
-	)
 	(text "DNM"
 		(exclude_from_sim no)
 		(at 258.064 110.998 0)
@@ -3553,9 +3543,9 @@
 		)
 		(uuid "59301c85-45b0-439f-b559-f82e1ba19eb1")
 	)
-	(text "CAD Note:\nInside dotted line is solid plane connected to SHIELD\n2kV isolation to nets outside area\n"
+	(text "CAD Note:\nInside dotted line is solid plane connected to SHIELD\n2kV isolation to nets outside area\n\n2kV isolation to LED traces/pins"
 		(exclude_from_sim no)
-		(at 338.074 97.79 0)
+		(at 351.79 97.536 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4378,6 +4368,16 @@
 	)
 	(wire
 		(pts
+			(xy 336.55 88.9) (xy 336.55 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d4228ff-553d-4ca3-94a4-62d9846bf9c9")
+	)
+	(wire
+		(pts
 			(xy 40.64 166.37) (xy 58.42 166.37)
 		)
 		(stroke
@@ -4428,6 +4428,16 @@
 	)
 	(wire
 		(pts
+			(xy 336.55 154.94) (xy 336.55 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76b00a5b-0b8b-441a-bf8a-47dc7ada43a4")
+	)
+	(wire
+		(pts
 			(xy 93.98 140.97) (xy 93.98 144.78)
 		)
 		(stroke
@@ -4435,6 +4445,16 @@
 			(type default)
 		)
 		(uuid "780e4cbd-8ad9-4b65-8fe2-3f4171e8d401")
+	)
+	(wire
+		(pts
+			(xy 339.09 154.94) (xy 339.09 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "786ceb87-87b3-4c84-84ef-aac4247ceba4")
 	)
 	(wire
 		(pts
@@ -4868,6 +4888,16 @@
 	)
 	(wire
 		(pts
+			(xy 339.09 88.9) (xy 339.09 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dec47216-49d5-49a3-b11d-9b24328e339e")
+	)
+	(wire
+		(pts
 			(xy 274.32 147.32) (xy 275.59 147.32)
 		)
 		(stroke
@@ -5257,6 +5287,17 @@
 		)
 		(uuid "035b7118-cdb6-4d74-93f0-094a2941f25f")
 	)
+	(hierarchical_label "SPD_LED-"
+		(shape input)
+		(at 336.55 88.9 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "14ebaf69-beb2-45bf-a4b0-20adc690004c")
+	)
 	(hierarchical_label "POE_V+"
 		(shape output)
 		(at 217.17 105.41 180)
@@ -5268,6 +5309,28 @@
 		)
 		(uuid "3121a4aa-7f08-4e7a-9bc0-422a97dcffc2")
 	)
+	(hierarchical_label "SPD_LED+"
+		(shape input)
+		(at 339.09 88.9 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "38889e2e-2e45-4456-b1a7-fb8269da7b0f")
+	)
+	(hierarchical_label "ACT_LED-"
+		(shape input)
+		(at 336.55 177.8 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "39900044-0a43-4b37-9b2c-26330f09626e")
+	)
 	(hierarchical_label "POE_V-"
 		(shape output)
 		(at 217.17 116.84 180)
@@ -5278,6 +5341,17 @@
 			(justify right)
 		)
 		(uuid "e26a3fb6-1e0f-4b43-9439-f753ba604511")
+	)
+	(hierarchical_label "ACT_LED+"
+		(shape input)
+		(at 339.09 177.8 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e2bbe5a6-2d05-4f7e-95d8-579f48f45c80")
 	)
 	(rule_area
 		(exclude_from_sim no)
@@ -5587,7 +5661,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2410010331_Pulse-Elec-H1102NLT_C18584.pdf"
+		(property "Datasheet" "https://lcsc.com/product-detail/RJ45-Transformer_H1102NLT_C18584.html"
 			(at 163.83 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -10442,7 +10516,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2303020130_Texas-Instruments-ESDS304DBVR_C1847869.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/gpn/esds304"
 			(at 56.896 124.968 0)
 			(hide yes)
 			(show_name no)

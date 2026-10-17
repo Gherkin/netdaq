@@ -105,9 +105,15 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 288.29 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9f057d72-b3cf-4ff9-a186-8c208950c24a")
+	)
 	(bus
 		(pts
-			(xy 250.19 80.01) (xy 250.19 102.87)
+			(xy 250.19 52.07) (xy 250.19 102.87)
 		)
 		(stroke
 			(width 0)
@@ -175,6 +181,16 @@
 		)
 		(uuid "1eef1cca-4c8a-42df-bd04-6e6d3074a1ca")
 	)
+	(bus
+		(pts
+			(xy 288.29 78.74) (xy 288.29 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fbdfe43-7410-4f04-a513-e9b90632fe16")
+	)
 	(wire
 		(pts
 			(xy 173.99 45.72) (xy 173.99 59.69)
@@ -184,6 +200,16 @@
 			(type default)
 		)
 		(uuid "210ef27a-db4a-4f6a-9253-d967edd241f6")
+	)
+	(wire
+		(pts
+			(xy 187.96 31.75) (xy 203.2 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26c8346a-b01b-4f5c-bf8a-56ad9c4d1a40")
 	)
 	(bus
 		(pts
@@ -224,6 +250,36 @@
 			(type default)
 		)
 		(uuid "360394e0-8c18-4278-8ea4-ce10b498a7b0")
+	)
+	(bus
+		(pts
+			(xy 288.29 90.17) (xy 293.37 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ff423eb-1a9c-42cd-ae1c-56c2aa368e08")
+	)
+	(wire
+		(pts
+			(xy 187.96 34.29) (xy 203.2 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5921338d-49bc-46e6-bf59-8d79e3582627")
+	)
+	(bus
+		(pts
+			(xy 293.37 78.74) (xy 288.29 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59a9eb92-5039-4d63-ba9b-8265b7471a1d")
 	)
 	(wire
 		(pts
@@ -355,6 +411,16 @@
 		)
 		(uuid "a396c609-06e6-42b7-8211-cc1e0e8ff478")
 	)
+	(wire
+		(pts
+			(xy 187.96 29.21) (xy 203.2 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3cef61d-80e5-4cbf-9498-bc3bf24a51c2")
+	)
 	(bus
 		(pts
 			(xy 232.41 109.22) (xy 273.05 109.22)
@@ -387,7 +453,7 @@
 	)
 	(bus
 		(pts
-			(xy 187.96 31.75) (xy 203.2 31.75)
+			(xy 187.96 24.13) (xy 203.2 24.13)
 		)
 		(stroke
 			(width 0)
@@ -407,7 +473,7 @@
 	)
 	(bus
 		(pts
-			(xy 250.19 80.01) (xy 257.81 80.01)
+			(xy 250.19 52.07) (xy 259.08 52.07)
 		)
 		(stroke
 			(width 0)
@@ -465,6 +531,16 @@
 		)
 		(uuid "c6c02d7c-1575-43b0-9656-64b6114a60aa")
 	)
+	(wire
+		(pts
+			(xy 187.96 26.67) (xy 203.2 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c764f5ec-91c4-49e4-965f-89681ea0d202")
+	)
 	(bus
 		(pts
 			(xy 250.19 102.87) (xy 232.41 102.87)
@@ -497,7 +573,7 @@
 	)
 	(bus
 		(pts
-			(xy 273.05 90.17) (xy 293.37 90.17)
+			(xy 273.05 90.17) (xy 288.29 90.17)
 		)
 		(stroke
 			(width 0)
@@ -575,6 +651,16 @@
 		)
 		(uuid "074b7510-53b8-4bb3-9843-84cec68853d2")
 	)
+	(label "SPD_LED-"
+		(at 189.23 29.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0b1e62f0-6f18-479b-aa43-d11123e89e7f")
+	)
 	(label "MCU_RST#"
 		(at 240.03 120.65 0)
 		(effects
@@ -614,6 +700,16 @@
 			(justify left bottom)
 		)
 		(uuid "23d7e47e-d104-454f-9e94-ef3d4601a5b4")
+	)
+	(label "ACT_LED+"
+		(at 189.23 31.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "24c27ca8-1c5b-41ec-9a3a-5ecfeda682f6")
 	)
 	(label "ADCIN[17..24]"
 		(at 226.06 232.41 90)
@@ -706,7 +802,7 @@
 		(uuid "9860ffc2-31f7-4de8-9bd1-f06cdb5bf6a3")
 	)
 	(label "MDI{MDI}"
-		(at 189.23 31.75 0)
+		(at 189.23 24.13 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -725,6 +821,16 @@
 		)
 		(uuid "a30f16cc-ef73-4adf-8aba-d85c23744d8f")
 	)
+	(label "ACT_LED-"
+		(at 189.23 34.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a7c99881-bac4-4c73-ab8c-aa399f9e02a5")
+	)
 	(label "POE_V-"
 		(at 176.53 55.88 90)
 		(effects
@@ -734,6 +840,16 @@
 			(justify left bottom)
 		)
 		(uuid "c15ce8c4-d615-4816-bdf0-ba1e7434b83d")
+	)
+	(label "SPD_LED+"
+		(at 189.23 26.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ca22f7e4-9007-4e15-9e68-3a804d395332")
 	)
 	(label "RMII{RMII}"
 		(at 213.36 73.66 90)
@@ -1378,8 +1494,8 @@
 		)
 	)
 	(sheet
-		(at 203.2 26.67)
-		(size 21.59 19.05)
+		(at 203.2 22.86)
+		(size 21.59 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1393,7 +1509,7 @@
 		)
 		(uuid "137b64ac-bb8a-47f8-a978-820d95645cab")
 		(property "Sheetname" "Ethernet PHY"
-			(at 203.454 23.876 0)
+			(at 203.454 20.066 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1404,7 +1520,7 @@
 			)
 		)
 		(property "Sheetfile" "eth_phy.kicad_sch"
-			(at 203.454 24.638 0)
+			(at 203.454 20.828 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1415,7 +1531,7 @@
 			)
 		)
 		(pin "MDI{MDI}" bidirectional
-			(at 203.2 31.75 180)
+			(at 203.2 24.13 180)
 			(uuid "5582a025-dc5e-4f81-91bb-0898ee04255d")
 			(effects
 				(font
@@ -1454,6 +1570,46 @@
 				(justify left)
 			)
 		)
+		(pin "ACT_LED-" output
+			(at 203.2 34.29 180)
+			(uuid "99b807a2-19c9-4f91-9187-87ac350652db")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ACT_LED+" output
+			(at 203.2 31.75 180)
+			(uuid "d102c0a6-febc-494c-8f7f-4ba180cd0d67")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPD_LED+" output
+			(at 203.2 26.67 180)
+			(uuid "c66741d7-46f3-451e-b978-0c16b4fdc71c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPD_LED-" output
+			(at 203.2 29.21 180)
+			(uuid "f5000e4d-1113-40f9-a07b-d856ac0ebd42")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "netdaq"
 				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
@@ -1463,7 +1619,7 @@
 		)
 	)
 	(sheet
-		(at 257.81 76.2)
+		(at 259.08 48.26)
 		(size 19.05 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1479,7 +1635,7 @@
 		)
 		(uuid "1813fba9-8b3b-4d19-ab19-e743aa636a8b")
 		(property "Sheetname" "SDMMC"
-			(at 257.81 75.4884 0)
+			(at 259.08 47.5484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1490,7 +1646,7 @@
 			)
 		)
 		(property "Sheetfile" "sdmmc.kicad_sch"
-			(at 257.81 84.4046 0)
+			(at 259.08 56.4646 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1501,7 +1657,7 @@
 			)
 		)
 		(property "Field2" ""
-			(at 257.81 76.2 0)
+			(at 259.08 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1511,7 +1667,7 @@
 			)
 		)
 		(pin "MMC{MMC}" bidirectional
-			(at 257.81 80.01 180)
+			(at 259.08 52.07 180)
 			(uuid "e72fd6e7-36f5-4dc8-84c1-aa6b804cd0ac")
 			(effects
 				(font
@@ -2072,6 +2228,62 @@
 		)
 	)
 	(sheet
+		(at 293.37 76.2)
+		(size 19.05 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c261c79c-e6c7-48e6-a68d-fc494f548a20")
+		(property "Sheetname" "Temp Sensor"
+			(at 293.37 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "temp_sens.kicad_sch"
+			(at 293.37 81.8646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "I2C{I2C}" bidirectional
+			(at 293.37 78.74 180)
+			(uuid "cc5396ec-d5ad-42bc-8135-a14e0c7b2ba3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "netdaq"
+				(path "/2970f661-65ab-4e2b-aeda-d76d1044f2b8"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 111.76 26.67)
 		(size 20.32 19.05)
 		(exclude_from_sim no)
@@ -2279,16 +2491,6 @@
 				(justify right)
 			)
 		)
-		(pin "TSUCOMP" output
-			(at 193.04 125.73 180)
-			(uuid "467fc712-ac90-4e43-9470-b7dae52b7149")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "ETH_RST#" output
 			(at 210.82 97.79 90)
 			(uuid "99146a6f-8c68-412b-bb42-1d74faa4d546")
@@ -2408,8 +2610,8 @@
 		)
 	)
 	(sheet
-		(at 293.37 82.55)
-		(size 19.05 12.7)
+		(at 293.37 87.63)
+		(size 19.05 5.08)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2424,7 +2626,7 @@
 		)
 		(uuid "e96e3cc0-ef51-43ca-88ae-8e450e866126")
 		(property "Sheetname" "EEPROM"
-			(at 293.37 81.8384 0)
+			(at 293.37 86.9184 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2435,7 +2637,7 @@
 			)
 		)
 		(property "Sheetfile" "eeprom.kicad_sch"
-			(at 293.37 95.8346 0)
+			(at 293.37 93.2946 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2464,8 +2666,8 @@
 		)
 	)
 	(sheet
-		(at 166.37 26.67)
-		(size 21.59 19.05)
+		(at 166.37 22.86)
+		(size 21.59 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2480,7 +2682,7 @@
 		)
 		(uuid "ea65a3d0-a0be-4201-b06b-091231bedc11")
 		(property "Sheetname" "Ethernet Connector"
-			(at 166.37 25.9584 0)
+			(at 166.37 22.1484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2502,7 +2704,7 @@
 			)
 		)
 		(pin "MDI{MDI}" bidirectional
-			(at 187.96 31.75 0)
+			(at 187.96 24.13 0)
 			(uuid "caa37bd2-25bb-423b-8599-7a5e2703aa8c")
 			(effects
 				(font
@@ -2529,6 +2731,46 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "SPD_LED-" input
+			(at 187.96 29.21 0)
+			(uuid "a0ba0eb5-13e7-4948-9ad5-adf4c9d2c512")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPD_LED+" input
+			(at 187.96 26.67 0)
+			(uuid "0ac5b764-9f15-4b0c-a7e5-370c7e2c0490")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ACT_LED+" input
+			(at 187.96 31.75 0)
+			(uuid "759160f7-f72c-4e37-afc5-412f0cff1d19")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ACT_LED-" input
+			(at 187.96 34.29 0)
+			(uuid "cba253f8-ec2d-4cae-9dad-e4325ea0571a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
